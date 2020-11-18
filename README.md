@@ -101,11 +101,17 @@ Ensure Test Suite passes after Front/Backend integration
 ## Signatures
 
 Jacob Lorenz, Front End Developer 2, 11/17/2020
+
 Alex Green, Front End Developer 1, 11/17/2020
+
 Navpreet Singh Data Wrangler 1, 11/17/2020
+
 Dyuthi Nair, Back End Developer 1, 11/17/2020
+
 Luis Cazarin Quiroga, Back End Developer 2, 11/17/2020
+
 Leonardo Garcia Calderon, Test Engineer 2, 11/17/2020
+
 Patrick Buck, Test Engineer 1, 11/17/2020
 
 End of Proposal
