@@ -1,5 +1,4 @@
-# ProjectFour
-CS400 Project Four Proposal
+# CS400 Project Four Proposal
 
 TEAM: BC TEAM FLIPGRID: http://flipgrid.com/cochran8164
 
@@ -15,17 +14,17 @@ The app we will develop will help people find an AirBnB based on location, price
 
 ### Four Chosen Requirements that this Project Fulfills:
 
-*CSV File:* All information used by the website will be gathered and formatted into a CSV file, which will then be loaded into the program and parsed when it starts
+- CSV File: All information used by the website will be gathered and formatted into a CSV file, which will then be loaded into the program and parsed when it starts
 
-HashTable: After the CSV file has been loaded into the program, the data will be stored in Hash Tables for easy retrieval, modification, and deletion throughout the program’s lifespan
+- HashTable: After the CSV file has been loaded into the program, the data will be stored in Hash Tables for easy retrieval, modification, and deletion throughout the program’s lifespan
 
-JavaScript: Javascript will be used within the website’s front end to interact with the html dynamically and allow for website functionality that is built into the webpage and does not require a new web page to be rendered
+- JavaScript: Javascript will be used within the website’s front end to interact with the html dynamically and allow for website functionality that is built into the webpage and does not require a new web page to be rendered
 
-CSS & HTML: HTML and CSS will be used to build the application’s GUI
+- CSS & HTML: HTML and CSS will be used to build the application’s GUI
 
-Extra: Streams & Lambda Expressions: Streams and Lambda Expressions will be used in this application for any results filtering that might be taken into consideration
+- Extra: Streams & Lambda Expressions: Streams and Lambda Expressions will be used in this application for any results filtering that might be taken into consideration
 
-Extra: Regular Expressions / Matching: Regular Expressions / Matching will be used in this application when the user searches for locations or other available demographics. This will allow for searching on partial matches instead of requiring the entire correct value
+- Extra: Regular Expressions / Matching: Regular Expressions / Matching will be used in this application when the user searches for locations or other available demographics. This will allow for searching on partial matches instead of requiring the entire correct value
 
 ## Data Wranglers: Navpreet Singh  
 
