@@ -15,7 +15,7 @@ The app we will develop will help people find an AirBnB based on location, price
 
 ### Four Chosen Requirements that this Project Fulfills:
 
-CSV File: All information used by the website will be gathered and formatted into a CSV file, which will then be loaded into the program and parsed when it starts
+*CSV File:* All information used by the website will be gathered and formatted into a CSV file, which will then be loaded into the program and parsed when it starts
 
 HashTable: After the CSV file has been loaded into the program, the data will be stored in Hash Tables for easy retrieval, modification, and deletion throughout the program’s lifespan
 
@@ -55,9 +55,13 @@ A well-written front end / application should not have error messages as a part 
 
 ### Test Descriptions:
 Check that a specific city gives the correct AirBnB options
+
 Check to see if the application correctly redirects when looking at an AirBnB
+
 Error handling
+
 Check that the AirBnB has the correct number of rooms
+
 Check that the AirBnB is at the correct price
 
 ## Additional Responsibilities and Notes:
