@@ -1,7 +1,10 @@
 # ProjectFour
 CS400 Project Four Proposal
+
 TEAM: BC TEAM FLIPGRID: http://flipgrid.com/cochran8164
+
 TA: Bri TA EMAIL: bcochran2@wisc.edu
+
 TEAM EMAILS: 1. dnair5@wisc.edu 2. ajgreen4@wisc.edu 3. pfbuck@wisc.edu 4. nsingh49@wisc.edu 5. cazarinquiro@wisc.edu 6. jlorenz2@wisc.edu 7. garciacalder@wisc.edu 
 
 
@@ -66,33 +69,33 @@ Check that the AirBnB is at the correct price
 ## Schedule:
 
 ### Due 11/24
-Data Wranglers
+#### Data Wranglers
 All CSV Files necessary to start
-Back End Developers
+#### Back End Developers
 First draft of Backend.java
-Front End Developers
+#### Front End Developers
 First draft of Frontend.java
-Test Engineers
+#### Test Engineers
 First draft of Test Suite methods
 
 ### Due 12/01
-Data Wranglers
+#### Data Wranglers
 Possibly combine the CSV files into one massive file depends on group consensus
-Back End Developers
+#### Back End Developers
 Final working version of Backend.java
-Front End Developers
+#### Front End Developers
 Final working version of Frontend.java
-Test Engineers
+#### Test Engineers
 Final working draft of Test Suite methods
 
 ### Due 12/08
-Data Wranglers
+#### Data Wranglers
 Make sure Final draft of Files is uploaded and delete or add any last minute features
-Back End Developers
+#### Back End Developers
 Make sure Backend.java and all other files work as intended. 
-Front End Developers
+#### Front End Developers
 Ensure Frontend.java and all other sections function together.
-Test Engineers
+#### Test Engineers
 Ensure Test Suite passes after Front/Backend integration
 
 ## Signatures
