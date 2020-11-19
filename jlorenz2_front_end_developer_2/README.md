@@ -1,4 +1,4 @@
-README for Team Project Three (CS400 @ UW Madison)
+README for Team Project Four (CS400 @ UW Madison)
 ==================================================
 
 Name of submitting team member: Jacob Lorenz
