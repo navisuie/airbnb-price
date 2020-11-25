@@ -11,7 +11,7 @@ Lecturer: Gary Dahl
 Contributions Week 1:
 ---------------------
 
-The following files are the main UI / Frontend components built using a standard DHTML tech stack.
+The following files written by me are the main UI / Frontend components built using a standard DHTML tech stack.
 The UI is built using Bootstrap, jQuery, and vanilla Javascript. The relevant libraries are included in src/frontend/dependencies.
 
 - src/frontend/index.html
@@ -20,7 +20,16 @@ The UI is built using Bootstrap, jQuery, and vanilla Javascript. The relevant li
 
 Note: Some of the content that would be available in the final product is not currently displayed in this UI since the data for it relies on API connections.
 
+The following files written by me constitute my personal implementation of the CS400 HashTable and relevant tests
+
+- src/CS400HashTable/MapADT.java
+- src/CS400HashTable/HashTableMap.java
+- src/CS400HashTable/HashTableLinkedList.java
+- src/CS400HashTable/HashTableLinkedListNode.java
+- src/CS400HashTable/TestHashTable.java
+
 Left to do:
+
 - Finish any remaining UI components
 - Update the aesthetics of the UI components; remove misc borders (there to describe the layout at the moment)
 - Connect the UI to the backend via Java servlets / API
