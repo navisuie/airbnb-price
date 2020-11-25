@@ -53,7 +53,7 @@ $(document).ready(function() {
     // ------------------------------------------------------
 
     /**
-     * 
+     * Retrieves the list of cities for which there exists at least one property
      */
     function LoadCityList() {
         var url = "/getcitylist";
@@ -71,11 +71,11 @@ $(document).ready(function() {
     }
 
     /**
-     * 
+     * Loads the listings to populate the table without filters
      */
     function LoadInitialListings() {
         var url = "/loadinitiallistings";
-        var successCallback = HandleLoadInitialListingsSummaryResponse;
+        var successCallback = HandleLoadInitialListingsResponse;
 
         // Generate a JS Object representing the JSON request
         var messageBodyJSObj = {
@@ -90,7 +90,7 @@ $(document).ready(function() {
     }
 
     /**
-     * 
+     * Loads the listings that match the specified filters
      */
     function PostFilters() {
         var url = "/postfilters";
@@ -157,7 +157,7 @@ $(document).ready(function() {
                 reviewsRangeEnd: reviewsRangeEnd
             }
         };
-        
+
         // console.log("City Selected: " + cityFilterFlag);
         // console.log("City: " + citySelection);
         // console.log("Price Selected: " + priceFilterFlag);
@@ -183,27 +183,73 @@ $(document).ready(function() {
     // ------------------------------------------------------
 
     /**
-     * 
-     * @param {*} responseText 
+     * Creates a select element with a list of all available cities
+     * @param {JSONObject} responseText The response from the request
      */
     function HandleLoadCityListResponse(responseText) {
+        var cityCount = responseText.count;
 
+        var html = '';
+        for (var i = 0; i < cityCount; i++) {
+            html += '<option value="' + responseText.cityNames[i] + '">' + responseText.cityNames[i] + '</option>\r\n';
+        }
+
+        $('#City_Options_Select option:first').after(html);
     }
 
     /**
-     * 
-     * @param {*} responseText 
+     * Parses the response containing city listings into the summary table
+     * @param {JSONObject} responseText The response from the request
      */
-    function HandleLoadInitialListingsSummaryResponse(responseText) {
+    function HandleLoadInitialListingsResponse(responseText) {
 
+        var numListings = responseText.count;
+        var html = '';
+
+        for (var i = 0; i < numListings; i++) {
+            var curListing = responseText.listings[i];
+            html += '<tr class="removeRow">\r\n';
+            html += '<td>' + curListing.name + '</td>\r\n';
+            html += '<td>' + curListing.type + '</td>\r\n';
+            html += '<td>' + curListing.city + '</td>\r\n';
+            html += '<td>' + curListing.state + '</td>\r\n';
+            html += '<td>' + curListing.price + '</td>\r\n';
+            html += '<td>' + curListing.minNights + '</td>\r\n';
+            html += '<td>' + curListing.reviews + '</td>\r\n';
+            html += '</tr>\r\n';
+        }
+
+        $('.removeRow').remove();
+        $('#listings_table tr:last').before(html);
+        $("#listings_table td").css('border-bottom', "1px solid white");
+        $("#listings_table td").css('color', "white");
     }
 
     /**
-     * 
-     * @param {*} responseText 
+     * Parses the response containing city listings into the summary table
+     * @param {JSONObject} responseText The response from the request
      */
     function HandlePostFiltersResponse(responseText) {
-        
+        var numListings = responseText.count;
+        var html = '';
+
+        for (var i = 0; i < numListings; i++) {
+            var curListing = responseText.listings[i];
+            html += '<tr class="removeRow">\r\n';
+            html += '<td>' + curListing.name + '</td>\r\n';
+            html += '<td>' + curListing.type + '</td>\r\n';
+            html += '<td>' + curListing.city + '</td>\r\n';
+            html += '<td>' + curListing.state + '</td>\r\n';
+            html += '<td>' + curListing.price + '</td>\r\n';
+            html += '<td>' + curListing.minNights + '</td>\r\n';
+            html += '<td>' + curListing.reviews + '</td>\r\n';
+            html += '</tr>\r\n';
+        }
+
+        $('.removeRow').remove();
+        $('#listings_table tr:last').before(html);
+        $("#listings_table td").css('border-bottom', "1px solid white");
+        $("#listings_table td").css('color', "white");
     }
 
 

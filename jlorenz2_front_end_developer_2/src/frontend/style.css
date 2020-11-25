@@ -13,7 +13,7 @@
  }
 
  h4 {
-     border-bottom: 1px solid white;;
+     border-bottom: 1px solid white;
  }
 
  .container {
@@ -61,7 +61,9 @@
  }
 
 
-
+ .hide {
+    display: none;
+}
 
 
 
@@ -74,4 +76,12 @@
     /* float: left; */
     text-align: center;
     color: white;
+}
+
+#listings_table tbody tr th {
+    border-top: none;
+}
+
+#listings_table tbody tr {
+    border-bottom: 1px solid white;
 }

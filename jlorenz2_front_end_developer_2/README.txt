@@ -1,9 +1,6 @@
 README for Team Project Four (CS400 @ UW Madison)
 ==================================================
 
-Every member of a team must have an individual README.txt file filled in in their folder on
-the team's GitHub repo.
-
 Name of submitting team member: Jacob Lorenz
 Wisc email of submitting team member: jlorenz2@wisc.edu
 Team name: BC
@@ -13,13 +10,20 @@ Lecturer: Gary Dahl
 
 Contributions Week 1:
 ---------------------
-<Replace this with a list your contributions for the week 1 deliverable.
-You can list the java files that you wrote and committed during the first week,
-or the data files your created or worked on. If you haven't written any code or
-other content that your can commit, provide a list of the work that you did
-during week 1. Make sure that all your week 1 contributions and this section
-of the readme are committed and pushed to the GitHub repo by the week 1 deadline
-on 11/24 at 11:59pm CST.>
+
+The following files are the main UI / Frontend components built using a standard DHTML tech stack.
+The UI is built using Bootstrap, jQuery, and vanilla Javascript. The relevant libraries are included in src/frontend/dependencies.
+
+- src/frontend/index.html
+- src/frontend/script.js
+- src/frontend/style.css
+
+Note: Some of the content that would be available in the final product is not currently displayed in this UI since the data for it relies on API connections.
+
+Left to do:
+- Finish any remaining UI components
+- Connect the UI to the backend via Java servlets / API
+- Get the entire web-app running successfully in an Apache Tomcat server
 
 Contributions Week 2:
 ---------------------
