@@ -8,6 +8,14 @@
  * Notes to Grader: <optional extra notes>
  */
 
+ body {
+     background-color: black;
+ }
+
+ h4 {
+     border-bottom: 1px solid white;;
+ }
+
  .container {
      min-width: 993px;
      max-width: 1750px;
@@ -16,28 +24,54 @@
      height: auto;
  }
 
-#WelcomeHeaderRow {
+ #Welcome_Header_Container{
     text-align: center;
-    color: red;
+    border: 1px solid white;
 }
 
-#WelcomeHeader {
-    align-content: center;
-    color: red;
+#welcome_header {
+    color: white;
 }
 
-#Search_Filter_Options {
+ #Search_Filter_Options_Container {
     width: 100%;
     margin: 0;
-    border: 1px solid black;
-    /* float: left; */
-    text-align: center;
+    border: 1px solid white;
 }
+
+ #filter_options_header {
+    width: 100%;
+    text-align: center;
+    color: white;
+ }
+
+ #filter_options_content {
+    color: white;
+    width: 100%;
+    text-align: left;
+ }
+
+ #filter_options_submit_button_row {
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+
+ #filter_options_submit_button_column {
+    text-align: center;
+ }
+
+
+
+
+
+
+
 
 #Listing_Summaries_List{
     width:100%;
     margin: 0;
-    border: 1px solid black;
+    border: 1px solid white;
     /* float: left; */
     text-align: center;
+    color: white;
 }
