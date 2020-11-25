@@ -1,0 +1,20 @@
+#WelcomeHeader {
+    text-align: center;
+    color: red;
+}
+
+#Search_Filter_Options {
+    width:30%;
+    margin: 0;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+
+#Listing_Summaries_List{
+    width:69%;
+    margin: 0;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}

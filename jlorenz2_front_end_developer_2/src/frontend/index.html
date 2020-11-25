@@ -1,10 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-</body>
+<html>
+    <head>
+        <meta charset='UTF-8'/>
+        <title>CS400 AirBnB Home</title>
+        <link href="dependencies/jQuery/jquery-ui.min.css" rel="stylesheet" />
+        <link href="dependencies/bootstrap/bootstrap.min.css" rel="stylesheet" />
+        <link rel='stylesheet' href='style.css'>
+    </head>
+    <body>
+        <h1 id="WelcomeHeader">Welcome to CS400-AirBnB</h1>
+        <div id="Search_Filter_Options">
+            <h4>Filtering Options</h4>
+            <form name="filteringForm" method="post" action="filteringServlet">
+                Search: <input type="text" name="textSearch" /> <br />
+                <input id="FilterSubmitButton" type="button" value="Filter" onclick="PostFilters()">
+            </form>
+        </div>
+        <div id="Listing_Summaries_List">
+            This is the summary listing 
+        </div>
+        <script src="dependencies/jQuery/jquery-3.3.1.min.js"></script>
+        <script src="dependencies//bootsrap/bootstrap.min.js"></script>
+        <script src="dependencies/jQueryjquery-ui.min.js"></script>
+        <script src='script.js'></script>
+    </body>
 </html>
