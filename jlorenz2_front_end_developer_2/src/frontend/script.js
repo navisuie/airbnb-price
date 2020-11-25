@@ -52,7 +52,37 @@ $(document).ready(function() {
     // --------- Business Logic HTTP Requests ---------------
     // ------------------------------------------------------
 
+    function LoadInitialData() {
+        var url = "/loadInitialProperties";
+        var successCallback = HandleInitialDataLoad;
 
+        // Generate a JS Object representing the JSON request
+        var messageBodyJSObj = {
+            number: 10
+        };
+
+        // Turn the generated JS Object into a JSON String to pass to server
+        var messageBodyString = JSON.stringify(messageBodyJSObj);
+
+        // Execute the HTTP Call
+        SendPostAJAXRequest(url, messageBodyString, successCallback);
+    }
+
+    function PostFilters() {
+        var url = "/postfilters";
+        var successCallback = HandlePostFiltersResponse;
+
+        // Generate a JS Object representing the JSON request
+        var messageBodyJSObj = {
+
+        };
+
+        // Turn the generated JS Object into a JSON String to pass to server
+        var messageBodyString = JSON.stringify(messageBodyJSObj);
+
+        // Execute the HTTP Call
+        SendPostAJAXRequest(url, messageBodyString, successCallback);
+    }
 
     
 
@@ -62,49 +92,56 @@ $(document).ready(function() {
     // ----------- Callback Handler Functions ---------------
     // ------------------------------------------------------
 
+    function HandleInitialDataLoad(responseText) {
 
+    }
 
-
-
-
+    function HandlePostFiltersResponse(responseText) {
+        
+    }
 
 
     // --------- End Callback Handler Functions -------------
     // ------------------------------------------------------
 
+    // -------------------- Handlers ------------------------
+    // ------------------------------------------------------
+
+    $("#FilterSubmitButton").click(function() {
+        PostFilters();
+    });
+
+
+    // ------------------ End Handlers ----------------------
+    // ------------------------------------------------------
+
     // ---------------------- Main --------------------------
     // ------------------------------------------------------
 
+    LoadInitialData();
+
+
+
+    // -------------------- End Main ------------------------
+    // ------------------------------------------------------
 });
 
+// RequestRemplate = function() {
+//     var url = "/request_URL";
+//     var successCallback = CallbackHandlerFunction;
 
+//     // Generate a JS Object representing the JSON request
+//     var messageBodyJSObj = {
 
-
-
-// GetFilteredResults = function() {
-//     var xhttp = new XMLHttpRequest();
-//     xhttp.onreadystatechange = function() {
-//         if (this.readyState == 4 && this.status == 200) {
-//             document.getElementById("demo").innerHTML = this.responseText;
-//         }
 //     };
-//     xhttp.open("GET", "url", true);
-//     xhttp.send();
+
+//     // Turn the generated JS Object into a JSON String to pass to server
+//     var messageBodyString = JSON.stringify(messageBodyJSObj);
+
+//     // Execute the HTTP Call
+//     SendPostAJAXRequest(url, messageBodyString, successCallback);
 // }
 
-// PostFilters = function() {
-//     var xhttp = new XMLHttpRequest();
-//     xhttp.onreadystatechange = function() {
-//         if (this.readyState == 4 && this.status == 200) {
-//             document.getElementById("Listing_Summaries_List").innerHTML = this.responseText;
-//         }
-//     };
+// $().click(function() {
 
-//     var xmlHttpBody = {
-
-//     };
-
-
-//     xhttp.open("POST", "/filteredResults", true);
-//     xhttp.send(JSON.stringify(xmlHttpBody));
-// }
+// });
