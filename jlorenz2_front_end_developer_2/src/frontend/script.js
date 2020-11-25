@@ -52,13 +52,15 @@ $(document).ready(function() {
     // --------- Business Logic HTTP Requests ---------------
     // ------------------------------------------------------
 
-    function LoadInitialData() {
-        var url = "/loadInitialProperties";
-        var successCallback = HandleInitialDataLoad;
+    /**
+     * 
+     */
+    function LoadCityList() {
+        var url = "/getcitylist";
+        var successCallback = HandleLoadCityListResponse;
 
         // Generate a JS Object representing the JSON request
         var messageBodyJSObj = {
-            number: 10
         };
 
         // Turn the generated JS Object into a JSON String to pass to server
@@ -68,14 +70,102 @@ $(document).ready(function() {
         SendPostAJAXRequest(url, messageBodyString, successCallback);
     }
 
+    /**
+     * 
+     */
+    function LoadInitialListings() {
+        var url = "/loadinitiallistings";
+        var successCallback = HandleLoadInitialListingsSummaryResponse;
+
+        // Generate a JS Object representing the JSON request
+        var messageBodyJSObj = {
+            quantity: 10
+        };
+
+        // Turn the generated JS Object into a JSON String to pass to server
+        var messageBodyString = JSON.stringify(messageBodyJSObj);
+
+        // Execute the HTTP Call
+        SendPostAJAXRequest(url, messageBodyString, successCallback);
+    }
+
+    /**
+     * 
+     */
     function PostFilters() {
         var url = "/postfilters";
         var successCallback = HandlePostFiltersResponse;
 
+        var maxInt = 2147483647;
+
+        // Get the values for each of the filters
+        var cityFilterFlag = true;
+        var citySelection = document.getElementById("City_Options_Select").value;
+        
+        var priceFilterFlag = true;
+        var priceRangeStart = -1;
+        var priceRangeEnd = -1;
+        var priceRangeSelection = document.getElementById("Price_Options_Select").value;
+        
+        var reviewsFilterFlag = true;
+        var reviewsRangeStart = -1;
+        var reviewsRangeEnd = -1;
+        var numReviewsSelection = document.getElementById("Reviews_Options_Select").value;
+
+        if (citySelection == "none_selected") {
+            cityFilterFlag = false;
+        }
+
+        if (priceRangeSelection == "none_selected") {
+            priceFilterFlag = false;
+        } else {
+            var priceRange = priceRangeSelection.split("-");
+            priceRangeStart = priceRange[0];
+            if (priceRange[1] == "+") {
+                priceRangeEnd = maxInt
+            } else {
+                priceRangeEnd = priceRange[1];
+            }
+        }
+
+        if (numReviewsSelection == "none_selected") {
+            reviewsFilterFlag = false;
+        } else {
+            var reviewsRange = numReviewsSelection.split("-");
+            reviewsRangeStart = reviewsRange[0];
+            if (reviewsRange[1] == "+") {
+                reviewsRangeEnd = maxInt
+            } else {
+                reviewsRangeEnd = reviewsRange[1];
+            }
+        }
+
         // Generate a JS Object representing the JSON request
         var messageBodyJSObj = {
-
+            city: {
+                filterFlag: cityFilterFlag,
+                citySelection: citySelection
+            },
+            price: {
+                filterFlag: priceFilterFlag,
+                priceRangeStart: priceRangeStart,
+                priceRangeEnd: priceRangeEnd
+            },
+            reviews: {
+                filterFlag: reviewsFilterFlag,
+                reviewsRangeStart: reviewsRangeStart,
+                reviewsRangeEnd: reviewsRangeEnd
+            }
         };
+        
+        // console.log("City Selected: " + cityFilterFlag);
+        // console.log("City: " + citySelection);
+        // console.log("Price Selected: " + priceFilterFlag);
+        // console.log("Low Price: " + priceRangeStart);
+        // console.log("High Price: " + priceRangeEnd);
+        // console.log("Reviews Selected: " + reviewsFilterFlag);
+        // console.log("Low Reviews: " + reviewsRangeStart);
+        // console.log("High Reviews: " + reviewsRangeEnd);
 
         // Turn the generated JS Object into a JSON String to pass to server
         var messageBodyString = JSON.stringify(messageBodyJSObj);
@@ -92,10 +182,26 @@ $(document).ready(function() {
     // ----------- Callback Handler Functions ---------------
     // ------------------------------------------------------
 
-    function HandleInitialDataLoad(responseText) {
+    /**
+     * 
+     * @param {*} responseText 
+     */
+    function HandleLoadCityListResponse(responseText) {
 
     }
 
+    /**
+     * 
+     * @param {*} responseText 
+     */
+    function HandleLoadInitialListingsSummaryResponse(responseText) {
+
+    }
+
+    /**
+     * 
+     * @param {*} responseText 
+     */
     function HandlePostFiltersResponse(responseText) {
         
     }
@@ -104,7 +210,7 @@ $(document).ready(function() {
     // --------- End Callback Handler Functions -------------
     // ------------------------------------------------------
 
-    // -------------------- Handlers ------------------------
+    // ---------------- Element Handlers --------------------
     // ------------------------------------------------------
 
     $("#FilterSubmitButton").click(function() {
@@ -112,15 +218,28 @@ $(document).ready(function() {
     });
 
 
-    // ------------------ End Handlers ----------------------
+    // -------------- End Element Handlers ------------------
+    // ------------------------------------------------------
+
+    // ----------------- Misc Functions ---------------------
+    // ------------------------------------------------------
+
+    /**
+     * 
+     */
+    function LoadInitialContent() {
+        // Uncomment these when fully implemented
+        // LoadCityList();
+        // LoadInitialListings();
+    }
+
+    // --------------- End Misc Functions -------------------
     // ------------------------------------------------------
 
     // ---------------------- Main --------------------------
     // ------------------------------------------------------
 
-    LoadInitialData();
-
-
+    LoadInitialContent();
 
     // -------------------- End Main ------------------------
     // ------------------------------------------------------
