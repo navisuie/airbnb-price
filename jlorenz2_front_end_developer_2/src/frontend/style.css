@@ -8,23 +8,36 @@
  * Notes to Grader: <optional extra notes>
  */
 
-#WelcomeHeader {
+ .container {
+     min-width: 993px;
+     max-width: 1750px;
+     margin-left: 10px;
+     margin-right: 10px;
+     height: auto;
+ }
+
+#WelcomeHeaderRow {
     text-align: center;
     color: red;
 }
 
+#WelcomeHeader {
+    align-content: center;
+    color: red;
+}
+
 #Search_Filter_Options {
-    width:30%;
+    width: 100%;
     margin: 0;
     border: 1px solid black;
-    float: left;
+    /* float: left; */
     text-align: center;
 }
 
 #Listing_Summaries_List{
-    width:69%;
+    width:100%;
     margin: 0;
     border: 1px solid black;
-    float: left;
+    /* float: left; */
     text-align: center;
 }

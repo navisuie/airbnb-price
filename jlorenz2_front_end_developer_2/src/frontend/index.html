@@ -12,22 +12,36 @@
     <head>
         <meta charset='UTF-8'/>
         <title>CS400 AirBnB Home</title>
-        <link href="dependencies/jQuery/jquery-ui.min.css" rel="stylesheet" />
+        <!-- Bootsrap Core CSS -->
         <link href="dependencies/bootstrap/bootstrap.min.css" rel="stylesheet" />
+        <!-- JQuery UI CSS -->
+        <link href="dependencies/jQuery/jquery-ui.min.css" rel="stylesheet" />
+        <!-- Custom CSS -->
         <link rel='stylesheet' href='style.css'>
     </head>
     <body>
-        <h1 id="WelcomeHeader">Welcome to CS400-AirBnB</h1>
-        <div id="Search_Filter_Options">
-            <h4>Filtering Options</h4>
-            <form name="filteringForm" method="post" action="filteringServlet">
-                Search: <input type="text" name="textSearch" /> <br />
-                <input id="FilterSubmitButton" type="button" value="Filter" onclick="PostFilters()">
-            </form>
+        <div class="container">
+            <div class="row" id="WelcomeHeaderRow">
+                <div class="col-lg-12">
+                    <h1 id="WelcomeHeader">Welcome to CS400-AirBnB</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3" id="Search_Filter_Options">
+                    <h4>Filtering Options</h4>
+                    <form name="filteringForm" method="post" action="filteringServlet">
+                        Search: <input type="text" name="textSearch" /> <br />
+                        <input id="FilterSubmitButton" type="button" value="Filter" onclick="PostFilters()">
+                    </form>
+                </div>
+                <div class="col-lg-9" id="Listing_Summaries_List">
+                    This is the summary listing
+                </div>
+            </div>
         </div>
-        <div id="Listing_Summaries_List">
-            This is the summary listing 
-        </div>
+        <!-- Bootstrap and Core Javascipt
+        =============================================== -->
+        <!-- At the end of the document so the page loads faster -->
         <script src="dependencies/jQuery/jquery-3.3.1.min.js"></script>
         <script src="dependencies//bootsrap/bootstrap.min.js"></script>
         <script src="dependencies/jQueryjquery-ui.min.js"></script>
