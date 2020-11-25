@@ -16,6 +16,7 @@ Added:
 
 To Do:
 - more CSS styling on FrontEnd.html
+- add Javascript function to display all available cities when the user chooses a state
 - work on Java Servlet
 
 Contributions Week 2:
