@@ -22,6 +22,7 @@ Note: Some of the content that would be available in the final product is not cu
 
 Left to do:
 - Finish any remaining UI components
+- Update the aesthetics of the UI components; remove misc borders (there to describe the layout at the moment)
 - Connect the UI to the backend via Java servlets / API
 - Get the entire web-app running successfully in an Apache Tomcat server
 
