@@ -7,27 +7,27 @@
 // Notes to Grader:
 package pappybuck_test_engineer_1;
 
-import org.junit.jupiter.api.Test;
+import static org.junit.Assert.assertFalse;
+
+import org.junit.Test;
 
 public class backend_test {
     
 
 
     @Test
-    public boolean find_test(){
-      
-      
-      return false;
+    public void find_test(){
+      assertFalse(true);
     }
     
     @Test
-    public boolean get_test() {
-      return false;
+    public void get_test() {
+      assertFalse(true);
     }
     
     @Test
-    public boolean list_test() {
-      return false;
+    public void list_test() {
+     assertFalse(true);
       
     }
 
