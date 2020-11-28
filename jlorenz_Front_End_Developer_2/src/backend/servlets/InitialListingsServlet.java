@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 
 @SuppressWarnings("serial")
 @WebServlet("/initiallistings")
-public class InitialListingServlet extends HttpServlet {
+public class InitialListingsServlet extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
