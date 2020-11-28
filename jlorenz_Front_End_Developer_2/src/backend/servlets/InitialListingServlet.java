@@ -16,17 +16,27 @@ public class InitialListingServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
 		
-		// read form fields
-		String username = request.getParameter("username");
-
+        // read request body fields here
+        int quantity = request.getParameter("quantity");
 
 		// do some processing here...
 		
-		// get response writer
-		PrintWriter writer = response.getWriter();
+		// create response here
+        String responseString = "{";
+        responseString += "count: " + count + ",";
+        responseString += "listings: [";
+
+        //TODO: Add the listings here
+
+        responseString += "]}";
+
 		
 		// return response
-		writer.println(htmlRespone);
+		PrintWriter out = response.getWriter();
+        response.setContentType("application/json");
+        response.setCharacterEncoding("UTF-8");
+        out.print(responseString);
+        out.flush();
 		
 	}
 

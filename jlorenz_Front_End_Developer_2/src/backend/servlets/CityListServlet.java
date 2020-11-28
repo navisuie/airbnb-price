@@ -15,18 +15,25 @@ public class CityListServlet extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
-		
-		// read form fields
-		String username = request.getParameter("username");
-
 
 		// do some processing here...
 		
-		// get response writer
-		PrintWriter writer = response.getWriter();
+		// create response here
+        String responseString = "{";
+        responseString += "count: " + count + ",";
+        responseString += "cityNames: [";
+
+        //TODO: Add the city names here
+
+        responseString += "]}";
+
 		
 		// return response
-		writer.println(htmlRespone);
+		PrintWriter out = response.getWriter();
+        response.setContentType("application/json");
+        response.setCharacterEncoding("UTF-8");
+        out.print(responseString);
+        out.flush();
 		
 	}
 

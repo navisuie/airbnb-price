@@ -16,18 +16,52 @@ public class FilteredListingsServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
 		
-		// read form fields
-		String username = request.getParameter("username");
+        // read request body fields here
+        JSONObject cityObject = request.getParameter("city");
+        JSONObject priceObject = request.getParameter("price");
+        JSONObject reviewsObject = request.getParameter("reviews");
+
+        String cityFilter = "";
+        int lowPrice = -1;
+        int highPrice = -1;
+        int lowReviews = 0;
+        int highReviews = -1;
 
 
-		// do some processing here...
+        if (cityObject.filterFlag != null && cityObject.filterFlag == true) {
+            cityFilter = cityObject.citySelection;
+        }
+
+        if (priceObject.filterFlag != null && cityObject.filterFlag == true) {
+            lowPrice = cityObject.priceRangeStart;
+            highPrice = cityObject.priceRangeEnd;
+        }
+
+        if (reviewsObject.filterFlag != null && cityObject.filterFlag == true) {
+            lowReviews = reviewsObject.reviewsRangeStart;
+            highReviews = reviewsObject.reviewsRangeEnd;
+        }
+
+        // do some processing here...
+        
+        int count = 0;
 		
-		// get response writer
-		PrintWriter writer = response.getWriter();
+        // create response here
+        String responseString = "{";
+        responseString += "count: " + count + ",";
+        responseString += "listings: [";
+
+        //TODO: Add the listings here
+
+        responseString += "]}";
+
 		
 		// return response
-		writer.println(htmlRespone);
-		
+		PrintWriter out = response.getWriter();
+        response.setContentType("application/json");
+        response.setCharacterEncoding("UTF-8");
+        out.print(responseString);
+        out.flush();
 	}
 
 }
