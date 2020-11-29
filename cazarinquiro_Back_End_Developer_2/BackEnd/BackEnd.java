@@ -6,87 +6,128 @@
 // Lecturer: Florian Heimerl
 // Notes to Grader:
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.Scanner;
 
 public class BackEnd {
 
-    // TODO: insert methods for data retrieval from csv file
-    // temporarily making a data object to act as data for now
-    public static ArrayList<String[]> data = new ArrayList<String[]>(); // place holder
     public static HashTableMap<Airbnb, Airbnb> airbnbDatabase;
     public static HashTableMap<String, Airbnb[]> cityDatabase;
     public static ArrayList<String> cityList = new ArrayList<String>();
 
-
     private class Airbnb { // Class for objects we will store in hashtable
         String name;
+        String type;
         String location; // city
-        int price; // cost of rental for one night
-        boolean residentialStatus; // whether it is reserved
-        int rating; // 1-5, where 5 makes it a top hit
+        String state;
+        int price;
+        int minNights; // whether it is reserved
+        int reviews; // 1-5, where 5 makes it a top hit
 
-        private Airbnb(String name, String location, int price, boolean resStatus, int rating) {
+        private Airbnb(String name, String location, String type, String state, int price,
+            int minNights, int rating) {
             this.name = name;
+            this.type = type;
+            this.state = state;
             this.location = location;
             this.price = price;
-            this.residentialStatus = resStatus; // might reconsider this to be a string rather than boolean
-            this.rating = rating;
+            this.minNights = minNights;
+            this.reviews = rating;
         }
 
         private String getLocation() {
             return this.location;
         }
 
+        private String getType() {
+            return this.type;
+        }
+
         private int getPrice() {
             return this.price;
         }
 
-        private boolean getResidentialStatus() {
-            return this.residentialStatus;
+        private int getMinNights() {
+            return this.minNights;
         }
 
-        private int getRating() {
-            return this.rating;
+        private int getReviews() {
+            return this.reviews;
         }
 
         private String getName() {
             return this.name;
         }
 
-    }
-
-    // mainly used to load data 
-    public static void main(String[] args) {
-        // args will be used to take in user input from web page
-
-        airbnbDatabase = new HashTableMap<Airbnb, Airbnb>();
-
-        // Still need data and loading mechanism to do this properly and make airbnb objects
-        for (int i = 0; i < data.size(); i++) { // each element in arrlist data is a line in CSV
-            // Airbnb airbnb = new Airbnb();
-
-            // if (!cityList.contains(airbnb.getLocation)) { // add city to list for list() method
-            // cityList.add(airbnb.getLocation);
-            // }
-
-            // airbnbDatabase.put(airbnb, airbnb); // get airbnb into hash table along with
-            // location and other details
+        private String getState() {
+            return this.state;
         }
-
-        
-
     }
 
+    /*
+     * Loads data from CSV files
+     */
+    public static void loadCities() {
+        File file = null;
+        Scanner scnr = null;
+
+        try {
+
+            file = new File("Cities.csv");
+            scnr = new Scanner(file);
+
+            while (scnr.hasNextLine()) {
+                scnr.next(); // skip over id
+                cityList.add(scnr.next()); // add city to city list
+            }
+
+            Airbnb cityAirbnbList[]; // list of airbnbs in a city
+
+            for (int i = 0; i < cityList.size(); i++) {
+                cityAirbnbList = loadCity(cityList.get(i));
+                cityDatabase.put(cityList.get(i), cityAirbnbList);
+            }
+
+        } catch (FileNotFoundException e) {
+            System.out.println("File not found.");
+        } finally {
+            if (scnr != null) {
+                scnr.close();
+            }
+        }
+    }
+
+    /**
+     * Loads a specific city CSV file
+     */
+    public static Airbnb[] loadCity(String city) throws FileNotFoundException {
+        File file = new File(city + ".csv");
+        Scanner scnr = new Scanner(file);
+        // TODO: Use scnr or stream to load city data
+        
+        return null;
+    }
+
+
+    /*
+     * Returns the string representation of an Airbnb
+     */
     public String get(Airbnb airbnb) {
         if (airbnb == null || !airbnbDatabase.containsKey(airbnb)) {
             return null; // airbnb not in database
         }
 
-        return airbnb.getName() + ", " + airbnb.getLocation() + ", " + airbnb.getPrice() + ", "
-            + airbnb.getResidentialStatus() + ", " + airbnb.getRating() + ".";             
+        return airbnb.getName() + ", " + airbnb.getType() + ", " + airbnb.getLocation() + ", "
+            + airbnb.getState() + ", " + airbnb.getPrice() + ", " + airbnb.getMinNights() + ", "
+            + airbnb.getReviews() + ".";
     }
 
+    /*
+     * Returns an Airbnb array of all airbnbs in a city
+     */
     public Airbnb[] find(String city) {
         if (city == null || !cityList.contains(city)) {
             return null; // city not in city list
@@ -95,17 +136,29 @@ public class BackEnd {
         return cityDatabase.get(city); // returns an array of Airbnbs in this city
     }
 
-    public String list() { // returns a list of available cities
+    /*
+     * Returns a list of all available cities
+     */
+    public String listCities() {
         String cities = "";
 
-        for (String city : cityList) {
-            cities += city + " "; // can change this for better formatting
+
+        for (int i = 0; i < cityList.size(); i++) {
+            cities += cityList.get(i);
+
+            if (i != cityList.size() - 1) {
+                cities += ", "; // adds comma separation except for last element added
+            }
         }
+
 
         return cities;
     }
 
-    public String randomCity() { // chooses a random city for the user
+    /*
+     * Returns the string representation of a random city
+     */
+    public String randomCity() {
         Random rand = new Random();
         int randInt = rand.nextInt(cityList.size()) + 1; // generates a random number
 
@@ -113,3 +166,4 @@ public class BackEnd {
     }
 
 }
+
