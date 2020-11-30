@@ -26,6 +26,7 @@ other content that your can commit, provide a list of the work that you did
 during week 2. Make sure that all your week 2 contributions and this section
 of the readme are committed and pushed to the GitHub repo by the week 2 deadline
 on 12/01 at 11:59pm CST.>
+Updated backend, incorporated some of the data loading.
 
 Contributions Week 3:
 ---------------------
