@@ -21,12 +21,15 @@ To Do:
 
 Contributions Week 2:
 ---------------------
-<Replace this with a list your contributions for the week 2 deliverable.
-You can list the java files that you wrote and committed during the first week,
-or the data files your created or worked on. If you haven't written any code or
-other content that your can commit, provide a list of the work that you did
-during week 2. Make sure that all your week 2 contributions and this section
-of the readme are committed and pushed to the GitHub repo by the week 2 deadline
+
+Added:
+- javascript function to change dropbox contents based on which state is selected (currently an error exists in function)
+
+To Do:
+- get dropbox to display all cities available for a given state
+- create java servlet to link with group members
+- print a table using the return values of the backend
+
 on 12/01 at 11:59pm CST.>
 
 Contributions Week 3:
