@@ -22,7 +22,7 @@ public class ReadFile {
     String line = "";
     BufferedReader br = null;
     try {
-       br = new BufferedReader(new FileReader("listings.csv"));
+       br = new BufferedReader(new FileReader("listings.csv")); //listings is a place holder since the "listings.csv" file could not be uploaded to GitHub due to size
       while ((line = br.readLine()) != null) {
         
         String[] cityRow = line.split(",");
