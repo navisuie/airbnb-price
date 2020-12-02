@@ -37,13 +37,20 @@ Left to do:
 
 Contributions Week 2:
 ---------------------
-<Replace this with a list your contributions for the week 2 deliverable.
-You can list the java files that you wrote and committed during the first week,
-or the data files your created or worked on. If you haven't written any code or
-other content that your can commit, provide a list of the work that you did
-during week 2. Make sure that all your week 2 contributions and this section
-of the readme are committed and pushed to the GitHub repo by the week 2 deadline
-on 12/01 at 11:59pm CST.>
+
+For week 2, I spent some time working on setting up template Java servlet classes for our team to use in the backend. Files written by me include:
+
+- src/backend/servlets/CityListServlet.java
+- src/backend/servlets/FilteredListingsServlet.java
+- src/backend/servlets/InitialListingsServlet.java
+
+Note: Some of the content that would be available in the final product is not currently displayed in this UI since the data for it relies on API connections.
+
+Left to do:
+
+- Connect the UI to the backend via Java servlets / API
+- Update the aesthetics of the UI components; remove misc borders (there to describe the layout at the moment) (This can be done once we connect the data)
+- Get the entire web-app running successfully in an Apache Tomcat server
 
 Contributions Week 3:
 ---------------------
@@ -64,10 +71,11 @@ your final week 3 submission of project four.>
 
 Files submitted with this project that were developed in an earlier project:
 ----------------------------------------------------------------------------
-<If you have any files written by you or your team in your submission that were
-written for an earlier project and that you re-used for project four, replace this
-text with a list of these files. Provide file name and path as well as the project
-that they were originally developed for.>
+- src/CS400HashTable/MapADT.java
+- src/CS400HashTable/HashTableMap.java
+- src/CS400HashTable/HashTableLinkedList.java
+- src/CS400HashTable/HashTableLinkedListNode.java
+- src/CS400HashTable/TestHashTable.java
 
 Web address at which the program is available:
 ----------------------------------------------
@@ -78,4 +86,6 @@ having a running version on the web.>
 
 Additional notes about the submission:
 --------------------------------------
-<List any additional notes for the grader here (only required by the final deadline).>
+Since the core architecture of this application involves using Java Servlets and Apache Tomcat Application Servers, neither of which is expected nor covered in this class,
+I took on some responsibility to help the backend get this connected and get the servlet classes developed. I take credit for setting up the class templates and implementing
+the HTTP API portions, and the backend developer, Luis, is responsible for the business logic that runs inside the servlet classes when invoked.
