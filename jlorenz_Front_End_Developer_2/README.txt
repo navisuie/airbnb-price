@@ -86,4 +86,4 @@ having a running version on the web.>
 
 Additional notes about the submission:
 --------------------------------------
-Since the core architecture of this application involves using Java Servlets and Apache Tomcat Application Servers, neither of which is expected nor covered in this class, I took on some responsibility to help the backend get this connected and get the servlet classes developed. I take credit for setting up the class templates and implementing the HTTP API portions, and the backend developer, Luis, is responsible for the business logic that runs inside the servlet classes when invoked.
+Since the core architecture of this application involves using Java Servlets and Apache Tomcat Application Servers, neither of which is expected nor covered in this class, I took on some responsibility to help the backend get this connected and get the servlet classes developed. I take credit for setting up the class templates and implementing the HTTP API portions, and the backend developers will be responsible for the business logic that runs inside the servlet classes when invoked.
