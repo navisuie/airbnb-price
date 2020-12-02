@@ -1,3 +1,11 @@
+// --== CS400 File Header Information ==--
+// Name: Navpreet Singh
+// Email: nsingh49@wisc.edu
+// Team: BC
+// TA: Brianna Cochran
+// Lecturer: Gary Dahl
+// Notes to Grader:
+
 import java.io.*;
 
 import java.util.Hashtable;
