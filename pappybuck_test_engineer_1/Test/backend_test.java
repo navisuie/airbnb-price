@@ -36,8 +36,4 @@ public class backend_test {
     public void get_test() {
       assertTrue(true);
     }
-
-    public static void main(String[] args) {
-      BackEnd.loadCities();
-    }
 }
