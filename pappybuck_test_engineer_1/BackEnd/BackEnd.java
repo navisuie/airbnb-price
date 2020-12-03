@@ -93,8 +93,8 @@ public class BackEnd {
         Scanner scnr = null;
 
         try {
-
-            file = new File("pappybuck_test_engineer_1/Data/Cities/Cities.csv");
+            String test = System.getProperty("user.dir").toString();
+            file = new File("bin/pappybuck_test_engineer_1/Data/Cities/Cities.csv");
             scnr = new Scanner(file);
             scnr.nextLine();
             CSVParser parser = new CSVParser();
@@ -134,7 +134,7 @@ public class BackEnd {
      */
     public static ArrayList<Airbnb> loadCity(String city, String state)
         throws IOException {
-        File file = new File("src/Data/" + city + ".csv");
+        File file = new File("bin/pappybuck_test_engineer_1/Data/" + city + ".csv");
         Scanner scnr = new Scanner(file);
         scnr.nextLine(); // skip over titles
         scnr.useDelimiter(",");
