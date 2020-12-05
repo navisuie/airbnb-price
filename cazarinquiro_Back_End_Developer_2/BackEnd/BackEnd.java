@@ -15,10 +15,6 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class BackEnd {
-    
-    public static void main(String[] args) {
-        loadCities();
-        }
 
     public static HashTableMap<Airbnb, Airbnb> airbnbDatabase = new HashTableMap<Airbnb, Airbnb>();;
     public static HashTableMap<String, ArrayList<Airbnb>> cityDatabase;
@@ -187,7 +183,7 @@ public class BackEnd {
     /*
      * Returns the string representation of an Airbnb
      */
-    public static String get(Airbnb airbnb) {
+    public String get(Airbnb airbnb) {
         if (airbnb == null || !airbnbDatabase.containsKey(airbnb)) {
             return null; // airbnb not in database
         }
@@ -200,7 +196,7 @@ public class BackEnd {
     /*
      * Returns an Airbnb array of all airbnbs in a city
      */
-    public static ArrayList<Airbnb> find(String city) {
+    public ArrayList<Airbnb> find(String city) {
         if (city == null || !cityList.contains(city)) {
             return null; // city not in city list
         }
@@ -210,7 +206,7 @@ public class BackEnd {
     /*
      * Returns a list of all available cities
      */
-    public static String[] listCities() {
+    public String[] listCities() {
         String[] cities = new String[cityList.size()]; 
 
         for (int i = 1; i < cityList.size(); i++) {
@@ -223,7 +219,7 @@ public class BackEnd {
     /*
      * Returns the string representation of a random city
      */
-    public static String randomCity() {
+    public  String randomCity() {
         Random rand = new Random();
         int randInt = rand.nextInt(cityList.size()) + 1; // generates a random number
 
@@ -232,7 +228,7 @@ public class BackEnd {
 
 
 
-    public static ArrayList<Airbnb> getFilteredListings(boolean cityFlag, boolean priceFlag,
+    public ArrayList<Airbnb> getFilteredListings(boolean cityFlag, boolean priceFlag,
         boolean reviewsFlag, String city, double floorPrice, double ceilingPrice, int floorReviews,
         int ceilingReviews) {
         
@@ -278,7 +274,7 @@ public class BackEnd {
     }
     
 
-    public static ArrayList<Airbnb> getUnfilteredListings(String quantity) {
+    public ArrayList<Airbnb> getUnfilteredListings(String quantity) {
         // TODO Auto-generated method stub
         
         
