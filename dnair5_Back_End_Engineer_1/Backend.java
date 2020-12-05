@@ -1,5 +1,8 @@
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.Scanner;
 
 // --== CS400 File Header Information ==--
 // Name: Dyuthi Nair
@@ -14,18 +17,43 @@ public class Backend {
 	private static ArrayList<String> allCities;
 	private static ArrayList<Airbnb> allRoomsInCity;
 	private static HashTableMap roomsInCity;
+	private static boolean dataloaded = false;
 	
-	public static void main(String[] args) {
-		roomsInCity = new HashTableMap();//key is city, value is allRoomsInCity
+	public ArrayList<Airbnb> getAirBnbs(String city) throws FileNotFoundException {
 		load();
-		
+		return find(city);
 	}
-
-	private static void load() {
-		//read city, put into allRoomsInCity
-			//in read Airbnbs, put into allRooms
-		//put String city(value), ArrayList<Airbnb> allRoomsInCity
-		//clear allRoomsInCity
+	
+	private void load() throws FileNotFoundException { //doesn't work yet, need to fix
+		if (!dataloaded)
+		{
+			File cities = new File("Cities.csv");
+			Scanner cityReader = new Scanner(cities);
+			
+			while (cityReader.hasNextLine()) {
+				allCities.add(cityReader.next());
+			}
+			cityReader.close();
+			
+			String[] info = new String[16];
+			File individualCity;
+			Scanner airbnbReader;
+			Airbnb airbnb;
+			
+			for(String city : allCities) {
+				individualCity = new File(city + ".csv");
+				airbnbReader = new Scanner(individualCity);
+				
+				while(airbnbReader.hasNextLine()) {
+					info = cityReader.nextLine().split(",");
+					airbnb = new Airbnb(city, info[0], info[2], info[8], info[9], info[10]);
+					allRoomsInCity.add(airbnb);
+				}
+				roomsInCity.put(city, allRoomsInCity);
+				allRoomsInCity.clear();
+			}
+			dataloaded = true;
+		}
 	}
 	
 	public ArrayList<Airbnb> find(String city) {
@@ -42,58 +70,6 @@ public class Backend {
 		return allCities.get(rand.nextInt());
 	}
 	
-	private class Airbnb {
-		String city;
-		int ID;
-		int hostID;
-		String roomType;
-		int price;
-		int minNights;
-		int rating;
-		boolean availability;
 		
-		private Airbnb(String city, int ID, int hostID, String roomType, int price, int minNights, int rating, boolean availability) {
-			this.city = city;
-			this.ID = ID;
-			this.roomType = roomType;
-			this.price = price;
-			this.minNights = minNights;
-			this.rating = rating;
-			this.availability = availability;
-		}
-
-		public String getCity() {
-			return city;
-		}
-
-		public int getID() {
-			return ID;
-		}
-
-		public String getRoomType() {
-			return roomType;
-		}
-
-		public int getPrice() {
-			return price;
-		}
-
-		public int getMinNights() {
-			return minNights;
-		}
-
-		public int getRating() {
-			return rating;
-		}
-
-		public boolean isAvailability() {
-			return availability;
-		}
-
-		public int getHostID() {
-			return hostID;
-		}		
-	}
-	
 	
 }

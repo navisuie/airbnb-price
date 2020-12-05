@@ -5,7 +5,8 @@ compile:
 	@echo "FIXME: *compile* should compile your code"
 
 test:
-	@echo "FIXME: *test* should run all your group's testing engineer's JUnit tests for the application"
+	javac -cp .:junit5.jar BackendTest.java
+	java -jar junit5.jar --class-path . --scan-classpath --details tree
 
 clean:
 	$(RM) *.class

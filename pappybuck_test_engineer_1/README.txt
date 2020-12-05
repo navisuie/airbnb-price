@@ -20,13 +20,10 @@ expand on the tests.
 
 Contributions Week 2:
 ---------------------
-<Replace this with a list your contributions for the week 2 deliverable.
-You can list the java files that you wrote and committed during the first week,
-or the data files your created or worked on. If you haven't written any code or
-other content that your can commit, provide a list of the work that you did
-during week 2. Make sure that all your week 2 contributions and this section
-of the readme are committed and pushed to the GitHub repo by the week 2 deadline
-on 12/01 at 11:59pm CST.>
+backend_test.java
+
+Starting creating test for the load functions but continued to run into InvoccableErrors so I am activily trying to solve that before creating more error prone tests.
+Most errors are from source problems that will be resolved soon
 
 Contributions Week 3:
 ---------------------

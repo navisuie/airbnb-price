@@ -23,12 +23,11 @@ Contributions Week 2:
 ---------------------
 
 Added:
-- javascript function to change dropbox contents based on which state is selected (currently an error exists in function)
+- javascript function to display available cities for each state
 
 To Do:
-- get dropbox to display all cities available for a given state
 - create java servlet to link with group members
-- print a table using the return values of the backend
+- call the backend functions and print the table of BNBs available
 
 on 12/01 at 11:59pm CST.>
 
