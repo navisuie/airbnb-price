@@ -16,8 +16,9 @@ import java.util.Random;
 
 public class BackEnd {
 
-    public static HashTableMap<Airbnb, Airbnb> airbnbDatabase = new HashTableMap<Airbnb, Airbnb>();;
-    public static HashTableMap<String, ArrayList<Airbnb>> cityDatabase = new HashTableMap<String, ArrayList<Airbnb>>();;
+    public static HashTableMap<String, Airbnb> airbnbDatabase = new HashTableMap<String, Airbnb>();;
+    public static HashTableMap<String, ArrayList<Airbnb>> cityDatabase =
+        new HashTableMap<String, ArrayList<Airbnb>>();;
     public static ArrayList<String> cityList = new ArrayList<String>();
 
     public static class Airbnb { // Class for objects we will store in hashtable
@@ -61,12 +62,12 @@ public class BackEnd {
         public String getName() {
             return this.name;
         }
-        
+
         @Override
         public String toString() {
-              return this.getName() + ", " + this.getType() + ", " + this.getLocation() + ", "
+            return this.getName() + ", " + this.getType() + ", " + this.getLocation() + ", "
                 + this.getPrice() + ", " + this.getMinNights() + ", " + this.getReviews() + ".";
-            
+
         }
     }
 
@@ -80,7 +81,7 @@ public class BackEnd {
                 new BufferedReader(new FileReader("src/Data/Cities/Cities.csv"));
 
             String currentLine = "";
-            String firstLine = csvReader.readLine(); // skip over first line
+            csvReader.readLine(); // skip over first line
             while ((currentLine = csvReader.readLine()) != null) {
                 String[] data = currentLine.split(",");
 
@@ -118,7 +119,7 @@ public class BackEnd {
             csvReader = new BufferedReader(new FileReader("src/Data/" + city + ".csv"));
 
             String currentLine = "";
-            String firstLine = csvReader.readLine(); // skip over first line
+            csvReader.readLine(); // skip over first line
             while ((currentLine = csvReader.readLine()) != null) {
                 String[] data = null;
                 String[] secondaryData = null;
@@ -175,7 +176,7 @@ public class BackEnd {
 
                 Airbnb airbnb = new Airbnb(name, location, type, price, minNights, reviews);
                 listOfAirbnbs.add(airbnb);
-                airbnbDatabase.put(airbnb, airbnb); // for hashtable, airbnb object is key & value
+                airbnbDatabase.put(airbnb.toString(), airbnb); // for hashtable, airbnb object is key & value
             }
             csvReader.close();
 
@@ -190,13 +191,15 @@ public class BackEnd {
     /*
      * Returns the string representation of an Airbnb
      */
-    public String get(Airbnb airbnb) {
-        if (airbnb == null || !airbnbDatabase.containsKey(airbnb)) {
+    public String get(String key) {
+        if (key == null || !airbnbDatabase.containsKey(key)) {
             return null; // airbnb not in database
         }
 
-        return airbnb.getName() + ", " + airbnb.getType() + ", " + airbnb.getLocation() + ", "
-            + airbnb.getPrice() + ", " + airbnb.getMinNights() + ", " + airbnb.getReviews() + ".";
+        return airbnbDatabase.get(key).getName() + ", " + airbnbDatabase.get(key).getType() + ", "
+            + airbnbDatabase.get(key).getLocation() + ", " + airbnbDatabase.get(key).getPrice()
+            + ", " + airbnbDatabase.get(key).getMinNights() + ", "
+            + airbnbDatabase.get(key).getReviews() + ".";
     }
 
     /*
@@ -302,7 +305,7 @@ public class BackEnd {
 
         for (int i = 0; i < Integer.parseInt(quantity); i++) {
             unfilteredListings.add(tempList.get(i));
-        }
+        } //
 
 
         return unfilteredListings;
@@ -310,4 +313,3 @@ public class BackEnd {
 
 
 }
-
