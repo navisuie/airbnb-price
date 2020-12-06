@@ -1,0 +1,11 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+108061,Walk to stores/parks/downtown. Fenced yard/Pets OK,320564,Lisa,,28801,35.6067,-82.55563,Entire home/apt,80,30,89,2019-11-30,0.80,2,327
+155305,Cottage! BonPaul + Sharky's Hostel,746673,BonPaul,,28806,35.57864,-82.59578,Entire home/apt,93,1,271,2020-10-18,2.41,6,339
+156926,"Mixed Dorm ""Top Bunk #1"" at BPS Hostel",746673,BonPaul,,28806,35.57864,-82.59578,Shared room,30,1,280,2020-10-18,3.25,6,237
+160594,Historic Grove Park,769252,Elizabeth,,28801,35.61442,-82.54127,Private room,125,30,58,2015-10-19,0.52,1,365
+209068,Terrace Cottage,1029919,Kevin,,28804,35.61856,-82.55276,Entire home/apt,134,7,56,2020-09-25,0.51,1,324
+213006,Blue Gate West,1098412,Susanne,,28806,35.58345,-82.59713,Private room,48,1,137,2019-11-30,1.34,1,292
+246315,Asheville Dreamer's Cabin,1292070,Annie,,28805,35.59635,-82.50655,Private room,68,3,57,2019-10-30,0.53,2,92
+259576,"Private, peaceful, and free goat therapy",1362726,Julia,,28805,35.61929,-82.48114,Entire home/apt,71,7,537,2020-04-05,4.96,1,202
+295496,The Fern Street Apt near Biltmore,1501882,Debbie,,28803,35.55537,-82.53539,Entire home/apt,50,90,32,2020-10-10,0.30,1,268
+304379,Refocus Cottage - paradise,1566145,Gayle,,28804,35.64453,-82.52586,Entire home/apt,289,30,24,2019-08-03,0.23,2,265
