@@ -74,19 +74,28 @@ public class backend_test {
         assertTrue(Testing.get(625).getType().equals("Entire home/apt"), "Asheville Apartment 3 Type Failure");
         }
       }
+      //Tampa
+      {
+        Testing = test.find("Tampa");
+        assertTrue(Testing == null, "Missing City Failure");
+      }
     }
     
     @Test
     public void get_test() {
-      assertTrue(true);
+      //Asheville
+      {
+        assertTrue(test.get(new BackEnd.Airbnb("Sunny Modern Country Apartment with Hot Tub", "Asheville", "Entire home/apt", 86, 2, 269))
+        .equals("Sunny Modern Country Apartment with Hot Tub, Entire home/apt, Asheville, 86.0, 2, 269."), "Asheville Get 1 Failure");
+      }
+      
+      
+      
+
+
     }
 
     public static void main(String[] args) {
       BackEnd.loadCities();
-      String[] tester = {"Asheville"};
-      BackEnd test = new BackEnd();
-      String[] testing = test.listCities();
-      System.out.println(Arrays.equals(tester, testing));
-      
     }
 }
