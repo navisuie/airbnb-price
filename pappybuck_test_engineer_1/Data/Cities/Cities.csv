@@ -18,7 +18,7 @@ id,Name,State
 17,Pacific Grove,California
 18,Portland,Oregon
 19,Rhode Island,Rhode Island
-20,Salem,Maine
+20,Salem,Oregon
 21,San Diego,California
 22,San Francisco,California
 23,San Mateo,California
@@ -26,4 +26,4 @@ id,Name,State
 25,Santa Cruz,California
 26,Seattle,Washington
 27,Twin Cities,Minnesota
-28,Washington D.C., Washington D.C.
+28,Washington_DC,Washington_DC

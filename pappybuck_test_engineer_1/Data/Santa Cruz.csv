@@ -267,7 +267,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 9296129,5 Acres Mountain Retreat - 2 BDRM's,48262204,Greg,,Unincorporated Areas,37.02306,-121.96488,Entire home/apt,192,2,228,2020-10-25,3.88,1,302
 9315936,New Modern Light filled Studio,48353362,Erik & Marina,,Unincorporated Areas,36.98595,-121.98592,Entire home/apt,121,2,229,2020-10-01,3.82,1,332
 9478896,Seascape Ocean View Condo,49131728,Kristina Ema,,Unincorporated Areas,36.9535,-121.87851,Entire home/apt,486,2,110,2020-09-25,1.84,1,170
-9551203,"Westside, Ocean View, Clean, Safe,",48862144,Patsy,,City of Santa Cruz,36.96836,-122.04544,Private room,85,2,204,2020-03-11,3.62,1,148
+9551203,"Westside, Ocean View, Clean, Safe",48862144,Patsy,,City of Santa Cruz,36.96836,-122.04544,Private room,85,2,204,2020-03-11,3.62,1,148
 9607114,Beautiful Aptos Oceanview Home,34448849,Joe,,Unincorporated Areas,36.97509,-121.91508,Entire home/apt,189,2,32,2020-10-12,0.57,1,117
 9837961,Hawaiian Beach House-1 block beach-Family Friendly,50658872,Lori,,Unincorporated Areas,36.96198,-121.98275,Entire home/apt,350,4,31,2020-10-25,0.54,1,293
 9887572,Private Studio 1 block from Beach!,50836817,Dave,,City of Capitola,36.97371,-121.94934,Entire home/apt,269,1,61,2020-10-26,1.04,1,82
@@ -464,8 +464,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 17810353,Executive Beach Retreat~ February 2020,5696442,Ann,,City of Capitola,36.95887,-121.9806,Entire home/apt,180,14,1,2017-07-21,0.03,2,158
 17814562,The Green Cabin In Towering Redwoods,366768,Cynthia,,Unincorporated Areas,37.11169,-122.11754,Entire home/apt,105,1,190,2020-10-14,4.43,5,344
 17826786,Luxurious Oceanfront Home Near Private Beach,68132001,Turiya,,City of Capitola,36.96652,-121.95876,Entire home/apt,939,3,36,2020-10-11,0.92,1,304
-17849254,"Cozy garden westside king suite 
-STR18-0122",27018411,Toni,,City of Santa Cruz,36.96821,-122.03593,Entire home/apt,101,2,331,2020-10-26,7.58,2,123
+17849254,"Cozy garden westside king suite STR18-0122",27018411,Toni,,City of Santa Cruz,36.96821,-122.03593,Entire home/apt,101,2,331,2020-10-26,7.58,2,123
 17942848,Wave House by the Beach for Two!,50746832,Kendall,,City of Santa Cruz,36.96698,-122.02099,Entire home/apt,256,2,212,2020-10-20,5.45,1,149
 17960292,Private room walking distance to beach / boardwalk,123278862,Adriana,,City of Santa Cruz,36.96564,-122.02137,Private room,150,1,18,2020-07-01,0.41,5,333
 17974922,"Woodland Nest - Cozy, Private Apt in the Redwoods!",123449366,Lynne,,Unincorporated Areas,37.04634,-122.06108,Entire home/apt,159,2,12,2018-09-03,0.30,1,127
@@ -653,7 +652,7 @@ STR18-0122",27018411,Toni,,City of Santa Cruz,36.96821,-122.03593,Entire home/ap
 23697624,Yarrow Beach House,8137798,Jeannie,,Unincorporated Areas,36.91463,-121.84031,Private room,55,30,3,2018-10-16,0.10,1,58
 23751490,Beautiful and Peaceful Retreat in the Redwoods,72578420,David & Terri,,Unincorporated Areas,37.0733,-122.01325,Entire home/apt,304,2,59,2020-10-25,1.87,1,153
 23859849,The Aptos Village Escape,4698908,Mike & Kate,,Unincorporated Areas,36.98133,-121.90653,Entire home/apt,308,1,19,2020-08-07,0.64,1,44
-23875028,"3 Bedroom Rio Del Mar Beach: Pets Okay,",77016220,Lily,,Unincorporated Areas,36.96657,-121.88824,Entire home/apt,450,10,51,2020-03-21,1.62,1,109
+23875028,"3 Bedroom Rio Del Mar Beach: Pets Okay",77016220,Lily,,Unincorporated Areas,36.96657,-121.88824,Entire home/apt,450,10,51,2020-03-21,1.62,1,109
 23878003,Capitola Seashell Sanctuary#A,15867956,Surf City,,City of Capitola,36.97403,-121.95266,Entire home/apt,286,2,23,2020-10-18,0.77,30,337
 23878577,Capitola Seashell Sanctuary #B,15867956,Surf City,,City of Capitola,36.97269,-121.9508,Entire home/apt,286,2,11,2020-10-04,0.37,30,203
 23921322,Clean & Sunny Cottage Near Beaches and Boardwalk,9020085,Kevin & Mackenzie,,City of Santa Cruz,36.98631,-122.00853,Entire home/apt,154,3,121,2020-09-27,3.90,1,242
@@ -677,9 +676,7 @@ STR18-0122",27018411,Toni,,City of Santa Cruz,36.96821,-122.03593,Entire home/ap
 24608980,"Cozy Getaway in the Woods, close to Beach",168979386,Karen & Candice,,Unincorporated Areas,37.05659,-121.98819,Entire home/apt,144,2,92,2020-10-25,3.06,1,159
 24632849,Vistamar on Seabright Beach,186156529,Gabriela,,City of Santa Cruz,36.96444,-122.00779,Entire home/apt,1086,3,3,2020-01-20,0.11,1,186
 24692463,Santa Cruz/Corralitos Ocean View/family heaven,11640589,Ludovic,,Unincorporated Areas,37.01656,-121.77003,Entire home/apt,550,2,27,2020-09-07,0.91,1,311
-24729914,"Santa Cruz Mountain Retreat, Rivers and Redwoods
-
-This home is in a large park and Christian conference center.  There are many trails through the redwoods and three rivers along with a waterfall just steps away. A small river runs below the deck, calming",21502629,Mendy,,Unincorporated Areas,37.05039,-122.06004,Entire home/apt,330,2,41,2020-10-18,1.40,1,340
+24729914,"Santa Cruz Mountain Retreat, Rivers and Redwoods This home is in a large park and Christian conference center.  There are many trails through the redwoods and three rivers along with a waterfall just steps away. A small river runs below the deck, calming",21502629,Mendy,,Unincorporated Areas,37.05039,-122.06004,Entire home/apt,330,2,41,2020-10-18,1.40,1,340
 24799934,Cozy modern family beach home,169333246,Alina,,City of Santa Cruz,36.97648,-122.0101,Entire home/apt,432,4,13,2019-07-31,0.45,3,30
 24809055,180 degree Ocean View*Walk to beach*Rare 3 BR Unit,854712,David,,Unincorporated Areas,36.96792,-121.90251,Entire home/apt,368,2,69,2020-10-25,2.37,9,312
 24870159,Mountain Retreat,5408846,Nanette,,Unincorporated Areas,37.08815,-121.93768,Private room,85,1,1,2018-05-23,0.03,1,2

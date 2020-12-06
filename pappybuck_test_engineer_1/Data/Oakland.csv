@@ -420,7 +420,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 10997828,Charming Bistro style townhouse.,57066223,Ciceli,,Millsmont,37.77378,-122.17858,Entire home/apt,175,2,1,2016-02-07,0.02,1,87
 11017799,Cozy Craftsman Studio Guest House,57172510,Zighereda,,Eastmont Hills,37.76632,-122.16311,Entire home/apt,100,3,65,2019-11-25,1.29,1,249
 11049950,HUMBLE APARTMENT,57350349,Yurri,,Ivy Hill,37.79992,-122.24665,Private room,50,2,44,2020-03-07,0.81,1,352
-11068352,"Beautiful room with bed Internet,",52891934,Waliou,,Rancho San Antonio,37.78571,-122.23602,Private room,199,1,0,,,1,365
+11068352,"Beautiful room with bed Internet",52891934,Waliou,,Rancho San Antonio,37.78571,-122.23602,Private room,199,1,0,,,1,365
 11084991,Clean & Safe Guest Room/ Close to BART,57547968,Heather,,Coliseum,37.75879,-122.19367,Private room,38,3,27,2020-08-03,0.48,1,34
 11092632,"Huge, epic, historic mansion. Easily sleeps 40+.",6722695,E.J. Blumberg,,Highland Terrace,37.79467,-122.24026,Entire home/apt,983,2,120,2020-10-05,2.12,13,365
 11205878,Zen Room: Bright Spacious Room w/Private Bath,58352174,Damali,,Oak Center,37.81048,-122.28115,Private room,45,1,233,2020-03-15,5.16,1,297
@@ -1200,8 +1200,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 33667839,Cozy Chic + Comfortable in Oakland,3514,Jon And Jen,,Shafter,37.83886,-122.26049,Entire home/apt,800,30,36,2020-05-29,1.92,7,68
 33683699,"Quiet Lakeside oasis, 20min to SF, walk everywhere",13494651,Jason,,Civic Center,37.80152,-122.26441,Entire home/apt,137,40,10,2020-01-31,0.55,1,90
 33693515,Beautiful 3 bdrm Home w/ Lush Garden in Rockridge,10173518,Nancy,,Fairview Park,37.84709,-122.25958,Entire home/apt,250,7,17,2020-09-11,0.91,5,85
-33752947,"Private room by OAK Airport& BART 
-Free breakfast!",104764125,Marwen,,Bancroft Business-Havenscourt,37.76506,-122.1821,Private room,40,3,20,2020-10-05,1.08,3,359
+33752947,"Private room by OAK Airport& BART Free breakfast!",104764125,Marwen,,Bancroft Business-Havenscourt,37.76506,-122.1821,Private room,40,3,20,2020-10-05,1.08,3,359
 33774516,"WOW!LOVELY HM,NICE LOC,NR ALL,BUS,BART, BERKLEY,SF",408300,Jennifer,,Upper Dimond,37.79962,-122.21254,Private room,55,30,0,,,17,365
 33832980,Large studio w/washer dryer view of all SF bridges,19658442,Faz,,Montclair,37.83332,-122.2039,Private room,105,2,0,,,5,365
 33858104,Modern Lake Merritt Beauty Sleeps 4,382335,Karina,,Ivy Hill,37.79743,-122.24717,Entire home/apt,135,2,48,2020-09-03,2.67,1,21
@@ -1359,7 +1358,7 @@ Free breakfast!",104764125,Marwen,,Bancroft Business-Havenscourt,37.76506,-122.1
 38335336,Room for Rent in Oakland Sequoyah Hills,31561745,Sun,,Sequoyah,37.7736,-122.13692,Private room,50,14,0,,,2,90
 38362421,Room for Rent in Oakland Sequoyah Hills_2,31561745,Sun,,Sequoyah,37.77166,-122.1378,Private room,58,14,0,,,2,90
 38367642,Basic Simple Lower Room B,30474731,Maestro.,,Gaskill,37.83829,-122.27705,Private room,28,2,34,2020-09-27,2.48,5,191
-38375720,"WOW! LOVELY HM,NR SF,BERKLEY,WCREEK,",408300,Jennifer,,Upper Dimond,37.80062,-122.21388,Private room,55,7,0,,,17,365
+38375720,"WOW! LOVELY HM,NR SF,BERKLEY,WCREEK",408300,Jennifer,,Upper Dimond,37.80062,-122.21388,Private room,55,7,0,,,17,365
 38381440,West Oakland Room in Renovated 110 year old home,48422,Keith,,McClymonds,37.81459,-122.27715,Private room,37,14,3,2020-06-09,0.34,23,311
 38386300,Cabin Sleeping Room Private A+,30474731,Maestro.,,Gaskill,37.83833,-122.27873,Private room,29,2,18,2020-09-30,1.30,5,195
 38484052,"Upscale, urban custom built home for your comfort",293463570,Shirley,,Fruitvale Station,37.77511,-122.22144,Entire home/apt,400,2,8,2020-10-11,0.68,1,69

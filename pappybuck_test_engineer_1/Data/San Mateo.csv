@@ -128,7 +128,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 1984723,Treasure ON the coast..ocean FRONT!,10240230,Steve,,Unincorporated Areas,37.53134,-122.51786,Entire home/apt,352,2,88,2020-10-11,1.16,1,352
 2032240,"Lovely Quiet Studio near Bart, SF, SFO, Parking",10433126,Esther,,Daly City,37.70132,-122.46151,Entire home/apt,60,2,256,2020-10-18,3.06,4,66
 2049003,Family or Group! 12 Min to SFO & SF FiDi ⛹️☺♬親子別墅,10502584,Anita,,Daly City,37.68765,-122.47549,Entire home/apt,484,90,39,2020-03-13,2.20,1,180
-2057722,"Peaceful Room near BART, SFO, SF, Malls, Parking,",10433126,Esther,,Daly City,37.70192,-122.46057,Private room,45,6,158,2020-08-26,2.79,4,40
+2057722,"Peaceful Room near BART, SFO, SF, Malls, Parking",10433126,Esther,,Daly City,37.70192,-122.46057,Private room,45,6,158,2020-08-26,2.79,4,40
 2062951,"Bright, updated & close to Palo Alto & Stanford.",10557259,Vasey,,Menlo Park,37.45837,-122.16079,Entire home/apt,190,5,4,2015-08-16,0.05,1,21
 2089441,"Private Apartment, 1st floor of 3 story house",10665012,Laura,,Woodside,37.4385,-122.23905,Entire home/apt,119,1,174,2020-10-17,2.32,1,358
 2089965,Short walk to Palo Alto downtown!,7172529,Lilian,,Menlo Park,37.44881,-122.17096,Private room,125,5,9,2018-10-27,0.18,1,1
@@ -387,8 +387,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 9317642,Urban Flat| 2BR in San Mateo| ECO Cleaned,2917744,Urban Flat,,San Mateo,37.54891,-122.31316,Entire home/apt,206,5,131,2020-09-26,2.17,19,292
 9346664,Studio in the woods,1576445,David & Gigi,,Redwood City,37.4617,-122.25478,Entire home/apt,99,3,107,2020-10-07,1.80,1,332
 9351677,❤️A Luxurious 3B/2B with Air Conditioning,23939312,Kenny,,San Mateo,37.54529,-122.28221,Entire home/apt,325,20,143,2020-09-18,3.00,4,174
-9373096,"Luxury Room for One in Hillsborough
-雅房，舒適安全安靜又價平。",47397756,Mary Wang,,Hillsborough,37.55089,-122.37193,Private room,59,3,45,2020-09-14,0.75,6,359
+9373096,"Luxury Room for One in Hillsborough 雅房，舒適安全安靜又價平。",47397756,Mary Wang,,Hillsborough,37.55089,-122.37193,Private room,59,3,45,2020-09-14,0.75,6,359
 9447334,Luxury Retreat,45157755,Fara,,Redwood City,37.4524,-122.254,Entire home/apt,650,3,41,2019-10-05,0.69,2,359
 9462798,Prime Location Near Stanford,16618066,Alex,,Menlo Park,37.44958,-122.1827,Entire home/apt,87,5,27,2020-05-31,0.46,5,81
 9464977,Private Room in Foster City,49048931,Jason,,Foster City,37.55283,-122.25038,Private room,55,6,12,2019-11-30,0.23,1,364
@@ -711,7 +710,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 17047993,Daly City nice cozy room near SF SFO Downtown Bart,97542334,Jing,,Daly City,37.68905,-122.45816,Private room,65,1,235,2020-07-25,5.21,4,89
 17079431,Unwind in luxury: house with breathtaking views,10016473,Natalie,,Belmont,37.51335,-122.31309,Entire home/apt,340,7,0,,,1,315
 17174321,Luxury 4BD (3B+Bus)/3BA Home in San Mateo Near SFO,115544213,Yu,,San Mateo,37.5501,-122.31775,Entire home/apt,298,365,56,2019-03-17,1.25,1,359
-17175882,"1x BR in a ""5 STAR"", European-Style House",106173372,T,,Foster City,37.54245,-122.27544,Private room,69,2,29,2020-04-02,0.65,2,364
+17175882,"1x BR in a ""5 STAR"" European-Style House",106173372,T,,Foster City,37.54245,-122.27544,Private room,69,2,29,2020-04-02,0.65,2,364
 17178848,San Francisco Bay View room #A,24680943,Christiana,,South San Francisco,37.64079,-122.46417,Private room,55,5,54,2020-09-09,1.24,4,364
 17189725,Beautiful Cottage 1 Bedroom/1 Bath/Kitchen,41574587,Enrique And Vienna  Of Q Management,,South San Francisco,37.654,-122.41425,Entire home/apt,77,1,237,2020-10-15,5.28,18,355
 17195044,Comfy 2 bedrooms close Bart sunny backyard,78351779,Yuanhua,,Daly City,37.70297,-122.46913,Entire home/apt,150,2,152,2020-01-30,3.38,2,297
@@ -759,8 +758,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 17927284,Sunny bedroom and modern kitchen near SFO,59539088,Ina,,San Mateo,37.57191,-122.31741,Private room,99,1,21,2020-01-25,0.49,8,365
 17976212,Take 5 on the Plant-Filled Veranda of an Arty Studio,44539810,Evelyn & Kevin,,Daly City,37.70228,-122.49139,Private room,113,1,460,2020-10-18,10.72,5,345
 17978446,Prime West Menlo Park!,123490806,Kirsten,,Menlo Park,37.43924,-122.18728,Entire home/apt,600,3,5,2019-09-01,0.12,1,345
-18091329,"Sleek, Fresh & Cozy 
-1 BD",6001465,D & D,,East Palo Alto,37.45453,-122.12401,Private room,58,7,22,2019-12-04,0.52,3,364
+18091329,"Sleek, Fresh & Cozy 1 BD",6001465,D & D,,East Palo Alto,37.45453,-122.12401,Private room,58,7,22,2019-12-04,0.52,3,364
 18095063,Serene Studio with Private Entrance and Yard,7155983,Fabia & Martin,,Redwood City,37.47623,-122.23911,Entire home/apt,125,3,84,2020-10-20,1.97,1,175
 18096924,Great private room with private entrance!,124649695,Marlyn,,Daly City,37.68459,-122.4741,Private room,102,2,164,2020-09-07,4.23,1,90
 18105736,In-law/studio The heart of Silicone Valley,107845826,Tatiana,,Redwood City,37.46696,-122.24847,Entire home/apt,80,1,17,2020-09-12,0.40,1,295
@@ -796,8 +794,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 18757761,Private Self Checkin Apartment 7 mins to SFO,28019694,Nathan,,San Bruno,37.61345,-122.40353,Entire home/apt,90,1,311,2020-10-12,7.43,1,346
 18791524,"Private Bed, Bath, and Kitchenette in New House",700445,Nhan,,Colma,37.68134,-122.46485,Private room,85,30,16,2020-01-25,0.42,1,283
 18809455,San Mateo Getaway Private 2 Bedroom,130947047,Lei Anna,,San Mateo,37.5285,-122.30908,Entire home/apt,167,1,161,2020-10-06,4.17,1,63
-18840823,"Beautiful WaterFront Home!
-Business or Vacation!",48629082,Mindy,,San Mateo,37.54425,-122.27844,Entire home/apt,232,7,58,2020-08-08,1.43,1,266
+18840823,"Beautiful WaterFront Home! Business or Vacation!",48629082,Mindy,,San Mateo,37.54425,-122.27844,Entire home/apt,232,7,58,2020-08-08,1.43,1,266
 18859768,Super cute spot in awesome Half Moon Bay location,131403299,Tori,,Unincorporated Areas,37.49478,-122.45951,Entire home/apt,235,2,104,2020-10-19,2.58,1,121
 18879351,❤️Amazing! 2B/2B Half block from the bay! Near SFO,23939312,Kenny,,Foster City,37.56461,-122.25425,Entire home/apt,224,28,126,2020-08-31,3.09,4,294
 18893223,Luxury 1 BR Apt.  in the heart of Silicon Valley!,30283594,Global Luxury Suites,,Menlo Park,37.48714,-122.18303,Entire home/apt,289,3,7,2019-05-04,0.17,12,208
@@ -960,8 +957,7 @@ Business or Vacation!",48629082,Mindy,,San Mateo,37.54425,-122.27844,Entire home
 21252313,Charming Private Quiet Backyard Studio,40063410,Jill,,San Mateo,37.55115,-122.32148,Entire home/apt,110,2,105,2020-10-18,3.14,1,149
 21275934,Unique Redwood City 4 Bedroom Home Sleeps 8,4656446,A.C.,,Redwood City,37.48016,-122.2405,Entire home/apt,385,3,54,2020-08-05,1.52,2,143
 21295501,"Remodeled quiet 1 BR near SFO, heated bath floors.",154097991,Heather,,Burlingame,37.58259,-122.35994,Entire home/apt,155,2,64,2020-02-26,1.77,1,22
-21312302,"Clean & Quiet House
-2 Rooms 4 Beds, Parking",154249535,Raymond,,Pacifica,37.6518,-122.47164,Entire home/apt,153,2,114,2020-10-18,3.18,1,118
+21312302,"Clean & Quiet House 2 Rooms 4 Beds, Parking",154249535,Raymond,,Pacifica,37.6518,-122.47164,Entire home/apt,153,2,114,2020-10-18,3.18,1,118
 21325076,1332A Double-Bed Master Bedroom with Private Bath,94282453,Kimberly,,South San Francisco,37.66503,-122.40272,Private room,64,2,86,2020-09-24,2.34,24,168
 21329144,1332B Large Private Room with Shared Bath near SFO,94282453,Kimberly,,South San Francisco,37.663,-122.40209,Private room,46,2,101,2020-10-10,2.75,24,173
 21348551,1332C Large Double Queen-Bed Room near SFO,94282453,Kimberly,,South San Francisco,37.66313,-122.40209,Private room,50,2,119,2020-07-23,3.25,24,166
@@ -1333,8 +1329,7 @@ Business or Vacation!",48629082,Mindy,,San Mateo,37.54425,-122.27844,Entire home
 28079359,EPA.3B-Bottom Bunkbed in Shared room by Target,424793,Iz,,East Palo Alto,37.46723,-122.14348,Shared room,19,1,15,2019-09-22,0.61,16,359
 28111635,Large home near Big Tech & Stanford,212357544,Selena,,East Palo Alto,37.47391,-122.13366,Entire home/apt,310,7,6,2020-09-14,0.23,3,337
 28138544,"Private, Charming Room in Beautiful Belmont Hills",212551008,Lillian Yvette,,Belmont,37.5131,-122.31398,Private room,100,1,6,2020-01-31,0.27,1,112
-28140941,"Peninsula Hideaway
-A quiet, private, clean Mancave",212567767,John P,,Burlingame,37.58575,-122.3622,Private room,70,1,117,2020-10-10,4.49,1,88
+28140941,"Peninsula Hideaway A quiet, private, clean Mancave",212567767,John P,,Burlingame,37.58575,-122.3622,Private room,70,1,117,2020-10-10,4.49,1,88
 28142383,Luxury bedroom with privet bath near SFO,59539088,Ina,,San Mateo,37.57224,-122.3182,Private room,119,1,9,2020-03-10,0.35,8,365
 28148045,"""A Private Oasis"" in the heart of the tech world",212612004,Peter,,Menlo Park,37.46376,-122.15158,Entire home/apt,135,2,34,2020-06-10,1.43,1,116
 28209182,New 2 Bedroom 2 Bath with Kitchen & Free Parking!,213069046,Brian,,Daly City,37.65293,-122.46952,Entire home/apt,128,1,109,2020-10-18,4.36,1,89
@@ -1922,7 +1917,7 @@ A quiet, private, clean Mancave",212567767,John P,,Burlingame,37.58575,-122.3622
 37723782,Nice Room Near SFO and Oyster Point,26870952,Faith,,South San Francisco,37.66385,-122.40986,Private room,68,3,12,2019-11-21,0.85,3,179
 37728046,Startup living Palo Alto - Shared Bunk Bed,281439029,Mukul,,East Palo Alto,37.46861,-122.14005,Shared room,35,5,0,,,4,90
 37741167,Startup living Palo Alto - Shared Bunk Bed,281439029,Mukul,,East Palo Alto,37.45703,-122.13168,Shared room,35,3,2,2019-11-03,0.14,4,90
-37751419,"#3This small super cozy room near FB, Amazone,",258430010,Silvestre,,East Palo Alto,37.46607,-122.14524,Private room,50,1,9,2020-08-13,0.64,3,360
+37751419,"#3This small super cozy room near FB, Amazone",258430010,Silvestre,,East Palo Alto,37.46607,-122.14524,Private room,50,1,9,2020-08-13,0.64,3,360
 37774764,MP-XC Top bunk. Awesome shared room! walk stores!,424793,Iz,,Unincorporated Areas,37.47068,-122.20502,Shared room,21,1,6,2020-09-12,0.50,16,266
 37774957,MP-XA Top bunk. Awesome house! walk to stores!,424793,Iz,,Unincorporated Areas,37.47021,-122.20511,Shared room,21,1,4,2020-03-29,0.28,16,272
 37775051,MP-XB Bottom bunk Awesome house. walk to stores,424793,Iz,,Unincorporated Areas,37.46905,-122.20636,Shared room,21,1,7,2020-10-07,0.53,16,270
