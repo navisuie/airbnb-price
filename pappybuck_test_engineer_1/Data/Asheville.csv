@@ -390,7 +390,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 14738243,"CozyCottageWalk2town, yoga3wkJAN/FEB BOOKDiscount",65772530,Roberta,,28801,35.60369,-82.54804,Private room,45,1,196,2020-03-14,4.14,1,0
 14751215,Dog-Friendly Home close to Downtown Asheville,10699816,Trace,,28803,35.54648,-82.47963,Entire home/apt,148,1,270,2020-10-18,5.46,4,310
 14757919,Bear's Den in Historic Montford,13282355,Ashley,,28801,35.5978,-82.56623,Entire home/apt,130,2,143,2020-06-29,3.23,1,64
-14805266,"""Hops,"" Skip and a Jump to Downtown and River Arts",64825951,Katie,,28801,35.58983,-82.56462,Entire home/apt,364,4,191,2020-03-16,4.47,1,0
+14805266,"""Hops"" Skip and a Jump to Downtown and River Arts",64825951,Katie,,28801,35.58983,-82.56462,Entire home/apt,364,4,191,2020-03-16,4.47,1,0
 14816025,Asheville Tiny House,11691015,Katie,,28806,35.50874,-82.61212,Entire home/apt,93,2,194,2020-10-19,3.85,2,38
 14857013,Retro Vintage-West Asheville Urban Abode,93023816,Elisa,,28806,35.57691,-82.59221,Entire home/apt,135,2,200,2020-10-22,3.97,1,166
 14899945,Swensen Home,32928027,Becky,,28803,35.53948,-82.46929,Private room,98,1,23,2020-09-07,0.47,2,220
@@ -413,7 +413,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 15248786,ZenMtn Treehouse (Main Floor)NO cleaning fee!,74862179,Rebecca,,28803,35.55611,-82.47875,Private room,88,1,58,2019-12-02,1.17,2,21
 15289199,Cabin-Wood Fireplace-Hot Tub-Pool,93289165,Carolyn,,28715,35.51354,-82.64757,Entire home/apt,196,2,2,2020-09-23,0.04,2,309
 15321136,Shenandoah RV (tiny house?),72717376,Liza,,28805,35.5892,-82.47565,Entire home/apt,80,1,80,2020-07-20,1.62,3,6
-15327549,"A Secret Bungalow -Walkable to Downtown,",70854260,Colleen,,28801,35.59767,-82.56255,Entire home/apt,169,30,22,2018-10-14,0.45,1,18
+15327549,"A Secret Bungalow -Walkable to Downtown",70854260,Colleen,,28801,35.59767,-82.56255,Entire home/apt,169,30,22,2018-10-14,0.45,1,18
 15339276,"Historic Montford's Landmark Keyhole House, Suite Two",53338225,Renée,,28801,35.60625,-82.56418,Entire home/apt,151,14,152,2020-10-02,3.09,2,59
 15343687,Monthly Staycation off Haywood.,29602697,Mike,,28806,35.58108,-82.5852,Entire home/apt,104,30,201,2020-09-21,4.28,1,106
 15345095,"Historic Montford's Landmark Keyhole House, Suite One",53338225,Renée,,28801,35.60615,-82.56413,Entire home/apt,151,14,197,2020-10-05,4.00,2,0
@@ -515,7 +515,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 17648416,Private Bungalow Ten Minute Walk to Downtown Asheville,1786031,Emilie,,28801,35.60302,-82.54885,Entire home/apt,210,2,80,2020-10-16,1.90,2,54
 17649947,Getaway to Blue Ridge Mountains-West Asheville,71857225,Robert,,28806,35.58302,-82.6056,Entire home/apt,65,28,180,2020-08-31,4.13,1,46
 17653835,Just West of West Asheville Studio,35987403,Betsy,,28806,35.56566,-82.63338,Entire home/apt,79,2,156,2020-10-09,3.63,1,39
-17697321,"""Super Close to Everything,""  Private Studio",93554832,Anne Marie,,28805,35.58067,-82.54092,Entire home/apt,91,2,182,2020-10-19,4.18,1,307
+17697321,"""Super Close to Everything""  Private Studio",93554832,Anne Marie,,28805,35.58067,-82.54092,Entire home/apt,91,2,182,2020-10-19,4.18,1,307
 17726977,Cozy Private Suite Near Biltmore & Downtown,4448420,Jane,,28803,35.56364,-82.51953,Private room,114,1,123,2020-10-19,4.09,1,20
 17743775,Orchard House,25198720,Cooper,,28805,35.65206,-82.4774,Entire home/apt,149,4,2,2020-07-24,0.07,1,296
 17780854,Serene Private Bed & Bath for Female Travelers,87524887,Lisa,,28805,35.64262,-82.4739,Private room,65,2,53,2019-11-05,1.22,1,47

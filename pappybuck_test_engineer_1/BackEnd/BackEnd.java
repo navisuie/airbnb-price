@@ -1,5 +1,3 @@
-package pappybuck_test_engineer_1.BackEnd;
-
 // --== CS400 File Header Information ==--
 // Name: Luis Cazarin Quiroga
 // Email: cazarinquiro@wisc.edu
@@ -8,80 +6,60 @@ package pappybuck_test_engineer_1.BackEnd;
 // Lecturer: Florian Heimerl
 // Notes to Grader:
 
+package pappybuck_test_engineer_1.BackEnd;
 
-import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
-import java.util.Scanner;
-import com.opencsv.*; // used to read CSV - with a scanner or stream, can't read elements w/ double quotes
-
-
-
-
-// All methods are static so that front end does not need to initialize a BackEnd object, just call static methods
 
 public class BackEnd {
 
-    public static void main(String[] args) throws IOException { // testing
-        loadCities();
-        System.out.println(listCities());
-        
-
-    }
-
     public static HashTableMap<Airbnb, Airbnb> airbnbDatabase = new HashTableMap<Airbnb, Airbnb>();;
-    public static HashTableMap<String, ArrayList<Airbnb>> cityDatabase;
+    public static HashTableMap<String, ArrayList<Airbnb>> cityDatabase = new HashTableMap<String, ArrayList<Airbnb>>();
     public static ArrayList<String> cityList = new ArrayList<String>();
-    public static ArrayList<String> stateList = new ArrayList<String>();
 
-    private static class Airbnb { // Class for objects we will store in hashtable
+    public static class Airbnb { // Class for objects we will store in hashtable
         String name;
         String type;
         String location; // city
-        String state;
-        int price;
+        double price; 
         int minNights;
-        int reviews; // 1-5, where 5 makes it a top hit
+        int reviews; // total reviews
 
-        private Airbnb(String name, String location, String type, String state, int price,
+        public Airbnb(String name, String location, String type, int price,
             int minNights, int rating) {
             this.name = name;
             this.type = type;
-            this.state = state;
             this.location = location;
             this.price = price;
             this.minNights = minNights;
             this.reviews = rating;
         }
 
-        private String getLocation() {
+        public String getLocation() {
             return this.location;
         }
 
-        private String getType() {
+        public String getType() {
             return this.type;
         }
 
-        private int getPrice() {
+        public double getPrice() {
             return this.price;
         }
 
-        private int getMinNights() {
+        public int getMinNights() {
             return this.minNights;
         }
 
-        private int getReviews() {
+        public int getReviews() {
             return this.reviews;
         }
 
-        private String getName() {
+        public String getName() {
             return this.name;
-        }
-
-        private String getState() {
-            return this.state;
         }
     }
 
@@ -89,59 +67,37 @@ public class BackEnd {
      * Loads data from CSV files
      */
     public static void loadCities() {
-        File file = null;
-        Scanner scnr = null;
 
-        try {
-            String test = System.getProperty("user.dir").toString();
-            file = new File("bin/pappybuck_test_engineer_1/Data/Cities/Cities.csv");
-            scnr = new Scanner(file);
-            scnr.nextLine();
-            CSVParser parser = new CSVParser();
-            String[] cityInfo;
-            
-            while (scnr.hasNextLine()) {
-                cityInfo = parser.parseLine(scnr.nextLine());
-                
-                cityList.add(cityInfo[1]); // add city to city list
-                stateList.add(cityInfo[2]); // add corresponding state
+        try { // helped along by Jake L
+            BufferedReader csvReader =
+                new BufferedReader(new FileReader("bin/pappybuck_test_engineer_1/Data/Cities/Cities_dummy.csv"));
+
+            String currentLine = "";
+            String firstLine = csvReader.readLine(); // skip over first line
+            while ((currentLine = csvReader.readLine()) != null) {
+                String[] data = currentLine.split(",");
+
+                cityList.add(data[1]); // add city to city list
             }
+            csvReader.close();
 
-            ArrayList<Airbnb> cityAirbnbList; // list of airbnbs in a city
-
-            for (int i = 0; i < cityList.size(); i++) {
-                cityAirbnbList = loadCity(cityList.get(i), stateList.get(i)); // currently an exception thrown here
-                // TODO: fix Nullptr being thrown here
-                cityDatabase.put(cityList.get(i), cityAirbnbList);
-            }
-
-        } catch (FileNotFoundException e) { 
-            System.out.println("File not found.");
-            e.printStackTrace();
-        } catch (IOException e) {
-            System.out.println("IOException");
-            e.printStackTrace();
-        } finally {
-            if (scnr != null) {
-                scnr.close();
-            }
+        } catch (IOException d) {
+            d.printStackTrace();
         }
+
+        for (int i = 0; i < cityList.size(); i++) {
+            cityDatabase.put(cityList.get(i), loadCity(cityList.get(i)));
+        } // fill hashtable with arraylist of airbnbs for each city
+
     }
 
     /**
      * Loads a specific city CSV file
      * @throws IOException 
      */
-    public static ArrayList<Airbnb> loadCity(String city, String state)
-        throws IOException {
-        File file = new File("bin/pappybuck_test_engineer_1/Data/" + city + ".csv");
-        Scanner scnr = new Scanner(file);
-        scnr.nextLine(); // skip over titles
-        scnr.useDelimiter(",");
-        String[] airbnbInfo;
-        
+    public static ArrayList<Airbnb> loadCity(String city) {
+
         String name;
-        String state2 = state;
         String type;
         String location = city;
         int minNights;
@@ -149,27 +105,76 @@ public class BackEnd {
         int reviews;
 
         ArrayList<Airbnb> listOfAirbnbs = new ArrayList<Airbnb>();
-        
-        CSVParser parser = new CSVParser();
-       
+
+        try { // helped along by Jake L
+            BufferedReader csvReader =
+                new BufferedReader(new FileReader("bin/pappybuck_test_engineer_1/Data/" + city + "_dummy.csv"));
+
+            String currentLine = "";
+            String firstLine = csvReader.readLine(); // skip over first line
+            while ((currentLine = csvReader.readLine()) != null) {
+                String[] data = null;
+                String[] secondaryData = null;
+                if (!currentLine.contains("\",")) { // default case
+
+                    data = currentLine.split(",");
+                    name = data[1];
+                    type = data[8];
+                    price = Integer.parseInt(data[9]);
+                    minNights = Integer.parseInt(data[10]);
+                    reviews = Integer.parseInt(data[11]);
+                } else {
+                    data = currentLine.split(",", 2); // skip over id
+                    data = data[1].split("\",");
+                    if (data.length == 2) { // name OR host name have double quotes
+                        secondaryData = currentLine.split(",", 2); // skip over id, get rid of comma
+                        secondaryData = secondaryData[1].split(",\"");
+
+                        if (secondaryData.length == 1) { // name has double quotes
+                            
+                            secondaryData = secondaryData[0].split("\",\\d");
+                            name = secondaryData[0];
+                            data = secondaryData[1].split(",");
+                            type = data[6];
+                            price = Integer.parseInt(data[7]);
+                            minNights = Integer.parseInt(data[8]);
+                            reviews = Integer.parseInt(data[9]);
+                        } else { // if length 2 (host name has double quotes)
+
+                            secondaryData = data[1].split(",");
+                            data = data[0].split(",");
+                            name = data[0];
+                            type = secondaryData[4];
+                            try {
+                            price = Integer.parseInt(secondaryData[5]);
+                            minNights = Integer.parseInt(secondaryData[6]);
+                            reviews = Integer.parseInt(secondaryData[7]);
+                            } catch (NumberFormatException e) {
+                                System.out.println(name);
+                                return null;
+                            }
+                        }
+                    } else  { // name AND host name have double quotes
+                        name = data[0];
+                        data = data[2].split(",");
+                        type = data[4];
+                        price = Integer.parseInt(data[5]);
+                        minNights = Integer.parseInt(data[6]);
+                        reviews = Integer.parseInt(data[7]);
+                    }
+                }
 
 
-        while (scnr.hasNextLine()) {
-            airbnbInfo = parser.parseLine(scnr.nextLine()); // parse one line at a time
 
-            name = airbnbInfo[1]; // get name
-            type = airbnbInfo[8]; // get room type
-            price = Integer.parseInt(airbnbInfo[9]); // get price
-            minNights = Integer.parseInt(airbnbInfo[10]); // get minimum nights
-            reviews = Integer.parseInt(airbnbInfo[11]); // get number of reviews
-            
-            Airbnb airbnb = new Airbnb(name, location, type, state2, price, minNights, reviews);
-            listOfAirbnbs.add(airbnb);
-            airbnbDatabase.put(airbnb, airbnb); // for hashtable, airbnb object is key & value
-        } 
+                Airbnb airbnb = new Airbnb(name, location, type, price, minNights, reviews);
+                listOfAirbnbs.add(airbnb);
+                airbnbDatabase.put(airbnb, airbnb); // for hashtable, airbnb object is key & value
+                
+            }
+            csvReader.close();
 
-        if (scnr != null) {
-            scnr.close();
+        } catch (IOException d) {
+            d.printStackTrace();
         }
 
         return listOfAirbnbs;
@@ -179,55 +184,103 @@ public class BackEnd {
     /*
      * Returns the string representation of an Airbnb
      */
-    public static String get(Airbnb airbnb) {
+    public String get(Airbnb airbnb) {
         if (airbnb == null || !airbnbDatabase.containsKey(airbnb)) {
             return null; // airbnb not in database
         }
 
         return airbnb.getName() + ", " + airbnb.getType() + ", " + airbnb.getLocation() + ", "
-            + airbnb.getState() + ", " + airbnb.getPrice() + ", " + airbnb.getMinNights() + ", "
+            + airbnb.getPrice() + ", " + airbnb.getMinNights() + ", "
             + airbnb.getReviews() + ".";
     }
 
     /*
      * Returns an Airbnb array of all airbnbs in a city
      */
-    public static ArrayList<Airbnb> find(String city) {
+    public ArrayList<Airbnb> find(String city) {
         if (city == null || !cityList.contains(city)) {
             return null; // city not in city list
         }
-        // need data to finish this - need a hashtable of cities mapped to airbnb arrays
         return cityDatabase.get(city); // returns an array of Airbnbs in this city
     }
 
     /*
      * Returns a list of all available cities
      */
-    public static String listCities() {
-        String cities = "";
-
+    public String[] listCities() {
+        String[] cities = new String[cityList.size()]; 
 
         for (int i = 0; i < cityList.size(); i++) {
-            cities += cityList.get(i);
-
-            if (i != cityList.size() - 1) {
-                cities += ", "; // adds comma separation except for last element added
-            }
+            cities[i] = cityList.get(i);           
+            
         }
-
-
         return cities;
     }
 
     /*
      * Returns the string representation of a random city
      */
-    public static String randomCity() {
+    public  String randomCity() {
         Random rand = new Random();
         int randInt = rand.nextInt(cityList.size()) + 1; // generates a random number
 
         return cityList.get(randInt);
     }
 
-}
 
+
+    public ArrayList<Airbnb> getFilteredListings(boolean cityFlag, boolean priceFlag,
+        boolean reviewsFlag, String city, double floorPrice, double ceilingPrice, int floorReviews,
+        int ceilingReviews) {
+        
+        ArrayList<Airbnb> filteredListings = null;
+        
+        if (cityFlag) {
+            filteredListings = find(city);
+        } else {
+            for (int i = 0; i < cityList.size(); i++) {
+                if (filteredListings != null) {
+                    filteredListings.addAll(find(cityList.get(i))); // add city Airbnbs together
+                } else {
+                filteredListings = find(cityList.get(i));
+                }
+            }
+        }
+
+        if (priceFlag) {
+            
+            for (int i = 0; i < filteredListings.size(); i++) {
+                
+            }
+
+        } else {
+
+        }
+
+        if (reviewsFlag) {
+
+        } else {
+
+        }
+        
+        
+
+        //TODO:
+        // Check each flag for specific filters - can be multiple
+        // narrow down possible listings w/ city flags, then price (inclusive), then reviews
+        // (inclusive)
+        // make arraylist
+
+        return filteredListings;
+    }
+    
+
+    public ArrayList<Airbnb> getUnfilteredListings(String quantity) {
+        // TODO Auto-generated method stub
+        
+        
+        return null;
+    }
+
+
+}
