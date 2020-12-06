@@ -29,7 +29,7 @@ public class BackEnd {
         int minNights;
         int reviews; // total reviews
 
-        public Airbnb(String name, String location, String type, int price, int minNights,
+        public Airbnb(String name, String location, String type, double price, int minNights,
             int rating) {
             this.name = name;
             this.type = type;
@@ -109,7 +109,7 @@ public class BackEnd {
         String type;
         String location = city;
         int minNights;
-        int price;
+        double price;
         int reviews;
         BufferedReader csvReader = null;
 
@@ -118,69 +118,39 @@ public class BackEnd {
         try { // helped along by Jake L
             csvReader = new BufferedReader(new FileReader("src/Data/" + city + ".csv"));
 
-            String currentLine = "";
-            csvReader.readLine(); // skip over first line
-            while ((currentLine = csvReader.readLine()) != null) {
-                String[] data = null;
-                String[] secondaryData = null;
-                if (!currentLine.contains("\",")) { // default case
-
-                    data = currentLine.split(",");
-                    name = data[1];
-                    type = data[8];
-                    price = Integer.parseInt(data[9]);
-                    minNights = Integer.parseInt(data[10]);
-                    reviews = Integer.parseInt(data[11]);
+            String curLine = "";
+            csvReader.readLine(); // skip first line
+            String[] data;
+            while ((curLine = csvReader.readLine()) != null) {
+                
+                if (curLine.contains("\",")) { // name has comma in it
+                    data = curLine.split("\","); // split name from everything else
+                    name = data[0];
+                    data = data[1].split(",");
+                    type = data[0];
+                    price = Double.parseDouble(data[2]);
+                    minNights = Integer.parseInt(data[3]);
+                    reviews = Integer.parseInt(data[4]);
+                    
                 } else {
-                    data = currentLine.split(",", 2); // skip over id
-                    data = data[1].split("\",");
-                    if (data.length == 2) { // name OR host name have double quotes
-                        secondaryData = currentLine.split(",", 2); // skip over id, get rid of comma
-                        secondaryData = secondaryData[1].split(",\"");
-
-                        if (secondaryData.length == 1) { // name has double quotes
-
-                            secondaryData = secondaryData[0].split("\",\\d");
-                            name = secondaryData[0];
-                            data = secondaryData[1].split(",");
-                            type = data[6];
-                            price = Integer.parseInt(data[7]);
-                            minNights = Integer.parseInt(data[8]);
-                            reviews = Integer.parseInt(data[9]);
-                        } else { // if length 2 (host name has double quotes)
-
-                            secondaryData = data[1].split(",");
-                            data = data[0].split(",");
-                            name = data[0];
-                            type = secondaryData[4];
-                            try {
-                                price = Integer.parseInt(secondaryData[5]);
-                                minNights = Integer.parseInt(secondaryData[6]);
-                                reviews = Integer.parseInt(secondaryData[7]);
-                            } catch (NumberFormatException e) {
-                                System.out.println(name);
-                                return null;
-                            }
-                        }
-                    } else { // name AND host name have double quotes
-                        name = data[0];
-                        data = data[2].split(",");
-                        type = data[4];
-                        price = Integer.parseInt(data[5]);
-                        minNights = Integer.parseInt(data[6]);
-                        reviews = Integer.parseInt(data[7]);
-                    }
+                data = curLine.split(",");
+                
+                name = data[0];
+                type = data[1];
+                price = Double.parseDouble(data[3]);
+                minNights = Integer.parseInt(data[4]);
+                reviews = Integer.parseInt(data[5]);
                 }
-
-
+                
 
                 Airbnb airbnb = new Airbnb(name, location, type, price, minNights, reviews);
                 listOfAirbnbs.add(airbnb);
-                airbnbDatabase.put(airbnb.toString(), airbnb); // for hashtable, airbnb object is key & value
+                airbnbDatabase.put(airbnb.toString(), airbnb); // for hashtable, airbnb object toString is key & value
+
             }
             csvReader.close();
 
-        } catch (IOException d) {
+        } catch (IOException  d) {
             d.printStackTrace();
         }
 
