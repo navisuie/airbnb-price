@@ -31,20 +31,26 @@ public class backend_test {
     test = new BackEnd();
   }
 
+  /**
+   *  Tests to see if the BackEnd load method is working correctly
+   */
   @Test
   public void load_test(){
-    /*String[] tester = {"Asheville", "Austin", "Boston", "Broward", "Cambridge", "Chicago", "Clark County", "Columbus", "Denver",
+    String[] tester = {"Asheville", "Austin", "Boston", "Broward", "Cambridge", "Chicago", "Clark County", "Columbus", "Denver",
      "Hawaii", "Jersey City", "Los Angeles", "Nashville", "New Orleans", "New York City", "Oakland", "Pacific Grove", "Portland", 
-    "Rhode Island", "Salem", "San Diego", "San Francisco", "San Mateo", "Santa Clara", "Santa Cruz", "Seattle", "Twin Cities", "Washington D.C."}; */
-    String[] tester = {"Asheville"};
-    String[] testing = test.listCities();
+    "Rhode Island", "Salem", "San Diego", "San Francisco", "San Mateo", "Santa Clara", "Santa Cruz", "Seattle", "Twin Cities"}; 
+    
     assertTrue(BackEnd.cityList.get(0).equals("Asheville"), "Test 1 Failed");
-    assertTrue(Arrays.equals(test.listCities(), tester), "Test 2 Failed");
+    assertTrue(BackEnd.cityList.get(5).equals("Chicago"), "Test 2 Failed");
+    assertTrue(BackEnd.cityList.get(11).equals("Los Angeles"), "Test 3 Failed");
+    assertTrue(BackEnd.cityList.get(17).equals("Portland"), "Test 4 Failed");
+    assertTrue(BackEnd.cityList.get(26).equals("Twin Cities"), "Test 5 Failed");
+    assertTrue(Arrays.equals(test.listCities(), tester), "Test 6 Failed");
 
   }
-
-
-
+    /**
+     *  Tests to see if the BackEnd find method is working correctly
+     */
     @Test
     public void find_test(){
       ArrayList<BackEnd.Airbnb> Testing;
@@ -79,23 +85,99 @@ public class backend_test {
         Testing = test.find("Tampa");
         assertTrue(Testing == null, "Missing City Failure");
       }
+      //Columbus
+      {
+        Testing = test.find("Columbus");
+        { //Apartment 1
+          assertTrue(Testing.get(178).getPrice() == 45, "Columbus Apartment 1 Price Failure");
+          assertTrue(Testing.get(178).getMinNights() == 2, "Columbus Apartment 1 Min Nights Failure");
+          assertTrue(Testing.get(178).getReviews() == 126, "Columbus Apartment 1 Reviews Failure");
+          assertTrue(Testing.get(178).getName().equals("Haven on High St: Let's give together!"), "Columbus Apartment 1 Name Failure");
+          assertTrue(Testing.get(178).getType().equals("Entire home/apt"), "Columbus Apartment 1 Type Failure");
+          }
+          { //Apartment 2
+          assertTrue(Testing.get(417).getPrice() == 136, "Columbus Apartment 2 Price Failure");
+          assertTrue(Testing.get(417).getMinNights() == 2, "Columbus Apartment 2 Min Nights Failure");
+          assertTrue(Testing.get(417).getReviews() == 24, "Columbus Apartment 2 Reviews Failure");
+          assertTrue(Testing.get(417).getName().equals("The Gatsby Flat—Downtown Columbus/Convention Ctr"), "Columbus Apartment 2 Name Failure");
+          assertTrue(Testing.get(417).getType().equals("Entire home/apt"), "Columbus Apartment 2 Type Failure");
+          }
+          { //Apartment 3
+          assertTrue(Testing.get(1051).getPrice() == 112, "Columbus Apartment 3 Price Failure");
+          assertTrue(Testing.get(1051).getMinNights() == 2, "Columbus Apartment 3 Min Nights Failure");
+          assertTrue(Testing.get(1051).getReviews() == 2, "Columbus Apartment 3 Reviews Failure");
+          assertTrue(Testing.get(1051).getName().equals("Cute and Cozy 3 Bedroom Ranch Home"), "Columbus Apartment 3 Name Failure");
+          assertTrue(Testing.get(1051).getType().equals("Entire home/apt"), "Columbus Apartment 3 Type Failure");
+          }
+      }
+      //New York City
+      {
+        Testing = test.find("New York City");
+        { //Apartment 1
+          assertTrue(Testing.get(185).getPrice() == 82, "New York City Apartment 1 Price Failure");
+          assertTrue(Testing.get(185).getMinNights() == 28, "New York City Apartment 1 Min Nights Failure");
+          assertTrue(Testing.get(185).getReviews() == 188, "New York City Apartment 1 Reviews Failure");
+          assertTrue(Testing.get(185).getName().equals("SpaHa Studio Monthly Rental"), "New York City Apartment 1 Name Failure");
+          assertTrue(Testing.get(185).getType().equals("Entire home/apt"), "New York City Apartment 1 Type Failure");
+          }
+          { //Apartment 2
+          assertTrue(Testing.get(554).getPrice() == 599, "New York City Apartment 2 Price Failure");
+          assertTrue(Testing.get(554).getMinNights() == 3, "New York City Apartment 2 Min Nights Failure");
+          assertTrue(Testing.get(554).getReviews() == 7, "New York City Apartment 2 Reviews Failure");
+          assertTrue(Testing.get(554).getName().equals("2 BR Duplex @ Box House Hotel"), "New York City Apartment 2 Name Failure");
+          assertTrue(Testing.get(554).getType().equals("Private room"), "New York City Apartment 2 Type Failure");
+          }
+          { //Apartment 3
+          assertTrue(Testing.get(786).getPrice() == 56, "New York City Apartment 3 Price Failure");
+          assertTrue(Testing.get(786).getMinNights() == 29, "New York City Apartment 3 Min Nights Failure");
+          assertTrue(Testing.get(786).getReviews() == 20, "New York City Apartment 3 Reviews Failure");
+          assertTrue(Testing.get(786).getName().equals("Williamsburg near soho .support artist living"), "New York City Apartment 3 Name Failure");
+          assertTrue(Testing.get(786).getType().equals("Private room"), "New York City Apartment 3 Type Failure");
+          }
+      }
     }
-    
+    /**
+     *  Tests to see if the BackEnd get method is working correctly
+     */
     @Test
     public void get_test() {
-      //Asheville
+      test.get(new BackEnd.Airbnb("Zen-East in the Heart of Austin (monthly rental)", "Austin", "Entire home/apt", 179, 7, 24));
+      //Austin
       {
-        assertTrue(test.get(new BackEnd.Airbnb("Sunny Modern Country Apartment with Hot Tub", "Asheville", "Entire home/apt", 86, 2, 269))
-        .equals("Sunny Modern Country Apartment with Hot Tub, Entire home/apt, Asheville, 86.0, 2, 269."), "Asheville Get 1 Failure");
+        assertTrue(test.get(new BackEnd.Airbnb("\"Zilker Park, Fun, Funky, Colorful, Peaceful Haven", "Austin", "Entire home/apt", 83, 1, 689))
+        .equals("\"Zilker Park, Fun, Funky, Colorful, Peaceful Haven, Entire home/apt, Austin, 83.0, 1, 689."), "Austin Get 1 Failure");
+
+        assertTrue(test.get(new BackEnd.Airbnb("Quiet and Convenient for SXSW", "Austin", "Entire home/apt", 300, 2, 6))
+        .equals("Quiet and Convenient for SXSW, Entire home/apt, Austin, 300.0, 2, 6."), "Austin Get 2 Failure");
+
+        assertTrue(test.get(new BackEnd.Airbnb("ACL COZY BEDROOM NEAR DOWNTOWN!", "Austin", "Private room", 59, 1, 31))
+        .equals("ACL COZY BEDROOM NEAR DOWNTOWN!, Private room, Austin, 59.0, 1, 31."), "Austin Get 3 Failure");
       }
-      
-      
-      
+      //Los Angeles
+      {
+        assertTrue(test.get(new BackEnd.Airbnb("Beach Bungalow studio back duplex/ private & gated", "Los Angeles", "Entire home/apt", 140, 3, 103))
+        .equals("Beach Bungalow studio back duplex/ private & gated, Entire home/apt, Los Angeles, 140.0, 3, 103."), "Los Angeles Get 1 Failure");
 
+        assertTrue(test.get(new BackEnd.Airbnb("Flicker Way", "Los Angeles", "Entire home/apt", 2100, 30, 0))
+        .equals("Flicker Way, Entire home/apt, Los Angeles, 2100.0, 30, 0."), "Los Angles Get 2 Failure");
 
-    }
+        assertTrue(test.get(new BackEnd.Airbnb("BEAUTIFUL + COZY LIGHT FILLED ROOM - BLUFF HEIGHTS", "Los Angeles", "Private room", 65, 1, 0))
+        .equals("BEAUTIFUL + COZY LIGHT FILLED ROOM - BLUFF HEIGHTS, Private room, Los Angeles, 65.0, 1, 0."), "Los Angeles Get 3 Failure");
+      }
+      //Seattle
+      {
+        assertTrue(test.get(new BackEnd.Airbnb("Charming one bed apt - Capitol Hill", "Seattle", "Entire home/apt", 68, 3, 101))
+        .equals("Charming one bed apt - Capitol Hill, Entire home/apt, Seattle, 68.0, 3, 101."), "Seattle Get 1 Failure");
 
-    public static void main(String[] args) {
-      BackEnd.loadCities();
+        assertTrue(test.get(new BackEnd.Airbnb("Belltown Place - Seattle **Min 6 month lease**", "Seattle", "Entire home/apt", 70, 180, 0))
+        .equals("Belltown Place - Seattle **Min 6 month lease**, Entire home/apt, Seattle, 70.0, 180, 0."), "Seattle Get 2 Failure");
+
+        assertTrue(test.get(new BackEnd.Airbnb("Fully equipped condo 15 mins walk to Pike’s Place", "Seattle", "Entire home/apt", 165, 30, 7))
+        .equals("Fully equipped condo 15 mins walk to Pike’s Place, Entire home/apt, Seattle, 165.0, 30, 7."), "Seattle Get 3 Failure");
+      }
+      //Atlanta
+      {
+        assertTrue(test.get(new BackEnd.Airbnb("Fake place", "Atlanta", "Entire home/apt", 100, 2, 7)) == null, "Missing City Get Failure");
+      }
     }
 }

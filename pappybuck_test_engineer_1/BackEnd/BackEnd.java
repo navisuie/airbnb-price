@@ -16,7 +16,7 @@ import java.util.Random;
 
 public class BackEnd {
 
-    public static HashTableMap<String, Airbnb> airbnbDatabase = new HashTableMap<String, Airbnb>();;
+    public static HashTableMap<String, Airbnb> airbnbDatabase = new HashTableMap<String, Airbnb>(1280);;
     public static HashTableMap<String, ArrayList<Airbnb>> cityDatabase = new HashTableMap<String, ArrayList<Airbnb>>();
     public static ArrayList<String> cityList = new ArrayList<String>();
 
@@ -76,7 +76,7 @@ public class BackEnd {
 
         try { // helped along by Jake L
             BufferedReader csvReader =
-                new BufferedReader(new FileReader("pappybuck_test_engineer_1/Data/Cities/Cities_dummy.csv"));
+                new BufferedReader(new FileReader("bin/pappybuck_test_engineer_1/Fixed Data/Cities/Cities.csv"));
 
             String currentLine = "";
             String firstLine = csvReader.readLine(); // skip over first line
@@ -114,7 +114,7 @@ public class BackEnd {
 
         try { // helped along by Jake L
             BufferedReader csvReader =
-                new BufferedReader(new FileReader("pappybuck_test_engineer_1/Data/" + city + ".csv"));
+                new BufferedReader(new FileReader("bin/pappybuck_test_engineer_1/Fixed Data/" + city + ".csv"));
 
             String currentLine = "";
             String firstLine = csvReader.readLine(); // skip over first line
@@ -175,7 +175,7 @@ public class BackEnd {
                 Airbnb airbnb = new Airbnb(name, location, type, price, minNights, reviews);
                 listOfAirbnbs.add(airbnb);
                 airbnbDatabase.put(airbnb.toString(), airbnb); // for hashtable, airbnb object is key & value
-                System.out.println(name);
+                
             }
             csvReader.close();
 
