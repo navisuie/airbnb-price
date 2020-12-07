@@ -16,20 +16,21 @@ import java.util.Random;
 
 public class BackEnd {
 
-    public static HashTableMap<String, Airbnb> airbnbDatabase = new HashTableMap<String, Airbnb>(1280);;
-    public static HashTableMap<String, ArrayList<Airbnb>> cityDatabase = new HashTableMap<String, ArrayList<Airbnb>>();
+    public static HashTableMap<String, Airbnb> airbnbDatabase = new HashTableMap<String, Airbnb>();;
+    public static HashTableMap<String, ArrayList<Airbnb>> cityDatabase =
+        new HashTableMap<String, ArrayList<Airbnb>>();;
     public static ArrayList<String> cityList = new ArrayList<String>();
 
     public static class Airbnb { // Class for objects we will store in hashtable
         String name;
         String type;
         String location; // city
-        double price; 
+        double price;
         int minNights;
         int reviews; // total reviews
 
-        public Airbnb(String name, String location, String type, int price,
-            int minNights, int rating) {
+        public Airbnb(String name, String location, String type, double price, int minNights,
+            int rating) {
             this.name = name;
             this.type = type;
             this.location = location;
@@ -61,11 +62,12 @@ public class BackEnd {
         public String getName() {
             return this.name;
         }
+
         @Override
         public String toString() {
             return this.getName() + ", " + this.getType() + ", " + this.getLocation() + ", "
-            + this.getPrice() + ", " + this.getMinNights() + ", "
-            + this.getReviews() + ".";
+                + this.getPrice() + ", " + this.getMinNights() + ", " + this.getReviews() + ".";
+
         }
     }
 
@@ -76,10 +78,10 @@ public class BackEnd {
 
         try { // helped along by Jake L
             BufferedReader csvReader =
-                new BufferedReader(new FileReader("bin/pappybuck_test_engineer_1/Fixed Data/Cities/Cities.csv"));
+                new BufferedReader(new FileReader("bin/pappybuck_test_engineer_1/Data/Cities/Cities.csv"));
 
             String currentLine = "";
-            String firstLine = csvReader.readLine(); // skip over first line
+            csvReader.readLine(); // skip over first line
             while ((currentLine = csvReader.readLine()) != null) {
                 String[] data = currentLine.split(",");
 
@@ -97,7 +99,7 @@ public class BackEnd {
 
     }
 
-    /**
+/**
      * Loads a specific city CSV file
      * @throws IOException 
      */
@@ -190,12 +192,12 @@ public class BackEnd {
     /*
      * Returns the string representation of an Airbnb
      */
-    public String get(Airbnb airbnb) {
-        if (airbnb == null || !airbnbDatabase.containsKey(airbnb.toString())) {
+    public Airbnb get(String key) {
+        if (key == null || !airbnbDatabase.containsKey(key)) {
             return null; // airbnb not in database
         }
 
-        return airbnb.toString();
+        return airbnbDatabase.get(key);
     }
 
     /*
@@ -212,11 +214,11 @@ public class BackEnd {
      * Returns a list of all available cities
      */
     public String[] listCities() {
-        String[] cities = new String[cityList.size()]; 
+        String[] cities = new String[cityList.size()];
 
         for (int i = 0; i < cityList.size(); i++) {
-            cities[i] = cityList.get(i);           
-            
+            cities[i] = cityList.get(i);
+
         }
         return cities;
     }
@@ -224,7 +226,7 @@ public class BackEnd {
     /*
      * Returns the string representation of a random city
      */
-    public  String randomCity() {
+    public String randomCity() {
         Random rand = new Random();
         int randInt = rand.nextInt(cityList.size()) + 1; // generates a random number
 
@@ -232,13 +234,17 @@ public class BackEnd {
     }
 
 
-
+    /*
+     * Returns a filtered list of Airbnbs based on city, price, and reviews
+     */
     public ArrayList<Airbnb> getFilteredListings(boolean cityFlag, boolean priceFlag,
         boolean reviewsFlag, String city, double floorPrice, double ceilingPrice, int floorReviews,
-        int ceilingReviews) {
-        
+        int ceilingReviews, String quantity) {
+
         ArrayList<Airbnb> filteredListings = null;
-        
+        ArrayList<Airbnb> tempList = new ArrayList<Airbnb>();
+
+
         if (cityFlag) {
             filteredListings = find(city);
         } else {
@@ -246,44 +252,67 @@ public class BackEnd {
                 if (filteredListings != null) {
                     filteredListings.addAll(find(cityList.get(i))); // add city Airbnbs together
                 } else {
-                filteredListings = find(cityList.get(i));
+                    filteredListings = find(cityList.get(i));
                 }
             }
         }
 
         if (priceFlag) {
-            
+
             for (int i = 0; i < filteredListings.size(); i++) {
-                
+                if (filteredListings.get(i).getPrice() <= ceilingPrice
+                    && filteredListings.get(i).getPrice() >= floorPrice) { // if price between price
+                                                                           // floor and celing
+                    tempList.add(filteredListings.get(i));
+                }
             }
-
-        } else {
-
+            filteredListings = tempList;
+            tempList.removeAll(tempList); // clear tempList
         }
 
         if (reviewsFlag) {
 
-        } else {
+            for (int i = 0; i < filteredListings.size(); i++) {
+                if (filteredListings.get(i).getReviews() <= ceilingReviews
+                    && filteredListings.get(i).getReviews() >= floorReviews) { // if # of reviews
+                                                                               // between floor and
+                                                                               // ceiling
+                    tempList.add(filteredListings.get(i));
+                }
+
+            }
+
+            filteredListings = tempList;
+            tempList.removeAll(tempList); // clear tempList
 
         }
         
-        
+        // limit how many listings are returned based on quantity requested
+        for (int i = 0; i < Integer.parseInt(quantity); i++) {
+            tempList.add(filteredListings.get(i));
+        }
 
-        //TODO:
-        // Check each flag for specific filters - can be multiple
-        // narrow down possible listings w/ city flags, then price (inclusive), then reviews
-        // (inclusive)
-        // make arraylist
-
-        return filteredListings;
+        return tempList;
     }
-    
 
+    /*
+     * Returns an unfiltered list of Airbnbs depending on the quantity
+     */
     public ArrayList<Airbnb> getUnfilteredListings(String quantity) {
-        // TODO Auto-generated method stub
-        
-        
-        return null;
+
+        ArrayList<Airbnb> unfilteredListings = new ArrayList<Airbnb>();
+        ArrayList<Airbnb> tempList = new ArrayList<Airbnb>();
+
+        for (int i = 0; i < cityDatabase.size(); i++) {
+            tempList.addAll(cityDatabase.get(cityList.get(i)));
+        } // combine all Airbnb ArrayLists into one Airbnb ArrayList
+
+        for (int i = 0; i < Integer.parseInt(quantity); i++) {
+            unfilteredListings.add(tempList.get(i));
+        } 
+
+
+        return unfilteredListings;
     }
 
 

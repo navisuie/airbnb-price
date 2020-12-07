@@ -141,43 +141,45 @@ public class backend_test {
      */
     @Test
     public void get_test() {
-      test.get(new BackEnd.Airbnb("Zen-East in the Heart of Austin (monthly rental)", "Austin", "Entire home/apt", 179, 7, 24));
       //Austin
       {
-        assertTrue(test.get(new BackEnd.Airbnb("\"Zilker Park, Fun, Funky, Colorful, Peaceful Haven", "Austin", "Entire home/apt", 83, 1, 689))
+        assertTrue(test.get("\"Zilker Park, Fun, Funky, Colorful, Peaceful Haven, Entire home/apt, Austin, 83.0, 1, 689.").toString()
+        .equals("\"Zilker Park, Fun, Funky, Colorful, Peaceful Haven, Entire home/apt, Austin, 83.0, 1, 689."), "Austin Get 1 Failure");
+        
+        assertTrue(test.get("\"Zilker Park, Fun, Funky, Colorful, Peaceful Haven, Entire home/apt, Austin, 83.0, 1, 689.").toString()
         .equals("\"Zilker Park, Fun, Funky, Colorful, Peaceful Haven, Entire home/apt, Austin, 83.0, 1, 689."), "Austin Get 1 Failure");
 
-        assertTrue(test.get(new BackEnd.Airbnb("Quiet and Convenient for SXSW", "Austin", "Entire home/apt", 300, 2, 6))
+        assertTrue(test.get("Quiet and Convenient for SXSW, Entire home/apt, Austin, 300.0, 2, 6.").toString()
         .equals("Quiet and Convenient for SXSW, Entire home/apt, Austin, 300.0, 2, 6."), "Austin Get 2 Failure");
 
-        assertTrue(test.get(new BackEnd.Airbnb("ACL COZY BEDROOM NEAR DOWNTOWN!", "Austin", "Private room", 59, 1, 31))
+        assertTrue(test.get("ACL COZY BEDROOM NEAR DOWNTOWN!, Private room, Austin, 59.0, 1, 31.").toString()
         .equals("ACL COZY BEDROOM NEAR DOWNTOWN!, Private room, Austin, 59.0, 1, 31."), "Austin Get 3 Failure");
       }
       //Los Angeles
       {
-        assertTrue(test.get(new BackEnd.Airbnb("Beach Bungalow studio back duplex/ private & gated", "Los Angeles", "Entire home/apt", 140, 3, 103))
+        assertTrue(test.get("Beach Bungalow studio back duplex/ private & gated, Entire home/apt, Los Angeles, 140.0, 3, 103.").toString()
         .equals("Beach Bungalow studio back duplex/ private & gated, Entire home/apt, Los Angeles, 140.0, 3, 103."), "Los Angeles Get 1 Failure");
 
-        assertTrue(test.get(new BackEnd.Airbnb("Flicker Way", "Los Angeles", "Entire home/apt", 2100, 30, 0))
+        assertTrue(test.get("Flicker Way, Entire home/apt, Los Angeles, 2100.0, 30, 0.").toString()
         .equals("Flicker Way, Entire home/apt, Los Angeles, 2100.0, 30, 0."), "Los Angles Get 2 Failure");
 
-        assertTrue(test.get(new BackEnd.Airbnb("BEAUTIFUL + COZY LIGHT FILLED ROOM - BLUFF HEIGHTS", "Los Angeles", "Private room", 65, 1, 0))
+        assertTrue(test.get("BEAUTIFUL + COZY LIGHT FILLED ROOM - BLUFF HEIGHTS, Private room, Los Angeles, 65.0, 1, 0.").toString()
         .equals("BEAUTIFUL + COZY LIGHT FILLED ROOM - BLUFF HEIGHTS, Private room, Los Angeles, 65.0, 1, 0."), "Los Angeles Get 3 Failure");
       }
       //Seattle
       {
-        assertTrue(test.get(new BackEnd.Airbnb("Charming one bed apt - Capitol Hill", "Seattle", "Entire home/apt", 68, 3, 101))
+        assertTrue(test.get("Charming one bed apt - Capitol Hill, Entire home/apt, Seattle, 68.0, 3, 101.").toString()
         .equals("Charming one bed apt - Capitol Hill, Entire home/apt, Seattle, 68.0, 3, 101."), "Seattle Get 1 Failure");
 
-        assertTrue(test.get(new BackEnd.Airbnb("Belltown Place - Seattle **Min 6 month lease**", "Seattle", "Entire home/apt", 70, 180, 0))
+        assertTrue(test.get("Belltown Place - Seattle **Min 6 month lease**, Entire home/apt, Seattle, 70.0, 180, 0.").toString()
         .equals("Belltown Place - Seattle **Min 6 month lease**, Entire home/apt, Seattle, 70.0, 180, 0."), "Seattle Get 2 Failure");
 
-        assertTrue(test.get(new BackEnd.Airbnb("Fully equipped condo 15 mins walk to Pike’s Place", "Seattle", "Entire home/apt", 165, 30, 7))
+        assertTrue(test.get("Fully equipped condo 15 mins walk to Pike’s Place, Entire home/apt, Seattle, 165.0, 30, 7.").toString()
         .equals("Fully equipped condo 15 mins walk to Pike’s Place, Entire home/apt, Seattle, 165.0, 30, 7."), "Seattle Get 3 Failure");
       }
       //Atlanta
       {
-        assertTrue(test.get(new BackEnd.Airbnb("Fake place", "Atlanta", "Entire home/apt", 100, 2, 7)) == null, "Missing City Get Failure");
-      }
+        assertTrue(test.get("Fake place, Atlanta, Entire home/apt, 100, 2, 7") == null, "Missing City Get Failure"); 
+      } 
     }
 }
