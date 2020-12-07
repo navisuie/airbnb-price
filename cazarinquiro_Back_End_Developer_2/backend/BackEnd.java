@@ -161,15 +161,12 @@ public class BackEnd {
     /*
      * Returns the string representation of an Airbnb
      */
-    public String get(String key) {
+    public Airbnb get(String key) {
         if (key == null || !airbnbDatabase.containsKey(key)) {
             return null; // airbnb not in database
         }
 
-        return airbnbDatabase.get(key).getName() + ", " + airbnbDatabase.get(key).getType() + ", "
-            + airbnbDatabase.get(key).getLocation() + ", " + airbnbDatabase.get(key).getPrice()
-            + ", " + airbnbDatabase.get(key).getMinNights() + ", "
-            + airbnbDatabase.get(key).getReviews() + ".";
+        return airbnbDatabase.get(key);
     }
 
     /*
@@ -281,7 +278,7 @@ public class BackEnd {
 
         for (int i = 0; i < Integer.parseInt(quantity); i++) {
             unfilteredListings.add(tempList.get(i));
-        } //
+        } 
 
 
         return unfilteredListings;
