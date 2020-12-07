@@ -211,7 +211,7 @@ public class BackEnd {
      */
     public ArrayList<Airbnb> getFilteredListings(boolean cityFlag, boolean priceFlag,
         boolean reviewsFlag, String city, double floorPrice, double ceilingPrice, int floorReviews,
-        int ceilingReviews) {
+        int ceilingReviews, String quantity) {
 
         ArrayList<Airbnb> filteredListings = null;
         ArrayList<Airbnb> tempList = new ArrayList<Airbnb>();
@@ -255,10 +255,16 @@ public class BackEnd {
             }
 
             filteredListings = tempList;
+            tempList.removeAll(tempList); // clear tempList
 
         }
+        
+        // limit how many listings are returned based on quantity requested
+        for (int i = 0; i < Integer.parseInt(quantity); i++) {
+            tempList.add(filteredListings.get(i));
+        }
 
-        return filteredListings;
+        return tempList;
     }
 
     /*
