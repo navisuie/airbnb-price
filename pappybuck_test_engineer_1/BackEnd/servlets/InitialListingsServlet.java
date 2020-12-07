@@ -7,7 +7,7 @@
 // Lecturer: Gary Dahl
 // Notes to Grader: <optional extra notes>
 
-package backend.servlets;
+package pappybuck_test_engineer_1.BackEnd.servlets;
 
 import java.io.IOException;
 import java.io.PrintWriter;
