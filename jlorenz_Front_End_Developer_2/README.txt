@@ -54,20 +54,36 @@ Left to do:
 
 Contributions Week 3:
 ---------------------
-<Replace this with a list your contributions for the week 3 deliverable.
-You can list the java files that you wrote and committed during the first week,
-or the data files your created or worked on. If you haven't written any code or
-other content that your can commit, provide a list of the work that you did
-during week 3. Make sure that all your week 3 contributions and this section
-of the readme are committed and pushed to the GitHub repo by the week 3 deadline
-on 12/08 at 11:59pm CST.>
+In week 3, I:
+- Debugged the backend and fixed API methods to work with frontend
+- Debugged the frontend and fixed API methods to work with backend
+- Made a few small additions to the frontend
+- Fixed the servlets to properly read request parameters
+- Fixed the servlets to properly generate a valid JSON response
+- Figured out the correct project directory structure needed for a webapp running in Tomcat
+- Figured out how to turn the unpackaged project into a packaged .WAR file from command line
+- Got the entire application working in a standalone Tomcat Server
+- Wrote instructions for the rest of my team to get the application working in Tomcat
+- Assisted the members of my team with getting their project directories structured properly and built / running
 
 Files written by me:
 --------------------
-<List ALL of the source files here that were written by you. Note that each of the
-files must contain correct file headers, including your name, team, and role. List
-files one per line in this section of the README. Only complete this section with
-your final week 3 submission of project four.>
+- src/backend/servlet/CityListServlet.java
+- src/backend/servlet/FiltersListingsServlet.java
+- src/backend/servlet/InitialListingsServlet.java
+- src/frontend/index.html
+- src/frontend/js/script.js
+- src/frontend/css/style.css
+
+Significant contributions to:
+- src/backend/business/Backend.java
+
+Libraries procured by me, but not developed by me:
+- src/frontend/lib/bootstrap.min.js
+- src/frontend/lib/jquery-3.3.1.min.js
+- src/frontend/lib/jquery-ui.min.js
+- src/frontend/css/boostrap.min.css
+- src/frontend/css/jquery-ui.min.css
 
 Files submitted with this project that were developed in an earlier project:
 ----------------------------------------------------------------------------
