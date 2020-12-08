@@ -165,9 +165,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 1365882,Serene W/D walk to UW/U Village 203,3074414,Melissa,University District,University District,47.6621,-122.30306,Entire home/apt,112,1,33,2019-09-14,0.38,55,365
 1371152,University District Seattle modern 2bdrm townhouse,7435040,Chengying,University District,University District,47.65796,-122.31917,Entire home/apt,155,1,124,2020-10-17,3.04,11,353
 1407502,Private garden room in hip Ballard,6136210,Nicole,Ballard,West Woodland,47.67431,-122.36797,Private room,70,30,27,2019-09-05,0.35,1,365
-1416592,"Seattle House 
-Available some dates 
-checkcalendar",539515,Shari,Seward Park,Seward Park,47.55512,-122.26486,Entire home/apt,155,30,1,2016-11-26,0.02,2,363
+1416592,"Seattle House Available some dates checkcalendar",539515,Shari,Seward Park,Seward Park,47.55512,-122.26486,Entire home/apt,155,30,1,2016-11-26,0.02,2,363
 1417880,Center UW 2 beds large Quiet  (210),3074414,Melissa,University District,University District,47.66147,-122.31356,Entire home/apt,79,30,26,2020-07-31,0.29,55,340
 1427103,True Homeshare Experience! Private Wallingford 1BD,7675473,Marne,Other neighborhoods,Wallingford,47.65317,-122.3373,Entire home/apt,100,1,256,2020-08-01,2.94,1,281
 1439237,Beautiful Madrona Large Private,7730805,Stephanie,Central Area,Madrona,47.60824,-122.29009,Private room,76,31,92,2019-07-15,1.05,1,207
@@ -333,13 +331,12 @@ checkcalendar",539515,Shari,Seward Park,Seward Park,47.55512,-122.26486,Entire h
 3544964,"Charming Sunset Room, Queen Bed",17795956,Cris,Beacon Hill,Mid-Beacon Hill,47.54296,-122.28905,Private room,45,1,145,2020-10-23,1.90,2,332
 3559811,"Center UW, Comfy, Quiet &View (303)",3074414,Melissa,University District,University District,47.66195,-122.31325,Entire home/apt,93,1,40,2020-08-04,0.53,55,365
 3561237,"Luxury home with City, Water, Mountain view",16929371,Janyce Lynn,Magnolia,Briarcliff,47.64325,-122.40911,Entire home/apt,554,2,92,2020-09-20,1.21,1,56
-3582883,"Room A 
-Queen size bed. Easiest Commute in town",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56077,-122.29431,Private room,55,1,371,2020-03-01,4.87,6,347
+3582883,"Room A Queen size bed. Easiest Commute in town",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56077,-122.29431,Private room,55,1,371,2020-03-01,4.87,6,347
 3594959,Charming 2 Bedroom Home in Fremont,1809801,Becky And Jim,Other neighborhoods,Fremont,47.6563,-122.35637,Entire home/apt,168,30,21,2019-08-24,0.28,1,64
 3652078,Seattle Houseboat Stay on the Water,525710,Libby,Queen Anne,North Queen Anne,47.65161,-122.36213,Entire home/apt,80,30,1,2016-09-05,0.02,1,329
 3673011,Cozy & Private Room in the Heart of Columbia City,1859394,Andrew,Rainier Valley,Columbia City,47.55946,-122.28303,Private room,69,30,85,2019-08-04,1.12,1,179
 3677729,Classic Seattle Bungalow private rm,18681876,Margaret,Rainier Valley,Mount Baker,47.58344,-122.29587,Private room,77,30,62,2019-08-25,0.83,1,90
-3678718,"Odd Lodging in the Heart of Ballard,",5776729,Ballard Odd Fellows,Ballard,Adams,47.66746,-122.37826,Entire home/apt,75,3,295,2020-10-10,3.91,1,71
+3678718,"Odd Lodging in the Heart of Ballard",5776729,Ballard Odd Fellows,Ballard,Adams,47.66746,-122.37826,Entire home/apt,75,3,295,2020-10-10,3.91,1,71
 3689119,A Garden Guest House,1375021,Charlotte & Larry,Ballard,West Woodland,47.67212,-122.36501,Entire home/apt,85,30,220,2020-03-03,2.91,1,276
 3689416,Cozy Cove - Private bath,6533205,Lauren,Other neighborhoods,Bitter Lake,47.72478,-122.35307,Private room,80,7,27,2020-03-13,0.36,1,45
 3689461,The Port- a peaceful penthouse level pied-à-terre,3837152,Jeannine,Downtown,First Hill,47.61216,-122.32984,Entire home/apt,124,3,10,2020-09-27,0.97,1,143
@@ -549,10 +546,8 @@ Queen size bed. Easiest Commute in town",15984289,Julian,Beacon Hill,Mid-Beacon 
 6603376,Staycation at Architectural Retreat with Lego Kitchen,17740302,Analisa,Lake City,Matthews Beach,47.70131,-122.2751,Entire home/apt,362,1,384,2020-10-13,5.84,1,68
 6603410,Seattle Studio w/ Ocean View Balcony and Parking,8056060,James,Queen Anne,Lower Queen Anne,47.62505,-122.3655,Entire home/apt,69,90,18,2020-08-21,0.28,1,365
 6621924,Hazel Heights Hideout - Travel Nurses /Medium Term,30049045,Tim And Christy,Other neighborhoods,Fremont,47.6542,-122.35999,Entire home/apt,82,10,70,2020-10-10,1.07,2,45
-6646985,"Room C 
-Warm & Quite Single Bedroom",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56082,-122.29564,Private room,35,1,463,2020-09-26,7.06,6,362
-6647442,"Room B 
-Lovely Queen Size Bedroom",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.5592,-122.29448,Private room,55,1,294,2020-02-17,4.51,6,364
+6646985,"Room C Warm & Quite Single Bedroom",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56082,-122.29564,Private room,35,1,463,2020-09-26,7.06,6,362
+6647442,"Room B Lovely Queen Size Bedroom",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.5592,-122.29448,Private room,55,1,294,2020-02-17,4.51,6,364
 6657574,Sunny Room in Quiet Neighborhood,20765151,Elizabeth,Other neighborhoods,Crown Hill,47.70348,-122.36984,Private room,56,28,40,2020-07-13,0.63,1,362
 6660186,Quiet apt near Greenlake & downtown,34859303,Judy,Other neighborhoods,Greenwood,47.68927,-122.35414,Entire home/apt,94,2,135,2020-10-18,2.06,1,86
 6678058,Private mother-in-law studio apartment.,34953514,Jeffrey,Magnolia,Southeast Magnolia,47.64768,-122.39247,Entire home/apt,77,1,350,2020-10-17,5.42,1,237
@@ -578,8 +573,7 @@ Lovely Queen Size Bedroom",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.5592,-
 6868378,SEATTLE FALL GETAWAY Close to Pike Place,74305,Seattle Oasis,Downtown,Belltown,47.61457,-122.34818,Entire home/apt,98,2,92,2020-10-13,1.43,27,347
 6886633,The El Rey in Frelard,24786046,Shawn,Ballard,West Woodland,47.66345,-122.36812,Entire home/apt,75,1,560,2020-10-20,8.59,1,359
 6937492,Cozy Home with Amazing View,36373396,Greg,West Seattle,Fauntleroy,47.51862,-122.38637,Entire home/apt,165,2,73,2020-10-03,1.14,1,145
-6939472,"Room D
-Quiet Single Bed Room",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56109,-122.29616,Private room,35,1,370,2020-10-11,5.70,6,346
+6939472,"Room D Quiet Single Bed Room",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56109,-122.29616,Private room,35,1,370,2020-10-11,5.70,6,346
 6956938,Stunning Views of the Seattle Skyline,5091410,Mumtaz,West Seattle,North Admiral,47.58462,-122.38165,Entire home/apt,103,1,231,2020-09-17,3.56,2,67
 6973790,Overlook a Tranquil Courtyard from a Chic Urban Suite,4411144,Emma,Downtown,Belltown,47.61603,-122.34852,Entire home/apt,85,30,116,2020-03-15,1.79,1,310
 6991188,The Marion Flat on Cherry Hill,2781551,Ron,Central Area,Minor,47.61018,-122.30476,Entire home/apt,96,3,264,2020-04-06,4.47,3,266
@@ -993,8 +987,7 @@ Quiet Single Bed Room",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56109,-122
 13307029,Guided Olympic Mountain Camping,8501598,Stan,Ballard,Sunset Hill,47.6796,-122.40475,Entire home/apt,150,30,0,,,2,365
 13313862,West Seattle Craftsman,75249902,Km,West Seattle,Genesee,47.56948,-122.37692,Entire home/apt,267,2,5,2019-07-28,0.10,1,173
 13313994,Cozy Downtown Studio - Steps to Space Needle,1700743,Jeff,Downtown,Belltown,47.61441,-122.33946,Entire home/apt,90,2,219,2020-10-17,4.12,2,30
-13317047,"Room F 
-Queen size bed.",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56068,-122.2944,Private room,45,30,258,2019-12-24,4.87,6,365
+13317047,"Room F Queen size bed.",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56068,-122.2944,Private room,45,30,258,2019-12-24,4.87,6,365
 13318575,Shared Space Main Temple Hondo 3rd,25971312,Kanjin,Downtown,International District,47.59795,-122.32892,Shared room,55,30,151,2019-09-04,2.87,4,365
 13331221,Modern Downtown Studio// Corporate Housing,11164643,Jessica,Downtown,Belltown,47.61241,-122.34273,Entire home/apt,95,30,13,2020-08-28,0.26,2,126
 13331843,Seattle On The Beach,18726082,Bobbie,West Seattle,Alki,47.58053,-122.40547,Entire home/apt,357,3,57,2020-10-12,1.10,1,349
@@ -1170,7 +1163,7 @@ Queen size bed.",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56068,-122.2944,
 15299411,Seattle Historic Fremont Remodel,44468800,Greg,Other neighborhoods,Fremont,47.65264,-122.34905,Entire home/apt,108,30,180,2020-09-09,3.69,2,238
 15300784,Two-Bedroom Charmer Surrounded by Seattle Faves,13570647,Lindsay,Other neighborhoods,Wallingford,47.66713,-122.32512,Entire home/apt,220,28,287,2020-05-31,6.90,1,37
 15318650,"3 bedrooms 2 baths house, centrally located",89042696,Hung,Central Area,Leschi,47.59753,-122.29742,Entire home/apt,172,1,37,2020-10-18,0.76,3,68
-15337460,"Cozy, clean Ballard Private Apt w/parking,",50246148,Natasha & Ken,Other neighborhoods,North Beach/Blue Ridge,47.69436,-122.3846,Entire home/apt,80,2,175,2020-10-11,3.65,1,325
+15337460,"Cozy, clean Ballard Private Apt w/parking",50246148,Natasha & Ken,Other neighborhoods,North Beach/Blue Ridge,47.69436,-122.3846,Entire home/apt,80,2,175,2020-10-11,3.65,1,325
 15340452,1 BR/1BA Seattle Apartment near Greenlake,97804776,Linda,Other neighborhoods,Green Lake,47.68407,-122.34202,Entire home/apt,100,3,83,2020-09-24,1.85,1,350
 15346144,Seattle apartment with spacious garden and patio,97862069,Krystof,Other neighborhoods,Bitter Lake,47.71766,-122.35034,Entire home/apt,100,6,14,2020-09-30,0.32,1,350
 15359889,QUEEN ANNE 2BD CONDO #3 WITH IT'S OWN PRIVATE DECK,97413943,John,Queen Anne,Lower Queen Anne,47.62716,-122.35853,Entire home/apt,204,3,38,2020-02-25,0.79,3,352
@@ -1596,8 +1589,7 @@ Queen size bed.",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56068,-122.2944,
 20141183,Queen Anne Private Courtyard Suite,31354928,Ken & Patti,Queen Anne,East Queen Anne,47.63431,-122.3564,Private room,76,2,145,2020-10-18,3.79,2,340
 20148935,Modern Traveler's Dream Home,13920168,Johnna,Queen Anne,North Queen Anne,47.64199,-122.36131,Entire home/apt,413,2,53,2020-10-13,1.40,1,307
 20154129,The Escape on Beacon Hill,27785298,Angele,Beacon Hill,North Beacon Hill,47.57449,-122.31077,Entire home/apt,110,30,38,2018-10-01,1.13,1,179
-20155839,"Wedgwood Cottage
-  special discounted price",143424133,Robert & Dianne,Other neighborhoods,Wedgwood,47.68329,-122.28976,Entire home/apt,106,1,65,2020-09-29,1.70,1,343
+20155839,"Wedgwood Cottage special discounted price",143424133,Robert & Dianne,Other neighborhoods,Wedgwood,47.68329,-122.28976,Entire home/apt,106,1,65,2020-09-29,1.70,1,343
 20165246,6349单房出租,28763024,Yoyo,Seward Park,Seward Park,47.54386,-122.26131,Private room,85,30,1,2018-08-05,0.04,9,89
 20169621,Modern Industrial Fremont Studio,11164643,Jessica,Other neighborhoods,Wallingford,47.65512,-122.34219,Entire home/apt,107,2,152,2020-10-18,3.88,2,158
 20176620,Gorgeous Capitol Hill Studio/Loft with Balcony,2134209,Benjamin,Capitol Hill,Broadway,47.61676,-122.32428,Entire home/apt,86,30,166,2020-01-20,4.25,4,345
@@ -2084,8 +2076,7 @@ Queen size bed.",15984289,Julian,Beacon Hill,Mid-Beacon Hill,47.56068,-122.2944,
 25356713,Capitol Hill &Broadway Home Room#D Free Parking,18668299,Rita,Capitol Hill,Broadway,47.62322,-122.31907,Private room,79,30,65,2020-06-19,2.24,6,364
 25371191,"Modern, Urban Guest House In Eastlake",2380805,Colette,Cascade,Eastlake,47.64015,-122.32598,Entire home/apt,173,2,18,2020-09-13,0.86,1,329
 25372987,Modern+Cool @ Convention Center & Capitol Hill.,158097051,Adrian,Downtown,First Hill,47.61124,-122.33063,Entire home/apt,83,3,98,2020-08-13,3.39,1,236
-25377648,"Bright & Cheery Seattle Home 4BR,
-Easy City Stay!",3763970,Lisa And John,Delridge,Riverview,47.53986,-122.35011,Entire home/apt,307,5,64,2020-10-10,2.36,1,53
+25377648,"Bright & Cheery Seattle Home 4BR,Easy City Stay!",3763970,Lisa And John,Delridge,Riverview,47.53986,-122.35011,Entire home/apt,307,5,64,2020-10-10,2.36,1,53
 25381145,Modern Beacon Hill Guest Suite,3166566,Tim And Michelle,Beacon Hill,North Beacon Hill,47.57232,-122.30781,Entire home/apt,110,2,55,2020-10-15,2.05,1,15
 25394602,New Garden Studio in Madison Valley,42151996,Neal,Central Area,Harrison/Denny-Blaine,47.62077,-122.29571,Entire home/apt,86,2,132,2020-03-08,4.64,1,112
 25427908,"Modern & Hip Artsy Oasis! Walk To Train, Shops!",5269812,Rachel,Rainier Valley,Columbia City,47.55618,-122.28837,Entire home/apt,176,2,61,2020-10-01,2.14,1,131
@@ -3011,8 +3002,7 @@ Easy City Stay!",3763970,Lisa And John,Delridge,Riverview,47.53986,-122.35011,En
 37111669,"Modern private room, living area, and theater.",25961174,Brittany,Northgate,Haller Lake,47.72495,-122.33454,Private room,84,30,2,2019-08-12,0.13,2,180
 37112808,Spacious 3 BR Home w/ GreatLocation and Amenities,25961174,Brittany,Northgate,Haller Lake,47.72461,-122.33249,Entire home/apt,450,30,0,,,2,180
 37125115,Downtown Hip Apartment- walk to it all!,147826931,Christopher,Downtown,First Hill,47.61103,-122.32902,Entire home/apt,98,2,24,2020-10-18,2.53,1,285
-37128054,"Studio #201 in the Argyle,
-Pioneer Square",144183868,Kurt,Downtown,Pioneer Square,47.60331,-122.32967,Entire home/apt,79,30,8,2020-09-15,0.55,6,73
+37128054,"Studio #201 in the Argyle,Pioneer Square",144183868,Kurt,Downtown,Pioneer Square,47.60331,-122.32967,Entire home/apt,79,30,8,2020-09-15,0.55,6,73
 37132009,No-frills in Cap Hill: unbeatable location & value,10162393,Ignacio,Capitol Hill,Broadway,47.62509,-122.31723,Entire home/apt,75,6,20,2020-10-17,1.35,1,87
 37153741,Garden with a View,109258795,Craig,Other neighborhoods,Roosevelt,47.6846,-122.32161,Private room,44,1,36,2020-10-18,2.69,1,163
 37178578,SoBe Westlake 30 Day Stays Two Bedroom,256722917,SoBe,Queen Anne,East Queen Anne,47.63251,-122.34384,Entire home/apt,194,30,8,2020-02-17,0.59,12,0
@@ -3226,8 +3216,7 @@ Pioneer Square",144183868,Kurt,Downtown,Pioneer Square,47.60331,-122.32967,Entir
 39798869,Harbor Steps Downtown 1-bd ~ Gorgeous Water Views!,54518454,Debra,Downtown,Central Business District,47.60684,-122.33853,Entire home/apt,399,2,0,,,8,304
 39799129,Room in our 115-yr-old Broadview home w/pets,84988450,Maia,Other neighborhoods,Bitter Lake,47.72317,-122.35012,Private room,39,2,14,2020-10-18,1.37,1,344
 39817810,Seattle Laurelhurst Lodging in-home Apartment,95261839,Kathleen,Other neighborhoods,Laurelhurst,47.66077,-122.28349,Entire home/apt,65,2,4,2020-05-04,0.46,1,53
-39818131,"Luxurious private suite by UW 
-Elegant-Cozy-Clean",2715103,Dea And Kay,Other neighborhoods,Wedgwood,47.68655,-122.28849,Entire home/apt,105,2,8,2020-09-27,0.73,1,89
+39818131,"Luxurious private suite by UW Elegant-Cozy-Clean",2715103,Dea And Kay,Other neighborhoods,Wedgwood,47.68655,-122.28849,Entire home/apt,105,2,8,2020-09-27,0.73,1,89
 39841667,Arboretum Escape-B,39834464,Vera,Capitol Hill,Stevens,47.62809,-122.30184,Entire home/apt,53,7,6,2020-10-07,0.52,40,325
 39861150,"The Italian Room, 10 min drive to downtown",260209501,Katie,University District,University District,47.66461,-122.31112,Private room,23,1,5,2020-03-01,0.43,6,0
 39872347,Water View Walk to Space Needle & Pike Pl Market!,74305,Seattle Oasis,Downtown,Belltown,47.61397,-122.34726,Entire home/apt,158,2,26,2020-10-18,2.31,27,325
@@ -3814,8 +3803,7 @@ Elegant-Cozy-Clean",2715103,Dea And Kay,Other neighborhoods,Wedgwood,47.68655,-1
 44535095,**MONTHLY** Modern & Stylish Studio Apt in Ballard,218805459,Eric,Ballard,Adams,47.66998,-122.38032,Entire home/apt,71,30,0,,,33,79
 44537392,Beautiful Spacious Phinney Ridge Home,4730817,Dagny,Other neighborhoods,Phinney Ridge,47.68004,-122.36118,Entire home/apt,280,30,0,,,1,63
 44542423,Urban Oasis Short Walk to Green Lake  (12),3074414,Melissa,Other neighborhoods,Green Lake,47.67862,-122.3234,Entire home/apt,99,1,1,2020-08-13,0.41,55,365
-44570566,"NEW Cottage in Dec.
-2 bedrooms, 2 bath, by beach",84774732,Mardy & Kate,West Seattle,Alki,47.57623,-122.41588,Entire home/apt,185,1,0,,,2,329
+44570566,"NEW Cottage in Dec.2 bedrooms, 2 bath, by beach",84774732,Mardy & Kate,West Seattle,Alki,47.57623,-122.41588,Entire home/apt,185,1,0,,,2,329
 44577186,Greenlake Little Attic- 3,39834464,Vera,Other neighborhoods,Green Lake,47.68703,-122.33572,Private room,38,5,0,,,40,130
 44577301,Greenlake Cozy Little Attic- 3,39834464,Vera,Other neighborhoods,Green Lake,47.68528,-122.33533,Private room,49,10,0,,,40,306
 44578136,A-Seattle Urban Village-Top FL 2 Private BRs- slp4,39834464,Vera,Cascade,Eastlake,47.64066,-122.32335,Private room,64,10,0,,,40,310

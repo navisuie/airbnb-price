@@ -65,8 +65,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 796648,Private Room - Near Apple New Campus,1639312,Rodrigo,,Sunnyvale,37.3615,-122.01295,Private room,42,14,11,2020-08-22,0.13,2,55
 810306,"Silicon Valley - Private,Quiet:)",4261198,Rob,,San Jose,37.3283,-121.94434,Private room,78,2,43,2020-08-29,0.45,1,364
 839590,Petite Maison,4205096,Marcus,,San Jose,37.30739,-121.98124,Private room,150,1,0,,,1,365
-842171,"Executive Downtwn Contemporary 2BR Groundfloor
-Apt",984791,Carol,,Mountain View,37.39441,-122.08887,Entire home/apt,155,2,191,2020-10-08,2.04,4,311
+842171,"Executive Downtwn Contemporary 2BR Groundfloor Apt",984791,Carol,,Mountain View,37.39441,-122.08887,Entire home/apt,155,2,191,2020-10-08,2.04,4,311
 877625,2BR / 1 Bath - Near Castro/DT Mtn View and 85/101,42458,Emey,,Mountain View,37.37441,-122.06322,Entire home/apt,125,31,7,2019-01-14,0.08,14,81
 881146,Modern Downtown Los Gatos Apartment,869903,Danielle,,Los Gatos,37.22075,-121.97667,Entire home/apt,150,30,17,2019-07-24,0.18,1,81
 890904,HackerHome - Sunnyvale Private Room,43806,Vic,,Sunnyvale,37.38727,-122.02593,Private room,99,30,13,2018-08-26,0.14,53,365
@@ -175,7 +174,7 @@ Apt",984791,Carol,,Mountain View,37.39441,-122.08887,Entire home/apt,155,2,191,2
 2183797,"Cottage, central silicon valley",11136930,Owen And Amy,,San Jose,37.29648,-121.97512,Entire home/apt,149,3,124,2020-10-23,1.54,1,323
 2197859,Spacious room in quiet neighborhood,11210625,Kalpana,,Milpitas,37.44211,-121.88018,Private room,120,1,26,2018-08-10,0.34,2,90
 2217061,"Engineers: 30% Discount/mo, Unli Food, Super Clean",10088145,Drew,,San Jose,37.29905,-121.97117,Shared room,42,6,23,2020-07-15,0.28,9,305
-2226722,"Executive garden apt. walk downtn,",984791,Carol,,Mountain View,37.39452,-122.08872,Entire home/apt,155,2,216,2020-10-13,2.65,4,315
+2226722,"Executive garden apt. walk downtn",984791,Carol,,Mountain View,37.39452,-122.08872,Entire home/apt,155,2,216,2020-10-13,2.65,4,315
 2228097,"Bright and Luxurious Villa,Perfect for Business)",11370863,Farhat,,Milpitas,37.44915,-121.88919,Private room,581,7,11,2019-01-23,0.27,6,365
 2241035,Best Deal-Rivermark-Santa Clara!,11444774,First Name,,Santa Clara,37.39569,-121.94296,Private room,105,3,14,2020-08-01,0.18,1,358
 2241381,*SUPER CLEAN*EXEC SUITE*QUIET AREA*SKYLINE VIEWS*,10901366,Steph & Nate,,San Jose,37.34436,-121.89694,Entire home/apt,99,2,3,2014-05-01,0.04,8,365
@@ -650,7 +649,7 @@ Apt",984791,Carol,,Mountain View,37.39441,-122.08887,Entire home/apt,155,2,191,2
 9281445,Spacious modern home w/2 car garage,2423649,Jeremy,,San Jose,37.32112,-121.90202,Entire home/apt,600,14,6,2016-04-10,0.10,1,365
 9283490,6 bedroom Boutique Farmhouse with heated pool!,19309318,Liz,,Unincorporated Areas,37.05872,-121.6046,Entire home/apt,493,2,119,2020-10-07,1.99,1,294
 9301350,Beautiful Spacious Home in a Quiet Area,40417744,Raj,,San Jose,37.29646,-121.79779,Entire home/apt,313,3,67,2019-10-18,1.17,3,312
-9308622,"Superbowl motor home for 2 adults ,",657988,Jack,,San Jose,37.31295,-121.86856,Shared room,400,1,0,,,1,365
+9308622,"Superbowl motor home for 2 adults ",657988,Jack,,San Jose,37.31295,-121.86856,Shared room,400,1,0,,,1,365
 9361676,Palo Alto-Stanford | Apartment 2BR,744614,Michel,,Palo Alto,37.39102,-122.12823,Entire home/apt,145,3,80,2020-08-12,1.35,1,98
 9364139,Luxury guest suite,44881108,Eric,,Unincorporated Areas,37.22823,-122.00579,Entire home/apt,140,1,135,2020-10-10,2.59,1,362
 9371477,Quiet and Cozy,262351,Marissa,,San Jose,37.23451,-121.7712,Private room,58,1,198,2020-03-18,3.35,3,297
@@ -886,8 +885,7 @@ Apt",984791,Carol,,Mountain View,37.39441,-122.08887,Entire home/apt,155,2,191,2
 10920714,SUPERBOWL 50 GETAWAY,30940225,Jayson,,San Jose,37.31001,-121.87807,Private room,800,3,0,,,1,365
 10925150,Sunnyvale Private room 2,31830543,Tracy & David,,Sunnyvale,37.39524,-122.001,Private room,60,1,8,2019-08-03,0.16,12,358
 10926307,Spacious Room in a Gorgeous House,56639226,Akhil,,San Jose,37.29585,-121.78418,Private room,74,3,4,2019-06-07,0.13,2,365
-10928641,"SJ Super Bowl Rental Complex 6 beds.
-sleeps 10+",56655510,Daniel,,San Jose,37.34926,-121.87785,Entire home/apt,995,2,0,,,2,0
+10928641,"SJ Super Bowl Rental Complex 6 beds.sleeps 10+",56655510,Daniel,,San Jose,37.34926,-121.87785,Entire home/apt,995,2,0,,,2,0
 10929526,Large room near Downtown San Jose,56637413,Ruth,,Unincorporated Areas,37.32031,-121.92256,Private room,70,1,7,2020-02-10,0.37,3,364
 10929882,Cozy room near Downtown San Jose,56637413,Ruth,,San Jose,37.32182,-121.92111,Private room,60,1,15,2020-05-02,0.27,3,364
 10930927,Large Private Room—Plug & Play and Apple Sunnyvale,56669395,Patti,,Sunnyvale,37.36733,-122.0098,Private room,69,2,75,2020-03-29,1.53,1,180
@@ -3282,8 +3280,7 @@ sleeps 10+",56655510,Daniel,,San Jose,37.34926,-121.87785,Entire home/apt,995,2,
 34810536,1br/attached bath in ground floor in San Jose,261086073,Vidya S,,San Jose,37.38127,-121.85886,Private room,78,7,1,2019-06-29,0.06,3,89
 34813914,Super comfortable bed in a private remodeled home,59952987,Blake,,San Jose,37.3011,-121.96995,Private room,100,1,18,2020-08-22,1.02,4,179
 34839806,HAPPY Room 5-Star near Stanford & Tech Companies,57442768,Anne,,Palo Alto,37.41167,-122.13476,Private room,89,5,10,2020-02-26,0.71,4,365
-34845290,"Brand New Airstream
-Comfy Sanitary Great Location",140711306,Myrjean,,Sunnyvale,37.39302,-121.99622,Entire home/apt,69,2,12,2020-09-27,0.70,2,357
+34845290,"Brand New Airstream Comfy Sanitary Great Location",140711306,Myrjean,,Sunnyvale,37.39302,-121.99622,Entire home/apt,69,2,12,2020-09-27,0.70,2,357
 34862314,Centrally located- Dedicated sleep & work spaces.,79919304,Margaret,,Mountain View,37.3914,-122.09207,Entire home/apt,159,3,16,2020-06-17,0.99,1,72
 34873495,Amazing 3b2b in North San Jose,262913262,Hunk,,San Jose,37.40113,-121.85662,Entire home/apt,169,7,27,2020-10-10,1.72,1,166
 34894093,W San Jose newly renovated 2BR/2BA in a cul-de-sac,247286929,Sharon,,San Jose,37.31583,-121.97917,Entire home/apt,126,3,63,2020-10-11,3.67,2,27
@@ -3355,7 +3352,7 @@ Comfy Sanitary Great Location",140711306,Myrjean,,Sunnyvale,37.39302,-121.99622,
 35546202,1 Bedroom FURNISHED in 4B/3BA house,22061526,Sudarshan,,San Jose,37.30633,-121.78614,Private room,800,30,0,,,1,365
 35549189,Cozy room with private bathroom and entrance.,192402234,Mabel,,San Jose,37.25788,-121.83116,Private room,45,1,149,2020-10-24,9.07,1,25
 35555285,Furnished room,267515758,Joseph,,San Jose,37.3443,-121.82895,Private room,300,3,0,,,1,365
-35576983,",Downtown Spacious Bright High Ceiling BR",265228108,Maya,,Mountain View,37.39098,-122.08969,Private room,85,3,17,2020-02-28,1.05,6,180
+35576983,"Downtown Spacious Bright High Ceiling BR",265228108,Maya,,Mountain View,37.39098,-122.08969,Private room,85,3,17,2020-02-28,1.05,6,180
 35647052,Little sunshine ☀️,268168821,Carla,,San Jose,37.27165,-121.85434,Private room,45,14,1,2020-09-01,0.55,1,362
 35650493,cozy home close to Apple Park in bay area,64998943,Jessie,,Santa Clara,37.34146,-121.97913,Private room,100,3,0,,,1,269
 35651717,Beautifully remodeled detached studio in Sunnyvale,268210910,Sarit,,Sunnyvale,37.33927,-122.02757,Entire home/apt,82,3,10,2019-11-01,0.64,1,112
@@ -3441,8 +3438,7 @@ Comfy Sanitary Great Location",140711306,Myrjean,,Sunnyvale,37.39302,-121.99622,
 36203029,GREAT ROOM W/PRIVATE BATH/ SLEEPS 2/3 PERSONS -A1,142933064,Ginger & Joey,,Santa Clara,37.33043,-121.98457,Private room,56,1,30,2020-07-19,1.88,10,297
 36203681,Private Entrance Master Grey Suite,32401334,Natalie,,San Jose,37.25798,-121.83414,Private room,81,2,14,2020-07-12,0.93,2,166
 36204134,Quiet and Serene Master Bedroom in Milpitas,224359857,Ching,,Milpitas,37.4224,-121.86396,Private room,52,1,26,2020-07-14,1.70,2,0
-36204722,"Quaint Room
-3C",142933064,Ginger & Joey,,Santa Clara,37.32944,-121.98263,Private room,56,1,46,2020-08-22,2.85,10,344
+36204722,"Quaint Room 3C",142933064,Ginger & Joey,,Santa Clara,37.32944,-121.98263,Private room,56,1,46,2020-08-22,2.85,10,344
 36205261,A secure gated home private entrance cozy studio,54249702,Stacy,,San Jose,37.3488,-121.87683,Entire home/apt,71,3,25,2020-07-26,1.61,1,0
 36211479,Nice Size Room 2B,142933064,Ginger & Joey,,Santa Clara,37.33091,-121.98316,Private room,53,1,85,2020-08-16,5.27,10,344
 36212836,Private Luxury Guest Apartment,272368728,Yi,,San Jose,37.32036,-122.00264,Entire home/apt,249,2,6,2019-11-21,0.39,1,37
@@ -3682,8 +3678,7 @@ Comfy Sanitary Great Location",140711306,Myrjean,,Sunnyvale,37.39302,-121.99622,
 38213605,Beautiful Patio Room near SANTANA Row (sleeps 5),122062577,Marita,,San Jose,37.31014,-121.94807,Private room,125,1,8,2020-10-11,0.92,2,250
 38214555,Lovely Garden Studio in Campbell,676266,David,,Campbell,37.27666,-121.96264,Private room,77,1,4,2019-12-25,0.29,1,89
 38214678,Safe/parking/ex. Location/hottub/Los Gatos/,45615861,Michelle,,San Jose,37.24302,-121.92241,Private room,39,2,9,2020-10-09,0.68,3,73
-38214975,"Leisure Room #5 
-2Queen Bed+Private Restroom",277217152,Sandy,,San Jose,37.37309,-121.87136,Private room,80,1,1,2019-09-09,0.07,10,0
+38214975,"Leisure Room #5 2Queen Bed+Private Restroom",277217152,Sandy,,San Jose,37.37309,-121.87136,Private room,80,1,1,2019-09-09,0.07,10,0
 38215617,Leisure Room#6,277217152,Sandy,,San Jose,37.37097,-121.86991,Private room,80,1,0,,,10,89
 38219898,2B1B Downtown Palo Alto,106843713,Kimberly,,Palo Alto,37.44749,-122.15385,Private room,58,122,0,,,1,179
 38237289,"Private room, Queen bed, Self check-in, Parking",214480279,Sweta,,San Jose,37.254,-121.83947,Private room,65,3,1,2019-09-03,0.07,3,90
@@ -3719,7 +3714,7 @@ Comfy Sanitary Great Location",140711306,Myrjean,,Sunnyvale,37.39302,-121.99622,
 38459691,Quick Get away in the middle of DTSJ,293215584,Howard,,San Jose,37.33618,-121.87834,Private room,60,1,2,2019-10-19,0.15,1,365
 38460984,The Silicon Valley house.,293232981,Paul,,Mountain View,37.38377,-122.06787,Private room,50,2,5,2020-02-13,0.37,1,365
 38466550,"🔥 WFH Ready 1GB Internet and Work Desk🔥  Mountain View KING BED, PERFECT 4 Traveling Nurses!",218507164,Ray,,Sunnyvale,37.37539,-122.05969,Entire home/apt,141,1,14,2020-09-20,1.03,7,156
-38468151,"🔥 WFH Ready 1GB Internet and Work Desk🔥 Mountain View KING BED by El Camino Hospital, Gplex, LnkdIn, FB,",218507164,Ray,,Sunnyvale,37.37689,-122.05942,Entire home/apt,138,1,28,2020-10-06,2.05,7,162
+38468151,"🔥 WFH Ready 1GB Internet and Work Desk🔥 Mountain View KING BED by El Camino Hospital, Gplex, LnkdIn, FB",218507164,Ray,,Sunnyvale,37.37689,-122.05942,Entire home/apt,138,1,28,2020-10-06,2.05,7,162
 38480840,"Deluxe place in Milpitas, California.",293409697,Michael,,Milpitas,37.44138,-121.91726,Private room,41,365,9,2020-01-12,0.71,1,358
 38494240,CLEAN SECLUDED BEDROOM | Private Bath | Caesar's,329578,Jason,,Santa Clara,37.39964,-121.96129,Private room,80,1,6,2020-08-20,0.44,25,72
 38495541,Los Gatos Farmhouse Cottage,169413746,Christine,,Los Gatos,37.24159,-121.95899,Entire home/apt,134,5,22,2020-10-13,1.71,1,32
@@ -4164,8 +4159,7 @@ Comfy Sanitary Great Location",140711306,Myrjean,,Sunnyvale,37.39302,-121.99622,
 41410727,A nice bedroom at a safe quiet convenient loc,66632001,Celia And Mark,,Milpitas,37.42946,-121.87202,Private room,69,1,0,,,1,179
 41419465,"Bright Mountain View 1BR w/ Pool, Gym, nr. SU & Google, by Blueground",107434423,Blueground,,Mountain View,37.40262,-122.11135,Entire home/apt,168,30,0,,,52,334
 41427566,Cozy Blue Cottage,37851536,Carol,,Unincorporated Areas,37.37786,-121.81772,Entire home/apt,90,4,4,2020-10-10,0.43,2,230
-41428751,"Two rooms, bathroom
-Family home,safe neighborhood",111862,Sandra,,San Jose,37.40633,-121.86416,Private room,150,1,0,,,2,179
+41428751,"Two rooms, bathroom Family home,safe neighborhood",111862,Sandra,,San Jose,37.40633,-121.86416,Private room,150,1,0,,,2,179
 41428916,Neat Room,45763366,Jean,,Sunnyvale,37.35986,-122.02769,Private room,120,5,5,2020-03-01,0.53,3,344
 41450392,"Airy Palo Alto 1BR w/ Pool, Fitness Center, nr. SU, by Blueground",107434423,Blueground,,Palo Alto,37.40862,-122.12408,Entire home/apt,198,30,0,,,52,266
 41453905,Downtown Sunny vale One Room for travellers,81523960,Zeng,,Sunnyvale,37.37879,-122.03106,Private room,278,1,0,,,2,90
@@ -4387,8 +4381,7 @@ Family home,safe neighborhood",111862,Sandra,,San Jose,37.40633,-121.86416,Priva
 42757980,2 Female travelers,1318066,Geri,,San Jose,37.27223,-121.91946,Private room,75,30,0,,,3,330
 42762020,SiliconValley G00gle/Stanford/Apple/Microsoft,291510410,Jean,,Sunnyvale,37.37629,-122.05286,Private room,55,31,0,,,4,90
 42762968,Carlsbad Casita,82582023,Elsie,,Milpitas,37.42802,-121.8688,Entire home/apt,85,2,26,2020-10-17,3.44,1,88
-42763875,"Private bedroom/bath
-Rooftop Pool available/gym",45847844,Menachem,,Milpitas,37.411,-121.88777,Private room,393,1,0,,,1,179
+42763875,"Private bedroom/bath Rooftop Pool available/gym",45847844,Menachem,,Milpitas,37.411,-121.88777,Private room,393,1,0,,,1,179
 42764859,204-Studio Perfection in Downtown San Jose,123481831,Ryan,,San Jose,37.33524,-121.89211,Entire home/apt,189,2,0,,,16,142
 42766647,Nice room in Evergreen San Jose,218664328,Vi,,San Jose,37.29088,-121.7607,Private room,38,7,0,,,22,360
 42767691,Private master bedroom in San Jose,150028318,Chiara,,San Jose,37.34518,-121.81578,Private room,65,1,0,,,6,85

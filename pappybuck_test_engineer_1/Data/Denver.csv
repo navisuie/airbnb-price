@@ -85,7 +85,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 2139342,Designer Home Away From Home,10917089,Jeffrey,,Hilltop,39.72061,-104.91187,Entire home/apt,85,30,150,2020-08-22,1.83,4,220
 2175370,PrivateBdrmShare Bath*LadiesOnly*Walk DU&PorterHos,9869829,Barbara,,University,39.66636,-104.96569,Private room,30,3,60,2019-11-17,0.74,3,205
 2216969,Modern Studio,10917089,Jeffrey,,Hilltop,39.72202,-104.91177,Entire home/apt,60,30,144,2020-08-05,2.36,4,320
-2232323,"Cozy Cottage in the Country Club,",11393480,Darrow,,Country Club,39.72203,-104.96623,Entire home/apt,200,5,71,2020-10-05,0.88,1,325
+2232323,"Cozy Cottage in the Country Club",11393480,Darrow,,Country Club,39.72203,-104.96623,Entire home/apt,200,5,71,2020-10-05,0.88,1,325
 2239191,"Spacious victorian, bright and airy near downtown.",1239512,Zorab,,Clayton,39.76664,-104.95477,Entire home/apt,180,3,57,2020-10-18,0.86,1,360
 2243316,"BEST! Location, open, quiet, CLOROX CLEAN!",4087056,Jeanne,,City Park West,39.74245,-104.9681,Entire home/apt,63,30,23,2019-10-28,0.28,5,344
 2361919,The Cloisters at Berkeley,5811115,Annette,,Berkeley,39.78009,-105.03965,Entire home/apt,70,30,37,2020-01-31,0.46,6,300
@@ -467,7 +467,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 14010321,Beautiful Denver Park Hill 2 BR Apartment,69009301,Herbert,,North Park Hill,39.75867,-104.91969,Entire home/apt,96,1,298,2020-10-25,5.73,1,229
 14027297,Quaint Artist Row Home,6788650,Caroline,,Whittier,39.75883,-104.97223,Entire home/apt,114,1,202,2020-10-22,3.90,1,15
 14042763,The Whittier Wonder - Close to Downtown and RiNo,9895129,Lynette,,Whittier,39.76092,-104.96762,Entire home/apt,114,2,105,2020-09-23,2.07,1,19
-14055472,"Near City Park & Downtown, Modern, Comfortable,",83579310,Bev,,Whittier,39.7593,-104.96133,Entire home/apt,722,2,129,2020-10-26,2.47,1,307
+14055472,"Near City Park & Downtown, Modern, Comfortable",83579310,Bev,,Whittier,39.7593,-104.96133,Entire home/apt,722,2,129,2020-10-26,2.47,1,307
 14125469,LoHi Luxury Townhouse,46817293,Albert,,Highland,39.76481,-105.00464,Entire home/apt,269,2,104,2020-09-27,2.08,1,25
 14176184,LoHi and everything! Best location.,39535783,Chalatit,,Highland,39.75839,-105.00993,Entire home/apt,155,30,6,2016-10-16,0.12,1,316
 14187514,Entire Home Near Sloans Lake and Light Rail,86000051,Vance And Robert,,West Colfax,39.73611,-105.05048,Entire home/apt,128,7,109,2020-10-19,2.53,1,150
@@ -521,7 +521,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 15303547,Comfortable Business Travel Denver,80505094,Aana,,Lowry Field,39.71325,-104.89183,Entire home/apt,75,6,40,2020-08-16,0.91,1,312
 15310830,Brand new townhome in Denver's best neighborhood,11999984,Matthew,,City Park West,39.74398,-104.96265,Entire home/apt,200,2,63,2020-02-05,1.28,1,211
 15312104,Charming Duplex in Popular Platt Park (light rail),95038156,Jess,,Platt Park,39.68133,-104.98537,Entire home/apt,97,3,43,2020-09-24,0.88,1,147
-15314730,"Quiet House on the GVR Golf Course near DIA,",97566755,Andries,,Gateway - Green Valley Ranch,39.79038,-104.74316,Entire home/apt,150,30,85,2019-07-31,1.72,1,341
+15314730,"Quiet House on the GVR Golf Course near DIA",97566755,Andries,,Gateway - Green Valley Ranch,39.79038,-104.74316,Entire home/apt,150,30,85,2019-07-31,1.72,1,341
 15324464,Comfortable home away from home!,5470074,Anu,,Northeast Park Hill,39.76233,-104.91772,Entire home/apt,101,2,40,2020-02-11,1.04,1,132
 15337887,Gorgeous Bungalow in the heart of Lohi,1568544,Katie,,Highland,39.75857,-105.01871,Entire home/apt,175,5,17,2020-01-01,0.36,1,9
 15344781,"Bright, relaxing getaway",42862500,Linda,,Stapleton,39.74807,-104.89861,Private room,37,2,179,2020-03-15,3.63,1,178
@@ -594,8 +594,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 16406440,Unique & Spacious Home With Backyard & Patio,70563805,Hideaway Vacation Rentals,,Speer,39.71336,-104.98223,Entire home/apt,135,30,269,2020-05-17,5.75,8,125
 16438823,Huge Downtown Denver Mansion Sleeps 16!,107795938,Stacy And Paula,,City Park West,39.74191,-104.9635,Entire home/apt,379,29,90,2020-02-17,1.94,1,297
 16516286,"420 Friendly Home, minutes from downtown Denver",68535175,Tyler,,Ruby Hill,39.68667,-105.01145,Entire home/apt,112,2,100,2020-10-19,2.27,1,301
-16548314,"The Cottage at Seahorse Heights
-License BFN0000086",68062201,Tomas,,Congress Park,39.73409,-104.95843,Entire home/apt,87,1,299,2020-10-01,6.46,1,58
+16548314,"The Cottage at Seahorse Heights License BFN0000086",68062201,Tomas,,Congress Park,39.73409,-104.95843,Entire home/apt,87,1,299,2020-10-01,6.46,1,58
 16582485,RIVERFRONT PARK UNION STATION!  COZY LUXURY LOFT!,74813049,Cindy,,Union Station,39.75437,-105.0047,Entire home/apt,116,29,53,2019-09-13,1.27,2,253
 16598808,Historic Curtis Park/RiNo home -walk to everything,83893609,Matt,,Five Points,39.75824,-104.9792,Entire home/apt,340,2,30,2019-12-16,0.65,2,56
 16660933,TreeHouse on South Pearl,110168418,Mark,,Platt Park,39.68334,-104.98187,Entire home/apt,154,4,51,2020-09-28,1.13,1,202
@@ -1062,8 +1061,7 @@ License BFN0000086",68062201,Tomas,,Congress Park,39.73409,-104.95843,Entire hom
 24497089,"4 Bedroom Luxury Home - Eat, Drink, And Be Merry!",145530569,Heather,,West Colfax,39.7454,-105.02666,Entire home/apt,259,28,27,2019-07-02,0.89,2,309
 24557195,City Park Private Suite,185528099,Jean,,City Park West,39.75039,-104.96844,Private room,91,1,158,2020-10-26,5.75,1,118
 24575590,Golden Gardens,185692705,Christy,,Whittier,39.75882,-104.96208,Entire home/apt,90,2,134,2020-10-26,4.42,1,236
-24631282,"On Top of
-the World Vintage Condo!",55376910,Kelsey,,Congress Park,39.73594,-104.95632,Entire home/apt,93,30,44,2020-09-30,1.64,2,80
+24631282,"On Top of the World Vintage Condo!",55376910,Kelsey,,Congress Park,39.73594,-104.95632,Entire home/apt,93,30,44,2020-09-30,1.64,2,80
 24633836,Capitol Hill Carriage House studio- private,186166480,Penny And Bill,,Capitol Hill,39.73087,-104.98325,Entire home/apt,95,3,54,2020-08-06,1.82,2,354
 24689157,Bright Town home in Congress Park,12224731,Ashley,,Congress Park,39.73118,-104.94273,Entire home/apt,130,1,47,2020-07-06,1.55,1,150
 24689489,Quaint Bedroom in heart of Denver w/ private bath,71572483,Susan,,Rosedale,39.67405,-104.97432,Private room,44,2,60,2020-10-01,2.02,2,78
@@ -1078,8 +1076,7 @@ the World Vintage Condo!",55376910,Kelsey,,Congress Park,39.73594,-104.95632,Ent
 24848902,"Large, Chic Home in Downtown Denver!",187548757,Nelson,,Whittier,39.7524,-104.97314,Entire home/apt,239,2,35,2020-09-27,1.19,1,126
 24852135,Downtown Luxury 1+ Month Rental w/ Skyline Views!,143045923,Michael,,North Capitol Hill,39.74337,-104.98024,Entire home/apt,112,30,16,2019-11-26,0.55,1,297
 24906976,SW Denver Home Theater Apartment,180031850,Caren,,Harvey Park South,39.65645,-105.03907,Entire home/apt,61,2,148,2020-03-18,5.11,1,68
-24916742,"Chill home with Good vibes 
-420 friendly  2b/1bath",188378175,Curtis,,Villa Park,39.7325,-105.05938,Entire home/apt,102,3,105,2020-10-25,3.55,1,53
+24916742,"Chill home with Good vibes 420 friendly  2b/1bath",188378175,Curtis,,Villa Park,39.7325,-105.05938,Entire home/apt,102,3,105,2020-10-25,3.55,1,53
 24931284,Charming & Spacious Wash Park 1 BD Escape!,83062586,Tracy,,Washington Park West,39.70092,-104.98184,Entire home/apt,88,1,24,2020-09-16,0.80,2,158
 24996201,"Classy, Clean, Comfortable Private Master Suite",65405395,Edith,,Gateway - Green Valley Ranch,39.78216,-104.7427,Private room,89,7,54,2019-09-07,1.95,1,236
 25001622,Historic one bedroom carriage house apartment,186166480,Penny And Bill,,Capitol Hill,39.73245,-104.98489,Entire home/apt,104,3,50,2020-10-03,1.69,2,362
@@ -1314,8 +1311,7 @@ the World Vintage Condo!",55376910,Kelsey,,Congress Park,39.73594,-104.95632,Ent
 28882165,Denver Studio Apartment,39171515,David,,Capitol Hill,39.72953,-104.97697,Private room,61,1,139,2020-10-16,6.29,3,45
 28931478,Wash Park Home Away from Home,81171785,Robert,,Washington Park West,39.69534,-104.9748,Entire home/apt,118,1,70,2020-10-16,2.81,1,0
 28939545,LoHi! Modern 2 Bdr/3 bth. Walk everywhere!,52013990,John,,Highland,39.76034,-105.01415,Entire home/apt,185,2,48,2020-08-09,2.05,1,137
-28964822,"Sassi Suite in Wash Park 
-*Easy self check in*",90117505,Jenn,,Washington Park,39.71041,-104.97036,Private room,142,1,51,2020-02-17,2.15,2,86
+28964822,"Sassi Suite in Wash Park *Easy self check in*",90117505,Jenn,,Washington Park,39.71041,-104.97036,Private room,142,1,51,2020-02-17,2.15,2,86
 29008541,West Denver home close to everything!    3B,101450453,Paul And Rebecca,,Barnum West,39.71903,-105.05813,Private room,60,3,11,2020-09-10,0.49,3,327
 29013476,West-Wash Park/SOBO Carriage House Retreat,218679571,Candice,,Speer,39.71968,-104.98466,Entire home/apt,112,2,155,2020-10-11,6.27,1,152
 29023539,Urban oasis in the heart of it all!,97130295,Brett,,Highland,39.76217,-105.00868,Private room,91,1,73,2020-10-10,3.38,2,47
@@ -1333,8 +1329,7 @@ the World Vintage Condo!",55376910,Kelsey,,Congress Park,39.73594,-104.95632,Ent
 29300648,Escape to a Sunny Carriage House in the Highlands Area,81576814,Lizz,,West Highland,39.7585,-105.02754,Entire home/apt,118,2,97,2020-10-28,3.98,1,135
 29303862,Downtown Condo With Stunning Views,24157036,Angela,,Union Station,39.75031,-104.99676,Entire home/apt,155,90,0,,,40,363
 29305639,Street Art Basement Suite and Home Theater,13302506,Ross,,Ruby Hill,39.6957,-105.01734,Entire home/apt,74,2,155,2020-10-25,6.86,1,179
-29315547,"Teme and Marry property in denver
-2018-BFN-0008633",220852775,Temesgen,,Gateway - Green Valley Ranch,39.79597,-104.7377,Private room,79,3,32,2020-10-26,1.31,1,150
+29315547,"Teme and Marry property in denver 2018-BFN-0008633",220852775,Temesgen,,Gateway - Green Valley Ranch,39.79597,-104.7377,Private room,79,3,32,2020-10-26,1.31,1,150
 29337638,Blue room,105950282,Kristen,,Platt Park,39.68665,-104.97903,Private room,190,1,28,2020-03-01,1.34,2,294
 29355346,1885 Charmer in Art District near Downtown & Mtns.,112006680,James,,Lincoln Park,39.73819,-105.00174,Entire home/apt,83,30,113,2020-10-19,4.62,1,32
 29355762,Sunnyside Bungalow,97331628,Annie,,Sunnyside,39.7764,-105.00892,Entire home/apt,174,2,3,2020-10-05,1.48,1,108
@@ -1633,8 +1628,7 @@ the World Vintage Condo!",55376910,Kelsey,,Congress Park,39.73594,-104.95632,Ent
 33969064,♔ Queen RiNo ♔ Private Yard,55608382,Douglas,,Five Points,39.76428,-104.9794,Entire home/apt,123,2,114,2020-10-25,6.60,2,54
 33992995,Denver's Modern Luxe Studio,6526458,Anita,,Hale,39.73074,-104.93157,Entire home/apt,53,30,6,2020-09-20,0.32,2,187
 33998242,Charming Convention Center Loft,256711426,Cali,,CBD,39.74451,-104.99105,Entire home/apt,109,30,48,2020-10-26,2.66,1,365
-34017701,"Jefferson Park Charmer
-9 blks to Broncos stadium",92005586,Robert,,Jefferson Park,39.7578,-105.02366,Entire home/apt,314,1,44,2020-07-12,2.40,1,5
+34017701,"Jefferson Park Charmer 9 blks to Broncos stadium",92005586,Robert,,Jefferson Park,39.7578,-105.02366,Entire home/apt,314,1,44,2020-07-12,2.40,1,5
 34019010,Valverde Vacation home,113886802,Mary,,Valverde,39.71495,-105.02134,Entire home/apt,80,1,75,2020-10-14,4.19,1,0
 34026631,"Perfect for groups. Walkable, upscale Denver home",256932503,Lucy,,Speer,39.72142,-104.98441,Entire home/apt,350,2,5,2019-09-02,0.29,1,56
 34057575,♦Newly Renovated!♦Perfect Location!♦Parking Spot!,69551645,John,,Highland,39.76041,-105.01227,Entire home/apt,158,1,49,2020-10-14,4.14,2,209
@@ -1855,8 +1849,7 @@ the World Vintage Condo!",55376910,Kelsey,,Congress Park,39.73594,-104.95632,Ent
 37586142,LoHi Guesthouse Long Term Monthly Rental,1278574,Scott,,Highland,39.76473,-105.01656,Entire home/apt,90,30,52,2020-06-14,3.74,1,341
 37589529,Quiet retreat in the heart of Cherry Creek North.,155717555,Richard,,Cherry Creek,39.72328,-104.9535,Entire home/apt,110,4,6,2020-08-27,0.56,1,319
 37590420,Luxury Denver apartment,49126373,Lindsay,,Stapleton,39.79773,-104.8766,Entire home/apt,90,2,29,2020-10-19,2.08,1,163
-37607560,"Super clean and quiet
-Nearly by airport",284135359,Loan,,Gateway - Green Valley Ranch,39.78294,-104.80108,Private room,49,1,67,2020-10-11,4.89,2,354
+37607560,"Super clean and quiet Nearly by airport",284135359,Loan,,Gateway - Green Valley Ranch,39.78294,-104.80108,Private room,49,1,67,2020-10-11,4.89,2,354
 37626997,"New, Executive Rental, Central- Sloans Lake",284283702,Al,,West Colfax,39.73798,-105.04766,Entire home/apt,175,3,12,2020-10-18,0.97,3,358
 37628327,Smart Oasis- South Room [Hot Tub/Pet/420 Friendly],49053892,Erick,,Elyria Swansea,39.77375,-104.95019,Private room,74,1,98,2020-10-26,6.61,3,255
 37684648,Private Entry Harvard Gulch/DU/South Broadway Area,284805380,Peter,,Rosedale,39.66822,-104.9791,Entire home/apt,63,1,105,2020-10-23,7.14,1,58
@@ -2302,16 +2295,13 @@ Nearly by airport",284135359,Loan,,Gateway - Green Valley Ranch,39.78294,-104.80
 42133387,"Comfortable family home @DIA w/ PS4 VR, EV charger",177541140,Jonathan,,Gateway - Green Valley Ranch,39.79659,-104.76353,Entire home/apt,159,1,17,2020-10-18,2.01,1,54
 42136551,Monthly Furnished Apt in Cap Hill + Free Parking,334314882,Tony,,Capitol Hill,39.73375,-104.97643,Entire home/apt,70,29,2,2020-08-13,0.44,1,259
 42138861,"4 Story Dream House in Denver's LoHi with 3,300 SF",30855368,Brian,,Highland,39.76256,-105.00795,Entire home/apt,1470,2,3,2020-10-11,0.87,2,247
-42146167,"Casa Tranquilo
-You will love relaxing outdoors.",187048377,Frank,,Hampden South,39.64661,-104.90951,Private room,75,30,0,,,1,179
+42146167,"Casa Tranquilo You will love relaxing outdoors.",187048377,Frank,,Hampden South,39.64661,-104.90951,Private room,75,30,0,,,1,179
 42158680,"Modern Upstairs Private Room, Bath and Lounge Area",230242148,Max,,Northeast Park Hill,39.76219,-104.91236,Private room,100,3,2,2020-08-10,0.46,1,60
 42159807,Downtown RiNo Brand New Modern Condo,294328498,Eva,,Five Points,39.75634,-104.98387,Entire home/apt,173,2,6,2020-07-04,0.70,1,2
 42175422,Home away from home,10036887,Tracy,,Goldsmith,39.67654,-104.91037,Entire home/apt,300,22,0,,,1,179
 42181011,Modern Home in the Berkeley Neighborhood,212489443,Brooke,,Berkeley,39.78321,-105.03153,Entire home/apt,80,30,0,,,2,123
 42205274,Large Private Basement Suite (2020-BFN-0004114),87833555,Shafiqa,,Bear Valley,39.66475,-105.05896,Entire home/apt,39,1,3,2020-05-01,0.36,1,174
-42207071,"5 Star Retreat 
-*Weekly rates*
-Everything you need",90117505,Jenn,,Washington Park,39.71098,-104.97021,Entire home/apt,242,2,1,2020-10-25,1,2,362
+42207071,"5 Star Retreat *Weekly rates*Everything you need",90117505,Jenn,,Washington Park,39.71098,-104.97021,Entire home/apt,242,2,1,2020-10-25,1,2,362
 42223927,"Beautiful Suite near DU, Ideal for Self-Isolating",144046799,Judah,,University,39.6799,-104.96537,Entire home/apt,60,1,13,2020-09-14,1.66,1,85
 42252578,La Veranda Park Hill (Private Entrance & bathroom),335671770,Sonja,,North Park Hill,39.76063,-104.93473,Private room,50,1,6,2020-07-27,0.71,1,343
 42253485,"Cute, clean, spacious home near RiNo Arts District",7304978,Dj,,Cole,39.76523,-104.96813,Entire home/apt,208,1,10,2020-10-04,1.24,1,60
@@ -2692,8 +2682,7 @@ Everything you need",90117505,Jenn,,Washington Park,39.71098,-104.97021,Entire h
 45100059,High Rise Condo Downtown-Executive 30 Day Rental,34955862,Scott,,Union Station,39.75065,-104.99511,Entire home/apt,133,30,0,,,9,218
 45103109,Charming 2 bedroom Bungalow,364235960,Kristin,,Washington Park West,39.70946,-104.97594,Entire home/apt,160,2,2,2020-10-20,2,1,52
 45104125,"Spa-like Retreat, Just One Block from Wash Park!",31676476,Katie,,Washington Park,39.70369,-104.96657,Entire home/apt,119,1,15,2020-10-23,7.26,1,45
-45107004,"1 Bed 1 Bath 600SqFt
-Cherry Creek Garden Apartment",92906726,Ryan,,Cherry Creek,39.71967,-104.9421,Entire home/apt,79,3,0,,,1,333
+45107004,"1 Bed 1 Bath 600SqFt Cherry Creek Garden Apartment",92906726,Ryan,,Cherry Creek,39.71967,-104.9421,Entire home/apt,79,3,0,,,1,333
 45113193,Curtis Park Palace,37096072,Hunter,,Five Points,39.75796,-104.97695,Entire home/apt,250,1,5,2020-10-19,2.83,1,34
 45114053,★★★★★PLATT PARK/WASH PARK I FULL Kitchen I PARKING,2619306,Zack,,University,39.6837,-104.97017,Entire home/apt,144,1,6,2020-10-18,6,5,92
 45116693,Studio Private Entrance 1/2 Blk to Best of Colfax,8679440,Kim,,Congress Park,39.73984,-104.94565,Entire home/apt,81,1,9,2020-10-25,4.50,1,38
@@ -3149,14 +3138,13 @@ Cherry Creek Garden Apartment",92906726,Ryan,,Cherry Creek,39.71967,-104.9421,En
 46048567,"Luxury guest suite in Rosedale, private entrance",8220840,Tara,,Rosedale,39.67735,-104.97377,Entire home/apt,69,1,0,,,1,74
 46049002,Confluence Apartment,128740289,Adam,,Auraria,39.75333,-105.00769,Entire home/apt,100,7,0,,,1,301
 46053330,30+ days Mid Century condo in the heart of Denver.,152507325,Veronica,,CBD,39.74602,-104.99752,Entire home/apt,96,30,0,,,1,57
-46054479,"Perfect urban stay/ Cherry Cr bike path, Wash Pk,",58942068,Terrie,,Speer,39.71732,-104.97747,Entire home/apt,135,30,0,,,1,28
+46054479,"Perfect urban stay/ Cherry Cr bike path, Wash Pk",58942068,Terrie,,Speer,39.71732,-104.97747,Entire home/apt,135,30,0,,,1,28
 46058269,Denver Apt,347036002,Malik,,Gateway - Green Valley Ranch,39.77744,-104.7989,Entire home/apt,1200,1,0,,,1,19
 46068430,Homey place just for you | 2BR in Denver,359071917,Kia,,CBD,39.75184,-104.99174,Entire home/apt,688,30,0,,,191,273
 46068689,Well-equipped apartment home | 1BR in Denver,359071917,Kia,,Civic Center,39.72932,-104.98859,Entire home/apt,119,30,0,,,191,296
 46070572,Lux King Suite with Private entrance,315045893,Jeremy,,Regis,39.78712,-105.03842,Entire home/apt,143,1,0,,,1,365
 46071649,Rest easy and live life | Studio in Denver,359071917,Kia,,University Park,39.67527,-104.95898,Entire home/apt,113,30,0,,,191,302
-46072622,"Heart of Denver! 
-Spacious and Near City Park",143782575,Laura,,Congress Park,39.73133,-104.9457,Entire home/apt,68,2,0,,,2,334
+46072622,"Heart of Denver! Spacious and Near City Park",143782575,Laura,,Congress Park,39.73133,-104.9457,Entire home/apt,68,2,0,,,2,334
 46083286,"Cherry Creek: Comfortable, Homey Stay!",205024158,Daniel,,Cherry Creek,39.71919,-104.94296,Entire home/apt,95,2,0,,,1,7
 46085490,Live + Work + Stay + Easy | 2BR in Denver,359071917,Kia,,Lowry Field,39.72328,-104.87606,Entire home/apt,141,30,0,,,191,289
 46086022,Cool Denver 2BR Apt near 16th st Pool and Jacuzzi,372429032,Rylan,,Five Points,39.76206,-104.98876,Entire home/apt,113,1,0,,,3,10

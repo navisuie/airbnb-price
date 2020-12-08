@@ -19,14 +19,11 @@ Still working on implementing the data as well as the Java servlet, and the Apac
 
 Contributions Week 2:
 ---------------------
-<Replace this with a list your contributions for the week 2 deliverable.
-You can list the java files that you wrote and committed during the first week,
-or the data files your created or worked on. If you haven't written any code or
-other content that your can commit, provide a list of the work that you did
-during week 2. Make sure that all your week 2 contributions and this section
-of the readme are committed and pushed to the GitHub repo by the week 2 deadline
-on 12/01 at 11:59pm CST.>
-Updated backend, incorporated some of the data loading.
+Updated backend by expanding on the Airbnb class, and fleshing out the skeleton from last week. Incorporated most of the data loading.
+Incorporated OpenCSV into BackEnd.java. Scanner and Stream weren't cutting it - having so many CSVs with so many lines didn't make it practical, so I decided to not reinvent the wheel and instead use OpenCSV to read the CSVs. This is reflected in the new dependencies folder in BackEnd. Otherwise, wrapped up Backend and just need to make sure loading data works
+correctly, then we can start putting everything together. 
+Might reconsider using OpenCSV - if I can get streams working, will use streams instead.
+Added an extra column to Data/Cities.csv for states. 
 
 Contributions Week 3:
 ---------------------

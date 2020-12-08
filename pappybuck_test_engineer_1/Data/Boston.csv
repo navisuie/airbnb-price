@@ -64,7 +64,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 1042420,"Easy access to Airport, Downtown, Seaport. Fenway",5715872,Charlotte,,East Boston,42.38362,-71.02023,Entire home/apt,174,2,87,2018-11-16,0.98,1,207
 1055627,Spacious 1 bdrm in Beacon Hill,4299002,Lauren,,Beacon Hill,42.36076,-71.06399,Entire home/apt,160,91,8,2018-09-09,0.09,2,0
 1071235,Cozy JP Studio-Great Location!,965697,Chris & Kristina,,Jamaica Plain,42.31748,-71.10819,Entire home/apt,135,2,327,2020-03-17,3.60,2,0
-1077105,"Studio Apt. for Rent in South End,",5927277,J,,South End,42.34022,-71.075,Entire home/apt,176,91,0,,,1,0
+1077105,"Studio Apt. for Rent in South End",5927277,J,,South End,42.34022,-71.075,Entire home/apt,176,91,0,,,1,0
 1090413,QuietStreetHynesConventionCtr-5min-Lge Rm-Pvt Bath,1984434,Irene,,South End,42.34376,-71.08036,Private room,102,3,166,2020-03-02,2.18,3,364
 1090545,ExclusiveBackBayBostonCtr-Pvt Bath&Rm-Comfy Bed,1984434,Irene,,Back Bay,42.34373,-71.08224,Private room,105,3,117,2019-12-06,1.30,3,353
 1092093,Duplex Penthouse in Longwood Area,26988,Anne,,Mission Hill,42.33285,-71.10115,Entire home/apt,90,91,32,2019-05-18,0.35,7,308
@@ -573,8 +573,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 11760822,"Boston ШkolarFlat - safe space, nice view #BC/BU",50437930,Misha,,Brighton,42.34091,-71.15012,Entire home/apt,110,29,126,2020-09-21,2.29,3,41
 11813641,North End Luxurious Modern One Bedroom Condo-,10250257,Caroline,,North End,42.36461,-71.05313,Entire home/apt,103,91,22,2018-08-12,0.51,2,53
 11871190,Spacious loft in the quiet suburbs #2,7324551,Bo,,Brighton,42.34359,-71.15507,Private room,34,30,12,2019-12-21,0.22,4,53
-11924459,"Lil’ Italy,Harbor Efficiency
-Private Entrance",46702413,Beth,,North End,42.36666,-71.05316,Private room,92,3,251,2020-10-18,4.50,2,342
+11924459,"Lil’ Italy,Harbor Efficiency Private Entrance",46702413,Beth,,North End,42.36666,-71.05316,Private room,92,3,251,2020-10-18,4.50,2,342
 11968079,Private 1BR | in-unit W/D | Near Boston Hospitals,30283594,Global Luxury Suites,,Chinatown,42.35232,-71.06203,Entire home/apt,514,9,0,,,84,89
 11973196,630 Washington,50232369,Osvaldo,,Downtown,42.35339,-71.0633,Entire home/apt,200,91,0,,,1,0
 12040113,"Cozy, Clean, Convenient. Private 4 rm, 2 bdrm APT",27842033,Bernard,,Mattapan,42.27081,-71.0794,Entire home/apt,58,2,187,2020-10-18,4.80,2,78
@@ -1409,9 +1408,7 @@ Private Entrance",46702413,Beth,,North End,42.36666,-71.05316,Private room,92,3,
 24768622,2bd Boston apartment 20 min to downtown,16052189,Jonathan,,Hyde Park,42.23721,-71.13265,Entire home/apt,85,91,0,,,8,269
 24770058,Ultra Modern Furnished West End Medical 2-BR Apt,163251048,Jen,,West End,42.36328,-71.06739,Entire home/apt,318,3,1,2018-11-17,0.04,8,351
 24783227,"Sunny ocean-view suite nr subway w/kitchen, bathr.",9898255,Jessica,,Dorchester,42.31476,-71.06226,Entire home/apt,120,91,77,2019-11-17,2.58,5,365
-24796281,"Cozy & Quiet 
-Near Ashmont station 
-W/Off St Pk",18896772,Karlena,,Dorchester,42.27937,-71.0702,Entire home/apt,158,2,64,2020-10-04,2.20,1,0
+24796281,"Cozy & Quiet Near Ashmont station W/Off St Pk",18896772,Karlena,,Dorchester,42.27937,-71.0702,Entire home/apt,158,2,64,2020-10-04,2.20,1,0
 24809758,"Brighton, MA Guesthouse for rent, Unit 2 (2nd Fl)",166004722,Wang,,Brighton,42.357,-71.15801,Private room,50,91,7,2020-05-21,0.24,5,327
 24826742,Sunset 110 GreenLine | 2BR 1.5BA | Single Family Home walkable to BI and BW Hospitals!,71783,Lance,,Mission Hill,42.3319,-71.11009,Entire home/apt,129,32,40,2020-05-31,1.34,42,126
 24829523,"3 br/2 bath town house in Lower Mills, Boston",79660976,Hillary,,Mattapan,42.27085,-71.0711,Entire home/apt,300,2,20,2020-09-01,0.68,1,358
@@ -1957,11 +1954,10 @@ W/Off St Pk",18896772,Karlena,,Dorchester,42.27937,-71.0702,Entire home/apt,158,
 35454839,(P102) Cute and Cozy 1 bedroom Fenway Park!,21184200,Airbnb,,Fenway,42.34688,-71.10344,Entire home/apt,107,1,26,2020-09-01,1.61,33,118
 35467463,Beacon Hill House | MGH/MIT/Freedom Trail,258974203,Sophia,,West End,42.36168,-71.06526,Entire home/apt,171,28,6,2019-10-30,0.36,2,214
 35481543,Convenient Beacon Hill 1BR near Mass Gen Hospital by Blueground,107434423,Blueground,,Beacon Hill,42.35941,-71.06744,Entire home/apt,112,32,0,,,92,357
-35541474,"Safe clean quiet convenient
-Family neighborhood :)",261646616,Joseph,,Dorchester,42.32005,-71.05412,Private room,85,91,0,,,4,0
+35541474,"Safe clean quiet convenient Family neighborhood :)",261646616,Joseph,,Dorchester,42.32005,-71.05412,Private room,85,91,0,,,4,0
 35547817,"Allston village, Boston University, near Harvard",30489899,Home On Blaine,,Allston,42.35894,-71.12599,Private room,30,91,4,2019-08-31,0.24,3,365
 35568967,"Nice room, 5 mins walk from T and many shops",226554070,Aaron,,Jamaica Plain,42.32299,-71.11238,Hotel room,182,20,6,2020-06-18,0.63,4,92
-35569935,"City Flat  #Everything Boston, near BU,BC,T-stop,",50437930,Misha,,Brighton,42.34254,-71.15085,Entire home/apt,76,28,1,2020-03-29,0.14,3,0
+35569935,"City Flat  #Everything Boston, near BU,BC,T-stop",50437930,Misha,,Brighton,42.34254,-71.15085,Entire home/apt,76,28,1,2020-03-29,0.14,3,0
 35576389,Alaska Street R52,188939923,Mort,,Roxbury,42.32142,-71.08016,Private room,82,2,7,2019-10-20,0.46,4,88
 35579707,The blue room,191449187,Fehr,,East Boston,42.37004,-71.0399,Private room,115,91,3,2019-10-19,0.18,2,365
 35583138,Floor2 -2 private full bath! 3 bed rms A1 Location,261646616,Joseph,,Dorchester,42.31744,-71.05844,Entire home/apt,122,2,30,2020-10-21,1.86,4,73
@@ -2526,7 +2522,7 @@ Family neighborhood :)",261646616,Joseph,,Dorchester,42.32005,-71.05412,Private 
 42080205,"Airy Downtown 2BR w/ W/D, nr. Boston Common, by Blueground",107434423,Blueground,,Downtown,42.35221,-71.0639,Entire home/apt,198,32,0,,,92,327
 42089034,"Ideal Charlestown 1BR w/ Gym, DM, nr. Sullivan Sq. T Stop, by Blueground",107434423,Blueground,,Charlestown,42.38026,-71.07245,Entire home/apt,159,32,0,,,92,0
 42089063,"Mod Charlestown 1BR w/ Gym, DM, nr. Sullivan Sq. T Stop, by Blueground",107434423,Blueground,,Charlestown,42.38026,-71.07245,Entire home/apt,169,32,0,,,92,0
-42092767,"Luxury 2br apt close to hospitals area,",102875095,Alex,,Jamaica Plain,42.32585,-71.11071,Entire home/apt,230,1,7,2020-10-11,0.84,6,84
+42092767,"Luxury 2br apt close to hospitals area",102875095,Alex,,Jamaica Plain,42.32585,-71.11071,Entire home/apt,230,1,7,2020-10-11,0.84,6,84
 42094372,Airy Downtown 1BR Near Harbor w/ Concierge,48005494,Zeus,,Downtown,42.3587,-71.05844,Entire home/apt,139,31,0,,,20,155
 42094510,Beautiful 1BR in The Devonshire Near Shops,48005494,Zeus,,Downtown,42.3593,-71.0577,Entire home/apt,122,31,0,,,20,161
 42098275,Beautiful Boston Complete 1 BR apartment,46926631,Andrei,,Jamaica Plain,42.30805,-71.11056,Entire home/apt,150,2,2,2020-03-02,0.25,1,179
@@ -3035,8 +3031,7 @@ Family neighborhood :)",261646616,Joseph,,Dorchester,42.32005,-71.05412,Private 
 45239136,"(R2) Simple Beacon Hill, MGH",21184200,Airbnb,,Beacon Hill,42.35999,-71.0668,Entire home/apt,142,1,2,2020-10-04,2,33,65
 45239326,"1085 Boylston St. ARTlab, 1 Bed Apt, Boston",20857768,Compass,,Back Bay,42.34818,-71.08874,Entire home/apt,150,9,2,2020-10-11,1.87,22,365
 45239774,Right At Downtown,177995326,Isaac,,Chinatown,42.35217,-71.06062,Entire home/apt,66,1,5,2020-10-07,2.88,1,359
-45250896,"Beautiful waterfront apartment,
-Newly renovated",50356808,Ben,,Downtown,42.3581,-71.05104,Entire home/apt,125,91,0,,,1,97
+45250896,"Beautiful waterfront apartment,Newly renovated",50356808,Ben,,Downtown,42.3581,-71.05104,Entire home/apt,125,91,0,,,1,97
 45252609,Incredible apartment home | 1BR in Boston,359229620,Kia,,Downtown,42.35389,-71.05299,Entire home/apt,169,91,0,,,177,360
 45253366,Cozy apartment in the lively heart of Boston,7437427,Noha,,North End,42.36524,-71.05602,Entire home/apt,119,1,3,2020-10-22,3,1,356
 45254752,Huge Stylish Studio in Theatre District | Evonify,212359760,Evonify,,Downtown,42.35098,-71.06497,Entire home/apt,76,1,5,2020-10-20,3.57,43,309

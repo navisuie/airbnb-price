@@ -48,7 +48,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 53934,"Urban Rainbow: Artsy, Downtown Condo",252376,Megan,,Downtown/Civic Center,37.78775,-122.41634,Entire home/apt,149,30,233,2019-12-13,1.92,1,223
 54518,Financial District Corporate Condo,255971,Kathy,,Financial District,37.7933,-122.40079,Entire home/apt,174,30,19,2019-11-22,0.17,1,365
 54634,Studio Apartment Lafayette Park,216682,Jay,,Pacific Heights,37.79166,-122.4265,Entire home/apt,79,30,40,2019-07-18,0.33,9,365
-55632,"❤️Stunning Luxury Apt, 5 star reviews, Laundry,",262875,Paul & Debbie,,Outer Richmond,37.77959,-122.48619,Entire home/apt,99,30,11,2020-10-01,0.09,2,247
+55632,"❤️Stunning Luxury Apt, 5 star reviews, Laundry",262875,Paul & Debbie,,Outer Richmond,37.77959,-122.48619,Entire home/apt,99,30,11,2020-10-01,0.09,2,247
 55636,"❤️ Super luxury Apt, Great View,  5 Star Reviews",262875,Paul & Debbie,,Twin Peaks,37.74889,-122.44479,Entire home/apt,99,30,27,2019-04-21,0.22,2,265
 56621,Prime Location - Large Private Room,216682,Jay,,Pacific Heights,37.79216,-122.42458,Private room,45,30,125,2020-10-02,1.03,9,309
 57479,Beautiful Alamo Park flat w deck,210882,Gaurav,,Haight Ashbury,37.77459,-122.43923,Entire home/apt,180,30,152,2018-02-25,1.26,1,278
@@ -107,8 +107,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 128230,Castro Sanctuary,634277,Maria,,Castro/Upper Market,37.75887,-122.43565,Entire home/apt,285,3,153,2019-11-24,1.35,1,332
 130775,Emergency happy room-sink  UCSF/USF-San Francisco,21994,Aaron,,Haight Ashbury,37.76555,-122.45213,Private room,56,32,11,2019-08-17,0.11,9,365
 130805,"Hip, Cozy, Creative, Victorian",643713,Sue,,Mission,37.75586,-122.42092,Entire home/apt,97,30,80,2020-03-25,0.73,1,0
-132441,"Calm, Cool & Collected
-on Sunny Bernal Hill",650862,Kurt,,Bernal Heights,37.73974,-122.42299,Private room,75,1,134,2020-02-27,1.18,1,179
+132441,"Calm, Cool & Collected on Sunny Bernal Hill",650862,Kurt,,Bernal Heights,37.73974,-122.42299,Private room,75,1,134,2020-02-27,1.18,1,179
 134015,"Marina location, rooftop GGB views+ private deck!",657837,Heidi,,Marina,37.80356,-122.42589,Entire home/apt,300,4,72,2019-09-12,0.64,1,0
 134193,Charming Family House near GG Park,658666,Terry,,Inner Richmond,37.7806,-122.47597,Entire home/apt,550,4,18,2016-07-31,0.16,1,0
 137129,San Francisco Luxury Summer Rental,639671,Mark,,Inner Richmond,37.7879,-122.46474,Entire home/apt,594,7,1,2020-02-22,0.13,1,83
@@ -140,7 +139,7 @@ on Sunny Bernal Hill",650862,Kurt,,Bernal Heights,37.73974,-122.42299,Private ro
 206566,Monthly Shared Home for Students 3,329072,Darren & Friends,,Chinatown,37.79507,-122.40498,Shared room,30,30,9,2018-09-05,0.10,21,101
 206634,Monthly Shared Home for Students 4,329072,Darren & Friends,,Chinatown,37.79301,-122.40499,Shared room,30,30,6,2019-05-11,0.06,21,0
 206637,Monthly Shared Home for Students 5,329072,Darren & Friends,,Chinatown,37.79291,-122.40637,Shared room,30,30,3,2017-06-30,0.04,21,101
-207980,"3 Bdrm City View Home w/Parking, deck,",1023546,Bruce,,Noe Valley,37.74446,-122.43776,Entire home/apt,279,2,413,2020-09-13,3.75,1,309
+207980,"3 Bdrm City View Home w/Parking, deck",1023546,Bruce,,Noe Valley,37.74446,-122.43776,Entire home/apt,279,2,413,2020-09-13,3.75,1,309
 208714,Cozy fully furnished one bedroom apartment in SF,1027819,Ac,,Nob Hill,37.79033,-122.41209,Entire home/apt,199,30,78,2018-01-11,0.70,1,365
 208831,Virtually Your Own Apt in Nth Beach,1028577,Peter,,North Beach,37.80335,-122.41308,Entire home/apt,130,3,498,2020-09-27,4.53,1,130
 209514,Haight Ashbury Experience Room 2,1032643,Josh,,Haight Ashbury,37.77118,-122.44963,Private room,60,1,492,2020-09-22,4.45,5,0
@@ -893,7 +892,7 @@ on Sunny Bernal Hill",650862,Kurt,,Bernal Heights,37.73974,-122.42299,Private ro
 2960229,Excellent Hotel/TS (Union Square),6346492,Dana,,Downtown/Civic Center,37.78887,-122.40919,Private room,200,1,24,2017-10-16,0.33,29,0
 2965433,Center North Beach w/stunning views,15068891,Sharon,,Russian Hill,37.80017,-122.41243,Entire home/apt,299,3,56,2020-08-08,0.72,1,62
 2968738,"City Views, Rejuvenation & Easy Parking at a Stylish Oasis",140461,Joshua,,Twin Peaks,37.75786,-122.44652,Entire home/apt,956,5,94,2020-05-31,1.22,2,7
-2970161,"Great 2BR 2BA Dogpatch King Bed, Roofdeck, Patio,",13321915,Ben,,Potrero Hill,37.76062,-122.39057,Entire home/apt,200,14,0,,,1,0
+2970161,"Great 2BR 2BA Dogpatch King Bed, Roofdeck, Patio",13321915,Ben,,Potrero Hill,37.76062,-122.39057,Entire home/apt,200,14,0,,,1,0
 2970253,Hillside Bernal Apartment w/ Easy Street Parking,3400909,Brett,,Bernal Heights,37.74369,-122.4088,Entire home/apt,99,30,7,2020-09-01,0.24,1,61
 2980184,At Home in the Sunset,699508,Fred,,Outer Sunset,37.75174,-122.47723,Entire home/apt,250,30,5,2016-07-22,0.07,1,359
 2980416,Furnished Bright Room Upstairs - Single Occupency,4191595,Laura & Larry,,Bernal Heights,37.73303,-122.4258,Private room,38,30,14,2020-06-04,0.19,5,29
@@ -1177,8 +1176,7 @@ on Sunny Bernal Hill",650862,Kurt,,Bernal Heights,37.73974,-122.42299,Private ro
 4902365,Dorm Beds @ Social SF Hostel #8,22931450,Sarah & Friends,,North Beach,37.79933,-122.40629,Shared room,38,1,218,2020-03-15,3.11,26,0
 4902444,Dorm Beds @ Social SF Hostel #9,22931450,Sarah & Friends,,North Beach,37.79845,-122.40445,Shared room,38,1,271,2020-03-16,3.95,26,0
 4902565,(19) Modern Room with Half Bath,25176023,Tony,,Downtown/Civic Center,37.7853,-122.41447,Private room,59,1,412,2020-09-27,5.87,8,355
-4902729,"(the 
-  15) Private Room Near Downtown SF",25176023,Tony,,Downtown/Civic Center,37.78468,-122.41481,Private room,55,1,366,2020-09-04,5.22,8,365
+4902729,"(the 15) Private Room Near Downtown SF",25176023,Tony,,Downtown/Civic Center,37.78468,-122.41481,Private room,55,1,366,2020-09-04,5.22,8,365
 4902855,(14) Spacious Room Near Downtown SF,25176023,Tony,,Downtown/Civic Center,37.78659,-122.41356,Private room,65,1,540,2020-09-27,7.69,8,360
 4902907,Fall Room (7),25176023,Tony,,Downtown/Civic Center,37.78576,-122.41489,Private room,55,1,460,2020-09-21,6.56,8,365
 4907924,Beautiful Victorian: Bed/Bath,96655,Maryam,,Noe Valley,37.75273,-122.44113,Private room,125,30,48,2020-08-17,0.69,2,353
@@ -2786,8 +2784,7 @@ on Sunny Bernal Hill",650862,Kurt,,Bernal Heights,37.73974,-122.42299,Private ro
 19086077,Bright Sunny House Next to UCSF Mission Bay 2S,17459345,Eric,,Potrero Hill,37.76307,-122.39585,Private room,120,30,25,2018-10-26,0.66,1,179
 19105532,Spacious 2br flat in Noe Valley w/ city&bay view,12328050,Rae,,Noe Valley,37.74865,-122.43386,Entire home/apt,200,30,12,2020-09-03,0.32,2,329
 19121342,Charming Golden Gate Park Home,5317770,Clifton,,Haight Ashbury,37.76994,-122.45329,Entire home/apt,180,6,12,2020-02-14,0.30,2,0
-19140351,"Bright 2BR retreat steps from
-Golden Gate Park!",3773599,Lawrence,,Inner Richmond,37.77409,-122.47154,Entire home/apt,315,3,50,2020-09-06,1.30,1,136
+19140351,"Bright 2BR retreat steps from Golden Gate Park!",3773599,Lawrence,,Inner Richmond,37.77409,-122.47154,Entire home/apt,315,3,50,2020-09-06,1.30,1,136
 19144925,LUXE URBAN LOFT IN THE HEART OF SF,602488,Saman,,South of Market,37.78193,-122.40888,Entire home/apt,250,30,1,2018-03-02,0.03,1,362
 19150623,Outer Sunset Home ⭐️ Sleeps 6 ⭐️ Parking ⭐️ W/D ⭐️,133894957,Jessica,,Parkside,37.74551,-122.49066,Entire home/apt,230,1,93,2020-09-20,2.34,5,171
 19157494,Russian Hill Treasure,253839,Jennifer,,Russian Hill,37.80156,-122.42429,Entire home/apt,190,60,0,,,1,0
@@ -3061,8 +3058,7 @@ Golden Gate Park!",3773599,Lawrence,,Inner Richmond,37.77409,-122.47154,Entire h
 21279515,Remodeled Downtown 1x1 - Convenience!,4430421,Landmark,,Downtown/Civic Center,37.78573,-122.41484,Entire home/apt,101,30,0,,,146,179
 21279801,"Gorgeous Victorian with Views, Near Mission",24949158,Angela,,Bernal Heights,37.74608,-122.41769,Entire home/apt,400,2,3,2019-12-28,0.11,2,0
 21280829,"2BR Instagram Dream in the Clouds, 270 city views",10234050,Jane,,South of Market,37.77622,-122.41487,Entire home/apt,297,1,124,2020-10-02,3.49,2,169
-21281846,"The Hommie 2
-San Francisco",125180594,Kim,,West of Twin Peaks,37.74267,-122.46872,Private room,70,1,162,2020-09-20,4.62,2,3
+21281846,"The Hommie 2 San Francisco",125180594,Kim,,West of Twin Peaks,37.74267,-122.46872,Private room,70,1,162,2020-09-20,4.62,2,3
 21282635,"Modern, Sunny Retreat in Great Neighborhood",4137005,Max & Fernanda,,Bernal Heights,37.7477,-122.4134,Entire home/apt,199,14,28,2019-12-13,0.80,1,0
 21291714,Small bedroom on Precita Park.,974441,Peter,,Bernal Heights,37.74794,-122.41188,Private room,70,5,22,2020-02-29,0.71,2,0
 21292744,Haight/Castro Urban Victorian Flat with Views,14816525,Brooke & Karl,,Castro/Upper Market,37.76848,-122.43788,Entire home/apt,122,30,13,2020-09-05,0.37,2,11
@@ -3187,7 +3183,7 @@ San Francisco",125180594,Kim,,West of Twin Peaks,37.74267,-122.46872,Private roo
 21866860,"Private Suite, Bath & Entry in Noe Valley/Mission",159507011,Paula,,Mission,37.75091,-122.42328,Entire home/apt,124,3,63,2020-09-05,2.01,1,0
 21880287,Room in art-filled Mission District Victorian Home,963387,Michael,,Mission,37.75443,-122.41732,Private room,68,30,103,2020-03-01,2.97,2,218
 21885572,Sun Palace ☀️ A+ Spot ☀️ EZ Parking ☀️ 20Min Downtown,6017407,Ethan,,Outer Mission,37.71981,-122.44557,Entire home/apt,219,30,4,2020-03-13,0.13,6,61
-21895031,"Immaculate quiet unit near Holly Park Circle,",159750523,Eileen,,Bernal Heights,37.73713,-122.42294,Entire home/apt,90,31,0,,,1,0
+21895031,"Immaculate quiet unit near Holly Park Circle",159750523,Eileen,,Bernal Heights,37.73713,-122.42294,Entire home/apt,90,31,0,,,1,0
 21911065,Best Comfy Cozy Private Master Suite in Twin Peaks,140833338,Rawan,,Twin Peaks,37.74719,-122.44654,Private room,200,1,1,2018-11-08,0.04,2,178
 21919621,Studio at the Donatello near Union Square,47514427,Jeff,,Downtown/Civic Center,37.78784,-122.41036,Private room,279,2,30,2019-12-11,0.96,34,0
 21923195,The Oasis: Mid Century Noe VIEW Indoor-Outdoor WFH,1444847,James,,Noe Valley,37.74882,-122.44346,Entire home/apt,463,30,97,2020-01-16,2.92,1,92
@@ -3512,8 +3508,7 @@ San Francisco",125180594,Kim,,West of Twin Peaks,37.74267,-122.46872,Private roo
 23773339,California King,160591574,Monte,,Western Addition,37.78687,-122.44674,Private room,245,1,13,2019-12-17,0.47,5,360
 23788672,Quiet One Bedroom Near UCSF,1892430,Jan,,Haight Ashbury,37.76365,-122.45232,Entire home/apt,127,30,2,2020-01-20,0.08,33,365
 23789066,Pleasant Studio near UCSF,1892430,Jan,,Inner Sunset,37.76255,-122.45372,Entire home/apt,90,30,2,2020-08-31,0.16,33,339
-23794879,"A4-Parkside new lovely studio w/
-private entrance",131200418,Lois,,Parkside,37.74417,-122.49164,Entire home/apt,59,30,4,2020-08-01,0.35,14,365
+23794879,"A4-Parkside new lovely studio w/private entrance",131200418,Lois,,Parkside,37.74417,-122.49164,Entire home/apt,59,30,4,2020-08-01,0.35,14,365
 23803703,"9d Parkside new, cozy private bdrm w/private bath",131200418,Lois,,Parkside,37.74317,-122.47388,Private room,51,30,3,2019-12-30,0.16,14,180
 23804039,"Gorgeous, Modern & HUGE 4 bed/3.5 bath home in SF",49496139,Karen,,Glen Park,37.73501,-122.43008,Entire home/apt,450,30,0,,,1,231
 23804136,Bright spacious apartment in the heart of the city,5244284,Julia,,Western Addition,37.77688,-122.43796,Entire home/apt,566,3,4,2019-04-19,0.14,2,184
@@ -4627,7 +4622,7 @@ private entrance",131200418,Lois,,Parkside,37.74417,-122.49164,Entire home/apt,5
 32474115,Sunny Mission Victorian with Backyard Garden!,17242934,Dana,,Mission,37.75353,-122.40853,Entire home/apt,150,1,13,2020-02-29,0.68,1,0
 32477178,Remodeled Private Room With En Suite in Oceanview,66762479,Eric,,Ocean View,37.71438,-122.46277,Private room,99,2,57,2020-03-20,3.14,3,175
 32477424,"Chic Urban Oasis: Walkable, 2BR + private yard",15820085,Katrina,,Bernal Heights,37.74605,-122.42209,Entire home/apt,363,3,53,2020-09-07,2.78,1,87
-32478529,"Donatello Hotel,",52178915,Jim,,Downtown/Civic Center,37.78724,-122.40958,Entire home/apt,222,2,8,2020-03-18,0.42,2,12
+32478529,"Donatello Hotel",52178915,Jim,,Downtown/Civic Center,37.78724,-122.40958,Entire home/apt,222,2,8,2020-03-18,0.42,2,12
 32487517,Sunny 1BR in SoMa w/ Gym + Roofdeck close to BART by Blueground,107434423,Blueground,,South of Market,37.77483,-122.41335,Entire home/apt,125,30,0,,,182,360
 32491838,Miraloma Vista Suite - Super Clean - Vacant 24 hrs,19306520,Norman,,West of Twin Peaks,37.7398,-122.4481,Entire home/apt,192,4,26,2019-12-15,1.41,1,0
 32493756,Modern and Safe One Bedroom Apartment,8883138,Karen,,Noe Valley,37.74594,-122.43961,Entire home/apt,130,30,2,2019-06-10,0.11,1,0
@@ -5324,8 +5319,7 @@ private entrance",131200418,Lois,,Parkside,37.74417,-122.49164,Entire home/apt,5
 36703566,BernalHouse143 Room 1,275853781,Susan,,Bernal Heights,37.73453,-122.4224,Private room,120,2,8,2020-03-12,0.54,4,89
 36726758,Bright open one bedroom w/ separate office area.,7726075,Anna,,Mission,37.74883,-122.41782,Entire home/apt,138,30,0,,,2,1
 36778591,Rad South Park Studio w/ Cafe on GF near Caltrain by Blueground,107434423,Blueground,,South of Market,37.78025,-122.39581,Entire home/apt,143,30,1,2019-11-10,0.09,182,356
-36782619,"BernalHouse143 
-Upstairs Room 3",275853781,Susan,,Bernal Heights,37.7358,-122.42249,Private room,95,29,4,2019-10-31,0.31,4,365
+36782619,"BernalHouse143 Upstairs Room 3",275853781,Susan,,Bernal Heights,37.7358,-122.42249,Private room,95,29,4,2019-10-31,0.31,4,365
 36793605,Sleep by the Beach in a Suite w/ Private Bathroom,37952450,Maite & Roger,,Inner Sunset,37.75918,-122.47613,Private room,205,2,6,2020-02-28,0.47,5,0
 36804819,Sunset Ocean Studio,875931,Nick,,Outer Sunset,37.75141,-122.49957,Entire home/apt,120,2,59,2020-10-03,4.30,2,83
 36810369,Sunny 1BR in Alamo Square / NOPA / Divisadero,2327713,Julia,,Western Addition,37.77639,-122.43808,Private room,115,2,12,2020-02-28,0.90,2,0
@@ -6211,8 +6205,7 @@ Upstairs Room 3",275853781,Susan,,Bernal Heights,37.7358,-122.42249,Private room
 41633686,Fisherman's Wharf Two Bedroom Suite,328392530,Kevin,,Russian Hill,37.8049,-122.42115,Private room,300,1,0,,,1,0
 41642201,"Cozy In-Law, Private Entrance",55424160,Gina,,Mission,37.75041,-122.40868,Entire home/apt,99,30,0,,,1,365
 41649131,NEW - Stylish Marina Garden Flat,328603861,Hunter & Amanda,,Marina,37.80068,-122.44251,Entire home/apt,343,30,5,2020-03-14,0.64,1,270
-41664722,"Detached Private Unit
-Vis Valley’s Hidden Gem",108189948,Ivan,,Visitacion Valley,37.71258,-122.41124,Entire home/apt,150,2,35,2020-10-03,4.63,1,0
+41664722,"Detached Private Unit Vis Valley’s Hidden Gem",108189948,Ivan,,Visitacion Valley,37.71258,-122.41124,Entire home/apt,150,2,35,2020-10-03,4.63,1,0
 41666444,1BR Hidden Jewel in Hayes Valley,1257432,Rebecca,,Downtown/Civic Center,37.77531,-122.4223,Entire home/apt,77,30,1,2020-08-21,0.65,22,171
 41685917,📍SF Modern 4BD/2BA/Laundry 💯 NR freeway/SFO✈️,226555948,Gi'Angelo,,Excelsior,37.72582,-122.40247,Entire home/apt,359,30,1,2020-03-28,0.16,7,339
 41698319,"Crisp Hayes Valley Studio w/ Gym, Roofdeck, nr. Muni, by Blueground",107434423,Blueground,,Western Addition,37.77528,-122.42525,Entire home/apt,165,30,1,2020-05-31,0.23,182,340
