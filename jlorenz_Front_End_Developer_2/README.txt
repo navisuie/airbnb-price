@@ -95,10 +95,11 @@ Files submitted with this project that were developed in an earlier project:
 
 Web address at which the program is available:
 ----------------------------------------------
-<If you and your team have written a web app that is available on the internet,
-replace this text with its address. This is not a requirement of Project Four
-and you will not loose points for not implementing a web application or for not
-having a running version on the web.>
+The webapp will be run in the browser; however, it is not available at a public domain. To run the app,
+please follow the instructions provided (Instructions.txt), and if everything is installed correctly the app
+will be available at:
+
+http://localhost:8080/AirBnB
 
 Additional notes about the submission:
 --------------------------------------
