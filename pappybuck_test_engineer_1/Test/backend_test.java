@@ -5,7 +5,7 @@
 // TA: Brianna Cochran
 // Lecturer: Florian Heimerl
 // Notes to Grader:
-package pappybuck_test_engineer_1.Test;
+package Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -15,7 +15,7 @@ import java.util.Arrays;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import pappybuck_test_engineer_1.BackEnd.*;
+import BackEnd.*;
 
 public class backend_test {
 
