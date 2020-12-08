@@ -78,7 +78,7 @@ Files written by me:
 Significant contributions to:
 - src/backend/business/Backend.java
 
-Libraries prcured by me, but not developed by me:
+Libraries procured by me, but not developed by me:
 - src/frontend/lib/bootstrap.min.js
 - src/frontend/lib/jquery-3.3.1.min.js
 - src/frontend/lib/jquery-ui.min.js
