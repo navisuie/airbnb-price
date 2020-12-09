@@ -1,25 +1,3 @@
-# run: compile
-# 	java frontend/Main
-
-# compile:
-# 	javac graph/GraphADT.java
-# 	javac graph/CS400Graph.java
-# 	javac backend/RoadTripPath.java
-# 	javac backend/SessionController.java
-# 	javac frontend/Main.java
-
-# test: compile
-# 	javac -cp .:dependencies/junit/junit5.jar test/BackendTest.java
-# 	javac -cp .:dependencies/junit/junit5.jar test/GraphTest.java
-# 	java -jar dependencies/junit/junit5.jar --class-path . --scan-classpath --details tree
-
-# clean:
-# 	$(RM) backend/*.class
-# 	$(RM) frontend/*.class
-# 	$(RM) graph/*.class
-# 	$(RM) test/*.class
-
-
 run: compile
 	./../Tomcat/apache-tomcat-7.0.107/bin/startup.sh
 	xdg-open http://localhost:8080/AirBnB

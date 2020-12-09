@@ -1,37 +1,11 @@
 Instructions to Run Group BC's AirBnB App
 
-Linux
+1. Copy the project directory for each group member onto one of the Linux-based CS Lab machines (rockhopper, royal, etc)
 
-1. Check to make sure you have a version of java installed on your machine using a terminal
-> java -version
+2. Ensure there is a default browser selected for the CS Lab Machine, under Settings > Default Applications
 
-2. Go to https://tomcat.apache.org/download-70.cgi and download the zip file located under Binary Distributions > Core > zip.
+3. cd into the /AirBnB subdirectory of the current project you are testing. 
 
-3. Unzip the downloaded file in your machine's Downloads folder
+4. Run 'make' inside of the /AirBnB directory
 
-4. Create a Tomcat folder on your system under /Library/Tomcat
-> sudo mkdir -p /Library/Tomcat
-
-5. Move the unzipped Tomcat directory to the system Tomcat folder you just created
-> sudo mv ~/Downloads/apache-tomcat-7.0.107 /Library/Tomcat
-
-6. Make sure all scripts within the tomcat installation directory are executable
-> sudo chmod +x /Library/Tomcat/apache-tomcat-7.0.107/bin/*.sh
-
-7. Run the project Makefile. This will package the project into a .WAR file and copy the .WAR file into the */apache-tomcat-7.0.107/webapps directory
-
-NOTE: This step requires you to have your apache-tomcat-7.0.107 directory located at /Library/Tomcat
-
-8. Open a terminal window and cd into the apache-tomcat-7.0.107 base directory
-> cd /Library/Tomcat/apache-tomcat-7.0.107
-
-8. Start the Tomcat server from the command line
-> sudo ./bin/startup.sh
-
-9. The application will now be running at http://localhost:8080/AirBnB
-
-10. To stop the Tomcat server from inside the apache-tomcat-7.0.107 home directory, run
-> sudo ./bin/shutdown.sh
-
-
-Windows
+5. To ensure the Tomcat server is stopped after you are done testing, make sure to run 'make clean'
