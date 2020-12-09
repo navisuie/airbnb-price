@@ -1,0 +1,720 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+108061,Walk to stores/parks/downtown. Fenced yard/Pets OK,320564,Lisa,,28801,35.6067,-82.55563,Entire home/apt,80,30,89,2019-11-30,0.80,2,327
+155305,Cottage! BonPaul + Sharky's Hostel,746673,BonPaul,,28806,35.57864,-82.59578,Entire home/apt,93,1,271,2020-10-18,2.41,6,339
+156926,"Mixed Dorm ""Top Bunk #1"" at BPS Hostel",746673,BonPaul,,28806,35.57864,-82.59578,Shared room,30,1,280,2020-10-18,3.25,6,237
+160594,Historic Grove Park,769252,Elizabeth,,28801,35.61442,-82.54127,Private room,125,30,58,2015-10-19,0.52,1,365
+209068,Terrace Cottage,1029919,Kevin,,28804,35.61856,-82.55276,Entire home/apt,134,7,56,2020-09-25,0.51,1,324
+213006,Blue Gate West,1098412,Susanne,,28806,35.58345,-82.59713,Private room,48,1,137,2019-11-30,1.34,1,292
+246315,Asheville Dreamer's Cabin,1292070,Annie,,28805,35.59635,-82.50655,Private room,68,3,57,2019-10-30,0.53,2,92
+259576,"Private, peaceful, and free goat therapy",1362726,Julia,,28805,35.61929,-82.48114,Entire home/apt,71,7,537,2020-04-05,4.96,1,202
+295496,The Fern Street Apt near Biltmore,1501882,Debbie,,28803,35.55537,-82.53539,Entire home/apt,50,90,32,2020-10-10,0.30,1,268
+304379,Refocus Cottage - paradise,1566145,Gayle,,28804,35.64453,-82.52586,Entire home/apt,289,30,24,2019-08-03,0.23,2,265
+353092,Athena's Loft:  Find yourself here!,1788071,Beth,,28806,35.58217,-82.59997,Entire home/apt,78,4,499,2020-10-11,5.72,1,0
+427497,Luxurious Mountain Guest Suite Apartment,1909922,Milan,,28803,35.49111,-82.48438,Entire home/apt,125,2,40,2020-08-17,0.41,1,0
+436476,"8 min Walk to DT AVL! Hip, Chic, CLEAN & Charming.",478398,Heidi,,28801,35.60182,-82.56174,Entire home/apt,134,3,296,2020-10-22,2.90,3,54
+483384,"Romantic, Moroccan-Influenced Cottage",467421,Camille,,28803,35.56118,-82.57784,Entire home/apt,131,2,477,2020-10-22,6.45,1,0
+495111,Walk Downtown private bath peaceful,12874214,David,,28801,35.60371,-82.55621,Private room,92,2,341,2020-10-15,3.36,3,356
+498089,Urban Getaway - Perfect Location,2164379,Anne Marie,,28801,35.61115,-82.54376,Entire home/apt,50,30,130,2020-02-17,1.28,1,0
+528535,Dwntwn Studio w/ lots of character,2596933,B,,28801,35.60075,-82.5539,Entire home/apt,97,30,352,2020-08-02,3.47,2,149
+539020,Comfy/quiet West Asheville getaway,2647849,Kim,,28806,35.57318,-82.59976,Entire home/apt,74,2,185,2019-11-17,1.84,1,327
+621243,The birdhouse.Sweet suite! Downtown Roof top deck!,3079174,Molly,,28801,35.60418,-82.54964,Entire home/apt,162,30,73,2020-10-19,2.31,1,161
+634319,Private Asheville Cabin Apartment,1202653,Jim And Jan,,28805,35.62839,-82.47989,Entire home/apt,175,3,30,2019-09-01,0.31,1,0
+660702,Private Home 1 mile to downtown,3335271,Brady,,28804,35.62166,-82.55373,Entire home/apt,91,1,466,2020-10-08,8.15,1,335
+674894,Lovely mountain home with a view!,614610,Linda,,28805,35.62272,-82.50285,Private room,42,2,188,2020-10-03,2.06,2,0
+695196,"Private, Downtown & River Arts",3552264,Michelle,,28801,35.58131,-82.55741,Private room,55,1,976,2020-10-18,9.94,2,346
+723349,#2 Blue Ridge Room at Oakland Cottage B&B,3736218,Mary,,28801,35.57468,-82.55705,Private room,169,2,8,2020-10-21,0.10,7,71
+723410,Asheville Mountain Vista 3mi to Downtown Asheville,3736218,Mary,,28804,35.62894,-82.51751,Entire home/apt,305,3,31,2020-10-18,0.34,7,265
+751963,Come Home in West Asheville!,3920284,Lauralee,,28806,35.57805,-82.58342,Entire home/apt,95,1,100,2018-10-28,1.09,1,0
+840696,❤VIEWS! Luxury home near DOWNTOWN close 2 Biltmore,4390477,Michael,,28801,35.58395,-82.56161,Entire home/apt,246,2,387,2020-10-11,4.07,1,308
+846221,Town and Mountain Peaceful Retreat,4418555,Bart,,28804,35.64271,-82.51219,Entire home/apt,183,2,111,2020-10-11,1.20,1,339
+874008,"Sunset Cottage - year round views, 3 mi to DT AVL",3736218,Mary,,28804,35.63012,-82.5183,Entire home/apt,191,3,14,2020-10-02,1.67,7,306
+875735,Asheville artist  bungalow. 3 minutes to downtown,4632589,Jason,,28805,35.58617,-82.50657,Private room,55,2,126,2020-10-18,1.42,1,338
+881707,West A'ville sanctuary in the trees,4664726,Jakub & Maria,,28806,35.56893,-82.59475,Entire home/apt,95,3,631,2020-10-21,7.35,1,290
+910737,Comfy Home in W.AVL - Last minute booking 10% OFF,4455863,Lori,,28806,35.60321,-82.5961,Entire home/apt,144,2,10,2020-10-11,0.11,1,45
+942934,"""ZenShe"" Private Guest Quarters and Entrance",5100332,Pat,,28806,35.57312,-82.59092,Private room,59,2,496,2020-10-18,5.35,2,153
+943832,"Asheville Cottage, Walk To Town, 30 Days",5107042,Terri,,28801,35.6117,-82.57668,Entire home/apt,271,3,113,2020-09-20,1.25,1,334
+971003,Montford Home 1.5 mi to DownTown,5306734,Tammy,,28801,35.605,-82.57262,Entire home/apt,145,3,160,2020-10-01,1.75,1,23
+976034,Urban Peace 5 ml from Downtown AVL,5340154,Ar,,28803,35.55544,-82.48361,Entire home/apt,151,2,163,2019-05-27,1.77,1,3
+977054,The Cottage In Asheville,4302936,Anne & Joe,,28804,35.6157,-82.55594,Entire home/apt,130,30,80,2020-03-15,0.92,1,296
+1039028,The Cottage on Parkway Loop,4143638,Tim And Muffi,,28803,35.55144,-82.49132,Entire home/apt,100,2,204,2020-10-18,2.28,2,316
+1066156,Blend City and Country at Lucky W Cottage,4834939,Jessica,,28804,35.6461,-82.51605,Entire home/apt,152,2,485,2020-10-18,5.30,2,0
+1127777,"Modern Meets Zen, Rest & Restore - West Asheville",6187751,Hun,,28806,35.57381,-82.59377,Private room,66,2,272,2020-10-18,3.05,1,0
+1198090,"Sunny, Walkable W.AVL - 5  min drive to downtown",6559591,Gennell,,28806,35.57299,-82.57666,Entire home/apt,105,2,103,2020-02-16,1.14,1,79
+1212352,Downtown Get Around #1,6618494,Reid,,28801,35.59942,-82.56189,Entire home/apt,90,30,258,2020-09-30,2.93,3,80
+1219374,"Kickback, Relax in a Private Suite with a Simple Breakfast",1286364,Brenda,,28801,35.60622,-82.56569,Private room,95,2,181,2020-03-15,3.68,1,0
+1297717,"Lovely, peaceful mountain retreat",614610,Linda,,28805,35.62277,-82.50215,Entire home/apt,57,2,103,2018-07-24,1.17,2,206
+1312301,Mid Century Modern Basement Apt..,7130739,Marta,,28805,35.58247,-82.49987,Entire home/apt,84,3,82,2020-10-15,0.92,1,296
+1325364,West Asheville Townhouse,7193579,Julie,,28806,35.57827,-82.58891,Private room,50,1,554,2020-03-15,7.66,1,0
+1392363,Explorers Retreat Near Downtown Asheville,7527127,Theo,,28804,35.62447,-82.57928,Entire home/apt,201,3,35,2020-10-18,1.30,2,67
+1393012,HUGE SUITE (king bed) & huge bath-PRIVATE ACCESS,7523601,Karen,,28704,35.46158,-82.53984,Private room,80,1,93,2020-10-18,1.09,1,358
+1421061,Garden studio between Asheville +  Biltmore Estate,483350,Emilio And Kate,,28803,35.57597,-82.53695,Entire home/apt,124,2,121,2020-02-17,1.37,1,265
+1475299,Refocus Five - Pristine and close to everything,1566145,Gayle,,28804,35.64455,-82.52651,Entire home/apt,258,30,25,2020-05-24,0.29,2,308
+1563004,Sunny Sublet in Intentional Community,8316714,Sivanne,,28806,35.57279,-82.60014,Private room,85,1,1,2020-01-01,0.10,1,0
+1569954,Charming cottage bordered by stream,8348149,Deborah,,28801,35.61156,-82.55237,Private room,70,30,39,2015-11-02,0.45,1,0
+1571095,Perfectly Located Studio Apartment In Asheville,8345942,Sherry,,28803,35.57357,-82.53846,Entire home/apt,79,2,88,2020-09-07,1.87,1,0
+1574329,#7 Rose Room - Oakland Cottage B&B,3736218,Mary,,28801,35.57478,-82.55719,Private room,149,2,4,2020-10-12,0.07,7,339
+1578831,Downtown Get Around  # 2,6618494,Reid,,28801,35.60603,-82.55362,Entire home/apt,79,30,213,2019-09-02,2.45,3,0
+1586906,"Hidden treasure near Downtown, UNCA",5601328,Mary,,28801,35.60823,-82.56212,Private room,81,2,215,2020-10-20,2.50,1,341
+1684109,10 Minutes to Downtown  Epic Views!,4117051,Louise And Steve,,28805,35.60792,-82.48789,Entire home/apt,325,3,116,2020-10-16,1.36,2,301
+1728187,"Welcoming walkable North Asheville, Pets OK",320564,Lisa,,28801,35.60644,-82.55594,Entire home/apt,160,30,52,2019-11-30,0.67,2,191
+1768955,Furnished Apartment Walk to Downtown 30 day min,12874214,David,,28801,35.60368,-82.55647,Entire home/apt,64,29,54,2020-04-19,0.63,3,184
+1785262,Bright Efficiency in West Asheville,5564999,Breccia,,28806,35.58713,-82.57521,Entire home/apt,90,3,330,2020-10-21,3.89,1,0
+1827412,Downtown Asheville Classic Style - Great Value!-#9,7625694,John,,28801,35.59224,-82.5512,Private room,92,1,420,2020-10-04,5.13,7,324
+1843828,"HOME, INDOOR POOL, NEAR IT ALL",9617701,Diane & Dick,,28804,35.64752,-82.5309,Entire home/apt,250,3,91,2020-03-17,1.10,1,246
+1851921,"Guest suite - private entrance , hot tub, walkable",1816805,Audrey,,28801,35.59467,-82.54444,Entire home/apt,129,3,29,2020-08-29,0.61,1,17
+1852818,5 Star Garden Cottage Retreat,9674379,Lauren,,28801,35.61295,-82.54775,Entire home/apt,60,30,97,2020-09-02,1.15,1,137
+1956037,"Updated Bungalow, Asheville -  2+ Bdrm",10110069,Ginger,,28804,35.61768,-82.55927,Entire home/apt,136,14,122,2020-08-05,1.45,1,290
+2072026,"2.5 mile 2 dntwn Suite: Sunny, Big, Clean, Pets OK",8533528,Susan,,28804,35.63647,-82.54949,Entire home/apt,140,2,284,2020-10-18,3.49,1,144
+2108335,Bodacious Downtown Bungalow,3383961,Diane,,28801,35.58601,-82.55628,Entire home/apt,185,2,314,2020-09-30,3.78,3,322
+2176375,Guest House & Private Patio,11100294,Jane,,28806,35.56778,-82.58778,Entire home/apt,44,29,210,2020-10-04,2.58,2,308
+2209375,Location~Location 2/1 Bungalow walk to everything!,2596933,B,,28801,35.6013,-82.55634,Entire home/apt,57,30,143,2020-03-01,1.81,2,50
+2213748,LUX VILLA SUNSET SUITE ~ HOT-TUB ~ DWTN 2M ~ RURAL,1994122,Marc & Fay,,28805,35.60722,-82.53155,Private room,39,30,252,2020-08-10,3.13,6,160
+2222067,Sassy Blue Room in Southslope,11336944,Sharon,,28801,35.58225,-82.55814,Entire home/apt,94,2,234,2020-10-09,4.09,2,155
+2254521,The Mimosa Room/private entrance/private bath.,546222,Martha,,28806,35.56893,-82.56834,Private room,65,28,34,2020-06-25,0.42,1,259
+2283071,"Serene Cozy Getaway, Walk to West Avl.",4836597,Karen,,28806,35.57816,-82.60315,Private room,29,1,52,2020-03-15,0.65,1,296
+2296152,Victorian Cottage Downtown Green Rm,7535860,Rita,,28801,35.60403,-82.56101,Private room,88,1,749,2020-09-11,9.20,2,335
+2326086,Downtown Artist Loft,2307713,Krista,,28801,35.59541,-82.55329,Entire home/apt,197,1,443,2020-10-20,5.43,3,315
+2411109,Victorian Cottage Downtown Blue Rm,7535860,Rita,,28801,35.60048,-82.55759,Private room,87,1,796,2020-10-07,9.93,2,324
+2432326,Heaven Zen (guest house),12432758,Theresa,,28804,35.6163,-82.55864,Entire home/apt,83,1,242,2020-10-08,2.99,1,0
+2432333,Laurelwood,12430753,Anne,,28805,35.59171,-82.51076,Entire home/apt,82,2,106,2020-10-18,2.48,1,80
+2454666,"The Hideaway, W. Asheville.  2 BR Apt w/ Hot Tub!",10240937,Joe,,28806,35.57943,-82.58682,Entire home/apt,129,2,212,2020-10-11,2.64,1,300
+2477628,River Arts Eco-Cottage - Close to Downtown/Mission,8035294,Alicia,,28801,35.58939,-82.56782,Entire home/apt,75,90,169,2020-06-21,2.12,2,167
+2569529,Downtown Asheville 2 bed/2bath unit for rent,8671251,Heather,,28801,35.60045,-82.55587,Entire home/apt,85,180,12,2016-07-04,0.15,1,365
+2605869,Cozy place 6.5 miles to Downtown & Biltmore ~Views,9385592,Kelsey,,28805,35.61582,-82.48318,Entire home/apt,535,3,39,2020-07-19,0.49,2,0
+2607570,New Cozy Garage Apt/ Great Location,13238922,Irma,,28801,35.60606,-82.54351,Entire home/apt,79,2,61,2019-11-07,0.77,1,334
+2694407,Urban Tranquility Spectacular Home,427027,Celeste,,28801,35.60823,-82.56699,Entire home/apt,290,30,8,2017-09-01,0.11,1,365
+2708104,"Balcony, Mtn Views,2 FPLCS, KBED,#1 LOCAY IN CITY.",11297481,Julie,,28801,35.61231,-82.55362,Entire home/apt,100,30,194,2020-03-10,2.44,1,105
+2761044,Angel 6 Miles To Down Town,7073079,Athena,,28803,35.558,-82.478,Entire home/apt,600,3,31,2020-07-16,0.40,1,0
+2925486,Private&charming 1-bdrm apt on golfcourse-hot tub,14937363,Melanie,,28805,35.58693,-82.50327,Entire home/apt,139,1,273,2020-10-02,3.47,1,331
+2943116,Beautiful W.Asheville Apartment 12 min to downtown,15025836,Robert,,28806,35.5545,-82.6244,Entire home/apt,100,2,176,2020-03-16,2.25,1,296
+2949571,Happy Haven ART Studio 2 Bdrms No Cleaning Fee :),15056995,Celeste & Esiris,,28806,35.59595,-82.63034,Entire home/apt,129,2,222,2020-03-18,2.84,2,327
+3040444,Private Suite. 10 min walk to Town,12874214,David,,28801,35.60329,-82.55617,Entire home/apt,99,2,452,2020-10-21,5.80,3,338
+3066648,Cozy Downtown Cottage - Close to Mission Hospital,8035294,Alicia,,28801,35.59215,-82.5664,Entire home/apt,50,60,180,2020-05-15,2.31,2,0
+3084395,Modern Tree Top Bungalow  - Longer Term Welcome,15694798,Josh,,28804,35.6241,-82.53003,Entire home/apt,140,1,286,2020-10-18,3.67,3,328
+3095136,Spivey Mountain Cabin w/Hot Tub!!,15694798,Josh,,28806,35.59519,-82.63967,Entire home/apt,171,1,336,2020-10-02,4.29,3,312
+3116699,Asheville Modern Round House,15694798,Josh,,28804,35.62352,-82.52959,Entire home/apt,194,1,278,2020-10-18,3.69,3,302
+3220474,Guest Room: Mountainside Private Room & Pvt. Bath,16296123,Allison & Peter,,28803,35.49069,-82.51348,Private room,46,1,620,2020-10-07,8.03,3,0
+3225871,Little forest 5 mins from airport,16293519,Ellen,,28732,35.4394,-82.50569,Entire home/apt,33,1,91,2019-09-16,1.69,1,0
+3244166,"Princess Anne, Free Breakfast & Happy Hour",16412724,Anne,,28801,35.6018,-82.54328,Hotel room,283,1,21,2020-08-17,0.57,2,85
+3268055,Cedar Springs Farm Apartment- Close to town!,167473,Kelly,,28806,35.58751,-82.63689,Entire home/apt,80,2,140,2020-10-18,1.82,3,0
+3314819,Basement: Mountainside Private Room & Private Bath,16296123,Allison & Peter,,28803,35.49099,-82.51287,Private room,47,1,802,2020-10-16,10.39,3,72
+3369973,Nana's Place is minutes from everything!,12087030,Marie,,28803,35.58215,-82.5475,Entire home/apt,137,2,156,2020-10-15,2.98,1,0
+3405282,The Cabin In Grove Park,17173574,Scott & Catherine,,28801,35.61206,-82.5441,Entire home/apt,75,29,9,2019-08-12,0.14,1,303
+3454237,Asheville Mtn. Retreat,6619953,Becky,,28805,35.59006,-82.50414,Entire home/apt,120,30,76,2018-03-31,0.99,1,327
+3522134,West Asheville 3 BR/2BA with great outdoor space,17736312,Melissa & Ron,,28806,35.58501,-82.60828,Entire home/apt,65,30,94,2018-09-18,1.23,1,118
+3529241,"Walk to Downtown, Mid-Century Modern",17767321,JC & Jackson,,28801,35.60233,-82.56226,Entire home/apt,172,3,256,2020-10-18,3.40,1,18
+3563156,"Sweet Room and Porch ,Own Entrance And Bath",653292,Joann,,28806,35.57729,-82.60579,Private room,55,2,121,2020-08-29,1.60,1,356
+3569949,"Dog Friendly, 5 Minutes to Downtown, Walk to Yoga",17974144,Peggy,,28804,35.63273,-82.5769,Entire home/apt,91,1,130,2020-10-12,3.42,1,142
+3590634,Cozy Cabin by Mountain Stream,18089084,Patricia,,28803,35.54661,-82.4924,Entire home/apt,135,2,187,2020-10-20,2.46,2,335
+3649639,Cheerful Home In Historic Downtown Asheville,18450336,Michele,,28801,35.60815,-82.56361,Entire home/apt,101,1,409,2020-10-09,5.38,1,291
+3654375,Sassy Purple Cottage!,11336944,Sharon,,28801,35.60961,-82.56742,Entire home/apt,131,120,50,2016-07-04,0.66,2,365
+3741771,Urban Oasis- walk to Haywood road,2392127,David And Melissa,,28806,35.57965,-82.58172,Entire home/apt,141,1,291,2020-10-02,3.89,3,334
+3812545,"Peaceful, Spacious Mountain Retreat",19600149,Jenna And Chris,,28805,35.61254,-82.47409,Entire home/apt,184,1,499,2020-10-23,6.60,1,309
+3868452,Peaceful Log Home with Long Range Views,19697970,Daniel,,28806,35.61309,-82.59688,Entire home/apt,265,3,146,2020-09-09,2.05,1,308
+3868910,The Henhouse,19977236,Louisa,,28801,35.59157,-82.56673,Entire home/apt,124,2,252,2020-10-14,3.35,1,241
+3888845,THE MASTER ~ 50 SHADES OF 5* ~ HOT-TUB ~ 2M DWTN,1994122,Marc & Fay,,28805,35.61288,-82.52512,Private room,118,1,473,2020-10-23,6.35,6,95
+3889212,Garage apartment close to downtown,1482216,Marilyn,,28806,35.5989,-82.59319,Entire home/apt,100,2,71,2020-10-06,0.95,2,233
+3945733,"Romantic Vintage Studio— Clean, Near Downtown!",20447538,Danielle + April,,28801,35.61053,-82.55582,Entire home/apt,78,1,361,2020-10-09,4.90,2,331
+3968877,Fabulous Studio 7 min to downtown!,11584674,Callie,,28804,35.62881,-82.57323,Entire home/apt,119,2,143,2020-10-18,1.92,1,342
+3984596,Historic West Asheville 1930's Charmer,8260778,Ryan,,28806,35.57489,-82.57172,Entire home/apt,286,2,146,2020-10-18,1.98,1,329
+3990524,Private suite in W. Asheville - 30 day minimum,1676385,Pamella,,28806,35.58006,-82.58663,Private room,48,30,143,2020-08-11,1.91,1,340
+4045013,Bittersweet Cottage - It's All About The View!,20973612,Matthew,,28804,35.65451,-82.54203,Entire home/apt,293,2,165,2020-10-10,2.33,2,284
+4108784,Everything Zen Asheville,3221035,Mark,,28804,35.62284,-82.60681,Entire home/apt,51,2,316,2020-10-16,4.29,1,0
+4124504,Forest Hill Bungalow,11006041,Shari,,28803,35.57347,-82.53753,Entire home/apt,105,2,300,2020-03-08,4.11,1,0
+4129119,Bungalow and BBQ,21420468,Christine,,28804,35.6154,-82.5552,Private room,72,1,424,2020-09-27,5.83,1,169
+4173713,The Suite at Bittersweet,20973612,Matthew,,28804,35.65384,-82.54235,Entire home/apt,261,2,63,2020-08-02,0.93,2,0
+4241484,Charming Cozy Home near Biltmore and Parkway,352405,Molly Rose,,28803,35.54616,-82.51704,Entire home/apt,78,2,200,2020-10-17,2.79,1,117
+4285157,Nana's Nest,637074,Johanna,,28805,35.58668,-82.50199,Private room,54,2,29,2020-10-11,0.39,3,0
+4304358,Nana's nest 3,637074,Johanna,,28805,35.58668,-82.50199,Private room,58,2,45,2020-09-26,0.64,3,359
+4362574,"Asheville, Private Suite 750 Sq/Ft",21655755,Chris & Aubrey,,28806,35.58908,-82.62075,Entire home/apt,169,3,50,2019-11-10,0.69,1,327
+4394670,Sweet Suite,22813406,Beth,,28804,35.63595,-82.53366,Entire home/apt,65,2,225,2020-10-18,3.08,1,66
+4394761,"Bohemian Retreat: Clean, Deck, Near Downtown!",20447538,Danielle + April,,28801,35.61244,-82.55724,Entire home/apt,88,1,214,2020-10-09,3.16,2,0
+4448604,"LG Private Rm, Mini Kitchen and Bathroom!",5656896,Michael,,28804,35.62273,-82.56215,Entire home/apt,45,2,340,2020-09-18,5.36,1,318
+4515772,Views of Downtown and Mountains,17363326,Michael,,28801,35.59191,-82.54488,Entire home/apt,200,30,71,2020-08-02,0.98,1,127
+4583056,2BR; Walk Downtown! 30 day minimum,17167852,Jeff,,28801,35.60619,-82.54947,Entire home/apt,219,21,18,2020-08-31,0.27,1,53
+4587394,Urbane Retreat Cabin In town Asheville 90 DAYS,16339042,Lori & Lizzie,,28805,35.58712,-82.49266,Entire home/apt,65,90,154,2019-03-13,2.16,3,279
+4764715,West Asheville Green and Clean Getaway,3441402,Elizabeth,,28806,35.57339,-82.5734,Entire home/apt,95,2,447,2020-10-10,6.32,2,73
+4811980,Asheville Mountain Home ON RIVER! Rooms for Rent.,24783818,Andy,,28805,35.60544,-82.46988,Private room,115,2,185,2020-10-18,2.70,1,326
+4846733,"Chalet at Winghaven, Sunny Log Home",24938934,Jofre & Saskia,,28732,35.4456,-82.46756,Entire home/apt,257,2,96,2020-09-27,1.43,2,0
+4875054,River Arts Studio,14485502,Bob,,28806,35.57923,-82.57162,Entire home/apt,100,2,112,2020-10-15,2.51,1,56
+4895765,Beautiful Kenilworth Jewel,5035186,Lynn & Jake,,28803,35.57424,-82.53288,Entire home/apt,95,2,489,2020-10-21,7.02,1,324
+4994407,Amazing Asheville Location VIEWS!,25749896,Sydney,,28805,35.62464,-82.52114,Entire home/apt,300,3,149,2020-10-05,2.12,1,320
+5114762,Charming Bungalow in West Asheville,21362898,Susan,,28806,35.58072,-82.59573,Private room,160,1,439,2020-03-14,6.32,1,3
+5144212,Heart of downtown studio apt- No Cleaning Fees,6074062,Melissa,,28801,35.59623,-82.55357,Entire home/apt,245,1,430,2020-10-18,6.27,5,276
+5151226,Convenient to Everything! Private,4117051,Louise And Steve,,28805,35.60858,-82.48867,Entire home/apt,325,3,95,2020-09-05,1.49,2,294
+5213038,Strawbridge House,16596642,Barry,,28801,35.60065,-82.55765,Entire home/apt,180,30,317,2020-03-11,4.57,2,146
+5333015,"Griffin's Lair  Biltmore Village, NC 28803",27580922,Robert,,28803,35.56642,-82.54681,Entire home/apt,250,2,83,2020-10-18,1.24,1,0
+5336187,Parklike Setting,27654072,Suzy,,28704,35.46994,-82.55996,Entire home/apt,49,30,1,2015-07-01,0.02,1,212
+5405078,Log Cabin Apartment Close To Asheville,28018322,Susan,,28803,35.54798,-82.49669,Entire home/apt,89,2,170,2020-10-09,3.44,1,319
+5464591,Artsy/Zen Bungalow in W. Asheville!,28342264,Kristin,,28806,35.5751,-82.59686,Entire home/apt,143,1,199,2020-10-09,2.92,1,226
+5481195,"Asheville's Famous ""Pink House""",28424329,Tim,,28804,35.61937,-82.55071,Private room,461,1,125,2020-08-23,1.86,1,296
+5696919,Hidden getaway close to downtown!,29536562,Jessica,,28805,35.58304,-82.53813,Entire home/apt,101,1,237,2020-10-08,3.51,1,0
+5716399,The AshVilla- Prime West Asheville location,2392127,David And Melissa,,28806,35.58265,-82.58182,Entire home/apt,121,1,179,2020-09-28,2.70,3,325
+5839119,Sleeps 12! - Historic Montford -  Walk to town!,30315956,Brooke,,28801,35.60193,-82.56342,Entire home/apt,481,2,89,2020-09-21,1.33,2,247
+5851392,Charming Historic Montford Bungalow ~Walk Downtown,5664205,Ellis,,28801,35.59712,-82.57044,Entire home/apt,89,1,172,2020-10-18,2.54,1,97
+5868695,Buried in Woods- Full of Art/ Style,21353533,Trip,,28803,35.54909,-82.48628,Entire home/apt,275,4,121,2020-10-12,1.87,1,307
+5947797,Private Entrance/10 Min to DT,30878733,Kyley,,28715,35.54977,-82.63776,Private room,90,2,78,2020-09-27,1.49,1,354
+6005112,Solar House in South Asheville,31174094,Walter,,28803,35.49363,-82.51539,Private room,35,3,31,2020-10-06,1.33,2,60
+6054250,The Rad Pad—Quiet Modern Nest 2 Blocks off Haywood Road,1826173,Meg,,28806,35.57517,-82.57827,Entire home/apt,110,1,669,2020-10-18,9.99,2,156
+6056098,Mountain Beauty/City Convenience,31430181,Rob,,28804,35.62716,-82.50869,Entire home/apt,165,3,120,2020-10-18,1.80,1,164
+6079982,Graceful Heart Cottage,3572350,Grace,,28732,35.42342,-82.47322,Entire home/apt,94,1,83,2020-09-26,1.26,1,0
+6145162,"Downtown Asheville, Small Single - Best Value! -#7",7625694,John,,28801,35.59058,-82.55014,Private room,52,2,236,2020-09-27,3.54,7,351
+6170347,"Charm n Comfort: 1 mi to Biltmore Estate, 4 to DT!",32013434,Marilynn,,28803,35.55061,-82.5348,Private room,51,1,264,2020-10-18,4.07,1,68
+6180513,"Sunny, Modern Apartment in Vibrant Downtown Asheville",32054468,Jeremy,,28801,35.59437,-82.56054,Entire home/apt,149,3,63,2020-10-05,0.96,4,0
+6197585,Sunny West Asheville Studio Apt.,32065101,Aimee,,28806,35.56829,-82.61405,Entire home/apt,58,30,105,2020-08-31,1.59,1,283
+6227094,Groove Stone Getaway,32297877,Louis,,28805,35.57819,-82.47713,Entire home/apt,69,30,69,2019-05-04,1.04,1,183
+6234618,"West Side Loft- Cozy, Clean & Comfortable",32351091,Monica,,28806,35.58215,-82.61086,Entire home/apt,81,2,198,2020-10-11,3.04,1,20
+6290666,Mountain View Charming Space Five Mins to Downtown,21539203,Dorothy,,28805,35.59373,-82.53663,Entire home/apt,106,1,434,2020-10-15,6.55,3,303
+6335114,Charming 1929 home w/ modern touch,32981845,Jan,,28803,35.57601,-82.54105,Private room,60,2,26,2019-05-13,0.40,1,111
+6362850,Your Chic Mountain Getaway in the Forest!,33151095,Tiff,,28803,35.51689,-82.48087,Entire home/apt,67,1,202,2020-10-07,3.05,6,0
+6363332,"Welcome to ""Cozy Oak Cottage""",32221473,Randy,,28803,35.56746,-82.52602,Entire home/apt,50,30,14,2019-10-31,0.22,2,0
+6399802,Downtown Asheville With a View - Great Value! -#11,7625694,John,,28801,35.59085,-82.5497,Private room,92,1,299,2020-09-03,4.52,7,344
+6452410,Stay in historic downtown suburb,16023445,Tara,,28801,35.6117,-82.55088,Entire home/apt,85,7,185,2020-07-25,2.86,2,141
+6503015,Unwind at the Sweet Spot Three Blocks from Town,1884805,Elizabeth,,28801,35.60002,-82.5578,Private room,92,1,464,2020-10-17,7.07,2,246
+6609327,The Barn At Mountain Meadows,26946813,Anna,,28804,35.63373,-82.49752,Entire home/apt,295,2,6,2020-09-02,0.30,2,285
+6686924,❤️ Work-from-Home   2 BEDROOMS 2 FULL BATHROOMS,16339042,Lori & Lizzie,,28805,35.58018,-82.5057,Entire home/apt,120,90,212,2020-03-15,3.27,3,206
+6698737,"Serene, spacious, cozy and clean!",29622653,Kelly,,28806,35.57591,-82.59421,Private room,39,1,278,2020-09-27,4.24,1,296
+6711659,Hip Downtown Hideaway - Close to Mission Hospital,35135871,Sabrina,,28801,35.59033,-82.54559,Entire home/apt,60,60,182,2020-03-17,2.81,1,17
+6715120,Comfy home 10 min to downtown.,35157681,Matthew And Jennifer,,28806,35.6174,-82.60122,Entire home/apt,205,2,122,2020-10-18,1.89,1,0
+6724476,"Convenient to Downtown Asheville, BRP & Biltmore!",20940902,Megan,,28803,35.55554,-82.4759,Entire home/apt,149,1,210,2020-10-18,3.21,1,340
+6760016,"Bright, urban chic apt min from Avl",35390402,Elisa,,28704,35.44831,-82.50911,Entire home/apt,95,2,100,2020-10-20,1.54,1,157
+6765734,"Female Dorm ""Top Bunk #2"" at Sharky's Hostel",746673,BonPaul,,28806,35.57895,-82.59566,Shared room,30,1,88,2019-11-20,1.37,6,0
+6765832,"Private Room ""Hitchcock"" BPS Hostel",746673,BonPaul,,28806,35.57895,-82.59566,Private room,68,1,46,2020-10-17,0.70,6,216
+6775949,Cozy Cottage short walk to Downtown,35473023,Sherri,,28801,35.60335,-82.55166,Entire home/apt,86,30,0,,,2,0
+6813265,cozy bedroom in the heart of west asheville,31436003,Lee,,28806,35.5808,-82.59533,Private room,53,1,134,2020-08-19,2.06,2,0
+6818139,Downtown Asheville Music Lovers- Great Value! -#8,7625694,John,,28801,35.59132,-82.55101,Private room,90,2,302,2020-08-23,4.64,7,343
+6829875,"Sweet, private, detached guest studio",35778919,Cara And Eric,,28805,35.58775,-82.49074,Entire home/apt,98,2,79,2020-10-18,1.22,1,70
+6869894,Beauty & Peace in Asheville,4580875,Krys And Steve,,28805,35.58229,-82.48658,Entire home/apt,78,1,297,2020-10-18,4.58,1,149
+7001873,Wren's Nest Studio on the West Side,11298793,Miriam,,28806,35.59171,-82.59721,Entire home/apt,94,2,325,2020-02-16,5.02,1,237
+7045303,Private Basement Suite in Walkable West Asheville,6676667,Elizabeth,,28806,35.57816,-82.60324,Private room,125,2,95,2020-10-11,1.48,1,359
+7063293,Mountaintop Log Cabin w/Pano View,14480896,Birgit,,28704,35.48087,-82.506,Entire home/apt,300,3,7,2020-07-06,0.35,2,0
+7064317,Thistledo - Cozy 1 Bedr. Private Apt,37039251,Vicki,,28806,35.61641,-82.6422,Entire home/apt,58,2,56,2020-10-20,0.87,1,48
+7340132,Yurt Nest at Green Oaks Community,481489,Valerie,,28804,35.63204,-82.58511,Entire home/apt,109,28,132,2019-01-01,2.08,3,0
+7341057,Two Bedroom Suite in South Asheville,37737144,Kwadwo,,28704,35.47536,-82.50085,Private room,75,1,140,2020-10-05,2.21,4,348
+7418991,"""Studio C""  in Downtown! Private parking.",23092470,April,,28801,35.5914,-82.55445,Entire home/apt,117,1,530,2020-10-06,8.29,4,303
+7438838,Easy walk to downtown Asheville,21313437,Ron,,28801,35.60804,-82.55778,Entire home/apt,225,30,20,2019-11-10,0.33,2,0
+7500225,Clean Cozy Cabin Near Blue Ridge Parkway Asheville,39286181,Karl,,28704,35.4881,-82.58299,Entire home/apt,76,2,168,2020-10-08,2.81,2,337
+7546626,Home away from home 5miles from downtown,9624164,Angela,,28806,35.59045,-82.62031,Entire home/apt,164,1,228,2020-06-28,4.65,1,115
+7556089,Private Suite in Contemporary West Asheville Home,37942362,Tom,,28806,35.57223,-82.59993,Private room,74,2,131,2020-10-04,2.61,2,26
+7612231,Private Home with Private Grounds,37087591,Michael,,28804,35.63071,-82.57153,Private room,44,2,77,2020-03-08,1.26,2,0
+7630648,Sunny Modern Country Apartment with Hot Tub,40029182,Matthew,,28805,35.64462,-82.48023,Entire home/apt,86,2,269,2020-10-10,4.28,3,302
+7662484,Vintage Carriage House Apartment,2237126,Lou,,28804,35.61472,-82.55189,Entire home/apt,115,1,154,2020-10-18,2.45,1,222
+7665386,Location! On West Asheville Strip. Walk everywhere,40234911,Sage,,28806,35.57907,-82.59423,Entire home/apt,105,2,270,2020-10-02,4.30,2,146
+7674957,"West Asheville, private hot tub and pool!",40300316,Shane,,28806,35.57531,-82.64233,Entire home/apt,259,2,156,2020-10-23,2.51,1,237
+7693393,Asheville Beauty,40309465,Lee,,28806,35.57786,-82.59364,Entire home/apt,271,1,138,2020-10-18,2.25,1,0
+7745341,CARRIAGE HOUSE COTTAGE INDUSTRY ~ RURAL ~ 2M DWT,34822762,Fay & Marc,,28805,35.61405,-82.5266,Entire home/apt,120,1,186,2020-10-20,4.74,1,124
+7839268,Come vacation in West Asheville!,12610486,Jennifer,,28806,35.5761,-82.58981,Entire home/apt,74,30,54,2020-09-30,0.86,2,0
+7859259,Studio at Green Oaks Community,481489,Valerie,,28804,35.63038,-82.58295,Entire home/apt,93,14,93,2020-08-31,1.48,3,76
+7887572,Charming Bungalow Apartment - Biltmore Area,15691039,Rahm,,28803,35.56465,-82.53233,Entire home/apt,88,2,99,2020-10-22,3.72,1,0
+7938930,SweetPineHouse monthly rental fully outfitted!,12516488,Trish & Steph,,28803,35.57646,-82.53607,Entire home/apt,50,30,6,2018-08-04,0.10,2,272
+7940019,Walk to Mission Hosp 30 day minimum rental  2 bdrm,12516488,Trish & Steph,,28803,35.57427,-82.53703,Entire home/apt,60,28,3,2015-11-09,0.05,2,340
+7947839,Romantic & Bohemian Private Studio,41909545,Christal,,28801,35.60129,-82.5556,Entire home/apt,102,1,493,2020-10-09,7.92,1,0
+7966916,West Asheville top floor sleeps 3,14686944,Jenifer,,28806,35.57169,-82.58846,Private room,80,2,160,2020-03-18,2.60,1,0
+7967886,Clean Simple Modern Furnished Apartment 60 day min,31173521,Leon And Stella,,28803,35.57929,-82.53833,Entire home/apt,50,60,13,2020-01-25,0.21,1,25
+7995120,Trails End Pisgah Natl Forest 12 min DT Asheville,722034,Darlene And Ron,,28806,35.49902,-82.61658,Entire home/apt,232,2,40,2020-10-10,0.69,11,0
+8051829,mid century look w private entrance | no xtra fees,42522378,Dana,,28806,35.59431,-82.60431,Private room,70,2,130,2020-10-18,2.07,1,0
+8085716,Country Living in the City Limits,37087591,Michael,,28804,35.63113,-82.57205,Private room,50,2,128,2020-03-17,2.05,2,297
+8089299,Simple Clean and restful,637074,Johanna,,28805,35.5859,-82.50314,Private room,55,2,10,2020-10-12,0.17,3,341
+8173732,DOWNTOWN Asheville Cute 2/1 Great Front Porch Yard,32163305,Lisa,,28801,35.60637,-82.54732,Entire home/apt,285,30,30,2020-09-25,0.48,2,117
+8193368,Cozy AVL Suite Near Everything,36614639,Kambra,,28805,35.60002,-82.50277,Entire home/apt,92,2,268,2020-10-07,4.29,1,297
+8211404,Suzies  Asheville HOT TUB   Views Privacy,41727732,Suzanne,,28803,35.4904,-82.51177,Entire home/apt,209,3,18,2020-02-07,0.35,1,180
+8246075,1925 Bungalow in the Heart of West,6077075,Kimberly,,28806,35.57533,-82.59728,Private room,99,2,45,2019-11-11,0.73,1,0
+8265544,5 Star Luxury Near Downtown & Biltmore,43536753,Tracy And Brent,,28806,35.54128,-82.59905,Entire home/apt,205,1,276,2020-10-21,4.48,1,296
+8266788,5 Mins to Downtown/ 2 MIns-Biltmore,1686503,Robbie,,28803,35.57594,-82.54484,Entire home/apt,300,2,23,2020-08-09,0.37,1,94
+8310318,Studio apartment in tranquil settin,1292070,Annie,,28805,35.59734,-82.50869,Entire home/apt,61,30,3,2020-08-30,0.05,2,57
+8362668,"Private floor, stroll to W. AVL",23163164,David,,28806,35.57634,-82.59944,Entire home/apt,85,1,381,2020-10-07,6.14,1,151
+8427121,Beautifully appointed apt in mtns,40822999,Karen,,28803,35.49877,-82.4772,Entire home/apt,93,1,63,2019-10-16,1.02,1,205
+8443279,WALKING DISTANCE TO DOWNTOWN!,18376463,Mike,,28801,35.61148,-82.55223,Entire home/apt,97,2,69,2020-10-01,1.13,1,292
+8513468,Charming home near UNCA/Downtown,30899500,Daniel,,28804,35.61802,-82.56014,Entire home/apt,80,30,198,2020-01-05,3.23,1,0
+8576671,Three-Room Suite with Private Entrance,37120963,Bill,,28806,35.56753,-82.61722,Private room,63,1,204,2020-10-18,3.32,1,329
+8624659,Modern Downtown Loft,42676282,Amanda,,28801,35.59497,-82.55425,Entire home/apt,207,2,275,2020-10-18,4.53,3,325
+8664712,Two Block Walk from Apt to Downtown,45522770,Frank & Peter,,28801,35.59874,-82.56017,Entire home/apt,250,2,103,2020-10-20,1.69,1,320
+8672247,East-West Asheville Beauty,45552832,Bruce / Jeanne,,28806,35.57233,-82.57449,Entire home/apt,121,30,215,2020-10-07,3.98,1,0
+8721288,"Entire apt. 2 miles: Biltmore, 5 miles: downtown !",45774017,Rita,,28803,35.55258,-82.50942,Entire home/apt,120,2,132,2019-10-21,2.16,1,0
+8741844,"Lake view, Children-Friendly Cabins",45860533,Rumi,,28704,35.46334,-82.55487,Entire home/apt,214,3,3,2020-08-26,0.71,1,341
+8782463,Apartment 1 mile from  Downtown Asheville,11246730,Damon,,28801,35.60654,-82.54343,Entire home/apt,109,1,425,2020-10-19,6.94,1,136
+9022608,Easy Walk Downtown - Sleeps 5,34263964,Angie,,28801,35.60612,-82.55218,Entire home/apt,163,1,394,2020-10-04,6.57,2,333
+9062255,Soak up the Rays in the Solarium at a Zen Garden Suite,47271331,Norma,,28805,35.59957,-82.49938,Private room,105,1,267,2020-10-18,4.42,1,336
+9243493,Log Cabin Near Downtown Asheville,48040470,Georgia,,28804,35.64256,-82.52125,Entire home/apt,285,3,3,2018-09-03,0.05,1,0
+9254177,WALK TO DOWNTOWN ASHEVILLE: Garden Homestay Room,1675743,V,,28801,35.58533,-82.5512,Private room,88,1,32,2020-09-06,1.18,4,18
+9282426,Downtown  Get Around #3,6618494,Reid,,28801,35.60187,-82.55415,Entire home/apt,90,30,145,2019-08-25,2.82,3,68
+9344195,"Private Entrance, Top O' The Knob Chalet Suite",48495453,"Ken, And Patti",,28806,35.57923,-82.64259,Private room,75,2,25,2018-04-13,0.43,1,282
+9476164,"Walk to cafes, pubs, music",49114420,Lori,,28806,35.57493,-82.59199,Entire home/apt,90,2,197,2020-10-18,3.29,1,0
+9661460,Scenic Mountain Retreat,29950328,Ellie,,28805,35.64403,-82.47455,Entire home/apt,418,2,140,2020-10-15,2.56,1,158
+9716129,Asheville One Bedroom Apartment,48097513,Marina,,28806,35.59364,-82.63677,Entire home/apt,127,2,68,2020-10-16,2.41,1,22
+9794899,Downtown Asheville-Great Location & Free Parking!!,50478143,Jean,,28801,35.59541,-82.55304,Entire home/apt,229,27,59,2020-09-30,1.05,2,262
+9906491,"Sheriff's Station - Historic House, West Asheville",50939862,Duncan,,28806,35.57414,-82.57118,Private room,90,2,29,2020-10-18,0.96,1,212
+9944111,Serenity Yurt,51104544,Simms,,28805,35.61599,-82.48873,Entire home/apt,124,2,161,2020-10-09,2.76,3,274
+10084836,Downtown Asheville Cottage,13713928,Graham,,28801,35.59891,-82.54969,Entire home/apt,85,30,60,2020-08-29,1.02,1,0
+10085566,Cozy private furnished basement eff mins to town.,29820165,Kathleen,,28805,35.59999,-82.51583,Entire home/apt,50,30,12,2020-07-31,0.28,1,298
+10089256,"Mountain Views, Private Retreat, 15 min frm dwntwn",6278782,Robert,,28804,35.65258,-82.54259,Private room,112,3,127,2020-10-17,2.36,1,60
+10263107,Corner Cottage,52768352,Andrew,,28801,35.59871,-82.56136,Entire home/apt,249,4,11,2020-07-05,0.19,1,0
+10289755,Apartment with a View,11981228,Mike,,28804,35.638,-82.57792,Entire home/apt,95,3,134,2020-03-17,2.50,1,294
+10360188,Perfectly cozy location 1/2 mile to downtown.,1137761,V,,28801,35.60129,-82.55617,Private room,105,2,258,2020-10-14,4.44,1,172
+10524188,Luxury Modern Loft in Historic Central Downtown Building,28629826,Ricardo,,28801,35.59558,-82.55384,Entire home/apt,263,2,80,2020-10-09,1.42,2,339
+10524253,Blue  Ridge Cottage w/HOT TUB-Minutes to Downtown,24730814,Toni,,28715,35.56264,-82.65691,Entire home/apt,201,2,51,2020-09-14,3.53,2,145
+10632884,Private Suite by downtown/Biltmore/River Arts/more,54888484,Billy,,28801,35.57425,-82.55785,Entire home/apt,48,1,353,2020-01-05,6.69,1,296
+10635789,lovely peaceful room w coffee- central AVL east,21702831,Lynn,,28803,35.56556,-82.51014,Private room,75,3,117,2020-02-16,2.12,3,23
+10674355,Creekside Home Close to Everything,25363524,Katy,,28804,35.6422,-82.51221,Entire home/apt,125,2,234,2020-10-12,4.29,1,294
+10785231,Secluded but convenient cabin,51104544,Simms,,28805,35.61422,-82.48926,Entire home/apt,114,2,27,2020-10-01,0.48,3,312
+10853381,A Cottage At Willow Pond,56216396,Terri,,28704,35.45656,-82.56596,Entire home/apt,191,2,13,2020-06-30,0.24,1,323
+10900676,The Arch suite,9309798,Kathie,,28806,35.56753,-82.5954,Entire home/apt,93,1,231,2020-03-15,5.32,1,21
+10909034,New house! Walk Dtown & River Arts,7067265,Jamie,,28801,35.5881,-82.56742,Entire home/apt,100,30,3,2016-04-11,0.05,1,129
+11182596,Ladyhawk Lodge Retreat,58202090,Jacqueline,,28704,35.43613,-82.57344,Private room,75,1,45,2020-10-18,0.84,1,359
+11242744,"Country feel, city appeal, minutes to Asheville",58634762,Peter And Jackie,,28715,35.54971,-82.66169,Entire home/apt,170,2,88,2020-10-18,1.58,1,257
+11259371,Artsy Eclectic Little House,5620417,Becky,,28806,35.60383,-82.59914,Entire home/apt,93,1,251,2020-03-16,4.51,1,0
+11283225,Airstream On The River,55571849,Kurt,,28803,35.5651,-82.58711,Entire home/apt,86,1,181,2020-10-13,4.40,1,150
+11291801,"Private, secluded cabin-wood/fireplace/hot tub.",44117628,Kelly,,28806,35.5964,-82.65604,Entire home/apt,165,2,60,2020-10-08,1.09,2,309
+11388248,Mountain Top Retro Rental,40784975,David,,28801,35.59463,-82.53867,Entire home/apt,143,3,225,2020-10-06,4.29,1,223
+11421709,Hazel's Hideaway - Walk Downtown,25316948,Heidi + Chris,,28801,35.59832,-82.567,Entire home/apt,119,2,212,2020-03-15,3.90,1,296
+11483381,Asheville Mountainside Retreat,59538295,Jeanine,,28805,35.64108,-82.47238,Entire home/apt,136,5,92,2020-09-09,1.72,2,120
+11489172,Our lil' blue house - relax and enjoy AVL,50373206,Kate,,28804,35.63132,-82.55792,Entire home/apt,115,2,82,2020-09-28,2.12,1,261
+11510567,Convenient Biltmore/Downtown home,60649962,Mary Catherine,,28803,35.56629,-82.53165,Private room,130,2,102,2020-10-10,1.82,1,357
+11553531,Mountain Retreat with Hot Tub,48937991,Bob And Carrie,,28803,35.5542,-82.49001,Private room,64,2,73,2020-03-08,1.30,1,0
+11586894,"Best Of Both Worlds, 3,000 ft Mountain Views & 3 miles from Downtown Asheville",31979774,Bernadette And Dave,,28804,35.62605,-82.51764,Entire home/apt,621,2,49,2020-08-30,0.91,2,0
+11609580,"Spacious, Chic Grove Park Studio - 5 Min Dwntwn",3156619,Clara,,28801,35.61484,-82.54227,Entire home/apt,118,2,201,2020-10-18,4.12,1,236
+11701027,Spacious 700 sq. ft. Suite in South Asheville,37737144,Kwadwo,,28704,35.47528,-82.50271,Entire home/apt,72,1,364,2020-10-12,6.47,4,331
+11773647,The Hidden Attic-Great for Corporate or Relocation,58867576,Susan,,28801,35.60809,-82.55087,Entire home/apt,127,30,87,2020-09-14,1.57,1,123
+11811039,N. Asheville Retreat with King Bed and Views,2566529,Jan,,28804,35.64124,-82.57308,Entire home/apt,101,2,155,2020-10-18,3.02,1,339
+11839089,West Asheville Home,57405998,Cody,,28806,35.58261,-82.6079,Entire home/apt,121,1,107,2020-10-10,1.92,2,0
+11925721,Chicken Hill Cottage in the River Arts District,19704488,Richie,,28801,35.5899,-82.5658,Entire home/apt,155,2,107,2020-10-21,2.80,1,109
+11938223,Cabin by the pond,18089084,Patricia,,28803,35.54698,-82.49314,Entire home/apt,135,2,40,2020-10-18,0.72,2,348
+11947108,"Private suite close to Biltmore, Brews & Downtown",12949639,Roger And Mary,,28803,35.57818,-82.54402,Private room,72,2,195,2020-10-12,3.76,1,306
+12105828,Historic Grove Park rental - Apt #2,46228285,Kathryn,,28801,35.61508,-82.54136,Entire home/apt,90,30,5,2019-08-31,0.09,4,0
+12107874,Sunny Downstairs Apartment,64927386,Becca,,28801,35.58393,-82.56011,Entire home/apt,129,2,212,2020-07-05,3.89,1,0
+12144656,Cottage McIntyre Near Downtown! Weddings!,43818498,Christine Michele,,28806,35.61663,-82.59896,Entire home/apt,124,2,172,2020-10-18,3.21,2,327
+12182918,MONTHLY - Grove Park - Charming Guest House,183656,Kim,,28804,35.61164,-82.54167,Entire home/apt,72,30,0,,,1,0
+12186372,Beer City Boutique,22215473,Kelsey,,28801,35.59168,-82.56354,Entire home/apt,96,1,652,2020-10-11,11.76,1,312
+12188215,Retreat outside gates of Biltmore Estate unit two,7938475,Sherrye,,28803,35.56694,-82.54206,Entire home/apt,196,2,129,2020-10-22,2.35,1,342
+12189623,Historic Grove Park  - Apartment #1,46228285,Kathryn,,28801,35.61453,-82.54326,Entire home/apt,90,30,29,2020-02-15,0.53,4,346
+12222050,Mountaintop Retreat near Downtown Asheville,65744660,Kristina,,28804,35.62626,-82.53422,Entire home/apt,275,2,136,2020-10-04,2.69,1,307
+12229453,Retreat in Downtown Asheville,61981814,Jeff,,28801,35.58959,-82.56458,Entire home/apt,238,2,165,2020-10-11,2.99,1,144
+12250733,West AVL Urban Retreat (Monthly),6773853,Ricky,,28806,35.56921,-82.57358,Entire home/apt,115,30,14,2016-07-04,0.25,1,40
+12251952,NEW: Private Room is like a treehouse in the woods,7827938,Tori,,28801,35.59829,-82.56682,Private room,52,1,87,2020-02-02,1.70,2,26
+12266103,City Lights,24707668,Suzy,,28804,35.60168,-82.54076,Entire home/apt,244,3,17,2019-09-26,0.32,1,0
+12281167,Be Well: Walk to Downtown AVL,3562687,Laura,,28801,35.60427,-82.54781,Private room,51,3,179,2020-10-19,4.00,1,26
+12286328,Mixed Dorm Lower Bunk #1,746673,BonPaul,,28806,35.57893,-82.59564,Shared room,33,1,110,2020-10-18,1.99,6,364
+12290379,ZEN APARTMENT - feels like ur own little apartment,21702831,Lynn,,28803,35.56561,-82.50872,Private room,90,3,117,2020-03-10,2.12,3,21
+12310425,Haywood House Asheville (West Asheville),64613905,Haywood,,28806,35.57954,-82.59676,Entire home/apt,272,3,78,2020-09-13,1.49,1,342
+12363894,The best view in Asheville!,58770625,John,,28805,35.63128,-82.47306,Entire home/apt,448,1,263,2020-10-20,5.47,1,0
+12377575,Mountain Cabin Near Downtown,2992564,Courtney,,28805,35.61644,-82.52327,Entire home/apt,425,2,71,2020-09-06,1.32,1,130
+12400514,Beautiful Modern Suite with Hot Tub,31012477,Lisa,,28806,35.57397,-82.59973,Entire home/apt,128,1,359,2020-10-08,6.70,1,124
+12470763,RainbowUnicorn & Paris of the South,43095235,Terra,,28806,35.57689,-82.58181,Private room,133,2,27,2020-10-11,0.50,2,364
+12472966,The Guesthouse at Deer Crossing,67509318,Cindy,,28704,35.45488,-82.56556,Entire home/apt,99,2,41,2020-10-21,3.45,2,128
+12543684,"10 minutes to Downtown & Biltmore, Next to Parkway",67969363,Jon And Emily,,28803,35.55371,-82.47744,Entire home/apt,137,2,362,2020-10-13,6.60,4,309
+12587092,"""Tree house"" in South Asheville",31174094,Walter,,28803,35.49374,-82.51547,Private room,40,3,24,2020-03-10,1.01,2,81
+12599311,"Lovely, welcoming, walkable",487495,Alisha,,28806,35.58465,-82.59118,Private room,54,1,417,2020-10-09,7.67,3,133
+12600829,Sweet suite for families & friends,487495,Alisha,,28806,35.58452,-82.58999,Entire home/apt,86,1,277,2020-10-08,5.10,3,132
+12600850,Bunks for family and friends,487495,Alisha,,28806,35.58435,-82.59184,Private room,54,1,330,2020-07-14,6.07,3,135
+12685614,Historic Grove Park - Apartment #4,46228285,Kathryn,,28801,35.61494,-82.5414,Entire home/apt,90,30,24,2020-04-05,0.44,4,265
+12761982,Urban Farmhouse,66592539,Natalie,,28804,35.6333,-82.57949,Private room,50,30,47,2017-11-06,0.86,2,0
+12763722,Mountain View Cottage with Hot Tub,15788000,Lisa,,28715,35.51462,-82.6508,Entire home/apt,250,1,412,2020-10-16,7.76,5,328
+12782770,"Convenient to Breweries, Biltmore, Downtown, River",69562008,David,,28803,35.5786,-82.53906,Entire home/apt,123,2,132,2020-10-18,2.48,1,364
+12809255,Cheryl's W. Asheville Chalet,69829206,Cheryl,,28806,35.57484,-82.60454,Private room,65,1,89,2020-10-11,2.23,1,63
+12810440,Modern in Downtown Walkable West Asheville,69842230,Nicole,,28806,35.57363,-82.59925,Entire home/apt,89,1,188,2020-10-05,3.55,1,0
+12834984,Unique Hand-built Cabin in the City,7852014,Michael,,28801,35.60898,-82.55764,Entire home/apt,50,30,140,2020-07-15,2.65,1,219
+12835184,NEW studio apartment in Downtown Asheville!,8089511,Nicholas,,28801,35.5825,-82.55976,Entire home/apt,98,2,174,2020-10-04,3.24,1,72
+12848084,Mountain Views at S. Asheville Private Apartment!,70178019,Leslie,,28732,35.44921,-82.48841,Entire home/apt,88,4,181,2020-10-04,3.69,1,48
+12871394,Retreat outside gates of Biltmore Estate unit one,7610213,Sydney,,28803,35.56694,-82.54206,Entire home/apt,189,2,180,2020-10-13,3.36,1,336
+12925044,Charming Arts & Crafts Home-20 min downtown AVL,14165703,Jill,,28704,35.45235,-82.50085,Entire home/apt,99,2,78,2020-10-18,1.53,1,27
+12944995,Country Garden Getaway with Hot Tub,40029182,Matthew,,28805,35.64338,-82.47877,Entire home/apt,74,2,200,2020-10-05,3.70,3,322
+12965736,Mountain Views over the River with Hot Tub,23775820,Miriam,,28805,35.6039,-82.47049,Entire home/apt,115,3,328,2020-10-19,6.10,1,0
+12970301,Clean & Spacious Apartment w/Full Kitchen & W/D,961396,Timo,,28806,35.58703,-82.61764,Entire home/apt,42,30,141,2020-09-08,2.63,1,321
+12989718,Female Dorm Bottom Bunk at BPS Hostel,746673,BonPaul,,28806,35.57893,-82.59564,Shared room,33,1,65,2020-10-20,1.20,6,363
+13017092,Raven's Nest Cottage,71845182,Ted,,28801,35.60672,-82.54373,Entire home/apt,164,2,138,2020-10-16,2.62,1,0
+13093505,"Heart of Downtown - Bright,Spacious,Historic",23092470,April,,28801,35.59184,-82.55412,Entire home/apt,126,1,361,2020-10-07,6.88,4,306
+13112074,Sam's Cottage,72903706,Katherine,,28804,35.63241,-82.53039,Entire home/apt,148,2,113,2020-10-04,2.14,2,0
+13136198,Urban Farm Studio ~ Close to Everything!,71564543,Renee,,28806,35.57393,-82.61061,Entire home/apt,105,2,194,2020-03-08,3.76,1,52
+13186091,"Bluebird Sanctuary. Mt view, walk downtown, W Ashe",51831860,Annelise,,28806,35.58489,-82.56988,Entire home/apt,155,3,59,2020-10-08,1.11,1,312
+13206560,Downtown Loft with Balcony,2307713,Krista,,28801,35.59502,-82.55316,Entire home/apt,198,1,398,2020-10-22,7.54,3,319
+13209712,The Red Private Suite + Den and Bathroom Montford,73994689,Lydia And Victor,,28801,35.60478,-82.57007,Private room,65,1,240,2020-09-26,4.47,2,111
+13216889,"Beautiful Quiet Home,  Close to Parkway or Town",8552617,Shannon,,28804,35.64211,-82.53105,Private room,52,2,71,2020-08-10,1.34,1,85
+13224612,In the Heart of West Asheville,59215839,Julie,,28806,35.57862,-82.60593,Private room,83,2,43,2020-10-12,0.81,1,4
+13231021,"Easy Access to Downtown & Hiking, Sparkling Clean!",14764795,Linda,,28803,35.55623,-82.49189,Entire home/apt,225,3,73,2020-10-18,1.46,1,3
+13234214,Mama Dee's Hide Away,17162742,Kirk,,28704,35.4357,-82.57821,Entire home/apt,167,2,3,2019-10-20,0.06,1,315
+13251709,The Sage Private Suite+Den and Bathroom Montford,73994689,Lydia And Victor,,28801,35.604,-82.56751,Private room,65,1,234,2020-10-04,4.36,2,111
+13258472,STEAMPUNK SUITE@UTOPIA ~ HOT-TUB ~ DWTN 2M ~ RURAL,1994122,Marc & Fay,,28805,35.61317,-82.52412,Entire home/apt,118,1,358,2020-10-22,6.82,6,110
+13274313,"Montford Apt w/Deck, Quiet, Private, Walk Downtown",16465325,Matt & Lulu,,28801,35.59754,-82.56632,Entire home/apt,147,2,139,2020-09-27,2.83,1,0
+13279595,ZenMtn Treehouse (Lower Level)NO Cleaning Fee,74862179,Rebecca,,28803,35.55623,-82.47698,Private room,91,1,137,2019-12-08,2.57,2,0
+13312601,Simple but Sweet Cottage House,75238397,Becky,,28704,35.45764,-82.54412,Entire home/apt,114,2,113,2020-10-13,2.21,2,166
+13326253,Modern  Loft  in the center of West Asheville,1872084,Linda And Rafael,,28806,35.58032,-82.5999,Entire home/apt,108,2,154,2020-10-06,2.94,3,64
+13333422,Mt Views in the heart of W. Asheville ( below apt),75476230,Jennifer,,28806,35.57319,-82.57666,Entire home/apt,110,1,107,2020-10-04,2.04,1,331
+13340576,"Spacious, Garden Suite w/ Private Porch",12585232,George,,28806,35.5969,-82.61442,Entire home/apt,91,1,149,2020-02-23,2.82,1,52
+13348419,Charming Asheville Cottage at Beaver Lake,57640272,Ellen,,28804,35.63316,-82.56708,Entire home/apt,144,2,74,2020-10-18,1.41,1,108
+13355384,"Large 2 bed loft in W. Avl, bring the whole family",1872084,Linda And Rafael,,28806,35.58161,-82.59897,Entire home/apt,192,2,172,2020-10-04,3.28,3,61
+13373427,"Studio in the Trees - Quiet, Forest View",3018614,Ada,,28805,35.58561,-82.5343,Entire home/apt,33,30,179,2020-03-15,3.41,2,326
+13386987,"Studio 54: Private cottage, 30-day",1335315,Lindsay,,28803,35.55003,-82.53443,Entire home/apt,35,30,105,2020-08-01,1.99,1,59
+13388627,Explore Asheville at a Bright Pad with Pops of Rich Red,32054468,Jeremy,,28801,35.59437,-82.56054,Entire home/apt,149,3,77,2020-10-09,1.46,4,0
+13426466,Asheville Studio w/ Sleeping Loft - Walk Downtown!,76545940,Hilary,,28801,35.60229,-82.56237,Entire home/apt,74,30,32,2019-05-27,0.60,2,141
+13429035,Asheville Cottage With All the Comforts of Home,19333726,Sue,,28704,35.48065,-82.51434,Entire home/apt,200,3,23,2019-11-12,0.44,2,342
+13514183,Radiant Apartment in Downtown Asheville,32054468,Jeremy,,28801,35.59437,-82.56054,Entire home/apt,149,3,78,2020-10-04,1.52,4,328
+13524286,Explore the Arts District from a Century Building Apartment,32054468,Jeremy,,28801,35.59437,-82.56054,Entire home/apt,149,3,68,2020-10-08,1.28,4,337
+13556933,Sunporch Suite w/ private entrance,78069256,Laura,,28804,35.63261,-82.53672,Entire home/apt,78,1,183,2020-10-22,3.61,2,32
+13582513,On famous West Asheville corridor. Walk everywhere,40234911,Sage,,28806,35.58156,-82.5955,Entire home/apt,108,2,199,2020-09-28,3.90,2,332
+13648659,LUX STEEL SUITE@UTOPIA ~ HOT-TUB ~ 2M DWTN ~ RURAL,1994122,Marc & Fay,,28805,35.61324,-82.52398,Entire home/apt,133,1,360,2020-10-19,7.01,6,105
+13674901,Lovely Space//Private Entrance and Bath,57323381,Leslie,,28803,35.55147,-82.52325,Private room,48,3,150,2020-05-25,2.85,1,53
+13700790,Cozy Room in South Asheville,37737144,Kwadwo,,28704,35.47493,-82.50222,Private room,49,1,312,2020-10-09,5.94,4,0
+13716891,The Zen Cabin,7429638,Tami,,28804,35.6165,-82.55152,Entire home/apt,85,2,329,2020-10-20,6.35,1,344
+13744589,Whole House just off Haywood Rd.,63893801,Nick,,28806,35.5789,-82.58439,Entire home/apt,154,2,199,2020-10-10,3.79,1,57
+13779774,"Private flat w/ Kitchenette & bathroom, Monthly",4195893,Amy,,28806,35.57127,-82.59299,Entire home/apt,39,29,26,2020-03-01,0.50,1,121
+13819278,Mountain Glow- close to downtown and BR Parkway.,24629376,Mary,,28805,35.60833,-82.48589,Entire home/apt,155,3,87,2020-04-27,1.73,1,203
+13877850,Blue Ridge Mountain Home Away from Home,25666840,Meghan,,28806,35.59136,-82.61263,Entire home/apt,82,3,189,2020-10-18,4.38,1,317
+13901952,Historic Grove Park - Apartment #3,46228285,Kathryn,,28801,35.61495,-82.54157,Entire home/apt,90,30,17,2019-06-28,0.33,4,0
+13942925,~Front Porch Retreat~Sleeps 5~2.5 mi to D/T~,66825963,Kathryn,,28804,35.62119,-82.57492,Entire home/apt,135,30,171,2020-04-02,3.29,1,0
+14011745,Creekside Zen Den near Downtown,2718902,Michelle,,28805,35.59083,-82.51034,Entire home/apt,70,1,89,2019-01-21,1.71,1,0
+14044072,"THE SWEET SPOT- serene hilltop, close to downtown",84179660,Terry,,28803,35.50384,-82.56318,Entire home/apt,110,3,44,2020-10-19,2.86,1,255
+14052114,West Asheville Dream Bungalow Apartment,2553058,Ron,,28806,35.58258,-82.60612,Entire home/apt,149,30,49,2019-03-18,0.95,1,111
+14076438,Stone Cottage Oasis,38060048,Margaret,,28805,35.58741,-82.48814,Entire home/apt,243,3,55,2020-09-21,1.09,1,0
+14102422,The Restful Edge - minutes from downtown AVL,78300248,Heather,,28803,35.55284,-82.4726,Private room,80,3,42,2020-03-08,1.62,1,60
+14110641,Cottage at Green Oaks Community,481489,Valerie,,28804,35.63145,-82.58321,Entire home/apt,151,28,28,2019-08-21,0.55,3,0
+14125023,Downtown Furnished Studio!! Close to Everything!!!,10746689,Irina,,28801,35.59841,-82.54228,Entire home/apt,50,30,1,2018-07-21,0.04,1,0
+14167740,Hidden Gem - Lovely Summer Rental,85734110,Thomas,,28806,35.57055,-82.60121,Entire home/apt,55,30,7,2018-09-02,0.14,1,296
+14168464,"""B Flat"" Downtown! Private parking.",23092470,April,,28801,35.59188,-82.55418,Entire home/apt,117,1,370,2020-10-08,7.18,4,0
+14184893,Spectacular Views Minutes from Downtown,43524105,Adam,,28805,35.6327,-82.47246,Private room,91,2,106,2020-10-21,2.18,1,343
+14203513,World Spirit Guest Suite,3578821,Kaitlyne & Ryan,,28806,35.59609,-82.61827,Entire home/apt,69,2,184,2020-09-27,3.58,1,55
+14236639,CasaLina. Minutes away from downtown,21609585,Reca,,28801,35.58081,-82.55364,Entire home/apt,115,30,17,2020-08-31,0.33,1,354
+14352724,NEW: Elegant Modern Suite & Short Walk to Downtown,7827938,Tori,,28801,35.59692,-82.5665,Entire home/apt,119,2,307,2020-10-03,6.01,2,0
+14355288,3 Bedroom Beauty - Walk to Town!,3018614,Ada,,28801,35.60653,-82.55496,Entire home/apt,90,60,13,2020-01-02,0.28,2,286
+14357005,Lavender room,61661019,Leah,,28806,35.5734,-82.58576,Entire home/apt,51,1,350,2020-10-20,7.14,1,69
+14430828,Sunny West Asheville Retreat,19598083,Marin,,28806,35.57516,-82.57675,Entire home/apt,89,2,159,2020-09-08,3.24,1,293
+14440002,4 Bdrm Rental Close To Downtown & With Tubes!,88891524,Ralph,,28804,35.62346,-82.5774,Entire home/apt,128,2,157,2020-08-23,3.07,1,314
+14499003,"*Suite,Calm & Comfy Gem*Near Biltmore, BRP & AVL",3963910,Cara,,28803,35.51285,-82.50984,Entire home/apt,65,30,63,2020-08-31,1.73,1,87
+14514191,Convenient Cozy Cottage near West Asheville,8574617,Dharma,,28806,35.55337,-82.62429,Entire home/apt,75,30,4,2019-09-30,0.10,1,339
+14522467,Le Petit Bleu,89749383,Sally And Robert,,28804,35.62181,-82.57456,Entire home/apt,160,2,129,2020-10-18,2.56,1,118
+14523242,A mountain escape with city comfort,35166807,Nicholas,,28806,35.52408,-82.61639,Entire home/apt,153,2,92,2020-09-07,1.81,1,163
+14547745,"A Peaceful Suite in the Trees, in Asheville",3875569,Cheryl,,28805,35.58409,-82.53608,Private room,71,2,122,2020-03-08,2.47,1,18
+14561813,"Classy, Comfy Quiet Crash Pad in Downtown Asheville",20393578,Katie,,28801,35.59698,-82.55466,Entire home/apt,182,2,134,2020-10-21,2.70,1,0
+14632829,Master bedroom in the heart of West Asheville,31436003,Lee,,28806,35.58075,-82.59357,Private room,54,1,104,2020-10-03,2.06,2,357
+14649826,"""East"" West Asheville Studio apt",4285304,Camille (Cammie),,28806,35.58016,-82.57302,Entire home/apt,134,2,252,2020-10-18,5.17,3,328
+14731928,5* BRICKHOUSE SUITE@UTOPIA ~ HOT-TUB ~ DWTN 2M,1994122,Marc & Fay,,28805,35.6132,-82.52374,Private room,106,1,258,2020-10-23,5.17,6,96
+14738243,"CozyCottageWalk2town, yoga3wkJAN/FEB BOOKDiscount",65772530,Roberta,,28801,35.60369,-82.54804,Private room,45,1,196,2020-03-14,4.14,1,0
+14751215,Dog-Friendly Home close to Downtown Asheville,10699816,Trace,,28803,35.54648,-82.47963,Entire home/apt,148,1,270,2020-10-18,5.46,4,310
+14757919,Bear's Den in Historic Montford,13282355,Ashley,,28801,35.5978,-82.56623,Entire home/apt,130,2,143,2020-06-29,3.23,1,64
+14805266,"""Hops"" Skip and a Jump to Downtown and River Arts",64825951,Katie,,28801,35.58983,-82.56462,Entire home/apt,364,4,191,2020-03-16,4.47,1,0
+14816025,Asheville Tiny House,11691015,Katie,,28806,35.50874,-82.61212,Entire home/apt,93,2,194,2020-10-19,3.85,2,38
+14857013,Retro Vintage-West Asheville Urban Abode,93023816,Elisa,,28806,35.57691,-82.59221,Entire home/apt,135,2,200,2020-10-22,3.97,1,166
+14899945,Swensen Home,32928027,Becky,,28803,35.53948,-82.46929,Private room,98,1,23,2020-09-07,0.47,2,220
+14900960,"Cabin, Wood FirePlace, Hot Tub, Pool, Pet Friendly",77673932,David & Carolyn,,28715,35.51502,-82.64937,Entire home/apt,226,2,113,2020-08-23,2.32,1,0
+14934441,Nanny's Place in the Great Smoky Mountains,20943262,Roslyn,,28803,35.55401,-82.51304,Entire home/apt,120,2,295,2020-10-07,6.02,1,62
+14941161,City Serenity,48356327,Marianne,,28801,35.60729,-82.5506,Entire home/apt,95,2,153,2020-10-18,3.11,1,238
+14963589,Cozy Cottage in the Woods Near Biltmore,47114362,Annie,,28803,35.54698,-82.50974,Entire home/apt,84,2,213,2020-10-15,4.31,1,152
+14976451,"Sweet 5 Points Bungalow, Just a Walk to Downtown",3677108,Charles & Cheryl,,28801,35.60499,-82.55755,Private room,89,1,38,2019-10-27,0.77,3,25
+15009504,Separate HVAC | CDC Clean | Walk Downtown,94713501,Wendy,,28801,35.60203,-82.55476,Entire home/apt,176,2,266,2020-10-09,5.33,1,329
+15016101,Amazing Views of Downtown and Mountains,25968172,Steve,,28804,35.6478,-82.58833,Entire home/apt,199,4,85,2020-10-16,1.73,1,165
+15091721,DOWNTOWN! Seconds from it all!,46001530,Jonathan,,28801,35.59221,-82.55866,Entire home/apt,111,1,252,2020-10-09,5.27,10,344
+15091813,1899 Carriage House Suite in a Victorian Part of Asheville,95528976,Anna & Molly,,28801,35.60212,-82.56158,Entire home/apt,136,2,155,2020-06-28,3.50,1,21
+15124397,Modern Mountain Getaway,15582281,Angela,,28803,35.57402,-82.53459,Entire home/apt,91,2,280,2020-10-22,5.83,1,49
+15158878,A Step Back in Time - 1901 Estate Guest Cottage,96173789,Jamie And Jim,,28803,35.48594,-82.51476,Entire home/apt,77,3,234,2020-10-18,4.75,1,0
+15174633,"Downtown Inn Asheville, NC #1 King",96305927,Narendra,,28801,35.59499,-82.55559,Private room,116,1,72,2020-10-15,1.68,10,178
+15192947,Historic West Asheville Personal Retreat and Spa,21014952,Cheri,,28806,35.58305,-82.57696,Entire home/apt,199,2,146,2020-10-21,2.95,1,314
+15194828,Shenandoah Room,72717376,Liza,,28805,35.5891,-82.47175,Private room,48,1,139,2020-10-03,2.81,3,0
+15229458,Farmhouse King - MNT Sunsets - HOT TUB -,9385592,Kelsey,,28806,35.63818,-82.65146,Private room,97,2,5,2020-02-17,0.10,2,0
+15231248,D&D's Dog-friendly West Asheville AirBnb,15740461,Dellene,,28806,35.57425,-82.59642,Entire home/apt,113,1,192,2020-10-21,3.90,1,39
+15248786,ZenMtn Treehouse (Main Floor)NO cleaning fee!,74862179,Rebecca,,28803,35.55611,-82.47875,Private room,88,1,58,2019-12-02,1.17,2,21
+15289199,Cabin-Wood Fireplace-Hot Tub-Pool,93289165,Carolyn,,28715,35.51354,-82.64757,Entire home/apt,196,2,2,2020-09-23,0.04,2,309
+15321136,Shenandoah RV (tiny house?),72717376,Liza,,28805,35.5892,-82.47565,Entire home/apt,80,1,80,2020-07-20,1.62,3,6
+15327549,"A Secret Bungalow -Walkable to Downtown",70854260,Colleen,,28801,35.59767,-82.56255,Entire home/apt,169,30,22,2018-10-14,0.45,1,18
+15339276,"Historic Montford's Landmark Keyhole House, Suite Two",53338225,Renée,,28801,35.60625,-82.56418,Entire home/apt,151,14,152,2020-10-02,3.09,2,59
+15343687,Monthly Staycation off Haywood.,29602697,Mike,,28806,35.58108,-82.5852,Entire home/apt,104,30,201,2020-09-21,4.28,1,106
+15345095,"Historic Montford's Landmark Keyhole House, Suite One",53338225,Renée,,28801,35.60615,-82.56413,Entire home/apt,151,14,197,2020-10-05,4.00,2,0
+15351409,Quiet Haven Tiny House-Hottub-Pets- Asheville Mtns,93289165,Carolyn,,28715,35.5156,-82.64924,Entire home/apt,99,2,98,2020-09-10,1.99,2,310
+15355010,"5 Points Bungalow, Garden View/Walk to Downtown",3677108,Charles & Cheryl,,28801,35.60334,-82.55674,Private room,84,1,48,2019-10-28,0.97,3,24
+15359380,"5 Points Bungalow, Your Home in Asheville",3677108,Charles & Cheryl,,28801,35.60467,-82.55699,Entire home/apt,293,30,0,,,3,328
+15431178,Pet friendly craftsman in the heart of Asheville,72386853,Brigitte,,28803,35.56531,-82.52364,Entire home/apt,121,28,23,2018-07-29,0.47,2,275
+15437202,Cozy and Quiet on Hemphill,98990072,Anne,,28803,35.56502,-82.48411,Private room,50,2,85,2020-03-15,1.74,1,0
+15444450,City Sanctuary,15904121,Maureen,,28804,35.60256,-82.54097,Entire home/apt,140,2,49,2019-11-17,1.00,1,141
+15462269,Brand New Log Cabin...close to downtown Asheville!,32198136,Paul,,28805,35.65417,-82.47592,Entire home/apt,270,2,17,2020-09-07,0.36,1,331
+15476300,Comfortable Home near to WNC Ag Center,49443822,Beatriz,,28732,35.42877,-82.52819,Entire home/apt,170,3,48,2020-09-21,1.00,1,341
+15481467,"Guests Love The Location, Best of Asheville At Our Doorstep",9189011,Ralph,,28801,35.59961,-82.55507,Entire home/apt,158,3,266,2020-10-12,5.51,1,322
+15484732,Holly Hill Apartment,99420699,Dottie,,28806,35.62115,-82.63992,Entire home/apt,90,3,4,2020-10-13,0.09,1,327
+15510852,Downtown hideaway! Walk everywhere!,46001530,Jonathan,,28801,35.59228,-82.55806,Entire home/apt,125,2,135,2020-03-24,2.76,10,340
+15530268,Private apartment ~2 mi  from downtown Asheville,47647594,Micah,,28804,35.62686,-82.55898,Entire home/apt,80,1,331,2020-10-08,7.13,1,320
+15544670,Apt Close to Everything in Asheville- $1600/mo!!,100023677,Dana,,28806,35.57642,-82.57099,Entire home/apt,54,30,1,2019-01-12,0.05,1,327
+15546661,The Snook Nook ~ A Mountain Retreat In Asheville,37996476,Aaron,,28805,35.6272,-82.48244,Entire home/apt,82,2,208,2020-10-18,4.27,5,164
+15547377,"Willow Haven, near Asheville",57122380,Ed,,28704,35.46129,-82.56577,Entire home/apt,143,2,250,2020-10-21,5.25,1,312
+15568000,"Namaste Yurt, best of both worlds",51104544,Simms,,28805,35.60733,-82.48834,Entire home/apt,118,2,112,2020-10-03,2.33,3,283
+15577790,New Guest House in West Asheville- It's A Retreat!,10524336,Sharon,,28806,35.58039,-82.59457,Entire home/apt,76,1,22,2020-10-01,0.45,1,24
+15647883,West Nest on Haywood Road,98245203,Mike,,28806,35.57854,-82.57981,Entire home/apt,91,1,249,2020-10-23,5.16,1,132
+15653105,Traveler's Home. Monthly rates.,46933220,Amy,,28805,35.59977,-82.46848,Private room,40,28,11,2020-08-19,0.23,1,168
+15685101,"Private studio near downtown, Biltmore & breweries",16261203,Sam,,28803,35.57108,-82.52894,Entire home/apt,90,1,286,2020-10-13,5.88,1,32
+15701324,Mtn Retreat 'Suite'  Dntwn 5 min  Private Entrance,4782147,Ken,,28803,35.58024,-82.54322,Private room,90,2,155,2020-02-16,3.22,1,0
+15706129,"Private, dog friendly, king studio with garage!",101427019,Karina & Patrick,,28805,35.58552,-82.51521,Entire home/apt,95,2,183,2020-10-13,4.64,1,0
+15718256,Rancho54oh- Spacious & Convenient!,5230460,Emily,,28801,35.57556,-82.56026,Entire home/apt,86,2,274,2020-10-18,5.70,1,317
+15757654,Heart of Asheville Bright n' Peaceful Apt.,101872826,Amir,,28803,35.53114,-82.51756,Private room,100,7,36,2018-04-16,0.77,1,89
+15780601,Artist's Retreat in Hip West Asheville,88468262,Mark,,28806,35.58967,-82.60242,Entire home/apt,95,2,122,2020-10-12,2.62,1,157
+15788106,"Cozy, quiet retreat near Blue Ridge Parkway. 2 bed",102127332,Julia,,28806,35.51845,-82.59794,Entire home/apt,75,3,89,2020-09-27,1.85,3,162
+15805048,Carriage House (Monthly),5162286,Casey,,28806,35.57832,-82.58793,Entire home/apt,69,30,41,2017-11-20,0.87,2,0
+15827350,Windsor Forest Inn(Sierra Nevada 3 miles away!),101874083,Cecelia(Cissy),,28704,35.46034,-82.54373,Entire home/apt,91,2,115,2020-03-19,2.42,1,231
+15830900,"Rustic Updated Clean Cabin Asheville, Biltmore",39286181,Karl,,28704,35.48918,-82.58124,Entire home/apt,172,2,91,2020-08-30,1.91,2,0
+15867765,Historic Church in The River Arts District,102070094,David And Shawn,,28801,35.5805,-82.55982,Private room,138,1,295,2020-10-12,6.22,1,51
+15868200,Awesome Asheville,20067787,Arni,,28805,35.60033,-82.47578,Private room,46,1,404,2020-10-19,8.45,1,350
+15922343,Perfect apartment and location in perfect town,103309447,Bill,,28801,35.6113,-82.55111,Entire home/apt,39,30,1,2017-05-31,0.02,1,112
+15929513,Zen Style Oasis in the Mountains,3107601,Anthony,,28804,35.64359,-82.51216,Entire home/apt,286,2,36,2020-06-28,0.76,1,141
+15936945,Asheville Clouding Around - A Million Dollar View,25438439,Wendy,,28804,35.62821,-82.53508,Entire home/apt,300,6,9,2020-08-31,0.19,1,0
+15995355,Vibrant NEW Montford apartment- walk to downtown,62667,Heather,,28801,35.60264,-82.56187,Entire home/apt,132,2,153,2020-10-17,3.21,1,150
+16003488,Affordable downtown penthouse. The best deal!!!,46001530,Jonathan,,28801,35.59375,-82.55649,Entire home/apt,133,2,92,2020-10-09,1.95,10,344
+16024372,New Tiny House near Downtown and Blue Ridge!,1178227,Karen,,28805,35.58849,-82.50202,Entire home/apt,99,2,308,2020-10-20,6.47,1,0
+16037508,Home for 6-7 People in South Asheville,37737144,Kwadwo,,28704,35.47629,-82.50151,Private room,120,1,27,2020-08-06,0.57,4,0
+16095359,Garden Wheel House,16359857,Anna,,28804,35.63382,-82.58267,Entire home/apt,156,2,1,2017-08-20,0.03,2,0
+16147877,Sandy's Place,27942972,Candace,,28803,35.57913,-82.53368,Entire home/apt,132,3,179,2020-10-19,3.80,1,39
+16155218,Great One Bedroom Get-Away,2635351,Bob,,28704,35.48852,-82.59224,Entire home/apt,98,2,91,2020-10-19,1.94,1,342
+16203903,The Parkwood Tree House,105838974,Leland,,28804,35.635,-82.58475,Entire home/apt,214,2,227,2020-10-03,4.88,5,68
+16267469,"1 BDRM, 2 miles to DWTN. Great for nurse/doc",22763355,Nessa,,28803,35.56187,-82.51118,Entire home/apt,54,30,23,2019-04-14,0.50,1,122
+16284468,Downton Shabby,100789740,Carrie,,28806,35.5918,-82.65855,Entire home/apt,116,2,118,2020-10-17,2.73,2,139
+16294435,"Retro Asheville Ranch - 3 bedrooms, lots of room!",42678716,JC And John,,28704,35.47511,-82.50285,Entire home/apt,87,2,81,2020-08-08,1.74,1,141
+16350883,The exact location you want to be!,5885539,Amber,,28806,35.57466,-82.57205,Entire home/apt,120,1,253,2020-03-01,5.39,1,0
+16384751,Comfortable room with queen bed,106333993,Rob,,28806,35.58354,-82.60923,Private room,44,1,124,2020-10-10,2.77,1,172
+16451105,Luxury in an Artist's Loft as Base for Exploring Asheville,1329460,Lynne,,28801,35.59585,-82.55357,Entire home/apt,256,4,48,2020-10-11,1.57,3,107
+16476358,Private Suite: Walk to Biltmore and Breweries,41653391,Michael And Amanda,,28803,35.56733,-82.52671,Entire home/apt,190,1,294,2020-10-09,6.33,1,51
+16477857,Live in a Work of Art!,108161472,Sam,,28801,35.5997,-82.5619,Entire home/apt,125,2,220,2020-10-09,4.74,1,338
+16512718,Quiet North Asheville Retreat,32179484,Kevin,,28804,35.64893,-82.54846,Entire home/apt,98,2,63,2020-10-12,2.36,1,2
+16532936,Cozy 3Bed+2b But yet So convenient,28704049,Vince,,28806,35.53193,-82.61117,Entire home/apt,115,2,65,2020-10-14,1.45,1,344
+16533200,Mountain Getaway close to downtown and Grove Park,108761817,Morris,,28804,35.6268,-82.53024,Entire home/apt,106,1,154,2020-10-03,3.36,2,144
+16541497,West Asheville hidden gem. Private bed and bath.,52821274,Jennifer,,28806,35.59265,-82.5853,Private room,85,7,10,2020-10-18,0.45,1,78
+16566334,Comfy Asheville Cottage with Private Fenced Yard,15086526,Smithson,,28806,35.54977,-82.62883,Entire home/apt,157,2,254,2020-10-19,6.12,3,126
+16566932,West Asheville Carriage House,109123783,Beverly,,28806,35.5818,-82.60859,Entire home/apt,129,2,168,2020-10-18,3.75,2,337
+16587446,Spacious Downtown Asheville Loft,78507878,Andrew & Ashlie,,28801,35.59689,-82.55423,Entire home/apt,271,3,210,2020-10-19,4.59,1,53
+16603497,Treehouse Chalet above Downtown and Winding Road!,8051732,Pamela,,28801,35.59444,-82.53809,Entire home/apt,120,2,192,2020-10-22,4.22,3,231
+16603859,Historic 1950s Tiny Home - $6 Uber to Downtown,8051732,Pamela,,28805,35.59389,-82.53743,Entire home/apt,114,2,137,2020-10-11,3.06,3,153
+16627563,Walking Distance To Downtown-South Slope-RiverArts,30073217,Kendra & Kyle,,28801,35.58726,-82.55787,Private room,99,2,113,2020-10-18,2.51,1,7
+16636978,Cozy private apartment minutes from Sierra Nevada,59949913,Ashley,,28732,35.43174,-82.5258,Private room,104,1,60,2020-10-12,1.40,1,357
+16660917,"Sweet Cottage With Hot Tub, Near Downtown",16526258,Amanda,,28804,35.62876,-82.58195,Entire home/apt,194,2,31,2020-07-19,0.76,1,33
+16663252,Walkable West Asheville Home in the Trees,16954978,Phaedra,,28806,35.58433,-82.59528,Entire home/apt,140,30,1,2019-08-07,0.07,2,295
+16733596,Boutique Room in Tranquil Surroundings Three Blocks to Town,1884805,Elizabeth,,28801,35.59978,-82.55912,Private room,96,1,417,2020-10-18,9.56,2,0
+16742264,Front Private room w King Bed,57405998,Cody,,28806,35.58384,-82.60655,Private room,48,1,173,2020-09-27,3.98,2,49
+16810083,Explore Asheville,84799065,Cameron & Sarah,,28801,35.57583,-82.55665,Private room,66,1,435,2020-10-19,9.56,1,54
+16826141,Stunning Barn Loft Just Outside of Asheville,49736754,Joy,,28805,35.58702,-82.48867,Entire home/apt,250,2,30,2020-10-18,0.70,1,346
+16832848,The Rockwell- Spacious River Arts District Home,81192738,Joshua,,28806,35.58161,-82.56981,Entire home/apt,250,3,71,2020-10-18,1.63,1,322
+16846899,Oasis close to downtown,112183018,Garry,,28801,35.6089,-82.55934,Entire home/apt,171,1,202,2020-10-20,4.51,1,350
+16868257,Taylor Ranch Retreat - Secluded yet close to Asheville,112407742,Inspired,,28732,35.46129,-82.4674,Entire home/apt,242,2,16,2020-10-06,1.37,3,184
+16937948,Avery's Creek-Swimming Pool/Hot tub-Close To Asheville & Shopping/Food/Hiking.,96187307,Steve,,28704,35.44286,-82.5742,Entire home/apt,524,2,36,2020-10-04,0.87,26,0
+16937957,Cove Cottage - Charming Cottage Located Right Outside Downtown Asheville; easy access!,96187307,Steve,,28805,35.6121,-82.52365,Entire home/apt,164,2,24,2020-06-13,0.57,26,329
+16937995,"Upstream Cottage; Asheville & River Arts-Close to everything! Breweries, eateries, hiking!",96187307,Steve,,28806,35.56794,-82.56772,Entire home/apt,224,2,46,2020-09-24,1.06,26,324
+16977918,Cedar Cabin with Forest Canopy Deck,181316638,Becky,,28805,35.61539,-82.51918,Entire home/apt,270,2,259,2020-10-15,5.75,5,325
+17036413,"Clean, Comfy and Convenient S. Asheville Condo",52034787,Jessie,,28704,35.46976,-82.51147,Entire home/apt,106,2,36,2020-10-04,0.80,1,104
+17095670,Downtown Escape!,46001530,Jonathan,,28801,35.59263,-82.55716,Entire home/apt,132,1,121,2020-10-10,2.70,10,0
+17116810,Beaucatcher Mountain Retreat,114884102,Debbie,,28805,35.59704,-82.5361,Private room,86,1,142,2020-10-16,3.27,1,39
+17155164,Beautiful Mountain Views 5 Minutes to Downtown,21539203,Dorothy,,28805,35.5917,-82.5375,Entire home/apt,106,1,375,2020-10-16,8.46,3,325
+17157429,"Explore AVL from this Stylish, Cozy Apartment",106315653,Jennifer,,28801,35.60343,-82.5503,Entire home/apt,114,3,166,2020-10-04,3.71,1,0
+17310280,Tiny House - Giant Views,21600570,Kim,,28804,35.62335,-82.53314,Entire home/apt,194,2,300,2020-10-09,6.77,2,0
+17345566,Skye Haven - Views! Romantic getaway 3 mi. to town,117176518,Marilyn,,28804,35.6255,-82.52242,Entire home/apt,292,2,7,2020-07-11,0.23,1,0
+17364637,Apartment with Private entrance and Private Bath.,117325142,Kern And Anne,,28806,35.59383,-82.63428,Entire home/apt,90,1,345,2020-10-18,7.80,1,166
+17364692,Lovely city garden apartment at the Little Farm,4314310,L J,,28803,35.57579,-82.53662,Entire home/apt,65,2,249,2020-09-20,5.59,1,0
+17395670,Charming Red Roof Home In Tiny Farms,41521900,Yasmin,,28806,35.61844,-82.63979,Entire home/apt,135,3,126,2020-10-13,2.93,1,0
+17403585,ADVENTURE LAUNCH PAD,117659309,Helen,,28806,35.61834,-82.58296,Entire home/apt,279,1,153,2020-10-09,3.53,1,307
+17416267,Downtown and Biltmore Just Down the Road!,25041828,Sarah,,28803,35.56677,-82.52251,Entire home/apt,185,2,50,2020-10-15,2.33,4,159
+17446056,Front Porch Charm,21600570,Kim,,28804,35.63105,-82.58665,Entire home/apt,183,2,167,2020-10-03,3.87,2,127
+17464124,Tiny House - Must Love Dogs,78245506,Amy,,28806,35.62461,-82.6317,Entire home/apt,100,1,27,2020-03-15,1.38,1,111
+17529983,Garden Apt in Historic Neighborhood of Asheville,16023445,Tara,,28801,35.61201,-82.5496,Entire home/apt,65,30,4,2020-07-06,0.45,2,0
+17552287,Family Friendly Apartment in Beautiful North Asheville,119106320,Alison,,28804,35.63939,-82.54984,Private room,101,2,148,2020-10-18,3.73,1,93
+17591050,Historic Home Near Downtown Asheville Pvt Bed/Bath,119510171,Debbie,,28804,35.61298,-82.55158,Private room,56,1,264,2020-10-04,6.00,2,0
+17606368,"Hidden Cove on the doorstep of Downtown Asheville; HOT TUB, Game Rm, LUXURY!",96187307,Steve,,28805,35.61538,-82.51881,Entire home/apt,577,2,35,2020-08-16,0.91,26,332
+17618702,Mountain Chalet close to Biltmore,71812166,Heidi & Ricky,,28806,35.55654,-82.60125,Entire home/apt,406,3,127,2020-10-18,2.94,8,325
+17634705,"Warm, Relaxed Home in West Asheville",74769459,Ellen,,28806,35.58129,-82.59532,Entire home/apt,109,2,241,2020-10-19,5.52,1,0
+17638102,True Asheville B&B- Wall Street Room- 2nd Floor,1786031,Emilie,,28801,35.60413,-82.5494,Private room,150,20,1,2017-08-02,0.03,2,0
+17648416,Private Bungalow Ten Minute Walk to Downtown Asheville,1786031,Emilie,,28801,35.60302,-82.54885,Entire home/apt,210,2,80,2020-10-16,1.90,2,54
+17649947,Getaway to Blue Ridge Mountains-West Asheville,71857225,Robert,,28806,35.58302,-82.6056,Entire home/apt,65,28,180,2020-08-31,4.13,1,46
+17653835,Just West of West Asheville Studio,35987403,Betsy,,28806,35.56566,-82.63338,Entire home/apt,79,2,156,2020-10-09,3.63,1,39
+17697321,"""Super Close to Everything""  Private Studio",93554832,Anne Marie,,28805,35.58067,-82.54092,Entire home/apt,91,2,182,2020-10-19,4.18,1,307
+17726977,Cozy Private Suite Near Biltmore & Downtown,4448420,Jane,,28803,35.56364,-82.51953,Private room,114,1,123,2020-10-19,4.09,1,20
+17743775,Orchard House,25198720,Cooper,,28805,35.65206,-82.4774,Entire home/apt,149,4,2,2020-07-24,0.07,1,296
+17780854,Serene Private Bed & Bath for Female Travelers,87524887,Lisa,,28805,35.64262,-82.4739,Private room,65,2,53,2019-11-05,1.22,1,47
+17787933,Urban Oasis in Asheville,12844896,Stephanie,,28804,35.64559,-82.52322,Entire home/apt,68,2,107,2020-10-15,2.53,1,88
+17794306,Beer City Room - Heart of West Asheville,109638953,Guy,,28806,35.58059,-82.59237,Entire home/apt,113,2,273,2020-10-16,6.32,3,340
+17826503,🌲Charland Chalet 🌲Guesthouse 5 Min to Town & BRP,19159885,Elaine,,28803,35.55374,-82.48196,Entire home/apt,184,1,414,2020-10-22,9.81,2,0
+17861930,Magical large apartment downtown!,46001530,Jonathan,,28801,35.59238,-82.5572,Entire home/apt,149,1,184,2020-10-04,4.22,10,338
+17917678,Lovely Private Apt. - Historic Home & Neighborhood,122832025,Elizabeth,,28801,35.60903,-82.56731,Entire home/apt,109,2,121,2020-10-18,2.91,1,316
+17935396,Retreat on Town Mountain,5522323,Jovita,,28804,35.60958,-82.53791,Entire home/apt,176,2,119,2020-10-07,3.21,1,63
+18017043,Dragonfly Cottage,37159729,Paula,,28801,35.58865,-82.55863,Private room,92,2,216,2020-10-22,5.04,2,0
+18018230,"Dragonfly Cottage II ,  Cozy Cottage in Downtown",37159729,Paula,,28801,35.58975,-82.5586,Private room,99,2,176,2020-10-18,4.10,2,69
+18022683,The West Asheville Loft,109123783,Beverly,,28806,35.58021,-82.6074,Entire home/apt,108,2,230,2020-10-18,5.31,2,340
+18055958,Mountaintop Hideaway,6758788,Bonnie,,28805,35.59582,-82.53764,Entire home/apt,135,28,20,2020-09-01,0.53,1,350
+18092896,River Arts Comfy Getaway - Long Term (30-90 days),124606231,Colleen And Dave,,28801,35.58875,-82.56727,Entire home/apt,99,30,189,2019-12-15,4.61,1,0
+18117417,Sublime Montford Home - Walk to Downtown - Dante's,124832793,Will,,28801,35.60035,-82.55879,Private room,95,2,76,2020-09-27,1.77,3,0
+18119864,Sunnyside,124856505,Kate,,28804,35.64704,-82.51875,Private room,75,3,2,2019-06-01,0.05,1,80
+18121899,Casa de Lobos - N. Asheville,42518767,Tomi,,28804,35.64673,-82.52906,Entire home/apt,232,1,83,2020-02-16,1.94,1,10
+18122227,Close to Everything in Beautiful Asheville,124879173,Deborah,,28715,35.55302,-82.63683,Private room,65,2,59,2020-10-11,1.38,1,47
+18151750,Gashes Fluss Haus,36948751,Paul,,28803,35.56058,-82.48592,Entire home/apt,122,1,503,2020-10-23,11.71,1,85
+18178954,Luxury Suite with Blissful Comforts,5366546,Raymond,,28804,35.61755,-82.55846,Entire home/apt,181,2,83,2020-09-21,1.98,1,242
+18179308,Mountain View Getaway,123441843,Amber,,28715,35.51457,-82.66164,Entire home/apt,194,3,74,2020-07-02,1.75,1,0
+18264441,Cute Craftsman Asheville Suite,67787434,Alli,,28806,35.55255,-82.62994,Entire home/apt,97,2,164,2020-10-18,4.14,1,36
+18308309,"Downtown Inn Asheville, NC #2-King",96305927,Narendra,,28801,35.59454,-82.5561,Private room,115,1,6,2020-08-15,0.14,10,179
+18308656,"Downtown Inn Asheville, NC #3-King",96305927,Narendra,,28801,35.59419,-82.55558,Private room,115,1,14,2020-09-07,0.33,10,0
+18308869,"Downtown Inn Asheville, NC #4-King",96305927,Narendra,,28801,35.59265,-82.55739,Private room,115,1,27,2020-10-18,0.67,10,179
+18308979,"Downtown Inn Asheville, NC #5-King",96305927,Narendra,,28801,35.5945,-82.55594,Private room,115,1,11,2020-07-18,0.26,10,179
+18309080,"Downtown Inn Asheville, NC #6-King",96305927,Narendra,,28801,35.59409,-82.55602,Private room,115,1,5,2018-04-29,0.12,10,0
+18375617,Cozy Mountain Cottage,56410675,AJ & Jenn,,28803,35.53754,-82.48759,Entire home/apt,112,2,175,2020-10-23,4.14,1,45
+18389884,"Downtown Inn Asheville, NC  #7-King",96305927,Narendra,,28801,35.59459,-82.55738,Private room,116,1,52,2020-10-19,1.41,10,172
+18393059,Charming Arts & Crafts home in West Asheville,29296555,Kaylen,,28806,35.58103,-82.57855,Private room,72,1,85,2020-09-20,2.02,1,0
+18404153,"Downtown Inn Asheville, NC #8-Double",96305927,Narendra,,28801,35.5935,-82.55738,Private room,115,1,37,2020-09-06,0.88,10,0
+18405483,"Downtown Inn Asheville, NC #9-Double",96305927,Narendra,,28801,35.59319,-82.5564,Private room,115,1,73,2020-10-12,1.75,10,0
+18406520,"Downtown Inn Asheville, NC #10-Double",96305927,Narendra,,28801,35.59299,-82.55623,Private room,115,1,43,2020-09-26,1.04,10,178
+18422959,The Red Rooster Bungalow,127670039,Mikael,,28806,35.58143,-82.60913,Entire home/apt,140,1,210,2020-10-11,4.97,1,62
+18431805,"Modern Suite by New Belgium, River Arts District",127748325,Will And Marian,,28806,35.58433,-82.57161,Entire home/apt,147,1,257,2020-10-18,7.15,1,0
+18466431,My Green Escape,32651476,Tom,,28805,35.62061,-82.4768,Entire home/apt,113,2,270,2020-10-21,6.51,4,0
+18471514,Robin's Nest by Robin!,7765711,Robin,,28805,35.61886,-82.50325,Entire home/apt,95,2,75,2020-09-27,1.79,1,212
+18473371,West Asheville Bamboo Bungalow near French Broad River,128125554,Austin,,28806,35.56781,-82.56795,Entire home/apt,249,2,102,2020-10-12,2.46,1,235
+18487194,*Squad Bunker* ~ Perf Chill Pad for Groups & Pets!,65499332,Elizabeth,,28803,35.57179,-82.52916,Entire home/apt,77,1,143,2020-10-12,3.70,1,0
+18521819,Convenient + modern spot:  central North Asheville,73600074,Joel,,28804,35.63526,-82.53509,Entire home/apt,104,2,241,2020-10-22,5.70,1,0
+18566844,"Cozy, Quiet, Walk to Downtown",3868549,Marty & Robyn,,28801,35.60481,-82.54893,Private room,87,3,93,2020-08-22,2.20,2,6
+18599205,COZY WALKABLE WEST ASHEVILLE MODERN SUITE,48064538,Gael,,28806,35.58432,-82.5742,Entire home/apt,75,2,151,2020-10-19,3.94,1,38
+18616393,Central AVL - 2BD/1BA Hideaway - 5min to DT,91729665,Timothy,,28805,35.58825,-82.51489,Entire home/apt,242,1,42,2019-10-20,1.08,1,0
+18627613,Private apartment w/ kitchen and laundry,85284621,Jay,,28806,35.50946,-82.61025,Entire home/apt,42,2,166,2020-10-18,4.77,1,293
+18716194,Blue Ridge Fire Tower,130138003,Kristyn,,28805,35.6105,-82.48763,Entire home/apt,257,2,140,2020-09-14,3.37,1,0
+18721359,The Acorn Guesthouse,32221473,Randy,,28803,35.56728,-82.52617,Entire home/apt,50,3,4,2020-10-10,0.33,2,287
+18731242,Asheville Luxury Socially Distant Retreat,35743249,Lindsay,,28704,35.46073,-82.59882,Entire home/apt,550,2,55,2020-09-24,1.39,1,0
+18751432,LOCATION : 2 mi to Downtown/Breweries/restaurants,130451455,Angelica,,28805,35.58816,-82.53165,Entire home/apt,485,1,53,2020-06-28,1.31,1,344
+18754939,Cozy Cool Farmstead Studio!,130485282,Matt,,28806,35.62526,-82.61543,Private room,73,2,148,2020-10-12,3.54,2,170
+18776404,North Liberty House,2285909,Gretchen,,28801,35.60577,-82.55109,Private room,114,1,106,2020-02-16,2.54,3,326
+18784621,"Downtown love, downtown life.",46001530,Jonathan,,28801,35.59247,-82.55693,Entire home/apt,111,1,179,2020-10-11,4.29,10,158
+18907430,North Liberty House 2,2285909,Gretchen,,28801,35.60585,-82.5514,Private room,114,1,88,2020-01-01,2.12,3,326
+18910863,Magical Mountain Mod Near Downtown,27754937,Lauryl,,28804,35.62244,-82.56121,Entire home/apt,82,3,146,2020-10-08,3.55,1,25
+18918238,Asheville Getaway...Fenced in Backyard!,2439734,Jacob,,28715,35.56426,-82.66878,Entire home/apt,119,2,254,2020-10-21,6.12,1,322
+18928361,The Azalea Cabin,96462574,OM Sanctuary,,28806,35.61195,-82.58083,Entire home/apt,108,3,12,2019-01-01,0.31,1,79
+18929549,Off the Beat Inn Path,131948090,Patty And Jim,,28805,35.59265,-82.47257,Entire home/apt,75,2,204,2020-10-18,4.92,1,252
+18974593,Asheville Escape minutes to downtown! NEW FIRE PIT,123930099,Keith And Chan,,28805,35.62852,-82.4721,Entire home/apt,561,2,92,2020-10-18,2.31,1,328
+19029460,"Large private entry basement: modern, clean, airy.",90478266,Liana,,28732,35.42979,-82.5255,Entire home/apt,78,1,180,2020-08-10,4.38,2,111
+19032051,Chestnut House,119642196,Naomi,,28806,35.57561,-82.59377,Entire home/apt,90,5,220,2020-10-22,5.33,1,0
+19050500,West Asheville Hilltop Hideout,28404139,Blake,,28806,35.57259,-82.62221,Entire home/apt,45,1,194,2020-10-20,4.72,1,145
+19066373,West Asheville Yellow Bungalow on Haywood,42676282,Amanda,,28806,35.58044,-82.59781,Entire home/apt,176,2,98,2020-10-15,2.41,3,341
+19066512,"Entire Asheville Home - Walkable, Monthly Rental!",71125861,Rich,,28806,35.57589,-82.59993,Entire home/apt,105,30,3,2018-05-24,0.08,1,285
+19077911,Bear Retreat,134554268,Adam,,28806,35.57537,-82.58984,Entire home/apt,150,30,11,2020-09-04,0.27,1,319
+19103146,West Asheville Arts and Craft Bungalow,133465009,Jennifer,,28806,35.57863,-82.58512,Entire home/apt,80,2,16,2019-12-31,0.40,1,0
+19110626,Mountain views,133522567,Dan,,28803,35.55575,-82.47598,Entire home/apt,310,2,57,2020-09-06,1.40,1,0
+19118629,Just Beyond Utopia,9440287,Jana,,28805,35.61218,-82.52788,Entire home/apt,206,2,116,2020-10-19,2.84,1,239
+19120555,"River, Mountain Modern close to everything",130352599,Anthony,,28806,35.56762,-82.56686,Entire home/apt,649,3,112,2020-10-05,2.77,1,310
+19129020,Asheville Cozy Log Cabin Urbane Retreat 90 day +,16339042,Lori & Lizzie,,28805,35.58659,-82.49048,Entire home/apt,55,90,10,2020-02-15,0.25,3,200
+19135906,Asheville Red Cottage - cheerful cozy city home.,66582598,Myra,,28806,35.57472,-82.62429,Entire home/apt,62,30,3,2020-10-05,0.87,1,256
+19137905,Quiet Living Space Close to Downtown - West AVL,107292420,Tamara,,28806,35.58394,-82.62059,Private room,63,1,50,2019-11-10,1.27,1,1
+19262092,Walkable and Tranquil One Bedroom Apartment,16954978,Phaedra,,28806,35.58382,-82.59682,Entire home/apt,110,2,38,2019-11-10,0.94,2,0
+19264539,West Asheville Apartment at Haywood Bungalow,42676282,Amanda,,28806,35.57969,-82.59653,Entire home/apt,99,2,100,2020-10-18,2.48,3,133
+19273710,"Cozy Country Cottage, Ten Minutes from Downtown!",56347978,Caitlin,,28806,35.60062,-82.59334,Entire home/apt,82,1,113,2020-10-13,2.79,1,119
+19326768,VERY CLOSE TO DOWNTOWN- Peacock Escape,133792356,Michael & Tom,,28801,35.60912,-82.55392,Entire home/apt,104,2,53,2020-10-02,1.31,1,300
+19381523,"Jaw Dropping Views, Minutes to Downtown, Location!",15059098,Jan,,28804,35.65163,-82.58413,Entire home/apt,215,2,67,2020-10-14,1.66,1,0
+19387344,Asheville Forest / Hot Tub Oasis,30051352,Renee,,28803,35.48964,-82.49709,Entire home/apt,76,1,365,2020-10-22,9.05,1,23
+19415618,Country Chic Home in South Asheville,16068834,Sonia,,28803,35.48907,-82.53181,Entire home/apt,221,3,55,2020-10-18,1.47,1,121
+19439841,Cozy Hideaway in heart of Downtown Asheville,28350854,Bill,,28801,35.59913,-82.55553,Shared room,250,2,3,2017-09-26,0.08,1,177
+19453046,"W. Asheville Home, Easy Access to Downtown & R.A.D",47352661,William,,28806,35.56595,-82.59229,Entire home/apt,171,30,114,2019-12-28,2.83,1,118
+19529697,Spacious Asheville Getaway close to everything,45224594,Lisa,,28732,35.47207,-82.48185,Entire home/apt,138,2,130,2020-10-20,3.24,1,335
+19531546,West Asheville Epicenter - NC Vacation Rental,48428279,Chad,,28806,35.57357,-82.57393,Entire home/apt,389,2,81,2020-10-18,2.01,1,72
+19548415,"Private Suite, private entry.",26302902,Laurel,,28804,35.63551,-82.55137,Entire home/apt,106,2,140,2020-10-22,3.51,2,35
+19561946,"Downtown Artist Dream, Walk everywhere!",46001530,Jonathan,,28801,35.5949,-82.55795,Entire home/apt,114,1,142,2020-03-16,3.53,10,341
+19608022,North Asheville Storybook Cottage--Dog Friendly!,50478143,Jean,,28804,35.62191,-82.556,Entire home/apt,84,27,5,2020-03-01,0.14,2,0
+19609285,Slice of Heaven in Asheville,75476809,Diana,,28803,35.53842,-82.47149,Entire home/apt,89,1,162,2020-10-21,4.23,1,166
+19620931,Location Location Location!   Downtown Asheville,98078269,Bill,,28801,35.6051,-82.55036,Entire home/apt,179,2,1,2020-02-17,0.12,1,175
+19700502,Westside Wayside,2551548,Benjamin,,28715,35.55704,-82.64593,Entire home/apt,90,30,104,2020-10-20,2.61,1,208
+19719866,West Asheville Bungalow,138986666,Lisa,,28806,35.58419,-82.59903,Private room,98,2,89,2020-01-01,2.34,1,111
+19742574,Safe & Clean in Artsy WAVL,39479809,Bradlee,,28806,35.58521,-82.60336,Entire home/apt,153,1,297,2020-10-11,7.84,1,167
+19785945,Artists Woodside Home with Private Entrance,1417681,Melissa And Sean,,28806,35.63195,-82.62124,Entire home/apt,61,1,97,2019-12-22,2.43,1,31
+19787532,Montford  Charmer Close to Downtown Asheville,139692951,James,,28801,35.604,-82.56677,Entire home/apt,149,2,98,2020-10-22,2.47,1,0
+19790687,Artsy Mountain View Loft,32928027,Becky,,28803,35.5162,-82.46713,Entire home/apt,123,1,37,2020-10-19,0.93,2,205
+19809125,Private Simple Guest Suite close to Downtown,49572070,Silver And Shane,,28805,35.60091,-82.51165,Entire home/apt,82,1,179,2020-03-09,4.51,1,287
+19811549,Spend your Christmas with Magnolia Farm.,139747580,Marilyn,,28806,35.63802,-82.62458,Entire home/apt,392,3,73,2020-08-17,1.84,1,342
+19870831,Asheville: A Stamp of Approval,121669790,Kaye,,28805,35.58653,-82.4996,Private room,85,1,110,2020-10-18,2.81,1,170
+19921886,Charming 1920s Craftsman Bungalow close to Local Breweries,141121732,Claire,,28806,35.5762,-82.60599,Entire home/apt,89,28,65,2019-07-10,1.68,1,0
+19959386,Champine House-In the Heart of West Asheville,48967022,Robert,,28806,35.57689,-82.59139,Entire home/apt,209,2,227,2020-03-28,5.90,1,176
+19982717,Heavens Little Haven Two,141731478,George,,28804,35.65373,-82.58402,Entire home/apt,738,3,31,2020-10-20,1.06,1,326
+20008452,Hideaway Cabin in the City!,142023667,Jim And Paulette,,28806,35.57367,-82.61196,Entire home/apt,84,1,158,2020-10-06,4.01,1,340
+20016326,5-star Farmhouse in the City,142115355,Makenzie,,28805,35.59072,-82.5361,Entire home/apt,331,1,88,2020-10-11,2.27,1,52
+20036903,Fashionable Gem in the Heart of West Asheville,1190262,April,,28806,35.58221,-82.57399,Entire home/apt,124,2,147,2020-10-18,3.80,1,70
+20069569,Private Apartment in Quiet Mountain Neighborhood,142642961,Belinda And Cliff,,28805,35.6193,-82.4707,Entire home/apt,95,2,87,2020-10-18,2.25,1,199
+20070593,'Le Canard' Arden Home w/Fire Pit - Near Asheville,121681645,Evolve Vacation Rental,,28704,35.47358,-82.51187,Entire home/apt,207,2,9,2020-10-04,0.23,3,324
+20074883,"Guest Suite of New,Modern House 5 min to Downtown",17610409,Alexandra,,28801,35.61005,-82.55212,Entire home/apt,114,2,110,2020-10-18,2.84,1,61
+20089787,Downtown Asheville walkable retreat,46001530,Jonathan,,28801,35.59251,-82.55658,Entire home/apt,102,1,187,2020-10-09,4.76,10,340
+20091731,Holly Cottage,72903706,Katherine,,28804,35.63231,-82.52789,Entire home/apt,166,2,39,2020-08-31,1.08,2,0
+20121078,NEAR DOWNTOWN! 2 bedrooms & 2 baths-Cozy  & Clean!,5097941,Steven,,28801,35.61249,-82.55435,Entire home/apt,127,3,21,2020-03-15,0.61,3,22
+20131746,Wentworth Cottage 2 miles from downtwn & Biltmore.,143141422,Misty,,28803,35.55225,-82.51144,Entire home/apt,92,1,221,2020-10-20,5.92,1,318
+20146236,"✥ The White House ✥ 9 min to DT A-Ville, Sleeps 8+",181316638,Becky,,28806,35.58683,-82.61431,Entire home/apt,213,2,193,2020-10-11,4.92,5,0
+20153545,West Asheville Gem!,79452739,Lexi,,28806,35.56655,-82.59571,Entire home/apt,109,2,78,2018-11-11,1.99,1,0
+20153704,"Private Studio Near UNCA, Greenway, RAD & Downtown",124822920,Jill,,28804,35.61749,-82.56276,Entire home/apt,114,2,119,2020-10-14,3.08,1,0
+20154151,"Montford Oasis, 1 mile from Downtown Grove Arcade!",49360051,Sarah,,28801,35.59542,-82.5698,Entire home/apt,140,2,104,2020-10-18,2.65,1,3
+20174263,Hemlock Hill Hideaway Log Cabin,3383961,Diane,,28704,35.47762,-82.58746,Entire home/apt,175,2,80,2020-03-15,2.08,3,305
+20174635,Your serene cabin in the woods,138795160,Leslie,,28805,35.63223,-82.468,Entire home/apt,114,2,78,2020-10-21,2.02,1,153
+20192369,Sunporch Suite w/ private entrance (2 Bedrooms),78069256,Laura,,28804,35.6325,-82.53679,Entire home/apt,102,1,95,2020-10-17,2.51,2,32
+20208429,Historic Rose Cottage in River Arts District,184455794,Christine,,28801,35.59055,-82.56614,Entire home/apt,129,1,225,2020-10-19,5.74,1,295
+20241154,Charming Mountain View Home Perfect for Social Distancing,122691303,"Vista View Ventures, Inc.",,28803,35.49078,-82.51105,Entire home/apt,350,2,99,2020-10-17,2.67,2,189
+20255923,Sunrise Perch - High on a mountain & close-in,144357357,Sunrise,,28806,35.58729,-82.64212,Private room,39,1,0,,,1,0
+20268605,Eclectic and Stylish Simplicity in a Rustic Setting,48402632,Tara,,28805,35.61509,-82.47508,Entire home/apt,141,2,215,2020-10-19,5.59,1,0
+20294011,Historic Mill House @ Martel Vlg; 10mins to Dwntwn,117926668,Michele & Dana,,28804,35.63759,-82.59359,Entire home/apt,76,2,183,2020-10-21,4.69,2,0
+20309680,Montford Garden Apartment - Walk Downtown!,22088491,Elizabeth,,28801,35.59726,-82.56556,Entire home/apt,101,1,431,2020-10-07,11.14,1,313
+20328686,"Lucky W Ranch House-Great for Gatherings, Close to Downtown",4834939,Jessica,,28804,35.64466,-82.51727,Entire home/apt,258,2,146,2020-10-22,3.77,2,294
+20395878,Private and Spacious South Asheville Oasis,39086728,Cindy,,28803,35.49202,-82.5309,Private room,61,2,72,2020-10-18,2.69,1,225
+20408452,"The ""NYC Studio"" in the Airplane House",145540939,Meg,,28804,35.64813,-82.58568,Entire home/apt,67,2,151,2020-10-16,4.14,1,129
+20435375,Perfect feel - Asheville home base,21702831,Lynn,,28803,35.56479,-82.50847,Entire home/apt,171,3,69,2020-09-06,1.86,3,46
+20439998,Unique urban location in historic Montford (1/4),34871822,Emma,,28801,35.6011,-82.55863,Entire home/apt,55,30,1,2018-08-10,0.04,4,257
+20441967,West AVL Family Funhouse • 5mi to AVL • Views,145883321,Jeremy & Jami,,28806,35.60129,-82.62924,Entire home/apt,251,3,87,2020-10-22,2.30,1,316
+20454654,Downtown-central located cottage,71017205,Showee,,28801,35.58048,-82.55518,Entire home/apt,101,2,245,2020-10-21,6.33,4,105
+20456656,EZ Access 2 the Heart of AVL & Blue Ridge Pkwy.,134950985,Bill & Linda,,28803,35.55007,-82.52431,Entire home/apt,56,1,230,2020-10-21,5.98,1,229
+20462071,Rustic Mountain Cabin close to everything!,5746326,Tim,,28805,35.61278,-82.48663,Entire home/apt,191,2,101,2020-10-19,2.71,1,0
+20465164,Local's Bungalow in the Heart of West Asheville,4285304,Camille (Cammie),,28806,35.57844,-82.57282,Entire home/apt,210,2,20,2020-10-18,0.54,3,0
+20473937,1907 Craftsman with Kitchenette in Historic Chicken Hill,98506795,Liz,,28801,35.59016,-82.56802,Entire home/apt,139,1,41,2020-10-22,1.11,2,58
+20504787,PRIVATE & Cozy Guest House-Easy Access to Downtown,146388068,Cherylin,,28803,35.55847,-82.50244,Entire home/apt,74,2,189,2020-10-18,4.88,1,148
+20515199,"King-sized Bed in Bent Creek, Asheville Cozy Room",11691015,Katie,,28806,35.50822,-82.61177,Entire home/apt,77,2,158,2020-10-19,4.13,2,149
+20527549,Experience spending a night floating in a forest,146561512,Jean,,28803,35.57314,-82.54007,Entire home/apt,103,2,260,2020-10-11,6.71,1,35
+20570236,Spacious Guest Suite/Apt close to downtown fun!,19406955,Christi And Steve,,28805,35.61425,-82.50377,Private room,99,1,48,2020-10-18,1.74,1,0
+20583406,"HayLo in Hip West Asheville: Walk, Bike, Ride!",147051198,Emily,,28806,35.58492,-82.57586,Entire home/apt,116,2,180,2020-10-16,4.78,1,243
+20624327,Parkway Paradise -1.5 Mi Away - 6 Mi to Downtown,147439967,Kat,,28805,35.60029,-82.47677,Entire home/apt,71,3,47,2020-10-04,1.27,1,172
+20624404,Healing & Yoga Home 10min from Dtwn Asheville #I,4636687,Sandra,,28715,35.55515,-82.6514,Private room,50,2,61,2020-10-12,1.65,2,357
+20638444,Foxhaven Long Range Mountain Views in Asheville,722034,Darlene And Ron,,28805,35.6118,-82.48319,Entire home/apt,466,4,30,2020-10-17,0.85,11,291
+20653416,'Riverview' Home w/Decks on the Asheville Greenway,121681645,Evolve Vacation Rental,,28806,35.56828,-82.56797,Entire home/apt,597,2,34,2020-10-11,1.09,3,321
+20663042,Private lower level suite,147800428,Cory,,28803,35.56605,-82.5255,Entire home/apt,85,1,409,2020-10-23,10.74,1,0
+20665144,"Perfect Friends/Family Getaway, Min to Everything",2260255,Erin,,28804,35.63911,-82.60822,Entire home/apt,216,3,104,2020-10-19,2.82,1,0
+20692815,"Walkable West Asheville, entire guest suite.SWEET!",74878335,Suzanne,,28806,35.58224,-82.59825,Entire home/apt,82,1,187,2020-10-23,4.92,1,0
+20694871,"Comfortable, quiet South Asheville stay",28475805,Kathy,,28803,35.54744,-82.52925,Private room,65,1,15,2020-06-14,0.39,1,40
+20695367,West AVL Gem! 7 minutes to Biltmore & great for 4!,5976015,Janae,,28806,35.57151,-82.56761,Entire home/apt,115,2,223,2020-10-11,5.81,1,52
+20697183,Serinity Knoll,148137080,Jeff & Wanda,,28806,35.53801,-82.61329,Entire home/apt,95,2,55,2020-10-04,1.50,1,0
+20697346,Walk 2 Downtown/RAD. Cozy Bungalow,146670044,Danielle,,28801,35.58978,-82.55728,Entire home/apt,232,1,308,2020-10-09,8.13,1,80
+20744040,Modern Mountain Retreat in North Asheville,23909518,Rebecca,,28804,35.64614,-82.50034,Entire home/apt,77,2,81,2020-09-20,2.14,1,135
+20744323,Gorgeous home on the Blue Ridge Parkway,2939506,Heather,,28803,35.55633,-82.49533,Entire home/apt,395,2,114,2020-10-18,3.07,1,307
+20747532,Nana’s Crafted Cottage,148593846,Lisa,,28715,35.56371,-82.65952,Entire home/apt,73,2,50,2020-10-09,1.31,1,332
+20759062,Grove Park Guest Suite - Walk to the Grove Park,148691735,Mel,,28804,35.62215,-82.54797,Private room,122,2,80,2020-10-20,2.16,1,263
+20760789,Asheville Mountain Retreat @ 5 miles from downtown,59515275,Eric,,28804,35.65287,-82.54238,Entire home/apt,340,3,50,2020-10-08,1.35,1,329
+20762155,Beautiful Montford Hideaway! Minutes from Downtown,59658375,Kristi,,28801,35.5981,-82.56631,Entire home/apt,94,2,139,2020-10-15,3.75,1,163
+20773653,City Home in Private Setting,90517735,George,,28806,35.53389,-82.60583,Entire home/apt,219,1,23,2020-10-17,1.76,1,128
+20774579,Om Sweet Om - W. Avl- Solar powered green home!,3177220,Maggie,,28806,35.56853,-82.6058,Entire home/apt,71,2,72,2020-10-19,1.90,1,328
+20779200,The Asheville Oak,19496141,Stephen,,28803,35.54966,-82.51007,Entire home/apt,96,1,282,2020-10-22,7.46,2,145
+20785720,Balcony Cottage in Town--Oasis of Calm,42691761,Bett,,28804,35.61758,-82.55244,Entire home/apt,50,30,9,2020-09-30,0.25,1,142
+20801691,Natural Retreat For Two,149139818,Lucy,,28806,35.50952,-82.60937,Entire home/apt,69,1,177,2020-10-19,4.65,1,124
+20804217,The New HiTop Studio In Hip West Asheville,3651402,Emily,,28806,35.58474,-82.57438,Entire home/apt,116,3,204,2020-10-21,5.37,1,230
+20804347,The Dressmaker's Suite,8314342,Brooke,,28806,35.57571,-82.58718,Entire home/apt,111,1,99,2020-10-11,2.73,1,110
+20812644,Tranquil Stay for Solo Traveler,1197698,Briana,,28801,35.60904,-82.57186,Private room,39,1,107,2020-03-07,3.02,2,21
+20815440,"Walk to downtown Asheville, private studio suite",149280910,Ashley,,28801,35.60369,-82.54433,Entire home/apt,120,1,138,2020-10-18,3.74,1,130
+20830901,Appalachian Abode-walk to all W-AVL’s hot spots,2392127,David And Melissa,,28806,35.58404,-82.57986,Entire home/apt,121,1,29,2020-10-04,0.76,3,350
+20834615,Newly Renovated Home in Downtown Asheville,1413425,Josie,,28801,35.59096,-82.55697,Entire home/apt,146,2,96,2020-10-04,2.54,1,58
+20850669,"Cute Cottage w/ Mtn View, Walk to Biltmore Village",143204951,Amory,,28803,35.56837,-82.52429,Entire home/apt,129,1,118,2020-03-16,3.18,1,265
+20855873,Cozy downtown walkable retreat.,46001530,Jonathan,,28801,35.59408,-82.55745,Entire home/apt,121,1,104,2020-03-16,2.74,10,348
+20858987,Asheville mountain views and walk to downtown!,134962794,Josh,,28801,35.61255,-82.54676,Entire home/apt,133,3,113,2020-10-21,3.01,1,129
+20872849,"At Home in Asheville: Comfort, Location, Amenities",64779746,Libby,,28801,35.59735,-82.56718,Entire home/apt,150,14,16,2020-10-15,0.47,1,0
+20884134,Blue Ridge Haven,149141828,Vicki,,28803,35.55913,-82.49275,Private room,80,2,89,2020-09-07,2.35,1,167
+20910666,La Buena Vista,26124019,Meghan,,28806,35.57378,-82.57737,Entire home/apt,138,1,59,2020-02-26,1.60,1,40
+20915728,Private entrance - 2 rooms with 2 full baths WAVL,3483232,Eric,,28806,35.57273,-82.59305,Private room,109,3,30,2020-10-04,0.81,1,342
+20916381,Adorable Asheville Cottage 8 minutes to Downtown,5954944,Malinda,,28804,35.62427,-82.57691,Entire home/apt,223,2,129,2020-10-20,3.48,1,232
+20928043,Perfect Asheville Getaway!,52648308,Jennifer,,28803,35.57758,-82.54209,Entire home/apt,98,2,136,2020-10-21,3.64,1,340
+20990995,★ Private Guest Suite ★ | West AVL + River Arts,9618083,Katherine,,28806,35.58322,-82.57406,Entire home/apt,84,2,246,2020-10-18,6.79,1,0
+20994069,Stay in a Charming Suite in an Asheville Bungalow,839950,Shawn And Dave,,28803,35.55982,-82.50709,Private room,85,2,50,2020-02-02,1.36,1,145
+21011400,Refined Home with a River-View Balcony,6074062,Melissa,,28806,35.56732,-82.56913,Entire home/apt,442,2,113,2020-10-22,3.03,5,0
+21013638,Cozy Mountain Cottage 2.5 miles to downtown,95254836,Marion,,28804,35.62714,-82.52924,Entire home/apt,227,2,131,2020-10-23,3.65,1,0
+21023689,Asheville LOCATION & PRIVACY - Dog Friendly,4461919,Helene,,28805,35.58576,-82.53063,Entire home/apt,110,2,159,2020-10-18,4.28,1,0
+21094481,"Charming, Early 1900's Cottage",152085318,Shauna,,28704,35.46972,-82.56912,Entire home/apt,163,2,109,2020-10-04,2.95,2,302
+21104844,Asheville Sweet Spot,5229336,Helen,,28806,35.58431,-82.57387,Entire home/apt,109,2,110,2020-10-21,2.96,1,0
+21131816,Beautiful Private Room in Asheville,124637972,Luba,,28806,35.61314,-82.59527,Private room,67,1,76,2020-10-11,2.36,1,329
+21160267,"CLEAN, MODERN, MINIMAL, QUIET! Great Location!",152711053,Tiffany,,28806,35.57834,-82.59862,Entire home/apt,250,30,5,2020-02-01,0.14,1,176
+21174524,Quiet home in West Asheville! (private entrance),10282980,Chris,,28806,35.57763,-82.62047,Private room,71,1,63,2020-10-20,1.71,1,140
+21176027,The Little Red Porch,152889799,Bob,,28805,35.59742,-82.49641,Entire home/apt,52,2,249,2020-10-18,6.71,1,319
+21189890,"Meadow Run Falls; Downtown Asheville; River Arts District, HOT TUB & more!",96187307,Steve,,28806,35.63581,-82.62452,Entire home/apt,222,2,14,2020-07-05,0.44,26,327
+21197685,Ardmore House Guest Suite / One mile frm downtown.,74514307,Davyne,,28801,35.61268,-82.55986,Private room,115,1,21,2020-02-16,0.57,1,295
+21203344,"Comfy suite near Sierra Nevada, Asheville,  hiking",10294907,Sherri,,28732,35.43864,-82.52546,Entire home/apt,61,2,233,2020-03-03,6.44,1,5
+21214062,"Peaceful, Comfortable House in West Asheville",56642643,Paul,,28806,35.57864,-82.63005,Entire home/apt,205,3,14,2020-09-13,0.59,2,0
+21236709,Perfect place for a quick getaway,153487202,Matt,,28806,35.6243,-82.62108,Private room,38,2,174,2020-10-20,4.71,2,7
+21253016,Oasis in the Trees,2799329,Eleanor,,28804,35.63776,-82.53018,Entire home/apt,91,2,106,2020-10-18,2.88,1,0
+21272098,Perfect Place for a quick getaway 2,153487202,Matt,,28806,35.62283,-82.62138,Private room,36,2,93,2020-10-18,2.52,2,0
+21278647,"The Snookmore, Mountainside Refuge with a Hot Tub",37996476,Aaron,,28805,35.62198,-82.48224,Entire home/apt,357,3,79,2020-10-04,2.26,5,306
+21280708,Studio apartment in mountains of North Asheville,108761817,Morris,,28804,35.62735,-82.53026,Entire home/apt,82,1,74,2020-09-19,2.02,2,162
+21297231,The Shanty~Hot Tub~8 Miles to City of Asheville NC,65408548,Karl,,28704,35.47041,-82.50005,Entire home/apt,108,1,132,2020-10-05,3.59,5,0
+21312568,"The Birdhouse: Close to Biltmore, Downtown. SOLAR!",4716983,Sarah & Allison,,28803,35.56388,-82.51944,Entire home/apt,89,2,209,2020-09-27,7.28,1,196
+21345127,Broker’s Happy Hippy Private Suite! 7min to town!,65522713,Kitty,,28805,35.5838,-82.5302,Private room,99,1,62,2020-10-18,1.69,1,355
+21364022,Cozy Craftsman Bungalow in the Blue Ridge Mts,27264700,Julie,,28804,35.64001,-82.59603,Private room,250,3,1,2017-12-30,0.03,1,358
+21382558,The Snookery ~ Refuge Perched on a Mountain,37996476,Aaron,,28805,35.62207,-82.48163,Entire home/apt,377,3,97,2020-10-18,2.79,5,294
+21383423,Woodsy Spot in the City,154879242,Teresa,,28804,35.61694,-82.5582,Entire home/apt,82,2,62,2020-02-17,1.81,1,0
+21393921,"Historic Montford Bungalow, Walk to Downtown",9851921,Evlyn,,28801,35.5982,-82.56101,Entire home/apt,100,30,1,2018-11-27,0.04,1,303
+21396505,Vista View Townhouse - 10 mins to downtown,154986708,Chris,,28806,35.61004,-82.63595,Entire home/apt,115,1,30,2020-10-18,2.22,1,8
