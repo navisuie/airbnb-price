@@ -104,3 +104,7 @@ http://localhost:8080/AirBnB
 Additional notes about the submission:
 --------------------------------------
 Since the core architecture of this application involves using Java Servlets and Apache Tomcat Application Servers, neither of which is expected nor covered in this class, I took on some responsibility to help the backend get this connected and get the servlet classes developed. I take credit for setting up the class templates and implementing the HTTP API portions, and the backend developers will be responsible for the business logic that runs inside the servlet classes when invoked.
+Please note the tests are not working. The Test Engineer wrote tests that he got working for his submission; however, they would require significant last minute changes to package declarations and other methods within core pieces of the application and I did not want to risk making these changes with 30 min left before the submission.
+Please run this application on one of the Linux-Based CS Lab Machines.
+Please invoke all make commands from within the /AirBnB subdirectory. This directory is structured according to the expectations of a .war file to be packaged correctly.
+Please assess all source code files found in the /src directory. This directory is structure to easily lay out the various application components such as frontend, backend, etc.
