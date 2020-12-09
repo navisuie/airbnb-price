@@ -1,0 +1,720 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+57818,Private house close to the beach!,275948,VonJon,,Hollywood,26.0167,-80.12437,Entire home/apt,146,2,41,2020-03-09,0.43,1,361
+69824,2 bd/2ba Oceanfront Condo,351303,Tracy,,Hallandale Beach,25.9784,-80.12028,Entire home/apt,100,30,7,2020-03-01,0.20,2,0
+83449,MARY POP APTS 2/1 APT SLEEP 5,454736,"Jon,  Mary Pop Apartments",,Dania Beach,26.03392,-80.14201,Entire home/apt,99,7,20,2020-01-26,0.18,8,314
+86410,GREAT STUDIO FEW BLOCKS TO THE BEACH,474053,Estela And Adriana,,Hallandale Beach,25.98672,-80.12629,Entire home/apt,69,3,55,2019-01-30,0.48,1,365
+105411,House in the Ranches,532930,Sonia,,Southwest Ranches,26.04678,-80.36809,Entire home/apt,235,4,5,2018-03-28,0.05,1,355
+129061,MIAMI - LUXURY APARTMENT OVER BEACH,637272,Bianca,,Hollywood,25.99332,-80.11887,Entire home/apt,250,20,20,2019-04-08,0.20,6,0
+129099,MIAMI - AMAZING APARTMENT OCEANVIEW,637272,Bianca,,Hollywood,25.99416,-80.11969,Entire home/apt,250,18,30,2020-02-05,2.47,6,0
+183714,"CODY PLACE 15 minutes from the Beach and Stadium",881264,Carlene,,Hollywood,26.0383,-80.23558,Entire home/apt,199,15,10,2020-02-16,0.17,3,34
+191160,Tropical Beach Paradise Awaits You,924482,Dan,,Deerfield Beach,26.30707,-80.07793,Entire home/apt,119,2,25,2019-11-08,0.23,1,180
+216046,The Ultimate Family Vacation Home  w/Dual Masters!,964836,Gary,,Hollywood,26.00746,-80.19631,Entire home/apt,275,2,45,2020-10-04,0.42,1,278
+217990,COSY APT OVER THE BEACH,637272,Bianca,,Hollywood,25.9942,-80.11725,Entire home/apt,160,10,20,2018-06-23,0.28,6,0
+229773,Gorgeous Private Las Olas-Idlewyld Home,1097874,Paul,,Fort Lauderdale,26.11784,-80.11059,Entire home/apt,321,3,70,2020-10-19,1.30,1,4
+240409,"Ocean View Condo, Pompano Beach",1235314,Felix,,Pompano Beach,26.24347,-80.08914,Entire home/apt,175,7,0,,,1,365
+241944,MARY POP APARTMENTS #203,454736,"Jon,  Mary Pop Apartments",,Dania Beach,26.03392,-80.14201,Entire home/apt,78,7,9,2016-06-17,0.09,8,365
+256386,The Bush House - Country Living for Four,1304156,Nicolas,,Hollywood,26.0274,-80.14268,Entire home/apt,84,3,153,2020-10-11,1.43,4,361
+297424,Clean/Modern 1/1 Apartment in Miramar,1532169,Christian,,Miramar,25.98802,-80.30724,Entire home/apt,70,2,2,2020-03-03,0.02,1,212
+302467,Secret in Wilton Manors/Lauderdale,1557618,Claudia,,Fort Lauderdale,26.15081,-80.13361,Entire home/apt,139,3,100,2020-08-18,1.33,3,0
+307735,Pleasant Room in Coral Springs,1583261,Luis,,Coral Springs,26.22994,-80.29244,Private room,50,2,15,2020-02-16,0.14,1,89
+308839,Fabulous & Private 475 sq ft Suite,1585064,Deborah,,Miramar,25.98577,-80.31657,Private room,45,180,47,2020-03-31,0.45,2,299
+320480,Casa Blanca - Sunny Florida Mansion,791089,Conrad,,Plantation,26.11315,-80.26487,Entire home/apt,390,7,3,2012-08-12,0.03,4,365
+325734,The Bush House - Hidden Gem for two,1304156,Nicolas,,Hollywood,26.02603,-80.14215,Entire home/apt,47,3,108,2020-08-31,1.15,4,365
+334321,S.Florida 1 Sunshine Vacation,407867,Eno,,Cooper City,26.05326,-80.28041,Private room,90,2,3,2016-03-06,0.03,2,364
+334375,S.FloridaSunshineGetawayVacation HardRock Stadium,407867,Eno,,Cooper City,26.0534,-80.28132,Entire home/apt,250,3,8,2020-03-02,0.10,2,364
+349538,Beachside Location! Central Beach | Resort Condo,1770887,Chris,,Fort Lauderdale,26.13588,-80.10394,Entire home/apt,289,7,30,2020-03-20,0.29,9,0
+349546,Beachside - Studio - Central Fort Lauderdale Beach,1770887,Chris,,Fort Lauderdale,26.13684,-80.10506,Entire home/apt,149,3,4,2014-12-27,0.04,9,185
+366178,TROPICAL GUEST HOUSE - Heart of Ft. Lauderdale!,1848829,Shirley,,Fort Lauderdale,26.12588,-80.13675,Entire home/apt,125,7,20,2020-08-18,0.19,2,283
+367815,SPECTACULAR DIRECT OCEANFRONT VIEWS - Amazing,238902,Wanda,,Hollywood,26.00831,-80.11583,Entire home/apt,125,90,11,2019-04-01,0.11,1,358
+385837,Key West  Bungalow,1931430,Ana,,Fort Lauderdale,26.11839,-80.15603,Entire home/apt,128,2,41,2020-07-30,0.42,2,146
+393982,Charming Comfort... Ft Lauderdale Home,1848829,Shirley,,Fort Lauderdale,26.12575,-80.13523,Entire home/apt,75,7,15,2020-09-09,0.15,2,296
+402149,Hollywood Beach Weight Loss Camp,2007320,Christopher,,Hollywood,26.02411,-80.11628,Shared room,300,7,0,,,1,365
+404797,Oasis at Sawgrass,345885,Melissa,,Sunrise,26.14102,-80.31462,Entire home/apt,239,5,1,2012-09-24,0.01,2,365
+433485,Beautiful Two Bedroom Townhome,1774750,Robert,,Hollywood,26.03173,-80.20597,Entire home/apt,58,4,47,2020-10-03,1.52,3,43
+436596,Beautiful Water Front House w/ Pool,2168585,Lou,,Pompano Beach,26.21706,-80.12132,Entire home/apt,385,7,2,2015-01-06,0.03,1,298
+438860,1 bedroom - Condo on the Beach,1889394,Juan,,Fort Lauderdale,26.17716,-80.09776,Entire home/apt,121,2,92,2020-06-27,0.93,1,290
+439914,30days to 360days,2185056,Maria,,Lauderhill,26.17582,-80.23224,Entire home/apt,85,360,1,2012-11-01,0.01,1,365
+453183,2br/2ba Furnished Luxury Hi-Rise,546634,M.R.,,Fort Lauderdale,26.12262,-80.13712,Entire home/apt,100,210,0,,,1,239
+455884,W. Hollywood private pool-side one bedroom getaway,1946264,Khaleel,,Hollywood,26.02366,-80.2215,Entire home/apt,99,3,57,2020-03-31,0.62,1,76
+484515,MIAMI- AMAZING APARTMENT OVER BEACH,637272,Bianca,,Hollywood,25.99377,-80.1183,Entire home/apt,250,16,25,2020-06-12,0.25,6,362
+496697,HOME -----sweet----- HOME,2453109,Sarah,,Hollywood,26.03019,-80.14253,Entire home/apt,80,3,141,2020-01-12,1.42,4,349
+503772,Tropical Tranquil Retreat,2484614,Cathleen,,Hollywood,26.00071,-80.15769,Entire home/apt,89,1,5,2018-05-14,0.15,1,364
+533847,"Private, Tranquil & Beautiful Suite",1585064,Deborah,,Miramar,25.98779,-80.3169,Private room,27,180,42,2020-08-10,0.42,2,148
+577098,Tropical/Private Room(s)/Pool,1748183,Wendy,,Plantation,26.13392,-80.2358,Private room,55,2,38,2020-02-18,0.40,3,335
+592583,Ocean Front Condo! Central Fort Lauderdale Beach,1770887,Chris,,Fort Lauderdale,26.13621,-80.10403,Entire home/apt,347,3,22,2020-03-14,0.22,9,35
+658344,Ocean Front Condo | Central Ft Lauderdale Beach,1770887,Chris,,Fort Lauderdale,26.13804,-80.10532,Entire home/apt,229,6,20,2020-03-14,0.20,9,28
+674776,Oceanfront studio+Pool+WiFi+Equip.Kitchen+Laundry,3426390,Giovanna,,Hollywood,26.01275,-80.11671,Entire home/apt,51,28,52,2020-09-17,0.53,2,347
+680331,"Oceanfront Condo in Hollywood, FL",3463815,Nelson,,Hallandale Beach,25.98637,-80.11867,Entire home/apt,165,3,9,2020-08-24,0.10,2,365
+694022,Gorgeous Condo in Fort Lauderdale,3484283,Nikki / Sammy,,Pompano Beach,26.21016,-80.10735,Entire home/apt,185,3,45,2020-09-07,0.46,1,309
+695109,Professionally Cleaned Central Beachside Location!,1770887,Chris,,Fort Lauderdale,26.13648,-80.10606,Entire home/apt,208,7,19,2020-03-21,0.19,9,14
+695242,Beachside condo - Central Ft Lauderdale Beach!,1770887,Chris,,Fort Lauderdale,26.13748,-80.10556,Entire home/apt,347,6,29,2020-03-06,0.30,9,0
+716990,Beautiful house Central Ft. Lauderdale!,3696537,David & Sindy,,Fort Lauderdale,26.14232,-80.12738,Entire home/apt,550,15,210,2018-03-18,2.17,1,178
+722515,"Decadent Oasis - hot tub, pool and billiards",2609518,Bram,,Hollywood,26.0073,-80.15713,Entire home/apt,526,3,176,2020-10-19,1.81,11,227
+724829,Heavenly Sunsets in Fort Lauderdale,3747351,Chuckie,,Fort Lauderdale,26.16462,-80.10483,Private room,135,1,13,2019-03-17,0.16,1,359
+765598,Enjoy A Garden Eden By The Beach!,4036922,Gail,,Fort Lauderdale,26.16633,-80.11567,Entire home/apt,360,3,34,2020-07-08,0.36,1,272
+801174,Quiet and basic,1563441,Andrew,,Margate,26.222,-80.21673,Private room,50,20,0,,,1,87
+813346,2 month Lease on Deerfield Beach,4274008,Nathan,,Deerfield Beach,26.30933,-80.07735,Entire home/apt,300,60,0,,,1,365
+817635,Deerfield Beach Vacation Townhouse 2 Bed 2 Bath,4168960,Ike,,Deerfield Beach,26.32085,-80.14409,Entire home/apt,108,5,18,2019-10-17,0.20,1,346
+845458,The Bismarck Villa,4414033,James,,Wilton Manors,26.16163,-80.15217,Entire home/apt,263,4,5,2020-01-04,0.05,1,323
+901497,Mary Pop Apartments ( Studio ) LAST MINUTE OK,454736,"Jon,  Mary Pop Apartments",,Dania Beach,26.03392,-80.14201,Entire home/apt,55,4,99,2020-02-15,1.05,8,178
+912964,On the Beach Chic 2 Bedroom Miami,4787710,Shannon,,Hollywood,25.98925,-80.11882,Entire home/apt,114,2,51,2020-08-29,0.55,1,306
+915364,Renovations from October 16 to Feb. 1st.,4913859,Patrick,,Hollywood,26.02558,-80.14704,Entire home/apt,67,3,9,2020-08-18,0.37,1,239
+916342,1/1 MARY POP APARTMENTS #206 LAST MINUTE OK,454736,"Jon,  Mary Pop Apartments",,Dania Beach,26.03392,-80.14201,Entire home/apt,80,7,18,2020-01-17,0.22,8,365
+980856,2 Bedroom apartment in Coral Springs,5371244,Elizabeth,,Coral Springs,26.25763,-80.23714,Entire home/apt,100,1,122,2020-10-21,1.73,2,354
+990398,Sunny Fort Lauderdale Get-Away,3289399,Valerie,,Fort Lauderdale,26.14705,-80.15206,Entire home/apt,82,7,60,2020-03-14,0.68,1,247
+998144,OCEANFRONT MODERN 2/2 BEDROOM ON THE BEACH  2 FL,2001930,Dmitri,,Hallandale Beach,25.98643,-80.11813,Entire home/apt,153,5,3,2018-03-03,0.04,35,201
+1002995,Nice masterbedroom at Fort lauderdale,5514632,Tony,,Tamarac,26.17976,-80.22598,Private room,48,1,21,2019-11-22,0.26,12,82
+1038248,Mins from everything 3/2 House,240212,Elisa And Stephen,,Pembroke Pines,26.01895,-80.25821,Entire home/apt,300,7,17,2020-08-01,0.19,1,269
+1069095,Room in Fort lauderdale.,5514632,Tony,,North Lauderdale,26.21588,-80.22835,Private room,49,1,14,2017-03-25,0.20,12,82
+1076949,Key West Style Bungalow,1931430,Ana,,Fort Lauderdale,26.11777,-80.15773,Entire home/apt,126,2,40,2020-02-22,0.48,2,265
+1097406,Aladdin's palace,6030918,Fatima,,Hollywood,26.01865,-80.16034,Entire home/apt,148,1,109,2020-09-07,1.23,1,0
+1115250,Stay at Walrick of So Fla (BR1)!,6021015,Walter,,Wilton Manors,26.15727,-80.15172,Private room,117,1,77,2020-03-15,0.85,2,365
+1115473,Stay at Walrick of So Fla (BR2),6021015,Walter,,Wilton Manors,26.15898,-80.15189,Private room,117,1,49,2020-03-20,0.56,2,365
+1117425,Cute Villa w/POOL 250 yds to BEACH,6133059,Lauderdale,,Lauderdale By The Sea,26.19502,-80.09752,Entire home/apt,80,5,69,2020-09-27,0.88,2,237
+1118565,Elegant Condo 250 yards from BEACH,6133059,Lauderdale,,Lauderdale By The Sea,26.19206,-80.09761,Entire home/apt,73,5,62,2020-08-17,0.69,2,333
+1127112,Studio with kitchen at Beach Hotel,5611017,Sergio,,Hollywood,26.01299,-80.11543,Entire home/apt,54,10,95,2020-08-09,1.10,20,50
+1137299,Private room in Fort Lauderdale,2980266,Sonnie,,Plantation,26.12142,-80.24073,Private room,119,2,0,,,2,363
+1147098,"Ocean View,3 bdrm/ 3bath,2 story,2 huge balconies",6288957,Olga,,Hollywood,26.00715,-80.11813,Entire home/apt,179,2,4,2020-09-14,0.74,6,173
+1149806,Cozy Suite in Fort Lauderdale,6302818,Omar A.,,Oakland Park,26.17082,-80.13079,Entire home/apt,116,3,143,2020-10-19,1.59,1,286
+1173175,Tropical Waterfront Paradise with dockage.,2604965,Maureen,,Hollywood,26.02862,-80.16496,Entire home/apt,632,1,33,2020-08-05,0.37,3,364
+1173304,Charming Waterfront Retreat,2604965,Maureen,,Hollywood,26.03044,-80.16362,Private room,150,1,84,2020-03-14,1.13,3,365
+1173305,Tranquil Waterfront Oasis,2604965,Maureen,,Hollywood,26.02834,-80.16334,Private room,150,1,51,2020-03-19,0.58,3,365
+1206443,Luxury High-Rise Condo on the Beach,6586687,Bonnie,,Hallandale Beach,25.97843,-80.12082,Entire home/apt,100,30,0,,,1,365
+1231564,Mediterranean Villa - Luxury Bath,6716392,Susan,,Coconut Creek,26.31783,-80.17438,Private room,70,2,118,2020-02-29,1.40,1,365
+1288111,Plantation Paradise,7005352,Christine,,Plantation,26.10537,-80.24301,Entire home/apt,149,3,19,2020-10-16,1.90,1,323
+1293741,Sian 2/2 ocean front & ocean view,6321234,Jason,,Hollywood,25.98707,-80.11925,Entire home/apt,150,4,172,2020-10-19,1.94,1,298
+1297784,Fully furnished Florida Style Vacation Home.,7056347,Chris,,Deerfield Beach,26.30155,-80.09108,Entire home/apt,215,2,145,2020-10-18,1.76,1,313
+1305586,Oceanfront 1 Bedroom 2 Bath Penthouse,3018206,Lawrence,,Hollywood,25.99211,-80.11724,Entire home/apt,85,29,2,2015-02-28,0.03,1,208
+1312899,🌟 SANITIZED🌟 2 BEDROOMS APT  SAWGRASS MALL,6204254,Carlos,,Plantation,26.12323,-80.32615,Entire home/apt,90,4,67,2020-02-01,0.79,3,302
+1313403,GREEN  OASIS,2453109,Sarah,,Hollywood,26.0297,-80.14122,Entire home/apt,125,3,50,2020-06-12,0.57,4,354
+1326340,VILLAS HOLLYWOOD BEACH FL,7198092,Joseph,,Hollywood,26.01673,-80.11708,Entire home/apt,211,30,0,,,2,365
+1329995,Water front in Hollywood Fl,7215679,Raja,,Hollywood,25.99439,-80.11851,Entire home/apt,100,30,28,2020-01-11,0.32,1,89
+1365274,Quiet and Cozy yet Convenient,782593,Christina,,Hollywood,26.01574,-80.19875,Entire home/apt,150,30,1,2018-08-07,0.04,1,147
+1375343,The Bush House - Small House for two,1304156,Nicolas,,Hollywood,26.02567,-80.14201,Entire home/apt,54,3,126,2020-10-07,1.65,4,365
+1376873,Beautifully Renovated Beach Condo,7459306,Rachelle,,Hollywood,26.02369,-80.11542,Entire home/apt,166,1,4,2019-04-05,0.07,1,297
+1408900,"2/2 SLEEP 6, MARY POP APARTMENTS, LAST MINUTE OK",454736,"Jon,  Mary Pop Apartments",,Dania Beach,26.03392,-80.14201,Entire home/apt,100,7,30,2020-06-27,0.37,8,329
+1462137,Amazing Ultramodern Hallandale 4 months minimum,7835977,Veronica,,Hallandale Beach,25.98633,-80.11808,Entire home/apt,137,150,0,,,1,365
+1511754,OCEANFRONT/BORD DE LA MER À HOLLYWOOD AU TIDES,8073832,Annie,,Hollywood,25.98986,-80.11713,Entire home/apt,107,4,45,2020-09-24,0.52,2,283
+1515533,Fort Lauderdale Cottage Oasis,8092157,Mike,,Fort Lauderdale,26.12414,-80.13276,Entire home/apt,130,6,76,2020-03-23,0.92,1,300
+1530945,✦Hollywood FL✦✦ON THE BEACH✦✦Miami✦,8166273,Carlos,,Hollywood,25.98828,-80.11746,Entire home/apt,74,1,52,2020-09-20,0.61,1,332
+1548483,"""Welcome home on Hallandale Beach""",8250407,Shane,,Hallandale Beach,25.99658,-80.12197,Entire home/apt,115,3,41,2020-02-01,0.48,1,208
+1559232,Luxury Beach House 20 steps from the ocean,8298928,Craig,,Hollywood,26.04979,-80.11281,Entire home/apt,350,3,13,2015-11-12,0.15,1,311
+1559542,Private Home Near Downtown & Beach remodeled!,1832378,Marc,,Fort Lauderdale,26.10759,-80.14583,Entire home/apt,56,30,25,2020-03-19,0.31,4,90
+1602075,Gorgeous Deerfield Home with Heated Pool,1976255,Svetlana,,Deerfield Beach,26.32091,-80.09154,Entire home/apt,190,3,72,2020-09-07,0.86,1,276
+1646485,Amazing location across the beach!,8737341,France,,Pompano Beach,26.22763,-80.08991,Entire home/apt,425,7,1,2015-05-07,0.01,1,287
+1658551,Piso 6T - Modern  Apartment on the Beach,8790381,Natalia,,Hollywood,25.98869,-80.11806,Entire home/apt,100,2,16,2019-12-08,0.19,17,348
+1661692,2 bedroom. Beach Club,8802450,Janet,,Hallandale Beach,25.98492,-80.11828,Entire home/apt,250,30,0,,,5,363
+1664188,3 bedroom/3 baths. Beach Club.,8802450,Janet,,Hallandale Beach,25.9843,-80.11803,Entire home/apt,750,30,0,,,5,365
+1664295,On the Beach!  2 bedroom/2 baths,8802450,Janet,,Hollywood,25.9873,-80.11862,Entire home/apt,250,7,0,,,5,365
+1682792,"Pretty, Cozy Compact studio 80 steps to the beach",231429,Sonia,,Hollywood,26.02816,-80.11484,Entire home/apt,69,3,67,2020-10-01,0.80,1,207
+1717935,"Comfortable room in Plantation , hi speed int+desk",8185224,Lissette,,Plantation,26.12559,-80.25031,Private room,54,20,15,2019-12-10,0.31,3,161
+1744871,Oceanfront condo in Fort Lauderdale,9184480,Tina + Hans,,Lauderdale By The Sea,26.21254,-80.09187,Entire home/apt,95,7,51,2020-07-02,0.61,1,251
+1750221,3BDR-2BA Home in quiet neighborhood,9207908,Lee,,North Lauderdale,26.21703,-80.22507,Private room,45,1,1,2020-01-12,0.10,2,360
+1751870,Joyous Mermaid House-Power Cleaned,113524,Elle And Paul,,Hollywood,26.0204,-80.15441,Entire home/apt,90,7,30,2020-03-31,0.37,1,239
+1773712,Tropical Pool Home and Pavilion,9315425,Mark,,Plantation,26.10882,-80.21644,Entire home/apt,279,3,93,2020-10-11,1.11,1,303
+1796704,NEW 2 BED APARTMENT  SAWGRASS MALL,6204254,Carlos,,Plantation,26.12808,-80.3167,Entire home/apt,125,21,31,2018-11-17,0.37,3,268
+1819422,Villa-Coral-Ridge-Fort Lauderdale,9526715,Jean Yves,,Fort Lauderdale,26.20035,-80.12661,Entire home/apt,229,2,21,2020-07-28,0.30,1,167
+1833969,LUXURIOUS MODERN WATERFRONT HOME,1437849,Christophe,,Pompano Beach,26.21261,-80.10314,Entire home/apt,450,3,4,2017-11-24,0.05,1,272
+1856146,Cozy Seaward Shores! Walk to Beach & Beach Club!,9443719,Ida Annika,,Lauderdale By The Sea,26.21876,-80.09492,Entire home/apt,399,6,6,2019-08-19,0.08,11,365
+1858886,4BR Waterfront Home w/pool - Tropic Tiki Villa!,9443719,Ida Annika,,Pompano Beach,26.21185,-80.10533,Entire home/apt,428,2,14,2020-09-27,0.19,11,361
+1865860,Comfy Studio in Quiet Neighborhood,2692728,Vera,,Oakland Park,26.17391,-80.1509,Entire home/apt,56,1,421,2020-08-30,4.97,3,173
+1871833,"Beautiful, Two Story Home",9754289,Patrick,,Deerfield Beach,26.28459,-80.14557,Private room,79,5,31,2016-09-01,0.37,1,334
+1876292,3 bdrm 2 bath pool home near beach,9774075,Joe,,Deerfield Beach,26.30344,-80.08797,Entire home/apt,286,4,7,2019-12-30,0.08,1,180
+1901619,Waterfront home / pool near Miami,9873790,Suncove Villa,,Pompano Beach,26.218,-80.10078,Entire home/apt,260,6,27,2020-07-17,0.39,1,228
+1909627,W Residences 2 BR Apartment Ft. Lauderdale Beach!,1118365,Allen,,Fort Lauderdale,26.12802,-80.1039,Entire home/apt,514,2,33,2020-09-07,0.43,1,212
+1911406,"The Cracker Shack. Victoria Park, Fort Lauderdale",171749,Rob,,Fort Lauderdale,26.13293,-80.13682,Entire home/apt,167,30,18,2020-10-02,0.22,1,365
+1965226,5 - Beach Bungalow w/ Free Parking,9946914,Nick,,Hollywood,26.02607,-80.11466,Entire home/apt,101,3,72,2020-02-21,0.87,4,359
+1970524,"3 BED.2 BATH , PRIVATE POOL+PRIVACY",10175122,Francois,,Hollywood,26.03117,-80.21664,Entire home/apt,206,3,29,2020-09-21,0.35,1,250
+1987335,Piso 5U- Amazing and Unique Apartment on the Beach,8790381,Natalia,,Hollywood,25.98869,-80.11806,Entire home/apt,100,2,23,2020-09-24,0.34,17,315
+1988042,Pompano condo w/ ocean views,10253166,Amy,,Pompano Beach,26.24135,-80.08957,Entire home/apt,71,60,4,2018-11-12,0.05,1,237
+1989116,2 - Beach Bungalow w/ Free Parking,9946914,Nick,,Hollywood,26.02587,-80.11573,Entire home/apt,118,3,44,2019-11-12,0.53,4,365
+2007538,Ft. Lauderdale Cottage 1bdrm 1bath,3246027,Chris,,Fort Lauderdale,26.14176,-80.13035,Entire home/apt,81,2,330,2020-03-18,3.96,3,321
+2011721,3 - Beach Bungalow w/ Free Parking,9946914,Nick,,Hollywood,26.0259,-80.11646,Entire home/apt,69,3,83,2020-07-26,0.99,4,355
+2022083,BIMINI – Very Confy & Spacious,10384873,Giuliana & Eric,,Fort Lauderdale,26.09971,-80.15277,Private room,65,30,13,2019-12-20,0.16,5,355
+2022117,Furnished Room # 3 share bathroom,10392690,Pochita,,Pembroke Pines,26.02633,-80.23914,Private room,49,3,29,2020-06-30,0.35,4,365
+2023131,CAICOS - Best location!! Everything included,10384873,Giuliana & Eric,,Fort Lauderdale,26.09855,-80.15301,Private room,40,30,16,2018-12-03,0.21,5,267
+2023138,BARBADOS – w/Private Entrance & Bathroom,10384873,Giuliana & Eric,,Fort Lauderdale,26.09871,-80.15148,Private room,70,30,15,2020-02-03,0.18,5,365
+2026631,WELCOME..................HOME,2453109,Sarah,,Hollywood,26.02998,-80.14141,Entire home/apt,175,4,63,2020-09-19,0.76,4,311
+2028061,"Modern, quaint, fully renovated",10416582,Shelly,,Tamarac,26.2276,-80.26648,Private room,45,1,10,2020-03-16,0.12,1,88
+2034472,ANTIGUA - Nice & Quiet!!,10384873,Giuliana & Eric,,Fort Lauderdale,26.09889,-80.15126,Private room,60,30,21,2020-03-17,0.27,5,340
+2043616,Best of Hallandle Beach Vacation,10479761,Barry,,Hallandale Beach,25.97748,-80.1224,Entire home/apt,77,60,3,2017-01-31,0.04,1,328
+2046296,Piso 4J - Youthful Apartment on the Beach,8790381,Natalia,,Hollywood,25.98869,-80.11806,Entire home/apt,105,3,10,2020-02-05,0.12,17,259
+2052263,MODERN - NEAR BEACH -  only monthly rentals,3209220,Luxus Feriendomizile,,Fort Lauderdale,26.19932,-80.11357,Entire home/apt,85,31,45,2018-08-19,0.54,1,245
+2057228,Lovely Room in Weston Florida.2 person’s Only room,10534063,Liliana,,Weston,26.11288,-80.36807,Private room,59,1,46,2020-03-01,0.56,2,361
+2065724,Luxury Bedroom with Private Bath,791089,Conrad,,Plantation,26.11183,-80.26637,Private room,100,3,2,2018-03-26,0.06,4,365
+2071609,APARTMENT 2 BEDROOM  IN FORT LAUDERDALE,10591425,Joana,,Fort Lauderdale,26.17837,-80.09627,Private room,129,4,37,2020-08-02,0.45,3,341
+2108829,STUDIO ON THE BEACH OF FORT LAUDERDALE,10591425,Joana,,Fort Lauderdale,26.18015,-80.09637,Private room,84,4,46,2020-02-04,0.56,3,348
+2116588,Downtown Fort Lauderdale and Beaches,10791649,Lena,,Fort Lauderdale,26.09111,-80.1884,Entire home/apt,213,4,62,2020-08-28,1.04,3,315
+2137234,The Red Cottage,10907013,Samantha,,Fort Lauderdale,26.11271,-80.16019,Private room,125,1,0,,,1,365
+2150323,"Private room/Plantation, Florida -K",1748183,Wendy,,Plantation,26.1332,-80.23615,Private room,45,2,59,2020-02-09,0.71,3,340
+2177017,Pompano Beach House with Pool & Spa,6272954,Erica,,Margate,26.25055,-80.22174,Entire home/apt,290,5,59,2020-10-09,0.84,1,314
+2192523,"PENTHOUSE SUITE HOLLYWOOD BEACH,FL",461777,John,,Hollywood,26.00336,-80.11791,Entire home/apt,128,3,2,2019-09-14,0.08,1,298
+2195826,Room available in W. Pembroke Pines,11065578,O. Josephine,,Pembroke Pines,25.99378,-80.35631,Private room,33,7,19,2020-08-07,0.25,1,133
+2209568,Oceanfront Building: On the Beach! Enjoy it!,11270841,Pablo,,Hollywood,25.9873,-80.11862,Entire home/apt,109,2,18,2020-08-16,0.26,1,351
+2210837,Private Suite @ Resort Like Home,11210319,Anchalee,,Parkland,26.31309,-80.22417,Private room,89,2,56,2020-10-15,0.70,1,334
+2254312,The  Little Inn with a Big ❤️,11512158,Sea Spray Inn,,Lauderdale By The Sea,26.18779,-80.09628,Entire home/apt,100,2,65,2020-10-11,1.25,2,161
+2254548,FABULOUS 1450 SQ.FT. CONDO WITH LAKEVIEW,11513176,Deborah,,Lauderhill,26.16538,-80.23533,Entire home/apt,128,1,16,2019-01-26,0.20,1,268
+2262485,Peaceful Studio  with Full Kitchen,11553282,Lorraine & Greg,,Pompano Beach,26.21094,-80.11977,Entire home/apt,78,1,416,2020-08-28,5.17,4,316
+2286016,Private Studio #2 patio/garden UV Light Sanatized,11679207,Jorge,,Hollywood,26.01656,-80.16073,Entire home/apt,75,30,5,2019-01-31,0.07,4,363
+2302493,TURKS - Cozy !! Neat and simple,10384873,Giuliana & Eric,,Fort Lauderdale,26.09834,-80.15305,Private room,36,30,30,2020-07-31,0.37,5,196
+2310615,Slice of paradise Private Heated Pool and Hot tub,510959,Gabriel,,Wilton Manors,26.15676,-80.14825,Entire home/apt,193,4,117,2020-10-25,1.44,2,314
+2311108,Health & Wellness Retreat 5' from Hollywood Beach,11797569,Alejandro,,Hollywood,26.00034,-80.13695,Private room,75,3,11,2020-03-24,1.11,1,180
+2362039,Furnished Room #2 share bathroom,10392690,Pochita,,Pembroke Pines,26.02662,-80.23809,Private room,53,3,10,2016-03-26,0.13,4,359
+2379359,1 BLOCK FROM THE BEACH 1/1 FIVE STAR QUALITY,12154543,Shiela,,Fort Lauderdale,26.13854,-80.10828,Entire home/apt,109,1,87,2020-09-20,1.27,2,147
+2410896,Piso 7W -  Delightful Bay View on the Beach,8790381,Natalia,,Hollywood,25.98869,-80.11806,Entire home/apt,151,3,25,2020-01-02,0.35,17,310
+2442353,Master room,11041743,Juanita,,Margate,26.24417,-80.21577,Private room,76,1,21,2020-04-04,0.26,1,299
+2452611,"Resort Villa W, Ocean/IntraCoastal, why not BOTH?",12540540,Tom,,Hillsboro Beach,26.30278,-80.07947,Entire home/apt,149,4,18,2020-08-30,0.42,5,267
+2496310,BEACH CLUB ON THE BEACH 5-STAR APT,2001930,Dmitri,,Hallandale Beach,25.98542,-80.11992,Entire home/apt,225,20,0,,,35,165
+2500771,"Charming Villa, Pool, Walk 2 Beach Fort Lauderdale",12705227,Rhona,,Fort Lauderdale,26.16192,-80.10211,Entire home/apt,219,2,61,2020-10-05,0.96,2,349
+2501510,Private Cabin 5 minutes to beach/SanitizedProperty,10477721,Joanne And Louis,,Pompano Beach,26.23896,-80.11834,Entire home/apt,79,5,10,2019-06-07,0.14,1,356
+2507315,OCEAN VIEW STUDIO FORT LAUDERDALE,10591425,Joana,,Fort Lauderdale,26.17779,-80.09821,Private room,104,2,49,2020-01-28,0.69,3,327
+2509161,STUDIO 3 Blocks to BEACH w/POOL & free WiFi,899093,Sharone,,Hallandale Beach,25.98582,-80.12661,Entire home/apt,61,5,117,2020-06-20,1.46,6,180
+2521479,Convenient 2 bed tons of amenities,12132533,Jael,,Fort Lauderdale,26.09411,-80.18597,Private room,60,1,4,2014-03-23,0.05,1,365
+2540473,2080 LUXURY 3/2 OCEAN FRONT CONDO,2001930,Dmitri,,Hallandale Beach,25.9765,-80.12075,Entire home/apt,395,14,2,2014-04-24,0.02,35,365
+2553035,Pool house+close to beach+WiFi+BBQ,3426390,Giovanna,,Hollywood,26.01636,-80.14599,Entire home/apt,114,21,24,2020-09-15,0.31,2,137
+2553995,CHAPPY WATERFRONT RESORT HOUSE,13077136,James,,Pompano Beach,26.20995,-80.1268,Entire home/apt,309,3,5,2019-08-19,0.16,2,306
+2558604,beautiful split level home,1463210,Belkis,,Plantation,26.11531,-80.23072,Entire home/apt,249,3,2,2014-12-11,0.02,2,308
+2559431,BIG 4 Bedroom 3.5 bath pool home,1459305,Belkis,,Plantation,26.11441,-80.22964,Entire home/apt,268,3,4,2015-03-03,0.05,1,338
+2585581,THIS IS YOUR SANCTUARY/ HEATED POOL,4087252,Arian,,Southwest Ranches,26.04032,-80.3955,Entire home/apt,323,2,94,2020-10-18,1.18,1,221
+2586608,White Sandy Beach & Superb location,11068214,Ronald,,Hollywood,25.98937,-80.11742,Entire home/apt,90,30,37,2020-03-07,0.48,5,145
+2600442,"COMFY 1bedrm apt , WIFI, POOL ,PARKING NEAR BEACH",899093,Sharone,,Hallandale Beach,25.99562,-80.13638,Entire home/apt,68,9,18,2019-08-31,0.24,6,126
+2615921,The Historic Joseph Young Mansion,2609518,Bram,,Hollywood,26.01285,-80.12824,Entire home/apt,928,3,22,2020-09-28,0.35,11,258
+2661579,1 Bedroom very nice Peaceful UV LIGHT Sanitized,11679207,Jorge,,Hollywood,26.01787,-80.15957,Entire home/apt,146,30,2,2018-05-24,0.03,4,364
+2668822,"Comfy Cottage...Clean, Convenient, and Quiet!",13663292,Jim,,Fort Lauderdale,26.1003,-80.14828,Entire home/apt,155,90,53,2019-05-10,0.67,1,90
+2700947,Beach Villa Oleander - Quiet & Cozy!,9443719,Ida Annika,,Lauderdale By The Sea,26.21864,-80.09542,Entire home/apt,807,7,0,,,11,362
+2723385,"2/2  Beautiful apartment, Peaceful, UV Sanitized",11679207,Jorge,,Hollywood,26.01657,-80.16041,Entire home/apt,85,30,8,2020-08-01,0.12,4,365
+2756947,2 bed 2 bath Pembroke Pines FL,479339,Grace,,Pembroke Pines,25.99456,-80.31341,Entire home/apt,100,120,12,2019-05-25,0.17,1,358
+2824039,One mile from Beach! 1BR/1BA & Cozy,394991,Chris,,Fort Lauderdale,26.13543,-80.12755,Entire home/apt,57,3,283,2020-10-21,3.63,6,286
+2842045,3BR/2BA Solar Heat Pool near Beach,265809,Matt,,Fort Lauderdale,26.1374,-80.13076,Entire home/apt,375,3,111,2020-07-06,1.51,3,350
+2845520,"Cottage in heart of FtL,pool, private & your key",14552214,Allen,,Fort Lauderdale,26.13228,-80.13965,Entire home/apt,98,28,66,2020-07-19,0.83,1,49
+2860842,Solar Heated Pool!  Modern 2BR w/ Sleeper Sofa!,14501987,Andy,,Oakland Park,26.17213,-80.12209,Entire home/apt,212,4,18,2020-06-12,0.23,20,320
+2886372,Very nice and safe complex!,14751091,Philip,,Deerfield Beach,26.32053,-80.14706,Entire home/apt,89,7,11,2019-07-09,0.16,4,92
+2935870,SPECTACULAR 2B DIREC BEACH ACCESS,6554158,Marcelo,,Hollywood,25.9868,-80.11954,Entire home/apt,150,5,12,2020-06-25,0.17,2,311
+2942878,"STUDIO W/POOL , PARKING, WIFI, 3 BLOCKS TO BEACH",899093,Sharone,,Hallandale Beach,25.98557,-80.12865,Entire home/apt,63,5,98,2020-08-22,1.25,6,180
+2978245,Hollywood Beach 2 Bed Apartment,12518363,Aziz,,Hollywood,25.99893,-80.11931,Entire home/apt,102,25,9,2020-03-28,0.13,1,308
+2986546,Excelente Depto. con vista al canal,15228939,Mariel,,Hollywood,25.9879,-80.11886,Entire home/apt,130,7,13,2016-01-05,0.17,2,364
+3014355,BEAUTIFUL CONDO ON THE BEACH!,15362033,Ana,,Hollywood,25.98693,-80.12001,Entire home/apt,110,4,18,2020-08-09,0.28,21,38
+3089271,Excelente depto. frente al mar,15228939,Mariel,,Hollywood,25.98862,-80.11919,Entire home/apt,140,4,35,2020-03-19,0.46,2,335
+3094016,🥇Victoria Park #2 ~KING~ Las Olas - Beach - Dtown,15735415,Sharonne,,Fort Lauderdale,26.12949,-80.12799,Entire home/apt,84,1,93,2020-09-16,1.20,3,286
+3113463,Nice private room / Waterfront home,15820838,Eloizio,,Pompano Beach,26.20809,-80.12956,Private room,45,4,52,2020-03-20,0.81,1,355
+3132163,Located in the QClub Ft Lauderdale Bch Rsrt(2110),5397550,Andrew,,Fort Lauderdale,26.12924,-80.10407,Entire home/apt,137,1,36,2020-10-10,0.50,5,16
+3166711,SPECTACULAR 1B DIRECT BEACH ACCESS,6554158,Marcelo,,Hollywood,25.98685,-80.1191,Entire home/apt,120,4,15,2020-03-16,0.21,2,287
+3174078,2080 PENTHOUSE 2/2 OCEAN FRONT,2001930,Dmitri,,Hallandale Beach,25.97786,-80.12032,Entire home/apt,299,14,0,,,35,365
+3213453,Aqua One Bedroom King Suite + Sofabed,14324932,North Beach Village,,Fort Lauderdale,26.12996,-80.10476,Private room,158,28,33,2020-09-06,0.47,28,184
+3213707,Tranquilo One Bedroom King Suite,14324932,North Beach Village,,Fort Lauderdale,26.13383,-80.10648,Private room,159,28,13,2020-03-09,0.28,28,204
+3218564,Casino Lodging “Country Acres” Parkland Florida,16295826,Barbara,,Parkland,26.29435,-80.22115,Entire home/apt,115,1,66,2020-08-30,0.90,1,220
+3257633,Comfy private bedroom in home-M,1748183,Wendy,,Plantation,26.1335,-80.23404,Private room,35,2,36,2020-10-25,0.47,3,337
+3348802,Lg1 Bdrm Solar Heat Pool Near Beach,265809,Matt,,Fort Lauderdale,26.13939,-80.13063,Entire home/apt,122,2,32,2020-05-25,0.42,3,268
+3350504,2BR/1BA Solar Heat Pool near Beach,265809,Matt,,Fort Lauderdale,26.13952,-80.12916,Entire home/apt,160,2,42,2020-10-04,0.59,3,244
+3410222,Eco friendly paradise near Airport/Port/Beaches!,17044377,James,,Dania Beach,26.06644,-80.19701,Private room,55,1,68,2020-08-23,2.49,3,62
+3410784,Beautiful 2 bed condo by the ocean,14055439,Maria,,Lauderdale By The Sea,26.21318,-80.09282,Entire home/apt,150,90,1,2015-04-01,0.01,1,365
+3441997,Great Florida Vacation,2402257,Varvara,,Deerfield Beach,26.31435,-80.09704,Entire home/apt,125,5,86,2020-07-28,1.20,1,60
+3442163,Plantation Paradise,1792809,Carol,,Plantation,26.11727,-80.27961,Entire home/apt,371,3,6,2019-11-07,0.09,1,179
+3463038,Comfort & elegance in prime East of US 1 location,12877826,Maria,,Fort Lauderdale,26.17247,-80.11601,Entire home/apt,395,14,3,2018-01-01,0.04,1,44
+3495878,Located in the QClub Ft Lauderdale Bch Rsrt (1911),5397550,Andrew,,Fort Lauderdale,26.12937,-80.10438,Entire home/apt,142,1,52,2020-09-27,0.72,5,13
+3499795,Lovely apartment in first row with full amenities!,8033828,Maria,,Hollywood,25.99759,-80.11775,Entire home/apt,79,90,0,,,1,364
+3528081,The Royal Palm Villa - Waterfront,17762583,Lennart,,Fort Lauderdale,26.1235,-80.11754,Entire home/apt,375,3,36,2020-07-08,0.53,1,137
+3530463,Social Distancing Home w pool No Parties  allowed,17773902,Beatriz,,Davie,26.072,-80.25828,Entire home/apt,250,3,74,2020-09-17,1.02,1,159
+3553435,Private Master with Private Bath  (and Pool),11553282,Lorraine & Greg,,Pompano Beach,26.2113,-80.11822,Private room,45,1,473,2020-10-09,6.27,4,338
+3661981,Tara Double Queen One Bedroom Suite,14324932,North Beach Village,,Fort Lauderdale,26.13113,-80.10795,Entire home/apt,153,28,55,2020-09-30,0.72,28,202
+3718508,Beautiful Hollywood Beach home with heated pool!,18987173,Erica,,Hollywood,26.01283,-80.12256,Entire home/apt,271,4,48,2020-10-13,1.90,1,278
+3783363,"Great Home, On Awarded Gold Course",19414765,Lynn,,Deerfield Beach,26.32351,-80.14644,Entire home/apt,150,90,6,2016-07-23,0.08,5,209
+3783397,The Racquet Club in Deer Creek,19414765,Lynn,,Deerfield Beach,26.31816,-80.14318,Entire home/apt,80,5,35,2020-09-29,0.71,5,259
+3783599,Sunny Place at Deerfield Beach,2350629,Franco & Daisy,,Deerfield Beach,26.29798,-80.08901,Private room,30,2,51,2020-09-23,2.12,1,43
+3827396,Penthouse on the Ocean / Apartamento en la playa,19693539,Jonathan,,Hollywood,25.98839,-80.1186,Entire home/apt,112,4,129,2020-10-10,1.72,1,169
+3851474,Great condo in Hallandale Beach,19196941,Teofilo,,Hollywood,25.98791,-80.11904,Entire home/apt,120,7,2,2019-05-15,0.09,1,210
+3857432,Piso 10D - Lovely Ocean View Apartment,8790381,Natalia,,Hollywood,25.98928,-80.11865,Entire home/apt,106,3,13,2020-07-05,0.19,17,319
+3869602,Charming 2 Bedroom Condo on Beach!,19982919,Trena,,Lauderdale By The Sea,26.21139,-80.09345,Entire home/apt,128,90,0,,,1,365
+3907850,Near the Beach.,20241048,Rose,,Pompano Beach,26.22089,-80.11962,Private room,130,3,0,,,1,365
+3938247,"""The Broadwalk"" = 1/1 on Hlwd Beach",6509464,Rich,,Hollywood,26.0178,-80.11688,Private room,93,3,20,2020-05-22,0.28,5,339
+3951236,lovely condo with view on canals,20479149,Nicole,,Hallandale Beach,25.98082,-80.1263,Entire home/apt,86,4,97,2020-09-11,1.46,1,238
+3957753,Beautifully clean and remodeled 1 block to beach!,20512179,Stefanie Deerfield Beach Vacations,,Deerfield Beach,26.30661,-80.07761,Entire home/apt,112,2,25,2020-08-10,0.35,11,101
+3993889,Charming Studio - Waterfront Property !,20703633,Ronira,,Pompano Beach,26.24092,-80.09008,Entire home/apt,76,4,28,2020-08-02,0.39,1,265
+3994087,1 separate bedroom for 2 people,20702907,Kate,,Lauderhill,26.13708,-80.22353,Private room,264,3,8,2017-02-22,0.12,1,365
+4010331,4Palms Guestroom in private  home,20793680,James,,Dania Beach,26.05441,-80.14241,Private room,54,1,77,2019-12-11,1.07,2,267
+4015599,Home sweet Home Sunny Florida,7051819,Nathalie,,Pompano Beach,26.2494,-80.08796,Entire home/apt,90,30,2,2016-07-23,0.03,1,365
+4043568,"Urban Luxury at Boardwalk & Beach, terrace & pool",9927271,Suzanne,,Hollywood,26.00972,-80.11699,Entire home/apt,130,3,5,2019-05-29,0.08,1,250
+4064679,Deluxe Condo in Central Fort Lauderdale Beach,1770887,Chris,,Fort Lauderdale,26.13702,-80.104,Entire home/apt,349,6,4,2019-12-27,0.09,9,21
+4097680,"Gorgeous 1 Bedroom, Like New !!",12878437,Vicky,,Hollywood,25.98677,-80.11904,Entire home/apt,100,6,11,2020-07-28,0.19,9,282
+4097752,"amazing, recently renovated!!",12878437,Vicky,,Hollywood,25.98695,-80.11958,Entire home/apt,150,5,10,2020-08-28,0.18,9,364
+4104891,4 - Beach Bungalow w/ Free Parking,9946914,Nick,,Hollywood,26.02391,-80.11504,Entire home/apt,84,3,67,2020-03-17,0.93,4,364
+4196307,GORGEOUS OCEANFRONT PENTHOUSE,21769485,Luis,,Hollywood,26.01564,-80.11601,Entire home/apt,89,90,0,,,1,173
+4196774,GORGEOUS OCEANFRONT PENTHOUSE,21771375,Luis,,Hollywood,26.0151,-80.11629,Entire home/apt,99,60,3,2020-03-31,0.04,1,279
+4258380,"Across the beach, golf.  Pompano beach",22100178,Annic,,Pompano Beach,26.24916,-80.08823,Entire home/apt,50,2,12,2020-07-12,0.23,1,215
+4267493,"Luxury Townhouse, Steps To Ocean",8114732,David,,Lauderdale By The Sea,26.19345,-80.09697,Entire home/apt,700,5,9,2016-03-24,0.12,1,365
+4283746,One Bedroom beach home Hollywood,22238827,Veronika,,Hollywood,26.02306,-80.1155,Hotel room,107,1,1,2018-03-11,0.03,6,258
+4284986,Superior Standard Room,22238827,Veronika,,Hollywood,26.02215,-80.11744,Private room,52,1,58,2020-04-10,1.50,6,258
+4294956,Vacation Rental,350312,Jaime,,Hollywood,26.01321,-80.15872,Entire home/apt,150,60,1,2018-03-18,0.03,2,365
+4295517,Vacation Rental,350312,Jaime,,Hollywood,26.01329,-80.15842,Entire home/apt,125,90,4,2019-05-15,0.07,2,56
+4299482,Piso 10W - Modern Beach Front Apartment,8790381,Natalia,,Hollywood,25.98814,-80.11831,Entire home/apt,160,3,5,2019-07-10,0.07,17,328
+4302095,Hollywood Beach Resort Studio,7408483,Norberto,,Hollywood,26.01207,-80.11731,Private room,50,30,5,2018-09-07,0.08,1,365
+4311927,"3bd house, pool, 1.3 miles to beach",19347509,Dinissa,,Deerfield Beach,26.30677,-80.08514,Entire home/apt,105,10,59,2020-05-21,0.81,1,196
+4315812,"Tropical Oasis, Luxury Surroundings",6270706,Daniel,,Hollywood,26.00751,-80.13427,Private room,540,20,0,,,1,365
+4317073,"Waterfront,fish,pool,beaches,shop,child pool fence",20208225,Kevin And Pat,,Fort Lauderdale,26.17899,-80.10689,Entire home/apt,557,7,32,2018-08-16,0.51,1,298
+4321322,Fully furnished Condo,14751091,Philip,,Deerfield Beach,26.32029,-80.1455,Entire home/apt,91,14,13,2020-08-02,0.19,4,58
+4322171,COZY!Walk to Holiday Park &LAS OLAS.,22441003,Miriam,,Fort Lauderdale,26.13072,-80.13065,Entire home/apt,243,5,17,2020-03-21,0.24,2,350
+4332945,Lauderdale BoatHouse w/Ocean Access,9688645,Kevin,,Dania Beach,26.06639,-80.1898,Entire home/apt,150,3,13,2020-06-18,0.18,1,352
+4334202,Beautiful condo in Hallandale Beach,3843347,Andrea,,Hallandale Beach,25.98371,-80.12251,Entire home/apt,150,180,7,2018-02-19,0.10,2,365
+4364138,Tropical Retreat - City Close,2042945,Tonya,,Miramar,25.96128,-80.31373,Private room,200,2,0,,,1,365
+4484576,Blue Room - Heart of Wilton Manors. Heated Pool.,3685146,Raazee,,Wilton Manors,26.16101,-80.12848,Private room,59,1,540,2020-10-10,7.43,3,3
+4484641,Home steps from the beach!,23247360,Lise-Anne,,Hollywood,26.01541,-80.11683,Entire home/apt,435,2,28,2020-09-21,0.40,1,336
+4490306,"Stay Warm on The Beach ""The Umbrella Drink""",6509464,Rich,,Hollywood,26.01734,-80.11672,Private room,70,2,26,2020-10-04,0.37,5,307
+4491593,Stay Warm on Hollywood Beach Studio,6509464,Rich,,Hollywood,26.01592,-80.1169,Private room,74,3,22,2020-03-11,0.31,5,365
+4492175,Red Room - Heart of Wilton Manors. Heated Pool.,3685146,Raazee,,Wilton Manors,26.15993,-80.12924,Private room,59,1,518,2020-10-10,7.13,3,18
+4494878,MIAMI- CHARMING 2 BDRM OCEANVIEW,637272,Bianca,,Hollywood,25.99362,-80.11729,Entire home/apt,225,23,12,2020-09-29,0.17,6,358
+4509621,POOL HOME IN HALLANDALE BEACH,5221395,Yolande,,Hallandale Beach,25.9834,-80.14982,Entire home/apt,414,3,7,2020-07-20,0.11,2,289
+4538391,Luxury 4/2 nr beach sleep 8 Hot Tub,23505135,Lance,,Pompano Beach,26.22884,-80.09726,Entire home/apt,177,2,58,2020-10-05,1.02,1,349
+4559328,Pompano Beach Right On the Beach!,11873653,George,,Pompano Beach,26.22837,-80.09003,Entire home/apt,125,2,7,2018-01-02,0.10,1,260
+4562966,Located in the  QClub Ft Lauderdale Bch Rsrt(2212),5397550,Andrew,,Fort Lauderdale,26.12937,-80.10438,Entire home/apt,148,1,24,2020-09-08,0.36,5,18
+4580179,Vacation Apartment 2&2 +/-90 days,23741402,Andrew,,Hollywood,26.00805,-80.14581,Entire home/apt,80,80,26,2017-08-22,0.37,1,85
+4588788,Private Victoria Park Cottage,23786231,Karen,,Fort Lauderdale,26.13374,-80.12512,Entire home/apt,64,4,117,2020-03-19,1.69,1,89
+4592745,"Stay Aboard Luxurious 78' Motor Yacht ""FantaSea""",23807150,Steve,,Dania Beach,26.05846,-80.1408,Entire home/apt,350,1,38,2020-10-03,1.71,1,365
+4595496,The Tides Ocean View  Right on the Beach,23821171,Alex,,Hollywood,25.98982,-80.11786,Entire home/apt,159,1,5,2019-05-26,0.07,2,354
+4597522,Right on the Beach,23821171,Alex,,Hollywood,25.9894,-80.11987,Entire home/apt,189,1,11,2018-12-09,0.15,2,365
+4598009,A home in Pembroke Pines  In the heart of South FL,4355651,Kilsy,,Pembroke Pines,26.02575,-80.35608,Entire home/apt,135,5,43,2020-09-28,0.61,1,334
+4631078,Lovely Beach Studios -Walk to Ocean !,20512179,Stefanie Deerfield Beach Vacations,,Deerfield Beach,26.30776,-80.07798,Entire home/apt,82,2,24,2020-08-31,0.38,11,147
+4637874,Fort Lauderdale walk to LAS OLAS,339865,Susan,,Fort Lauderdale,26.12308,-80.12804,Entire home/apt,155,3,83,2020-10-04,1.19,2,180
+4668569,room in Fort lauderdale,5514632,Tony,,North Lauderdale,26.21685,-80.22818,Private room,39,1,9,2016-12-04,0.13,12,68
+4707242,Cottage Room,24330722,John,,Fort Lauderdale,26.12119,-80.1293,Private room,40,1,212,2020-10-22,2.99,2,323
+4721037,Cozy Bedroom | 10 minutes from Super Bowl,4744761,Athenia,,Miramar,25.98481,-80.26613,Private room,200,1,0,,,2,89
+4741523,Room at the Tennis Club,24476265,Bruce,,Wilton Manors,26.15253,-80.14759,Private room,60,30,17,2020-03-20,0.24,2,326
+4752821,Perfect Seaside Vacation Place 1/1,10975267,Robert,,Pompano Beach,26.24904,-80.08807,Entire home/apt,89,5,69,2020-10-14,0.97,2,303
+4767766,★3br 3bth Home Dog Friendly 10 Mins to Beach ★,14472956,James,,Fort Lauderdale,26.18476,-80.15698,Entire home/apt,91,1,160,2020-10-19,2.60,4,116
+4774207,Lux Studio,24623672,Eileen,,Hollywood,26.01405,-80.13522,Entire home/apt,75,2,97,2020-03-30,1.50,2,233
+4786772,16J Beach Penthouse-King Bed-Pool-Gym in Hollywood,24675123,Komffy,,Hollywood,25.98814,-80.11831,Entire home/apt,90,4,115,2020-10-17,1.71,3,22
+4786849,Tropical Tiki Pool Home,24676288,Martha,,Deerfield Beach,26.29734,-80.08985,Entire home/apt,300,3,2,2020-01-02,0.09,1,167
+4801662,2080 OCEAN FRONT 2/2 ON THE BEACH,2001930,Dmitri,,Hallandale Beach,25.97615,-80.11972,Entire home/apt,295,14,0,,,35,52
+4808516,"WOW! Gated, FREE GOLF & TENNIS! Pembroke Pines, FL",1258016,Mark,,Pembroke Pines,26.00266,-80.2629,Entire home/apt,90,120,2,2015-03-01,0.03,1,358
+4808775,"Luxurious Close to Beach ""Little Palace""",8869038,Kenneth,,Pompano Beach,26.22512,-80.09848,Entire home/apt,380,6,32,2020-07-25,0.55,1,279
+4809798,"Hollywood Beach 4 bed, 4.5 baths! steps from beach",24773245,Chaz + Vanessa,,Hollywood,26.00738,-80.11668,Entire home/apt,400,3,76,2020-09-21,1.10,1,249
+4813427,Bright & Cozy #7 Suite 1 bedroom,20512179,Stefanie Deerfield Beach Vacations,,Deerfield Beach,26.30758,-80.0794,Entire home/apt,108,5,3,2020-05-06,0.09,11,85
+4836110,PENTHOUSE OCEANFRONT 3/3  ON THE BEACH,2001930,Dmitri,,Hollywood,25.98695,-80.11944,Entire home/apt,289,5,3,2018-11-26,0.05,35,364
+4841935,Breathtaking Oceanview Condo 0261,18282693,Raydiant,,Hollywood,25.98932,-80.11844,Entire home/apt,150,14,0,,,16,362
+4849681,Oceanview Spectacular 1B Condo 2121,18282693,Raydiant,,Hollywood,25.9905,-80.11798,Entire home/apt,150,14,0,,,16,363
+4849926,Fabulous Beachfront 2/2 Condo 9111,18282693,Raydiant,,Hollywood,25.99066,-80.11781,Entire home/apt,175,14,2,2018-03-18,0.06,16,365
+4863436,Stunning Oceanview 1/1 Condo Tides,18282693,Raydiant,,Hollywood,25.98939,-80.11922,Entire home/apt,130,7,1,2015-01-03,0.01,16,365
+4865864,"☀️ Relaxing 2BR Condo Close to beach , ☀️, 🏖 & Fun❤️",25026680,Joe,,Lauderdale By The Sea,26.19359,-80.0982,Entire home/apt,69,2,78,2020-08-30,1.21,2,264
+4867216,Beautiful 😎 Waterfront home 3 Bdrms  Pool ☀️ Sand 🏖,25026680,Joe,,Fort Lauderdale,26.10464,-80.12815,Entire home/apt,170,2,93,2020-10-22,1.43,2,275
+4885353,"Ideal place to relax, even if it’s only one night",25133481,Delene,,Pembroke Pines,26.00518,-80.21768,Private room,70,1,91,2020-03-22,1.28,1,363
+4909030,Sunny Room,24330722,John,,Fort Lauderdale,26.12099,-80.12933,Private room,49,1,462,2020-06-13,6.59,2,265
+4923853,On the beach!  1 bedroom 2 bath condo free parking,25361296,Nelly,,Hollywood,25.99408,-80.11688,Entire home/apt,65,28,8,2020-02-02,0.15,1,300
+4925618,Beach House Steps from the Ocean,25372446,Alida,,Pompano Beach,26.22804,-80.09029,Entire home/apt,242,5,17,2020-09-27,0.38,3,298
+4930326,OCEANFRONT 2/2  ON THE BEACH,2001930,Dmitri,,Hollywood,25.98803,-80.11961,Entire home/apt,148,5,4,2020-03-21,0.09,35,202
+4936937,Priv.Rm.and bath.No security deposit / cleanup fee,3322748,Gordon/,,Lauderdale Lakes,26.1613,-80.18949,Private room,55,2,67,2017-04-24,0.95,2,365
+4939909,Cozy Little studio steps from the beach,22238827,Veronika,,Hollywood,26.02179,-80.11563,Private room,67,1,57,2020-05-26,1.46,6,258
+4948999,Historic house  built in 1924,25507540,Mermolina,,Fort Lauderdale,26.1217,-80.12868,Private room,59,1,415,2020-03-16,5.88,1,329
+4968309,"No Cleaning Fee, Close to Airport + Cruise Port",7046445,Mike And Tom,,Hollywood,26.02395,-80.17125,Private room,60,1,554,2020-03-19,7.87,1,28
+4997686,Gorgeous Oceanfront 2/2 Condo 8051,18282693,Raydiant,,Hollywood,25.9903,-80.11923,Entire home/apt,150,7,2,2018-01-27,0.05,16,365
+5003799,2/1 MARY POP APARTMENTS,454736,"Jon,  Mary Pop Apartments",,Dania Beach,26.0344,-80.14156,Entire home/apt,80,7,12,2020-01-26,0.17,8,178
+5006441,Walk to Lovely Beach from this Quiet Pool Home!,6422630,Erik,,Lauderdale By The Sea,26.18605,-80.10291,Entire home/apt,250,7,34,2020-06-28,0.49,1,246
+5014677,Make Yourself at Home Two,7259492,Alda,,Miramar,25.98579,-80.31645,Private room,68,180,23,2019-09-07,0.34,1,363
+5029896,Waterfront. Private heated pool free kayaks.,25963913,Marina,,Hollywood,26.00513,-80.12655,Entire home/apt,357,5,1,2020-09-20,0.81,3,317
+5030079,"Best location in Pompano beach, Clean and safe.",25965138,Dan,,Pompano Beach,26.24686,-80.08809,Entire home/apt,159,3,20,2020-09-21,0.46,9,264
+5036177,Wilton Manor-Dwtn FTL-Las Olas- BBC,25996213,Leo,,Fort Lauderdale,26.14264,-80.14485,Private room,44,4,80,2020-03-09,1.14,2,364
+5036757,Queen Studios Up to 4 Guests,22238827,Veronika,,Hollywood,26.03342,-80.11637,Hotel room,154,1,7,2019-09-29,0.19,6,258
+5039493,Studio Romantic Cute #3 UV Light Sanitized,11679207,Jorge,,Hollywood,26.01803,-80.16079,Entire home/apt,60,30,4,2020-03-31,0.13,4,358
+5047945,Beautiful Seaside Vacation Condo,10975267,Robert,,Pompano Beach,26.24808,-80.08909,Entire home/apt,89,5,44,2019-12-30,0.67,2,281
+5065713,Spacious 3/3 Only  5 Minutes Away From Beach!!,26132558,Nikhil,,Hollywood,26.02401,-80.13897,Entire home/apt,146,1,33,2020-02-10,0.47,1,345
+5078835,Very nice 3+ Bedroom and 2 Bath Condo,14751091,Philip,,Deerfield Beach,26.32001,-80.1453,Entire home/apt,99,14,8,2020-03-16,0.14,4,93
+5085220,Stunning Oceanfront 3B/2B Condo 327,18282693,Raydiant,,Hollywood,25.9904,-80.11849,Entire home/apt,175,7,10,2019-04-12,0.15,16,351
+5089651,1/2 block from Pompano Beach - Furnished.,26293939,Rebecca,,Pompano Beach,26.25612,-80.08843,Entire home/apt,86,1,177,2020-09-30,2.67,1,347
+5106307,**Large Hollywood Broadwalk Beach House **,840481,Pat & Michelle,,Hollywood,26.01475,-80.11768,Entire home/apt,139,4,134,2020-09-27,1.94,2,162
+5136624,Vacation Home 2 miles from  Beach,26557549,Steve,,Hollywood,26.00961,-80.15508,Entire home/apt,183,4,70,2020-09-27,1.03,6,294
+5194924,Quiet/Clean/Nice/Convenient,17267831,Andrea,,Fort Lauderdale,26.13893,-80.14106,Private room,65,1,0,,,1,365
+5221521,Bimini Breeze Apt.3 - pool- beach,8556229,Ofir,,Pompano Beach,26.2358,-80.10071,Entire home/apt,60,3,57,2020-10-14,0.85,4,365
+5234778,Amazing beach views in Pompano!,27091615,Elisa,,Pompano Beach,26.23944,-80.08949,Entire home/apt,150,90,1,2015-10-14,0.02,1,238
+5238751,Cozy Room,10601274,Giuliana,,Fort Lauderdale,26.10064,-80.14907,Private room,30,30,31,2020-10-09,0.45,1,232
+5239045,Magnificent 6BR Canal Home - Villa Riverside Tiki!,9443719,Ida Annika,,Fort Lauderdale,26.14444,-80.10884,Entire home/apt,914,2,47,2020-08-30,0.70,11,346
+5241603,Large room with private bathroom,26975461,Jason,,Miramar,25.99122,-80.27741,Private room,49,1,49,2020-10-07,0.74,3,356
+5249249,State of Art style Studio,20065593,Reinaldo (Rei),,Oakland Park,26.16768,-80.12631,Entire home/apt,63,15,17,2020-10-11,0.28,4,213
+5251709,Charming Private Villa - 1bedrm/1bath & kitchen,27053200,Jay And Brittany'S,,Pompano Beach,26.23182,-80.10893,Entire home/apt,113,3,262,2020-09-23,3.78,1,349
+5252161,Lavender room for female only,26927207,Ruth,,Miramar,25.96864,-80.35889,Private room,50,30,8,2017-04-08,0.12,1,209
+5256133,2 bed 2 bath on the beach!,7137755,Nick,,Fort Lauderdale,26.18115,-80.09925,Entire home/apt,79,89,30,2019-04-13,0.43,1,73
+5268379,Very Private Entrance&Room&bath-pool”BEST IN TOWN”,11885471,Pokkyy,,Oakland Park,26.17452,-80.15354,Private room,54,2,279,2020-06-26,4.03,1,66
+5269765,Lovely Ft Lauderdale 3BD/2BT with heated pool!,16908884,Martin,,Fort Lauderdale,26.19871,-80.1181,Entire home/apt,120,30,17,2020-08-01,0.25,1,239
+5271972,Enchanting Beach Town. Villa 2.5 blks to Ocean!,22134830,Sandra,,Sea Ranch Lakes,26.19737,-80.09977,Entire home/apt,325,3,18,2020-10-11,0.28,2,29
+5285577,Key West House- Cottage. SAME DAY BOOKINGS WELCOME,23016144,Eric,,Wilton Manors,26.15829,-80.15195,Entire home/apt,70,1,318,2020-10-18,4.58,2,237
+5317923,Spacious room with private bathroom.,26975461,Jason,,Miramar,25.99009,-80.27761,Private room,53,1,55,2020-09-13,0.81,3,206
+5328486,Perfect 2-Bedroom in Miramar,345885,Melissa,,Miramar,25.98187,-80.30211,Entire home/apt,249,15,0,,,2,365
+5328904,★ Dog Friendly 10 Mins to Beach 36 Inch Smart TV ★,14472956,James,,Fort Lauderdale,26.18588,-80.15723,Private room,19,1,99,2020-08-20,1.55,4,0
+5337812,★His & Her Sink Private Bath★ King Bed★42 InchTV★,14472956,James,,Fort Lauderdale,26.18588,-80.15723,Private room,20,1,97,2020-10-23,1.53,4,3
+5337867,★King Bed Private Bath★Dog Friendly 55 Inch HD TV★,14472956,James,,Fort Lauderdale,26.18588,-80.15723,Private room,23,1,76,2020-10-23,1.20,4,3
+5357679,"Water front house, pool heather,jacuzzi and garden",13973190,Eliana,,Pompano Beach,26.20693,-80.1306,Entire home/apt,260,4,58,2020-06-13,0.88,1,210
+5381254,"Poolside Pleasures Unit 1 - Fort Lauderdale, FL",23106092,Jesse,,Fort Lauderdale,26.10804,-80.16552,Entire home/apt,129,2,108,2020-10-09,1.58,1,54
+5404005,2BR not available.  1 BR and Studio are available.,28011754,Bobby,,Fort Lauderdale,26.13113,-80.1341,Entire home/apt,221,2,21,2019-03-15,0.32,3,364
+5404918,Private Room in Pembroke Pines Fl,27993139,Robby,,Pembroke Pines,26.01338,-80.24523,Private room,37,1,9,2020-01-03,0.13,1,365
+5410528,Hidden Gem Studio Apartment,28047151,Jacki,,Fort Lauderdale,26.13089,-80.12604,Private room,79,1,119,2020-03-14,1.74,1,151
+5443383,Vacation Getaway on Hollywood Beach  (1 BDRM),6509464,Rich,,Hollywood,26.01792,-80.11719,Private room,74,2,6,2020-01-04,0.10,5,365
+5445232,A Clean &Quiet Piece of Paradise -2 Bedroom,11553282,Lorraine & Greg,,Fort Lauderdale,26.21017,-80.11935,Entire home/apt,82,1,364,2020-10-13,5.31,4,355
+5467272,Comfy room in gated community,5371244,Elizabeth,,Miramar,25.98948,-80.34756,Private room,50,3,27,2020-03-09,0.43,2,363
+5477413,Ranch Style Bungalow,28404947,Marco,,Hollywood,26.01346,-80.1193,Entire home/apt,165,3,107,2020-09-15,1.57,1,272
+5509722,"You deserve a break! Unwind, forget, and regroup!",28576919,Suzanne,,Hollywood,26.00187,-80.12983,Private room,60,1,43,2020-07-14,1.93,1,180
+5521879,Hollywood Beach: Sun+Fun = Love It! 1/1,6509464,Rich,,Hollywood,26.01651,-80.11705,Private room,135,1,14,2020-03-15,0.21,5,365
+5536991,Amazing Views from Luxury Highrise!,28711976,Eva,,Sunrise,26.15861,-80.31604,Entire home/apt,106,29,27,2020-08-17,0.39,3,203
+5537517,BEAUTIFUL HOUSE IN FLORIDA,28715172,Josefina,,Miramar,25.98244,-80.31813,Entire home/apt,150,3,41,2019-12-28,0.60,1,339
+5565698,Piso 9W - Amazing 2-Bedroom Apartment on the Beach,8790381,Natalia,,Hollywood,25.98814,-80.11831,Entire home/apt,160,3,11,2020-03-21,0.17,17,364
+5579327,OCEANFRONT ON THE BEACH  1/1.5 14FL ON THE BEACH,2001930,Dmitri,,Hollywood,25.98793,-80.11794,Entire home/apt,175,5,4,2019-04-02,0.06,35,200
+5581517,"Private Terrace, beach: 0.2 mile, F.Lauderdale, 2r",28939001,Olivier,,Fort Lauderdale,26.16438,-80.10062,Entire home/apt,114,3,57,2020-10-18,0.84,6,270
+5587170,"Stunning Water Views, Large Canal",28968983,Claude,,Pompano Beach,26.22637,-80.11606,Entire home/apt,545,3,87,2020-09-23,1.46,1,294
+5598824,Beach and holidays in a perfect place! 10,29028383,Amden,,Hollywood,25.9873,-80.11862,Entire home/apt,195,5,14,2020-07-14,0.21,7,354
+5601522,4/4 Hollywood ❤️ House near Beach,29040778,Kyan,,Hollywood,26.01114,-80.13873,Entire home/apt,295,3,47,2020-03-10,0.69,4,173
+5607730,Spacious Private Room w/Library in Waterfront Home,20240198,Bill,,Hollywood,26.01163,-80.16922,Private room,45,1,246,2020-10-10,3.66,6,338
+5620016,"Quiet, Cozy, Relaxing, Large Couch",4480687,Anthony,,Pompano Beach,26.21453,-80.15076,Shared room,41,1,9,2016-03-19,0.13,1,178
+5623151,Condo at Tennis Club,24476265,Bruce,,Fort Lauderdale,26.15212,-80.14907,Entire home/apt,70,30,9,2020-08-24,0.14,2,210
+5628197,#3: Quiet 1BR with Real Kitchen & Central AC,4246703,Matthew,,Fort Lauderdale,26.15067,-80.12108,Entire home/apt,69,2,318,2020-10-08,4.66,43,86
+5629823,Habor Haven Condo Fort Lauderdale Beach,5562547,Pdt,,Fort Lauderdale,26.125,-80.1044,Entire home/apt,135,30,1,2017-03-30,0.02,1,362
+5640029,1 BR Close to Everything!  Studio also available,28011754,Bobby,,Fort Lauderdale,26.13212,-80.13586,Entire home/apt,108,4,18,2020-01-01,0.32,3,179
+5640200,Hollywood Condo 2b/2b Great Price BOOK NOW,29229680,Sunshine,,Hollywood,25.99232,-80.11877,Entire home/apt,135,30,6,2018-08-26,0.13,5,289
+5646537,Barhopper Deluxe on Wilton Drive!,29263754,Doug,,Wilton Manors,26.156,-80.13725,Private room,53,3,29,2020-02-09,0.49,1,268
+5649421,"MARY POP APART SLEEP 3, # 205 LAST MINUTE OK",454736,"Jon,  Mary Pop Apartments",,Dania Beach,26.03392,-80.14201,Entire home/apt,70,7,5,2020-02-01,0.07,8,193
+5661115,"SOLAR! PRIVATE APARTMENT FOR 2, WITH POOL ACCESS!",29345759,Jim,,Fort Lauderdale,26.10686,-80.13677,Entire home/apt,590,1,198,2019-07-25,2.91,8,126
+5665799,Charming Beach Villa w/ Pool Fort Lauderdale Beach,12705227,Rhona,,Fort Lauderdale,26.16023,-80.10168,Entire home/apt,240,3,58,2020-08-30,0.86,2,365
+5708185,XL 2BR/2BA Hollywood Beach Ocean!,26931782,Max,,Hollywood,26.00177,-80.11855,Entire home/apt,215,90,8,2017-09-06,0.14,2,362
+5713571,Cozy 2 bedroom private house w Pool,29622548,Solvita,,Hollywood,26.03017,-80.1549,Entire home/apt,165,7,23,2020-03-14,0.35,1,336
+5715764,"4/4 Hollywood House Downtown, Beach, Entertainment",29040778,Kyan,,Hollywood,26.0111,-80.13973,Entire home/apt,225,14,1,2020-09-09,0.63,4,296
+5747289,"2 bedrooms at the beach, family friendly",29811867,Sheila,,Hollywood,25.9873,-80.11862,Entire home/apt,220,4,32,2020-03-14,0.50,1,84
+5752344,Luxury one bedroom on a Ocean,18662631,Lenny,,Fort Lauderdale,26.15422,-80.10211,Entire home/apt,80,120,0,,,1,362
+5769668,2/1 MARY POP APARTMENTS # 204 SLEEP 5,454736,"Jon,  Mary Pop Apartments",,Dania Beach,26.03392,-80.14201,Entire home/apt,100,7,5,2020-01-03,0.07,8,298
+5773722,"SKY PRIVATE APARTMENT FOR 2, WITH POOL ACCESS!",29345759,Jim,,Fort Lauderdale,26.10737,-80.13452,Private room,690,1,124,2019-07-24,1.84,8,126
+5777176,Welcome to Sunrise!,29974230,Sue,,Sunrise,26.15857,-80.23739,Private room,50,2,66,2020-03-16,0.97,1,360
+5779548,Great 2/2 condo at the beach,29985109,Silvio,,Hollywood,25.98966,-80.11746,Entire home/apt,80,14,1,2018-11-10,0.04,1,273
+5794057,2BD/2BA - Beautiful Beach Condo!,29960617,Daisy,,Hollywood,25.98695,-80.11935,Entire home/apt,130,2,14,2019-05-13,0.22,1,271
+5794500,BEACH CLUB ON THE BEACH 5-STAR 1/1,2001930,Dmitri,,Hallandale Beach,25.98527,-80.11933,Entire home/apt,345,10,0,,,35,365
+5805799,Your own piece of Florida Paradise!,24445168,Andi,,Fort Lauderdale,26.18535,-80.16494,Entire home/apt,59,2,239,2020-08-15,3.53,1,278
+5806705,3/2 House with pool,30126911,Rafael,,Pembroke Pines,26.00613,-80.22634,Entire home/apt,129,3,55,2020-10-12,0.93,1,323
+5815174,Key West House Cabin SAME DAY BOOKINGS WELCOME,23016144,Eric,,Wilton Manors,26.15834,-80.15273,Entire home/apt,69,1,288,2020-10-01,4.38,2,140
+5823577,Fort Lauderdale Waterfront Villa,25716954,Natasha,,Fort Lauderdale,26.19982,-80.1307,Entire home/apt,199,5,54,2020-09-04,0.85,2,230
+5832709,"Stunning view, private beach on Galt Ocean Mile",17367300,Maria,,Fort Lauderdale,26.17787,-80.09858,Entire home/apt,220,10,14,2018-04-30,0.30,1,173
+5834593,Luxury Oceanfront 2B/2.5B Condo,18282693,Raydiant,,Hallandale Beach,25.97818,-80.11999,Entire home/apt,174,21,0,,,16,365
+5848895,4/4 Hollywood ❤️ House near Beach,29040778,Kyan,,Hollywood,26.01072,-80.1384,Entire home/apt,200,28,4,2019-05-13,0.19,4,173
+5860328,The best of two Worlds,11068214,Ronald,,Hollywood,25.98724,-80.11795,Entire home/apt,150,7,28,2020-07-28,0.45,5,306
+5860470,"EXECUTIVE POOL HOME 4/4,GOLF COURSE",30428293,Cristina & Jesse,,Plantation,26.11486,-80.27759,Entire home/apt,398,5,24,2020-01-11,0.36,1,351
+5862336,Tiny House near Downtown Fort Lauderdale,30438722,Jonathan,,Fort Lauderdale,26.09457,-80.15668,Entire home/apt,45,2,87,2017-04-07,1.30,1,29
+5873133,Private red room (shared bathroom) No Cleaning Fee,30497259,Cynthia,,Fort Lauderdale,26.10767,-80.15156,Private room,113,2,29,2019-12-18,0.44,10,297
+5884333,Bimini Breeze Apt.4 - pool- beach,8556229,Ofir,,Pompano Beach,26.2358,-80.10071,Entire home/apt,55,3,76,2020-09-26,1.15,4,208
+5956900,Walk to the Beach Coral Reef Waterfront House,9743916,Michelle,,Lauderdale By The Sea,26.20689,-80.09551,Entire home/apt,400,7,7,2019-04-04,0.23,5,319
+5963838,Oceanfront condo with amazing views,28941575,Elizabeth,,Hollywood,25.98925,-80.11895,Entire home/apt,140,3,6,2019-12-14,0.35,1,243
+5979587,Cozy 15th floor Ocean Front,20474214,Fabiana,,Hollywood,25.98943,-80.11734,Entire home/apt,110,3,7,2020-02-28,0.12,8,125
+5999842,Tides Great condo on the beach,6439113,Marisa,,Hollywood,25.98832,-80.11887,Entire home/apt,83,3,12,2020-10-21,0.19,1,319
+6000715,Family Suite Vacation Rental,20512179,Stefanie Deerfield Beach Vacations,,Deerfield Beach,26.30673,-80.07887,Entire home/apt,99,3,12,2020-10-10,0.22,11,123
+6005060,Secluded 1BR near Wilton Manors.,11584600,Frank & Carrie,,Fort Lauderdale,26.14506,-80.13821,Entire home/apt,89,3,45,2019-12-05,0.70,1,53
+6019016,Come Ba Ya South Florida,24199135,Norma,,Pembroke Pines,25.99799,-80.27317,Private room,35,2,35,2019-12-09,0.62,2,307
+6033250,Amazing & Spacious 2BD Penthouse w/ Stunning View,31282960,Seijiro,,Hollywood,25.98989,-80.1182,Entire home/apt,120,29,16,2020-04-01,0.24,1,306
+6038150,Amazing Apartment by the Beach and Sea View! 12,29028383,Amden,,Hollywood,25.98744,-80.11901,Entire home/apt,185,3,18,2020-03-16,0.30,7,353
+6064917,UPSCALE APARTMENT  STEPS TO THE BEACH -HEATED POOL,31472848,Janice,,Pompano Beach,26.25452,-80.08808,Entire home/apt,138,3,33,2020-07-21,0.56,2,1
+6079175,Best location in downtown Hollywood,31555794,Eddie,,Hollywood,26.01004,-80.14497,Private room,182,1,1,2018-04-10,0.03,8,365
+6079479,Best location in downtown Hollywood,31555794,Eddie,,Hollywood,26.0094,-80.14541,Private room,182,1,2,2020-03-16,0.03,8,365
+6079620,Best location in downtown Hollywood,31555794,Eddie,,Hollywood,26.00859,-80.14654,Private room,182,1,1,2020-08-29,0.51,8,365
+6079796,Best location in downtown Hollywood,31555794,Eddie,,Hollywood,26.00971,-80.14644,Private room,207,2,0,,,8,365
+6082275,GREAT CONDO ON THE BEACH!,15362033,Ana,,Hollywood,25.98794,-80.11764,Entire home/apt,99,4,7,2020-03-24,0.11,21,60
+6088111,INCREDIBLE CONDO WITH OCEAN VIEW,31595811,Miami Rent Apart,,Hollywood,25.9892,-80.11874,Entire home/apt,100,1,5,2020-03-22,0.24,49,272
+6102192,"Ocean Manor, Beach, Balcony,Kitchen, Studio Apt.",5324933,Sherban & Barbara,,Fort Lauderdale,26.17801,-80.09695,Entire home/apt,105,2,135,2020-10-16,2.05,1,215
+6108545,Tropical Paradise I,16931093,Kevin W,,Fort Lauderdale,26.14178,-80.14624,Entire home/apt,79,3,245,2020-10-15,3.79,2,254
+6162938,Cottage By The Beach 30-Day Minimum Lease,31969535,Hugo Fabio,,Fort Lauderdale,26.10868,-80.1082,Entire home/apt,63,30,50,2020-03-31,0.75,3,162
+6184538,Wyndham/Worldmark Santa Barbara- Studio,30787515,Brooke,,Pompano Beach,26.22235,-80.09084,Entire home/apt,126,2,8,2020-01-02,0.14,24,161
+6198306,Golden isles mansion,32142847,David,,Hallandale Beach,25.98004,-80.1327,Entire home/apt,1998,3,55,2020-03-16,0.86,1,152
+6210339,Global Rent Apart Costa H 4 Pax Partial Ocean View,11509065,Marcos,,Hollywood,26.01712,-80.11821,Entire home/apt,145,2,11,2020-09-07,0.19,6,245
+6218963,Maison Soleil / Sunny House,32114005,Frank,,Hollywood,26.00327,-80.13341,Entire home/apt,80,2,88,2020-09-20,1.49,1,144
+6231165,Sunny Twin Daybed 9min to Beach/Boca Rsrt,22267267,Dee,,Lighthouse Point,26.26563,-80.09797,Private room,43,90,24,2019-12-31,0.37,2,365
+6258979,HomeAtSun: Ocean Line Beach Access. Near Malls,32410590,Chris,,Hollywood,25.98869,-80.11806,Entire home/apt,173,4,139,2020-10-01,2.12,2,336
+6273056,Beautiful Mid Century Modern Home,32287696,Rocco,,Wilton Manors,26.15487,-80.14163,Entire home/apt,400,60,2,2015-07-17,0.03,1,253
+6276494,A Delray Beach feel in Deerfield Beach,29589820,Cabana Carioca,,Deerfield Beach,26.31912,-80.07777,Entire home/apt,106,2,22,2020-09-07,0.38,3,265
+6276635,A Miami feel in Deerfield Beach,29589820,Cabana Carioca,,Deerfield Beach,26.32,-80.0777,Entire home/apt,108,2,43,2020-10-02,0.73,3,235
+6277062,A  Key West feel in Deerfield Beach,29589820,Cabana Carioca,,Deerfield Beach,26.31999,-80.07676,Entire home/apt,213,2,28,2020-09-28,0.48,3,235
+6292291,"Departament 2/2, Seaview, Wifi, Parking",32600582,Marcelo,,Hallandale Beach,25.97784,-80.11839,Entire home/apt,200,15,0,,,1,152
+6301091,Comfy Sleep Sofa in living room for week stay,7508996,Jim,,Fort Lauderdale,26.13533,-80.12172,Shared room,39,1,36,2019-08-02,0.57,1,10
+6304834,PRIVATE TWO BEDROOM HOUSE WITH POOL ACCESS!,29345759,Jim,,Fort Lauderdale,26.11564,-80.13506,Entire home/apt,108,1,233,2019-07-10,3.51,8,126
+6342762,DEPTO FRENTE AL MAR ALEXANDER TOWER,33032674,Gisela,,Hollywood,25.9922,-80.11836,Entire home/apt,180,29,2,2015-09-22,0.03,1,363
+6342964,❤️#1: Sunny & Quiet 1BR With Private Patio,4246703,Matthew,,Fort Lauderdale,26.13964,-80.129,Entire home/apt,62,1,309,2020-09-20,4.67,43,88
+6362843,HistoricDOWNTOWNHollywood-1 bdrm suite (sleep4-6),33150949,Steve,,Hollywood,26.01004,-80.1541,Private room,200,2,6,2017-02-22,0.12,1,180
+6368676,"Private Pool Home, Gay Owners",5984799,Scott,,Fort Lauderdale,26.1508,-80.14185,Entire home/apt,160,4,12,2020-01-07,0.19,1,288
+6373874,Spacious Deluxe Family Suite,20512179,Stefanie Deerfield Beach Vacations,,Deerfield Beach,26.30693,-80.07688,Entire home/apt,96,4,7,2020-07-11,0.11,11,89
+6381557,BEATIFUL APARTMENT ON THE BEACH!,15362033,Ana,,Hollywood,25.98949,-80.11877,Entire home/apt,99,4,24,2020-09-14,0.40,21,36
+6412813,Spacious 2B/2B with Ocean View,31595811,Miami Rent Apart,,Hollywood,25.98826,-80.11877,Entire home/apt,128,1,6,2019-12-16,0.10,49,86
+6414347,"Outdoor Oasis, movie theater room!!",32037451,Lizzy,,Coral Springs,26.29912,-80.211,Entire home/apt,439,3,3,2017-07-21,0.05,1,359
+6414375,One Bedroom Apartment w/pool+ocean.,31595811,Miami Rent Apart,,Hollywood,25.98768,-80.1186,Entire home/apt,121,1,2,2020-06-29,0.20,49,280
+6414649,Gorgeous Hollywood 2BD Awesome Ocean View,31595811,Miami Rent Apart,,Hollywood,25.98975,-80.11731,Entire home/apt,121,1,8,2019-06-17,0.14,49,263
+6414801,Miami Hollywood Great One Bedroom Condo Ocean View,31595811,Miami Rent Apart,,Hollywood,25.98822,-80.11838,Entire home/apt,100,1,2,2020-02-24,0.12,49,117
+6414845,Premier two bedroom with bay view,31595811,Miami Rent Apart,,Hollywood,25.98822,-80.11766,Entire home/apt,128,1,12,2020-10-02,0.19,49,301
+6414897,Classic One Bedroom Apartment,31595811,Miami Rent Apart,,Hollywood,25.98964,-80.11923,Entire home/apt,87,1,3,2020-02-15,0.05,49,334
+6421518,"Spectacular Condo, just renewed!!",12878437,Vicky,,Hollywood,25.98841,-80.11796,Entire home/apt,160,6,13,2020-08-31,0.23,9,364
+6422068,"""The Beach Pad"" in Hollywood Beach Florida",33505761,Rudy & Marina,,Hollywood,26.00136,-80.11716,Entire home/apt,175,3,44,2020-10-25,0.97,1,283
+6422093,Incredible Ocean View!!!,12878437,Vicky,,Hollywood,25.98905,-80.11875,Entire home/apt,180,3,21,2020-07-06,0.34,9,263
+6423199,"Sian, 1 Bedroom, 1 Bath, Toilet",12878437,Vicky,,Hollywood,25.98772,-80.118,Entire home/apt,99,6,2,2016-04-05,0.03,9,365
+6437297,2BR 2 Bath Tropical Getaway,10928483,Erik,,Fort Lauderdale,26.12134,-80.16598,Entire home/apt,135,3,102,2020-07-19,1.54,1,338
+6451079,UPSCALE APARTMENT 1/2 BLK TO THE BEACH -SALT POOL,31472848,Janice,,Pompano Beach,26.25344,-80.0868,Entire home/apt,95,3,9,2020-10-01,0.14,2,207
+6460676,A cozy and quiet place just for you!,33740352,B.,,Oakland Park,26.17116,-80.18134,Private room,70,3,4,2020-03-20,0.40,1,365
+6465493,"LOCATION, LOCATION, LOCATION",33769556,Frank X,,Pompano Beach,26.25629,-80.09044,Entire home/apt,775,3,7,2020-07-19,0.24,1,272
+6481485,Luxury Condo on the Beach with Amazing Ocean Views,7554309,Vitaliy,,Hollywood,25.9873,-80.11862,Entire home/apt,165,4,45,2020-08-11,0.77,3,58
+6486377,GREAT OCEAN VIEW APARTMENT!,15362033,Ana,,Hollywood,25.98761,-80.12036,Entire home/apt,160,4,14,2020-10-13,0.23,21,75
+6513018,Beach/PMP Airport 9m to twin Daybed,22267267,Dee,,Pompano Beach,26.26805,-80.09928,Private room,43,90,22,2020-06-30,0.34,2,232
+6544650,BeachWalk Resort 1 bedroom 1 bath high floor,14014172,David,,Hallandale Beach,25.98624,-80.12343,Entire home/apt,150,1,40,2019-07-07,0.62,1,365
+6553069,"Spacious room, clean, big closet",28313887,Gadisai & Katerina,,Hollywood,26.00161,-80.14251,Private room,38,1,199,2020-10-08,3.11,7,359
+6560553,Fort Lauderdale Yacht and Beach Club,34314465,Michael,,Fort Lauderdale,26.12744,-80.10649,Entire home/apt,166,2,75,2020-05-16,1.17,1,310
+6566097,"""Super Paradise"" Pool, Tiki-Hut and Waterview!",34345742,"Bill, Heidi & Hebi",,Fort Lauderdale,26.20568,-80.1227,Entire home/apt,229,4,4,2018-04-01,0.07,15,78
+6570681,"Beach House, Pompano Beach, Fl",34363035,Guy,,Pompano Beach,26.2516,-80.08858,Entire home/apt,135,3,8,2019-01-04,0.12,1,89
+6572875,Stylish 2 Bedroom Ocean view in Ft. Lauderdale,34378500,Domenic,,Fort Lauderdale,26.13381,-80.10751,Entire home/apt,115,60,2,2019-05-13,0.03,1,268
+6582234,2 BEDROOM CONDO ON THE BEACH,15362033,Ana,,Hollywood,25.98696,-80.11948,Entire home/apt,150,4,9,2020-10-11,0.15,21,87
+6590134,Wyndham Royal Vista -2 bdrm,30787515,Brooke,,Pompano Beach,26.22222,-80.09027,Entire home/apt,170,2,1,2016-02-03,0.02,24,66
+6644230,NEW BEACHWALK unit Ocean view,31610674,Regina,,Hallandale Beach,25.98523,-80.12425,Private room,200,4,0,,,1,174
+6655739,Wyndham Royal Vista- 1 bdrm beach,30787515,Brooke,,Pompano Beach,26.22407,-80.09174,Entire home/apt,133,2,2,2016-01-30,0.03,24,71
+6661977,"Very clean studio, beach: 0.2 mile, F.Lauderdale",28939001,Olivier,,Fort Lauderdale,26.16438,-80.10062,Entire home/apt,110,3,90,2019-12-17,1.50,6,56
+6673439,Viva la Hollywood beach,34927146,Jennifer,,Hollywood,26.00913,-80.17913,Private room,50,1,0,,,1,365
+6704149,"BEST ROOM FOR 2, POOL HOUSE CLOSE TO AIR/SEA PORT!",29345759,Jim,,Fort Lauderdale,26.10738,-80.13599,Private room,55,1,331,2019-06-15,5.08,8,126
+6711474,Palm-Aire Resort 1 or 2 Bedrooms,638059,Andy,,Pompano Beach,26.22559,-80.15775,Entire home/apt,152,3,18,2020-01-04,0.29,1,313
+6713350,Quiet Tropical House,35146998,Gabriel,,Oakland Park,26.1853,-80.12883,Entire home/apt,115,14,19,2020-09-22,0.41,1,218
+6743571,Beautiful Beachwalk Apartment,7006239,Nathalie,,Hallandale Beach,25.9874,-80.12269,Entire home/apt,200,4,0,,,9,365
+6747353,#1603 - Awesome Beach Front Condo 16th Floor,35291363,Michael,,Hollywood,25.98871,-80.11755,Entire home/apt,129,5,6,2019-05-16,0.17,2,294
+6766308,2080 Oceanfront condo Resort Hollywood Fl,25128918,Sandra,,Hallandale Beach,25.97751,-80.11919,Entire home/apt,180,30,0,,,1,301
+6782554,Fantastic Location in WIlton Manors,35504021,Haim,,Wilton Manors,26.16242,-80.13765,Private room,75,1,18,2020-10-04,0.49,2,365
+6782653,Heart of Wilton Manors,35504021,Haim,,Wilton Manors,26.16107,-80.13806,Private room,75,1,27,2020-09-09,0.79,2,365
+6811740,Luxury Waterfront Villa with Heated Saltwater Pool,368722,Elena And Eugene,,Pompano Beach,26.21635,-80.11557,Entire home/apt,246,13,42,2020-03-22,0.66,1,267
+6812827,Private Room and Bathroom in Heart of S. Florida,20240198,Bill,,Hollywood,26.01152,-80.17048,Private room,54,1,173,2020-03-14,2.65,6,298
+6813242,Guest Studio 3401,34543074,Scott,,Oakland Park,26.17098,-80.12535,Entire home/apt,60,7,89,2020-03-18,1.58,1,110
+6842231,Walk to Beach,118556,Jackye,,Pompano Beach,26.23968,-80.08916,Private room,80,3,4,2016-03-31,0.07,1,362
+6851230,PRIVATE BED/BATH FOR 2--POOL HOUSE!,29345759,Jim,,Fort Lauderdale,26.10614,-80.13661,Private room,5300,1,331,2019-06-15,5.10,8,126
+6851770,BEST ROOM FOR 2/3 IN POOL HOUSE BY AIR/CRUISE PORT,29345759,Jim,,Fort Lauderdale,26.10761,-80.13663,Private room,540,1,272,2019-05-19,4.18,8,126
+6863991,"On the ocean, close to everything",24804528,Nadia,,Hollywood,25.98989,-80.1182,Entire home/apt,225,30,0,,,1,364
+6880748,Villa Espagna Fort Lauderdale Beach,17641570,Lucas,,Fort Lauderdale,26.14101,-80.14,Entire home/apt,116,3,131,2020-10-06,2.05,2,174
+6910081,1bed1bath apt K-size bed &kitchen. Unit 2410A,36211481,Milan,,Hallandale Beach,25.98624,-80.12343,Entire home/apt,94,3,25,2020-10-12,0.49,3,188
+6910090,ExecutiveSuite/Hotel/Standard Room. Unit 2410B,36211481,Milan,,Hallandale Beach,25.98624,-80.12343,Entire home/apt,61,2,45,2020-09-27,0.69,3,234
+6910100,2bed/2bath Apartment. 24th floor,36211481,Milan,,Hallandale Beach,25.98624,-80.12343,Entire home/apt,190,2,39,2020-03-26,0.71,3,249
+6924922,LUXURIOUS APARTMENT WITH INCREDIBLE WATER VIEWS,36293819,Apartment,,Hallandale Beach,25.9874,-80.12286,Entire home/apt,296,3,13,2020-03-01,0.23,3,70
+6936057,House located in Hollywood,36208003,Deniece,,Hollywood,26.02811,-80.15142,Entire home/apt,96,3,76,2020-09-07,1.17,2,278
+6959384,Luxurious pool home close to beach!,31163305,Gabriela,,Fort Lauderdale,26.19762,-80.12917,Entire home/apt,250,30,6,2020-08-28,0.10,2,217
+6971295,Short Walk to Ft Lauderdale Beach,25815098,Laurie,,Fort Lauderdale,26.1365,-80.10739,Entire home/apt,251,3,27,2020-06-05,0.58,1,143
+6987431,OCEANFRONT 3/3 PENTHOUSE ON THE BEACH,2001930,Dmitri,,Hallandale Beach,25.98636,-80.11823,Entire home/apt,289,5,11,2020-09-06,0.23,35,354
+6990227,Clean Downtown Hollywood Apartment.,36649178,Karla,,Hollywood,26.00821,-80.15742,Entire home/apt,98,2,64,2020-03-01,1.00,1,248
+7017750,"CONDO, 1 MILE TO BEACH POOL PARKING & WIFI",899093,Sharone,,Hallandale Beach,25.98151,-80.12491,Entire home/apt,65,14,21,2020-06-27,0.35,6,171
+7022037,Hollywood Beach/Boardwalk/Slice of Heaven Cottage,36807339,Leila,,Hollywood,26.03204,-80.11452,Entire home/apt,134,2,121,2020-08-10,1.91,1,270
+7023644,Private studio.No cleaning fee.6min Port & Airport,30497259,Cynthia,,Fort Lauderdale,26.10767,-80.15156,Entire home/apt,116,2,142,2020-10-04,2.23,10,328
+7032982,"Private blue room (shared bathroom),The Blue House",30497259,Cynthia,,Fort Lauderdale,26.10767,-80.15156,Private room,113,2,23,2019-01-16,0.36,10,297
+7038657,Cozy studio in Hollywood Beach,36906457,Eduardo,,Hollywood,25.99448,-80.11874,Entire home/apt,86,30,0,,,1,264
+7052759,Amazing Unit in the Beach !!,4646341,Estela,,Hollywood,25.99088,-80.1202,Entire home/apt,135,1,4,2018-02-28,0.07,1,365
+7091894,2/1.5 Miami! Tides on Hollywood 8th ocean view!,8988085,Ammos,,Hollywood,25.98971,-80.11827,Entire home/apt,147,3,17,2019-07-06,0.29,12,231
+7125028,Studio steps away from the ocean!,21577390,Maria And Carlos,,Lauderdale By The Sea,26.2123,-80.09203,Entire home/apt,105,5,14,2019-12-17,0.23,1,64
+7133990,Private Beach/large pool/studio,36746072,Margarita,,Fort Lauderdale,26.18087,-80.10031,Private room,71,1,253,2020-07-06,3.97,2,350
+7174374,Villa Marlin Bay F. Lauderdale New Nice Waterfront,36953394,Odd,,Fort Lauderdale,26.16335,-80.10259,Entire home/apt,380,5,35,2020-10-21,0.61,1,230
+7194115,Pompano Bch-minutes from the beach,37337531,Rosa Maria,,Pompano Beach,26.26575,-80.10194,Private room,43,4,50,2020-06-12,0.88,1,360
+7204740,BEACHWALK RESORT 2/2 OCEAN VIEW & BEACH SERVICE,2001930,Dmitri,,Hallandale Beach,25.98513,-80.12214,Entire home/apt,159,7,4,2020-07-26,0.07,35,365
+7226680,Wyndham Palm Aire Resort and Spa,36119859,Michael,,Pompano Beach,26.22724,-80.15822,Entire home/apt,450,7,2,2017-08-22,0.04,1,358
+7235830,Master Suite w/Private Bathroom in Waterfront Home,20240198,Bill,,Hollywood,26.01268,-80.17014,Private room,54,1,41,2020-07-18,0.64,6,178
+7235972,Sunny Zen Room with Double Ocean Views,26931782,Max,,Hollywood,26.00231,-80.11724,Private room,45,30,4,2019-03-08,0.13,2,90
+7239545,Modern Lake House,37904124,Hector,,Fort Lauderdale,26.15151,-80.12057,Entire home/apt,294,3,138,2020-10-11,2.16,2,14
+7256333,The Warehouse Loft,35968244,Romona,,Oakland Park,26.17117,-80.1553,Entire home/apt,100,2,0,,,1,358
+7258829,Dream vacation House/Private pool,35652857,Nikolas,,Plantation,26.13936,-80.28501,Entire home/apt,379,4,60,2020-05-30,1.01,1,155
+7286207,Tropical Waterfront Oasis with Private Park View,38149162,Lary,,Oakland Park,26.16865,-80.16615,Entire home/apt,269,5,78,2020-10-17,1.29,1,230
+7303488,809 South Ocean Drive - Unit A HOLLYWOOD BEACH,38256859,Richard,,Hollywood,26.00731,-80.11779,Entire home/apt,99,6,59,2020-09-16,0.98,4,257
+7305749,Birch Beach Retreat/Beach/Nature Preserve/Pool/BBQ,33869863,Andy,,Fort Lauderdale,26.14907,-80.10281,Entire home/apt,999,3,50,2020-06-15,0.85,4,152
+7305918,Centrally Located Guesthouse w/ Pool,33869863,Andy,,Plantation,26.11591,-80.24394,Entire home/apt,102,7,14,2020-07-06,0.29,4,143
+7322459,Comfortable & Spacious 3BR/2BA,3851540,Alfredo,,Coral Springs,26.23824,-80.28214,Entire home/apt,139,3,89,2020-10-11,1.40,1,274
+7342264,South Florida's finest Apts 2/2,38464088,Fernando,,Hallandale Beach,25.98821,-80.12483,Private room,100,1,0,,,1,365
+7354489,Spacious Condo Room to Share,14888093,Duane,,Wilton Manors,26.15951,-80.13855,Private room,150,1,0,,,1,363
+7368351,Paradise in Hollywood Florida,29518052,Frank,,Hollywood,26.02931,-80.16252,Private room,75,2,247,2020-10-19,3.91,1,133
+7400315,J) Great unit Private court like Miami South B.,38774294,Asi,,Dania Beach,26.04531,-80.14328,Private room,56,1,71,2020-10-24,1.14,18,363
+7400949,LARGE 2/2 CONDO IN HOLLYWOOD BEACH,2001930,Dmitri,,Hollywood,25.98872,-80.11897,Entire home/apt,249,20,0,,,35,164
+7453324,Niko's Beach Home,8158649,Nikolas,,Deerfield Beach,26.30536,-80.08915,Entire home/apt,122,20,23,2020-10-23,0.40,1,266
+7454691,My place is a Home away from Home.,39041457,Carol,,Miramar,25.98339,-80.24052,Private room,170,2,8,2020-03-15,0.74,1,179
+7454839,B) BRAND NEW FULLY EQUIPPED STUDIO HOLLYWOOD BEACH,38774294,Asi,,Dania Beach,26.04589,-80.14324,Entire home/apt,68,1,15,2020-09-20,0.23,18,359
+7461975,Private Bdrm & Bath For Two Guests,3246027,Chris,,Fort Lauderdale,26.14173,-80.12907,Private room,51,2,372,2020-10-18,5.82,3,359
+7462545,H) FLL AIRPORT CRUISE PORT PRIVATE UNIT QUEEN BED,38774294,Asi,,Dania Beach,26.04509,-80.14451,Private room,52,1,12,2020-09-28,0.21,18,88
+7462756,M) Private  full shower CLOSE MIAMI / HOLLYWOOD FL,38774294,Asi,,Dania Beach,26.05521,-80.14419,Private room,56,1,35,2020-07-31,0.55,18,86
+7478170,Perfect situated at Pompano beach!,39158665,Fia,,Lauderdale By The Sea,26.21313,-80.09225,Entire home/apt,105,6,19,2020-04-06,0.34,1,346
+7481811,K) HOTEL PRIVATE UNIT CLOSE MIAMI S. BEACH FLL,38774294,Asi,,Dania Beach,26.04393,-80.14352,Private room,52,1,112,2020-10-18,1.76,18,361
+7481982,L) MIAMI BEACH SOUTH BEACH STYLE UNIT SUPER CLEAN,38774294,Asi,,Dania Beach,26.04317,-80.14338,Private room,52,1,20,2019-03-06,0.33,18,363
+7498052,E) UNIQUE QUEEN LOOK UNIT #7 FULLY RENOVATED,38774294,Asi,,Dania Beach,26.04511,-80.14232,Private room,66,1,105,2020-10-10,1.70,18,363
+7510060,G) HOLLYWOOD BEACH MIAMI  STYLE  HOTEL TYPE 5 star,38774294,Asi,,Dania Beach,26.04358,-80.14436,Private room,52,1,15,2018-08-11,0.25,18,88
+7512686,Condo sobre el mar en Hollywood  - 1 Dormitorio,22656773,Marcelo,,Hollywood,25.98842,-80.11922,Entire home/apt,113,3,5,2020-03-10,0.26,13,21
+7516662,I) CLOSE TO MIAMI  SOUTH BEACH HOLLYWOOD STYLE,38774294,Asi,,Dania Beach,26.03914,-80.14387,Private room,52,1,72,2019-07-22,1.16,18,363
+7542920,Hollywood Beach Getaway,37085054,Paula,,Hollywood,26.01062,-80.11721,Entire home/apt,465,3,8,2020-01-07,0.16,1,365
+7560967,Charming Private Room w/Canal Views in S. Florida,20240198,Bill,,Hollywood,26.01097,-80.17028,Private room,54,1,386,2020-03-16,6.04,6,298
+7572717,Exquisite Lush Victoria Park Apart.,20065593,Reinaldo (Rei),,Fort Lauderdale,26.12748,-80.12529,Entire home/apt,72,30,7,2020-07-20,0.11,4,76
+7580259,"Beach, Yachting, Convention Center",5964617,Filiz,,Fort Lauderdale,26.10586,-80.13569,Entire home/apt,52,2,198,2020-10-08,3.16,2,358
+7588347,Adorable Cottage in Hollywood,39646463,Robin,,Hollywood,26.00544,-80.13751,Entire home/apt,50,2,233,2020-07-31,3.67,2,316
+7650673,PLANTATION PARADISE..SLEEPS 16.. 5 bedroom 3 bath,37038660,Taylor,,Plantation,26.12075,-80.22854,Entire home/apt,362,2,107,2020-10-11,1.69,17,341
+7664146,private condo with golf/ water view,40231235,Marc,,Pompano Beach,26.21061,-80.18539,Entire home/apt,99,3,5,2019-06-02,0.13,1,335
+7676175,Private Room in Waterfront Home,40304535,Sonia,,Sunrise,26.15533,-80.28081,Private room,200,2,52,2020-02-19,0.87,3,360
+7692530,Miami Hollywood One Bedroom + Ocean View,31595811,Miami Rent Apart,,Hollywood,25.98997,-80.12082,Entire home/apt,100,1,1,2018-05-13,0.03,49,117
+7708675,Hollywood Condo with Ocean view,31595811,Miami Rent Apart,,Hollywood,25.98759,-80.11945,Entire home/apt,100,1,4,2020-03-17,0.09,49,295
+7715463,Excellent Direct Ocean View,3463815,Nelson,,Hollywood,25.98865,-80.11782,Entire home/apt,165,3,1,2015-11-16,0.02,2,333
+7724580,Wyndham or Worldmark Santa Barbara-2 bdrm,30787515,Brooke,,Pompano Beach,26.22021,-80.09279,Entire home/apt,178,2,2,2016-01-02,0.03,24,71
+7731519,Centrally Located Fort Lauderdale Home,24917148,Sandy,,Fort Lauderdale,26.10267,-80.16264,Private room,500,1,0,,,1,89
+7743294,Hollywood Condo + Incredible View,31595811,Miami Rent Apart,,Hollywood,25.9876,-80.1181,Entire home/apt,100,1,2,2020-01-18,0.09,49,93
+7743542,Hollywood Condo for 4 People,31595811,Miami Rent Apart,,Hallandale Beach,25.98703,-80.11793,Entire home/apt,121,1,2,2019-05-14,0.10,49,86
+7744666,Hollywood Condo with great Bay View,31595811,Miami Rent Apart,,Hollywood,25.98762,-80.11997,Entire home/apt,87,1,1,2015-11-09,0.02,49,244
+7746511,Hollywood Condo 2BD w/Ocean View,31595811,Miami Rent Apart,,Hollywood,25.98924,-80.11989,Entire home/apt,121,1,16,2020-08-30,0.33,49,214
+7746963,Excellent Hollywood 2BD Condo,31595811,Miami Rent Apart,,Hollywood,25.98915,-80.11821,Entire home/apt,121,1,27,2020-10-19,0.58,49,293
+7747235,Great Hollywood 2BD Condo,31595811,Miami Rent Apart,,Hollywood,25.98743,-80.11983,Entire home/apt,121,1,27,2020-09-19,0.62,49,271
+7747442,Miami Hollywood High Rise Condo,31595811,Miami Rent Apart,,Hollywood,25.98876,-80.11997,Entire home/apt,120,1,8,2020-09-17,0.25,49,307
+7750334,2 bed/1 bath house_No cleaning fee_6min to AirPort,30497259,Cynthia,,Fort Lauderdale,26.10767,-80.15156,Private room,239,2,9,2020-03-12,0.15,10,299
+7786129,Beach Life Hollywood (Wynwood Seas),40970353,Marcus,,Hollywood,26.01076,-80.11659,Entire home/apt,99,3,1,2016-05-04,0.02,1,283
+7787415,Penthouse Ocean View,40979720,Fala,,Fort Lauderdale,26.12524,-80.10455,Entire home/apt,271,1,9,2020-02-18,0.14,4,254
+7806651,Large Artful Master Bedroom w/ Bath- Hot Breakfast,41093189,Mary,,Hollywood,26.00133,-80.15763,Private room,53,30,43,2020-10-21,0.73,1,339
+7815065,Special offer!,41143029,Natalia,,Deerfield Beach,26.32075,-80.07679,Entire home/apt,290,180,4,2019-03-29,0.07,1,365
+7821906,Private room and bathroom,41082775,Victor,,Sunrise,26.16024,-80.28332,Private room,67,1,0,,,1,365
+7823814,Magnifique condo près de l'eau,41193101,Alain,,Hallandale Beach,25.98171,-80.12673,Entire home/apt,95,7,7,2018-08-21,0.11,2,332
+7878453,Room with private bathroom,10392690,Pochita,,Pembroke Pines,26.02177,-80.26645,Private room,60,3,10,2019-03-16,0.18,4,365
+7916055,Mark Prince Apt 1 Monthly Rental,41740769,Mark,,Hallandale Beach,25.99171,-80.14363,Entire home/apt,60,30,14,2020-09-30,0.24,4,160
+7929606,2BR Amazing Water Front Condo with Kitchen,1833853,Ricardo,,Hallandale Beach,25.9858,-80.12364,Entire home/apt,199,3,36,2020-03-12,0.59,116,179
+7984219,2-Bedroom Apartment steps away from Beach,16137389,Matthew,,Fort Lauderdale,26.13643,-80.10719,Entire home/apt,129,3,29,2020-10-12,0.48,2,239
+8023794,COVID-19 SANITIZED-Quiet Oasis-Private Studio/Pool,21590032,Allen,,Oakland Park,26.16909,-80.13368,Entire home/apt,110,4,174,2020-10-13,2.78,1,217
+8029800,1-Bedroom Apartment steps away from Beach,16137389,Matthew,,Fort Lauderdale,26.13612,-80.10622,Entire home/apt,99,3,15,2018-11-03,0.25,2,289
+8035421,Beautiful condo on the water,41193101,Alain,,Hallandale Beach,25.98211,-80.12676,Entire home/apt,95,7,6,2020-01-31,0.12,2,365
+8036429,UNIQUE PENTHOUSE CONDO WITH PRIVATE TERRACE,42431030,Ness,,Hallandale Beach,25.98524,-80.1229,Entire home/apt,364,1,94,2020-10-04,1.59,2,136
+8054708,Single Family bungalow with Private Pool!,17333190,Alex,,Pompano Beach,26.2413,-80.09065,Entire home/apt,152,2,74,2020-09-28,1.26,1,17
+8090583,"Mark Prince Apt 2, Monthly Rental",41740769,Mark,,Hallandale Beach,25.99035,-80.14479,Entire home/apt,53,30,7,2018-10-31,0.14,4,262
+8093626,HERMOSO APARTAMENTO DE PLAYA!,15362033,Ana,,Hollywood,25.98719,-80.1195,Entire home/apt,150,4,7,2020-01-30,0.12,21,90
+8116053,Magnificent ocean view,42855939,Anna,,Hollywood,25.99011,-80.11784,Entire home/apt,109,30,3,2019-09-02,0.06,1,210
+8131666,nice room with bath,42844970,Stephen And Liza,,Unincorporated,26.1218,-80.17544,Private room,51,3,83,2020-03-13,1.37,3,87
+8149468,Ft Lauderdale/Walk to the beach /,33870641,Willie,,Fort Lauderdale,26.18207,-80.1026,Entire home/apt,511,4,14,2020-05-31,0.23,4,243
+8153249,2 Bed / 2 Bath Penthouse Condo - Fort Lauderdale,43045646,Mark,,Lauderhill,26.17468,-80.24362,Entire home/apt,27,5,12,2020-08-22,0.20,1,331
+8165661,Private RM in Waterfront Home,40304535,Sonia,,Sunrise,26.15437,-80.28095,Private room,180,2,37,2018-12-30,0.63,3,332
+8167374,Close to the beach/private bathroom,43103479,Juan,,Hallandale Beach,25.98861,-80.12522,Private room,35,30,27,2017-12-15,0.45,1,337
+8170056,Townhouse accommodations.   We also speak Spanish,29864373,Dolores,,Sunrise,26.15319,-80.2816,Private room,55,1,45,2020-02-28,0.75,2,178
+8192465,Townhouse with private bdrm/kingbed,29864373,Dolores,,Sunrise,26.15319,-80.2816,Private room,55,1,27,2020-02-16,0.46,2,364
+8283564,A piece of Jamaica in Ft Lauderdale,43677268,MaMa Del,,Sunrise,26.14785,-80.23409,Private room,32,3,68,2020-03-29,1.11,1,292
+8293894,Bella Acqua,43730536,William,,Pompano Beach,26.2449,-80.09579,Entire home/apt,332,7,0,,,1,251
+8312780,super clean private garden guest house near beach,32502523,Susan Vanessa,,Hollywood,26.00774,-80.13811,Entire home/apt,139,2,27,2019-12-08,0.44,2,36
+8322200,"1BR/1BA, King Bed, private entrance",25705253,Paul And Bill,,Oakland Park,26.16878,-80.12459,Entire home/apt,89,3,122,2020-03-22,1.96,2,301
+8340556,AMAZING 2 BEDROOM UNIT RIGHT ACROSS THE BEACH!,39375078,Alejandro,,Hallandale Beach,25.98519,-80.1245,Entire home/apt,244,1,29,2017-06-11,0.47,2,365
+8351419,Penthouse at the Ocean Manor Hotel,44018370,Samantha,,Fort Lauderdale,26.17838,-80.09767,Private room,463,2,29,2020-08-22,0.47,11,350
+8352103,2 Bedroom Oceanfront Tides,25080373,Sergei,,Hollywood,25.98937,-80.11905,Entire home/apt,119,3,114,2020-09-28,1.85,1,179
+8370844,Renovated Private Room With Private Bath,44119005,Hernan &,,Sunrise,26.17458,-80.25454,Private room,35,1,26,2019-01-25,0.69,2,354
+8370952,Piso 15G - Amazing Sea View 2-bedrooms Apartment,8790381,Natalia,,Hollywood,25.98792,-80.1187,Entire home/apt,171,3,22,2020-03-15,0.37,17,358
+8371055,Piso 11D- Delicate and Cozy Apartment on the Beach,8790381,Natalia,,Hollywood,25.98818,-80.11947,Entire home/apt,115,4,16,2020-03-11,0.27,17,316
+8383485,Master in Fort lauderdale (Golf Court view),5514632,Tony,,Lauderhill,26.1779,-80.22583,Private room,39,5,11,2019-09-28,0.19,12,174
+8388533,Beautiful! 1min walk to the beach!,19850515,Albert,,Hollywood,26.00673,-80.1165,Entire home/apt,90,2,216,2020-08-26,3.61,1,160
+8392313,1 BR Studio Near Hard Rock/Shopping,44221216,Cindy,,Pembroke Pines,26.02222,-80.24133,Entire home/apt,55,2,231,2020-09-08,3.72,1,171
+8400449,Beautiful Oceanfront Hotel room!!!,44018370,Samantha,,Fort Lauderdale,26.17891,-80.09741,Private room,138,1,52,2020-07-05,0.84,11,365
+8401262,OASIS @ Ft Lauderdale (Double Beds),43304588,Oasis Hotel,,Fort Lauderdale,26.10831,-80.13734,Private room,79,1,12,2019-11-03,0.20,4,365
+8401626,Cozy Apt with lake view,11068214,Ronald,,Miramar,25.97051,-80.36006,Entire home/apt,120,30,1,2020-03-31,0.14,5,317
+8429396,Great Beachfront Suite (b/w Miami & Ft Lauderdale),44392538,Irina,,Hallandale Beach,25.98634,-80.11875,Entire home/apt,92,10,27,2020-07-06,0.64,1,142
+8445493,Great 3 Bedrooms / 3 Baths Pool Home by the Beach,38718311,Ernesto,,Hallandale Beach,25.99569,-80.13716,Entire home/apt,134,2,115,2020-10-18,2.01,4,305
+8458106,BEACHWALK RESORT PENTHOUSE OCEAN VIEW 2 BEDROOM,2001930,Dmitri,,Hallandale Beach,25.98648,-80.12442,Entire home/apt,175,7,2,2020-07-08,0.04,35,349
+8505389,BEACH RESORT FORT LAUDERDALE 1008,44516129,Mike,,Fort Lauderdale,26.13046,-80.10334,Entire home/apt,129,5,48,2020-08-02,1.02,6,345
+8518622,5-stars/Wilton Manors/Outdoor Shower/Hot Tub/Pool,38557939,Harvey,,Wilton Manors,26.15979,-80.15101,Entire home/apt,139,2,22,2019-12-14,0.37,2,317
+8518679,Casa 25- Wilton Manors,8760922,Mark,,Wilton Manors,26.15908,-80.13736,Entire home/apt,300,3,46,2020-10-10,0.75,1,288
+8520901,1 BR Apart. Close Hollywood beaches-Aventura Mall,40509995,Nabila,,Hollywood,26.00268,-80.15529,Entire home/apt,65,3,156,2020-08-16,3.28,2,365
+8523803,Cozy Studio close to Hard Rock hotel and beaches.,44881861,Lissette,,Hollywood,26.02639,-80.21087,Entire home/apt,56,2,238,2020-10-16,3.91,2,362
+8530490,1/ 1.5 Ocean Front Beautiful Modern apartment !,44882835,Gina,,Hallandale Beach,25.98067,-80.11909,Entire home/apt,150,90,0,,,1,364
+8540230,Adorable Beach House with Private Pool Oasis,44960504,Stefanie,,Deerfield Beach,26.31177,-80.07912,Entire home/apt,285,2,25,2020-09-27,0.47,2,138
+8546276,WALK TO BEACH~ 2 BEDROOM HOUSE & POOL,44960504,Stefanie,,Deerfield Beach,26.31021,-80.07998,Entire home/apt,296,3,16,2020-09-14,0.27,2,166
+8555509,Bimini Breeze Apt.2 - pool- beach,8556229,Ofir,,Pompano Beach,26.2358,-80.10071,Entire home/apt,54,3,69,2020-10-08,1.12,4,354
+8565802,THE TIDES OCEANFRONT 2/2 ON 12TH FL,2001930,Dmitri,,Hollywood,25.98925,-80.11878,Entire home/apt,249,10,1,2016-01-09,0.02,35,365
+8576391,Amazing Beachfront Hollywood Beach,45136953,Isabel,,Hallandale Beach,25.97709,-80.12076,Entire home/apt,95,90,0,,,1,359
+8581504,Hollywood Beach Broadwalk Retreat,34607189,Nancy,,Hollywood,26.0307,-80.11416,Entire home/apt,139,5,14,2020-09-13,0.48,1,263
+8588663,2 STUDIOS FOR RENT FREE PARKING HBO WIFI INTERNET,45200347,"Jessie ,Dalia",,Hollywood,26.02836,-80.11488,Entire home/apt,112,5,14,2019-11-15,0.23,2,365
+8596497,Spacious Beach Front 2/2 with Ocean Views,45239759,Elena,,Hallandale Beach,25.97794,-80.12026,Entire home/apt,189,10,0,,,1,364
+8664543,Studio on Hollywood Beach Inside Vintage Hotel,10704712,Michel,,Hollywood,26.01124,-80.11784,Entire home/apt,58,3,90,2020-10-07,1.49,1,364
+8704213,"Comfortable room close to Aventura, no car needed",28313887,Gadisai & Katerina,,Hollywood,26.0011,-80.14368,Private room,35,1,202,2020-10-11,3.38,7,1
+8710652,Remodeled ocean front Apartment. $200 - $360 A/S.,45723408,Alenka,,Deerfield Beach,26.31308,-80.07695,Entire home/apt,200,6,91,2020-10-18,1.63,1,280
+8724077,AMPLIO APARTAMENTO SOBRE LA PLAYA,15362033,Ana,,Hollywood,25.98924,-80.11892,Entire home/apt,150,4,14,2020-06-17,0.23,21,115
+8739296,Beach Villa Cottage- Steps to Beach,45847104,Al,,Deerfield Beach,26.31994,-80.077,Entire home/apt,113,3,44,2020-03-07,0.75,5,249
+8743008,"Location, location location!!",26211999,Richard,,Fort Lauderdale,26.16199,-80.10375,Entire home/apt,95,90,0,,,1,237
+8756116,Luxury Apartment at Beachwalk Resort #2701,29934331,Real,,Hallandale Beach,25.9847,-80.12643,Entire home/apt,300,3,171,2020-06-22,2.83,2,304
+8758628,2080 LUXURY 2/2 OCEANFRONT ON 15FL,2001930,Dmitri,,Hallandale Beach,25.9785,-80.11833,Entire home/apt,299,20,0,,,35,365
+8760450,Spectacular Beach Condo!!!,45939852,Lorena,,Hollywood,25.98854,-80.11839,Entire home/apt,103,7,119,2020-10-09,1.98,2,125
+8773533,COZY 1bedroom CONDO POOL PARKING WIFI NEAR BEACH,899093,Sharone,,Hallandale Beach,25.996,-80.13648,Entire home/apt,58,5,43,2020-07-31,0.73,6,151
+8774131,Beautiful Pool Home in Heart of FLL,14501987,Andy,,Fort Lauderdale,26.1487,-80.12852,Entire home/apt,225,4,81,2020-10-12,1.35,20,261
+8793214,Beautiful Beachfront Apartment!,26739682,Javier,,Hollywood,25.98838,-80.11746,Entire home/apt,135,3,3,2020-10-05,0.06,1,313
+8794140,Brand New *Coral Modern Villa*!Heated Pool!Beach!,46085009,Inessa,,Fort Lauderdale,26.19017,-80.12009,Entire home/apt,186,3,74,2020-09-11,1.22,1,271
+8800457,East of US1❤️1 King+2 Double Beds❤️Near Beach,46114409,Diana,,Pompano Beach,26.23004,-80.09755,Entire home/apt,196,4,21,2020-10-04,0.43,3,27
+8806727,Great Deal!-Beachfront Dream Condo(MTHLY SPCLS),46141322,Scott,,Fort Lauderdale,26.1787,-80.09655,Entire home/apt,120,3,53,2020-08-23,0.90,1,257
+8820178,"PRIVATE NONSMOKING ROOM MIAMI, MIRAMAR AREA, FL",46203370,Magaly,,Miramar,25.9899,-80.27775,Private room,66,1,61,2019-04-01,1.02,2,266
+8900784,Fort Laud Penthouse semi-panoramic,46559517,Craig,,Fort Lauderdale,26.13814,-80.10906,Entire home/apt,185,3,5,2019-05-10,0.08,1,188
+8918724,Downtown Hollywood Apartment,14684610,,,Hollywood,26.01596,-80.14198,Entire home/apt,94,3,114,2020-03-11,1.89,3,365
+8948411,Wyndham/ Worldmark Sea Gardens-2  bdrm sleep 6,30787515,Brooke,,Pompano Beach,26.2418,-80.08904,Entire home/apt,176,2,7,2019-05-17,0.12,24,71
+8952035,HOLLYWOOD BEACH STUDIO,45200347,"Jessie ,Dalia",,Hollywood,26.00809,-80.11589,Entire home/apt,90,4,4,2019-11-08,0.23,2,279
+8952986,NW Broward,46793801,Glenn,,Coconut Creek,26.26952,-80.18972,Private room,100,2,0,,,1,88
+8964480,Studio- Disinfected!,46849626,Judy,,Pembroke Pines,26.01428,-80.26458,Entire home/apt,58,1,292,2020-09-27,5.02,1,169
+8971607,Paradise soft and quite # I  (Woman Only),46860327,Gloria,,Pembroke Pines,26.00525,-80.35636,Private room,31,7,21,2020-07-31,0.35,2,166
+8978022,Direct Beachfront Deerfield Beach,46912614,Andrea,,Deerfield Beach,26.3198,-80.07612,Entire home/apt,140,7,1,2015-11-27,0.02,1,16
+8993175,VILA LION 1 . . DREAMERS PARADISE. 3 BEDROOMS HOME,37038660,Taylor,,Dania Beach,26.06763,-80.18676,Entire home/apt,450,2,38,2020-03-31,0.69,17,343
+8994641,VILA LION 2 .. DREAMERS OASIS 4/2,37038660,Taylor,,Dania Beach,26.06677,-80.18677,Entire home/apt,401,2,63,2020-02-03,1.05,17,342
+9009043,Villa Bliss vacation pool home,9743916,Michelle,,Fort Lauderdale,26.1916,-80.10798,Entire home/apt,789,4,5,2020-07-09,0.11,5,298
+9018078,2BR/2BA A1A Location Enjoy the Beach,5341075,Tim And Carla,,Pompano Beach,26.2152,-80.09287,Entire home/apt,75,30,0,,,1,179
+9044616,Priv. 3 Rm Cottage|Ft. Lauderdale -175 FIVE STARS,38557939,Harvey,,Wilton Manors,26.16078,-80.15155,Entire home/apt,139,2,55,2020-10-21,0.96,2,313
+9047254,HERMOSO DEPARTAMENTO  EN BEACHWALK,47055244,Jose,,Hallandale Beach,25.9858,-80.12294,Entire home/apt,220,3,46,2019-05-13,0.76,1,176
+9081074,Wilton2403/BestLocationEver,47357695,Andy,,Wilton Manors,26.15839,-80.13569,Entire home/apt,75,3,58,2020-10-11,0.99,1,357
+9087908,Studio guestroom off Wilton Dr. with free parking,47388915,Joe,,Wilton Manors,26.15741,-80.13764,Private room,54,1,36,2020-02-23,0.62,1,23
+9095644,☀MODERN LOFT☀HUGE 2 MASTER SUITES ✪Beach✪Downtown✪,47422726,John,,Fort Lauderdale,26.1106,-80.14721,Entire home/apt,100,4,96,2020-09-13,1.59,1,316
+9110396,Entire oceanfront apartment in Hollywood,15225187,Angela,,Hollywood,25.98763,-80.11909,Entire home/apt,180,5,15,2019-06-29,0.40,1,275
+9148598,Wyndham or Worldmark Palm Aire 1 bdrm condo,30787515,Brooke,,Pompano Beach,26.22479,-80.15656,Entire home/apt,138,2,6,2020-02-03,0.10,24,161
+9187946,Private apartment in the house on the water,46328934,Valerie S.,,Fort Lauderdale,26.20034,-80.12783,Private room,150,3,93,2020-02-25,1.54,2,364
+9233679,Luxury Condo with Ocean View!!!,27270283,Tatiana,,Hallandale Beach,25.98457,-80.11933,Entire home/apt,120,14,6,2019-11-30,0.24,1,321
+9240059,Beautiful Modern Beach Penthouse,48024310,Sharon,,Hollywood,25.99012,-80.11925,Entire home/apt,140,3,117,2020-08-29,2.03,1,338
+9255536,Studio at the Beach Resort,5611017,Sergio,,Hollywood,26.01207,-80.11728,Entire home/apt,63,7,31,2020-09-30,0.53,20,47
+9259162,Modern A1A Private Apt #20A Walk to Beach,17038077,Maxima,,Pompano Beach,26.22379,-80.0928,Entire home/apt,155,5,39,2020-10-12,0.84,13,116
+9268893,Modern A1A Private Apt #18A Walk to Beach,17038077,Maxima,,Pompano Beach,26.22389,-80.09298,Entire home/apt,155,5,36,2020-09-16,0.70,13,160
+9270618,Singer House on the Water,48151099,Karen,,Fort Lauderdale,26.12586,-80.12275,Entire home/apt,253,2,107,2020-09-20,1.83,7,155
+9271092,Private Entrance Studio Apt #18B - Walk to Beach,17038077,Maxima,,Pompano Beach,26.22389,-80.09298,Entire home/apt,68,5,22,2020-10-06,0.40,13,124
+9272089,Private Entrance Studio Apt #20B - Walk to Beach,17038077,Maxima,,Pompano Beach,26.22402,-80.09274,Entire home/apt,68,5,16,2020-09-03,0.44,13,155
+9300961,"Hollywood Beach, Private Efficiency",48266999,Ron,,Hollywood,26.03073,-80.15512,Private room,49,21,14,2020-02-02,0.24,1,270
+9316986,Welcome to Florida!,48358115,Tania,,Davie,26.06423,-80.36096,Private room,69,2,0,,,2,365
+9317017,Room close to Sawgrass Mall,48358115,Tania,,Davie,26.07612,-80.25112,Private room,80,2,0,,,2,365
+9319597,Beautiful East Hollywood Home,48372398,Ashley,,Hollywood,26.00107,-80.13717,Entire home/apt,275,14,0,,,1,89
+9333578,Private Apt by Aventura&Gulfstream ShopDineBeach,29052580,Isa,,Hallandale Beach,25.98135,-80.16045,Entire home/apt,55,1,98,2019-06-09,2.53,1,134
+9341115,Warm Family Oriented Residence Near Beach,48478784,Dominique,,Pompano Beach,26.22363,-80.11241,Entire home/apt,1000,2,10,2018-02-08,0.17,1,88
+9349584,🥇Victoria Park #3 ~KING~ Las Olas - Beach - Dtown,15735415,Sharonne,,Fort Lauderdale,26.12949,-80.12799,Entire home/apt,102,1,45,2020-09-25,0.75,3,247
+9368937,Gorgeous condo at Beachwalk Resort,28739030,Miriam,,Hallandale Beach,25.98624,-80.12343,Private room,120,7,93,2020-07-20,1.56,1,280
+9372069,Contemporary Condo 1/2 block @Beach,48626885,Antonino,,Fort Lauderdale,26.12846,-80.10394,Entire home/apt,80,30,2,2020-03-30,0.04,1,110
+9373134,Cool 2 Bedrooms in Hollywood,27652346,Jessie,,Hollywood,26.00993,-80.14445,Entire home/apt,50,14,11,2020-08-09,0.19,2,203
+9387656,LUXURIOUS 4/4  HOUSE WITH BOAT DOCK,2001930,Dmitri,,Hollywood,25.9983,-80.121,Entire home/apt,850,30,0,,,35,365
+9393016,MODERN VILLA & POOL/ PERFECT LOCATION/ BEACHES !,29537330,Dan/ Gio,,Hollywood,26.00448,-80.18871,Entire home/apt,896,3,69,2020-10-12,1.18,17,350
+9397854,HERMOSO APARTAMENTO JUNTO AL MAR,15362033,Ana,,Hollywood,25.98767,-80.11873,Entire home/apt,150,4,7,2020-10-09,0.13,21,262
+9404209,"*NEW* Beach Studio, Hollywood Beach Broadwalk!",840481,Pat & Michelle,,Hollywood,26.01458,-80.11547,Entire home/apt,106,5,127,2020-10-02,2.13,2,167
+9427168,Departamento sobre la playa.,48869164,Alquiler,,Hollywood,25.9922,-80.11821,Entire home/apt,120,8,16,2020-02-29,0.29,1,119
+9431137,Vidal Manor,38781529,Jeffrey,,Wilton Manors,26.15989,-80.12596,Entire home/apt,469,2,56,2020-10-01,0.97,20,320
+9433387,Beachside Apartment 30-Day Minimum Lease,31969535,Hugo Fabio,,Fort Lauderdale,26.10767,-80.10771,Entire home/apt,89,30,33,2020-03-31,0.55,3,364
+9444289,Mango Tree Villa,38781529,Jeffrey,,Fort Lauderdale,26.14628,-80.12549,Entire home/apt,479,2,75,2020-10-11,1.30,20,225
+9449143,Mediterranean Manor Deerfield Beach,38781529,Jeffrey,,Deerfield Beach,26.31339,-80.07916,Entire home/apt,308,2,38,2020-10-07,0.64,20,297
+9451574,"$299-5 STAR-5 BEDRM- HEATED POOL,SPA POMPANO BEACH",26043,Sandra,,Pompano Beach,26.25244,-80.09246,Entire home/apt,248,5,26,2020-10-20,0.56,3,332
+9452388,Spacious cozy vacation home with Pool,48974322,Pamela,,Pembroke Pines,26.0141,-80.25382,Entire home/apt,300,4,30,2020-10-13,1.73,1,0
+9457935,East Hollywood-1 bedroom apt,10761771,Lainie,,Hollywood,25.99875,-80.14286,Entire home/apt,45,14,20,2020-09-24,0.33,1,63
+9458686,Queen w/bath (clean & quiet/wifi/cable/Pool/+) 1,48854734,Lubo,,Hollywood,26.02391,-80.16069,Private room,43,3,135,2020-09-26,2.25,2,85
+9461292,Fort Lauderdale Room with Bath,21796999,Stuart,,Oakland Park,26.1652,-80.17859,Private room,65,5,2,2020-02-02,0.04,1,365
+9486385,Gorgeous House On the Water 160,49168573,Mirka,,Pompano Beach,26.21533,-80.11912,Entire home/apt,159,5,0,,,3,335
+9486797,Beautiful House On the Water 910,49168573,Mirka,,Pompano Beach,26.21916,-80.11419,Entire home/apt,285,4,1,2017-12-15,0.03,3,363
+9487340,Beautiful House On The Water 940,49168573,Mirka,,Pompano Beach,26.21722,-80.10612,Entire home/apt,359,5,1,2019-01-04,0.05,3,365
+9489673,Margarita Waterfront Villa,38781529,Jeffrey,,Pompano Beach,26.2172,-80.1032,Entire home/apt,358,2,34,2020-09-15,0.57,20,227
+9491303,Spacious studio; full kitchen centrally located,49193805,Shelley,,Fort Lauderdale,26.10069,-80.13897,Entire home/apt,90,5,8,2019-04-20,0.14,19,347
+9500749,Chappy Waterfront Resort House Ocean  Heated Pool,13077136,James,,Pompano Beach,26.20921,-80.12707,Entire home/apt,306,3,3,2020-03-20,0.10,2,304
+9510744,Paradise at Hallandale Beach Condo!,44888782,Luisa,,Hollywood,25.98721,-80.119,Entire home/apt,148,3,24,2020-03-11,0.42,1,365
+9526037,Beautiful Studio in Hollywood Beach,29068858,Zvia,,Hollywood,26.0289,-80.11491,Entire home/apt,60,4,1,2016-02-28,0.02,2,12
+9530667,Homey room with private bath..,49369900,Kostyantyn,,Fort Lauderdale,26.13422,-80.12913,Private room,99,5,12,2017-03-04,0.20,1,364
+9559233,Flying Fish Waterfront Villa,38781529,Jeffrey,,Oakland Park,26.18602,-80.12911,Entire home/apt,545,2,45,2020-09-04,0.76,20,292
+9575227,Beach Bungalow near Margaritaville,49566617,Ray,,Hollywood,26.01558,-80.11553,Entire home/apt,80,30,4,2019-01-21,0.07,1,364
+9584989,High Vibe Hideaway!,16637376,Ashley,,Hollywood,26.02451,-80.14518,Entire home/apt,49,2,19,2019-12-16,0.32,1,23
+9588318,809 South Ocean Drive - Unit B HOLLYWOOD BEACH,38256859,Richard,,Hollywood,26.00731,-80.11779,Entire home/apt,99,6,56,2020-10-16,0.94,4,265
+9607239,Dec & Feb Available. Enjoy the Beach & Sunshine.,49649161,Frank,,Pompano Beach,26.24916,-80.08823,Entire home/apt,60,2,12,2020-06-21,0.27,2,223
+9610640,"Hallandale, FL Deluxe Apartment 3/3",49726562,Marcelo,,Hallandale Beach,25.98534,-80.12215,Entire home/apt,399,6,22,2020-08-01,0.39,1,83
+9616422,Condo on the beach  Hollywood Beach,49753086,Joanne,,Hollywood,25.98767,-80.11833,Entire home/apt,100,1,0,,,1,365
+9624674,Island Villa Luxury Waterfront Pool,2544500,Barnes,,Wilton Manors,26.15712,-80.12673,Entire home/apt,468,3,42,2020-07-19,0.73,1,250
+9705863,midway bnb in Hollywood florida,50115476,Joe,,Hollywood,26.01024,-80.19303,Private room,80,2,12,2020-02-16,0.20,1,365
+9708918,Junior Queen IVORY Room to relax near the beach !,50049937,Nicolas And Marjorie,,Lauderdale By The Sea,26.18475,-80.09721,Entire home/apt,68,1,95,2020-08-24,1.70,7,342
+9709222,Private penthouse 1b/1b w Deck - By the beach !,50049937,Nicolas And Marjorie,,Lauderdale By The Sea,26.18434,-80.09766,Hotel room,94,2,99,2020-10-09,1.70,7,285
+9710508,Lovely 1b/2b Apt w/Private Patio- By the beach !,50049937,Nicolas And Marjorie,,Lauderdale By The Sea,26.18651,-80.09876,Entire home/apt,88,2,95,2020-09-19,1.65,7,305
+9723781,Coral Springs - Comfortable and Convenient,26169448,Luis Hernán,,Coral Springs,26.25857,-80.26943,Entire home/apt,130,8,12,2020-03-02,0.20,1,364
+9730586,Luxury Modern Family Villa,50211462,Valeria,,Hollywood,26.01076,-80.14065,Entire home/apt,275,1,69,2020-10-20,1.17,6,307
+9735390,"Apart. Studio #1, 30 seconds walk to the beach.",20289352,Sammy,,Hollywood,26.00664,-80.11647,Entire home/apt,112,2,109,2020-10-17,1.83,4,272
+9736888,Double Studio by the Sea- Suite #4,50049937,Nicolas And Marjorie,,Lauderdale By The Sea,26.18582,-80.10305,Hotel room,78,1,102,2020-09-28,1.75,7,354
+9748782,2 Room Apt#2 only  30 seconds walk to the Beach,20289352,Sammy,,Hollywood,26.00676,-80.11627,Entire home/apt,110,2,25,2020-06-04,0.43,4,244
+9752527,"Beachfront Building 11th Floor, micro & fridge",26707196,Janice,,Hollywood,26.0123,-80.11683,Entire home/apt,85,5,6,2019-04-10,0.11,1,14
+9758394,2 Room Apt#3 only 30 seconds. walk to Beach,20289352,Sammy,,Hollywood,26.00811,-80.11762,Entire home/apt,110,2,50,2020-07-13,0.84,4,222
+9758877,Apart Studio #4 only 30 seconds walk to the  beach,20289352,Sammy,,Hollywood,26.00749,-80.11771,Entire home/apt,112,2,78,2020-08-31,1.32,4,326
+9769981,Vacation Village At Bonaventure,50374457,Tracy,,Weston,26.12214,-80.38124,Private room,170,6,0,,,1,364
+9774228,"Cozy/private Studio, w/ pool/hottub.close to beach",3880225,Marco,,Fort Lauderdale,26.14265,-80.13182,Entire home/apt,83,1,363,2020-10-19,6.39,1,335
+9777697,809 South Ocean Drive - Unit D HOLLYWOOD BEACH,38256859,Richard,,Hollywood,26.00731,-80.11779,Entire home/apt,99,6,43,2020-09-15,0.79,4,207
+9793712,Wyndham/Worldmark Sea Gardens- 2 bdrm,30787515,Brooke,,Pompano Beach,26.24277,-80.08869,Entire home/apt,168,2,3,2019-03-22,0.05,24,71
+9796742,Beach house with ALL amenities,50486294,Leonard,,Hollywood,26.01286,-80.13336,Entire home/apt,490,15,3,2016-07-18,0.06,1,358
+9804153,Modern private comfortable room w bath & lake view,44675867,Pamela,,Oakland Park,26.16827,-80.18981,Shared room,35,1,44,2020-04-23,0.82,1,309
+9817595,PRIVATE ROOM W/BATH 4 SOLO TRAVELER. NO SMOKING,50571667,Tati,,Sunrise,26.13779,-80.22887,Private room,60,1,3,2020-03-23,0.13,2,283
+9819048,809 South Ocean Drive - Unit C HOLLYWOOD BEACH,38256859,Richard,,Hollywood,26.00731,-80.11779,Entire home/apt,99,6,49,2020-10-11,0.86,4,262
+9822383,Great place in west Pembroke Pines.,3568497,Andrea,,Pembroke Pines,26.02485,-80.37785,Private room,38,4,17,2019-02-08,0.33,2,359
+9825175,Bright Tropical North Cottage! 2 Bed/2 Bath,27966495,Gaia,,Fort Lauderdale,26.11262,-80.15687,Entire home/apt,119,120,16,2020-05-24,0.27,1,211
+9825188,Cozy Private Pool Home 2/1 on Canal,12061448,Larry,,Oakland Park,26.16744,-80.15088,Entire home/apt,188,4,59,2020-03-16,1.01,7,180
+9825355,TROPICAL OASIS in THE COVE,50605021,Mary,,Deerfield Beach,26.31593,-80.08649,Entire home/apt,140,3,40,2020-08-30,0.68,1,250
+9838351,Floral Paradise in Heart of Ft Lauderdale,16214341,Diana,,Fort Lauderdale,26.09904,-80.1574,Entire home/apt,230,5,5,2020-10-05,0.16,1,303
+9843476,Vacation room,50684942,Annie,,Deerfield Beach,26.30112,-80.13316,Private room,57,1,74,2017-04-30,1.28,1,365
+9852270,Central and Charming Sleeps 4!,49193805,Shelley,,Fort Lauderdale,26.10089,-80.13903,Entire home/apt,103,7,12,2020-01-05,0.20,19,346
+9854658,COMFORTABLE ROOM W/ PRIVATE BATH 4 NON-SMOKER,50571667,Tati,,Plantation,26.13796,-80.2606,Private room,60,2,11,2020-03-14,0.19,2,290
