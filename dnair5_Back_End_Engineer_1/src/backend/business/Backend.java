@@ -14,7 +14,8 @@ import java.io.BufferedReader;
 // Team: BC
 // TA: Bri Cochran
 // Lecturer: Florian Heimerl	
-// Notes to Grader: 
+// Notes to Grader: File written by me but some parts were aided by other backend developer and team member. 
+// These parts have been marked with a comment.
 
 public class Backend {
 
@@ -31,13 +32,12 @@ public class Backend {
 		}
 	}
 
-	public static void load() throws FileNotFoundException { // doesn't work yet, need to fix
+	public static void load() throws FileNotFoundException { //loads all the cities into ArrayList
 
 		String home = System.getProperty("catalina.home");
 		String url = home + "/webapps/AirBnB/WEB-INF/classes/data/Cities/Cities.csv";
 
 		try {
-
 			BufferedReader cityReader = new BufferedReader(new FileReader(url));
 
 			String firstLine = cityReader.readLine();
@@ -50,7 +50,7 @@ public class Backend {
 			d.printStackTrace();
 		}
 
-		for (String city : allCities) {
+		for (String city : allCities) { //loads city, airbnbs into HashTable using private method below
 			loadAirbnb(city);
 		}
 
@@ -101,14 +101,14 @@ public class Backend {
 
 	}
 
-	public ArrayList<Airbnb> find(String city) {
+	public ArrayList<Airbnb> find(String city) { //will find all the airbnbs in a city
 		if (city != null && allCities.contains(city)) {
 			return (ArrayList<Airbnb>) roomsInCity.get(city);
 		}
 		return null;
 	}
 
-	public String[] showCities() {
+	public String[] showCities() { //shows all the cities available for the user
 		int count = 0;
 		String[] cities = new String[allCities.size()];
 		for (String city : allCities) {
@@ -118,19 +118,19 @@ public class Backend {
 		return cities;
 	}
 
-	public String get(Airbnb airbnb) {
+	public String get(Airbnb airbnb) { //returns string representation of airbnb
 		return airbnb.getName() + ", " + airbnb.getRoomType() + ", " + airbnb.getCity() + ", " + airbnb.getPrice()
 				+ ", " + airbnb.getMinNights() + ", " + airbnb.getReviews() + ".";
 	}
 
-	public String pickRandomCity() {
+	public String pickRandomCity() { //selects a random city
 		int totalCities = allCities.size();
 		Random rand = new Random(totalCities);
 		return allCities.get(rand.nextInt());
 	}
 
 	public ArrayList<Airbnb> getFilteredListings(boolean cityFlag, boolean priceFlag, boolean reviewsFlag, String city, //taken from Luis/Jacob
-			int floorPrice, int ceilingPrice, int floorReviews, int ceilingReviews, int quantity) {
+			int floorPrice, int ceilingPrice, int floorReviews, int ceilingReviews, int quantity) { //allows user to filter for options
 
 		ArrayList<Airbnb> filteredListings = null;
 		ArrayList<Airbnb> tempList = new ArrayList<Airbnb>();
@@ -196,7 +196,7 @@ public class Backend {
 		return tempList;
 	}
 
-	public ArrayList<Airbnb> getUnfilteredListings(int quantity) { //taken from Luis/Jacob
+	public ArrayList<Airbnb> getUnfilteredListings(int quantity) { //taken from Luis/Jacob, gives unfiltered options
 
 		ArrayList<Airbnb> unfilteredListings = new ArrayList<Airbnb>();
 		ArrayList<Airbnb> tempList = new ArrayList<Airbnb>();
