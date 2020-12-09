@@ -1,8 +1,15 @@
 run: compile
-	@echo "FIXME: *run* should be the default target and compile and execute your code."
+	./../Tomcat/apache-tomcat-7.0.107/bin/startup.bat
+	xdg-open http://localhost:8080/AirBnB
 
 compile: BackEnd.class
-	@echo "Project has compiled"
+	cd AirBnb;
+	jar -cvf AirBnB.war *
+	cp AirBnB.war ../Tomcat/apache-tomcat-7.0.107/webapps
+	cp ../src/backend/business/*.java WEB-INF/classes/backend/business/
+	cp ../src/backend/servlet/*.java WEB-INF/classes/backend/servlet/
+	cp ../src/CS400HashTable/*.java WEB-INF/classes/CS400HashTable/
+	
 	
 BackEnd.class: HashTableMap.class
 	javac backend/buisness/Backend.java

@@ -6,7 +6,7 @@
 // Lecturer: Florian Heimerl
 // Notes to Grader: Assisted by Jacob Lorenz
 
-package pappybuck_test_engineer_1.src.backend.business;
+package backend.business;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
 
-import pappybuck_test_engineer_1.src.CS400HashTable.*;
+import src.CS400HashTable.*;
 
 public class Backend {
 
