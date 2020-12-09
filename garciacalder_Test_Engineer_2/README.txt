@@ -23,7 +23,7 @@ Organized directories and updated makefile to begin construction of the project.
 Contributions Week 3:
 ---------------------
 BackEndTest.java
-Finished the backend test updated Makefile and directories.
+Finished the backend test and updated Makefile and directories.
 
 Files written by me:
 --------------------
