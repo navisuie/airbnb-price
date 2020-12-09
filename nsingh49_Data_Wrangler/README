@@ -20,27 +20,70 @@ Contributions Week 2:
 
 Contributions Week 3:
 ---------------------
-<Replace this with a list your contributions for the week 3 deliverable.
-You can list the java files that you wrote and committed during the first week,
-or the data files your created or worked on. If you haven't written any code or
-other content that your can commit, provide a list of the work that you did
-during week 3. Make sure that all your week 3 contributions and this section
-of the readme are committed and pushed to the GitHub repo by the week 3 deadline
-on 12/08 at 11:59pm CST.>
+<Fixed the csv files, as many of the names and other headers were causing problems in backend
+ Removed some columns from csv files>
 
 Files written by me:
 --------------------
-<List ALL of the source files here that were written by you. Note that each of the
-files must contain correct file headers, including your name, team, and role. List
-files one per line in this section of the README. Only complete this section with
-your final week 3 submission of project four.>
+ReadFile.java
+Asheville.csv
+Austin.csv
+Boston.csv
+Broward.csv
+Cambridge.csv
+Chicago.csv
+Clark County.csv
+Columbus.csv
+Denver.csv
+Hawaii.csv
+Jersey City.csv 
+Los Angeles.csv
+Nashville.csv
+New Orleans.csv
+New York City.csv
+Oakland.csv
+Pacific Grove.csv
+Portland.csv
+Rhode Island.csv
+Salem.csv
+San Diego.csv
+San Francisco.csv
+San Mateo.csv
+Santa Clara.csv
+Santa Cruz.csv
+Seattle.csv
+Twin Cities.csv
+
+Asheville_final.csv
+Austin_final.csv
+Boston_final.csv
+Broward_final.csv
+Cambridge_final.csv
+Chicago_final.csv
+Clark County_final.csv
+Columbus_final.csv
+Denver_final.csv
+Hawaii_final.csv
+Jersey City_final.csv 
+Los Angeles_final.csv
+Nashville_final.csv
+New Orleans_final.csv
+New York City_final.csv
+Oakland_final.csv
+Pacific Grove_final.csv
+Portland_final.csv
+Rhode Island_final.csv
+Salem_final.csv
+San Diego_final.csv
+San Francisco_final.csv
+San Mateo_final.csv
+Santa Clara_final.csv
+Santa Cruz_final.csv
+Seattle_final.csv
+Twin Cities_final.csv
 
 Files submitted with this project that were developed in an earlier project:
 ----------------------------------------------------------------------------
-<If you have any files written by you or your team in your submission that were
-written for an earlier project and that you re-used for project four, replace this
-text with a list of these files. Provide file name and path as well as the project
-that they were originally developed for.>
 BackEnd/HashTableMap.java
 BackEnd/MapADT.java
 Originally developed for Project 1 application.
