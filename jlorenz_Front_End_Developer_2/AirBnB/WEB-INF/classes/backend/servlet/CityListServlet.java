@@ -54,12 +54,9 @@ public class CityListServlet extends HttpServlet {
 
 	        responseString += "\n\t]\n}";
 		} else {
-			
-			String home = System.getProperty("catalina.home");
 			responseString = "{\n";
 	        responseString += "\t\"count\": " + cities.length + ",\n";
 	        responseString += "\t\"cityNames\": []";
-	        responseString += "\t\"home\": \"" + home + "\"";
 	        responseString += "\n}";
 		}
 
