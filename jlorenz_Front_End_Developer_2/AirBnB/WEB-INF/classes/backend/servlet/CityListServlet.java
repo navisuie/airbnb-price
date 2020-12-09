@@ -2,7 +2,7 @@
 // Name: Jacob Lorenz
 // Email: jlorenz2@wisc.edu
 // Team: BC
-// Role: Front End Developer 2
+// Role: Front End Developer 2 
 // TA: Bri Cochran
 // Lecturer: Gary Dahl
 // Notes to Grader: <optional extra notes>
@@ -54,9 +54,12 @@ public class CityListServlet extends HttpServlet {
 
 	        responseString += "\n\t]\n}";
 		} else {
+			
+			String home = System.getProperty("catalina.home");
 			responseString = "{\n";
 	        responseString += "\t\"count\": " + cities.length + ",\n";
 	        responseString += "\t\"cityNames\": []";
+	        responseString += "\t\"home\": \"" + home + "\"";
 	        responseString += "\n}";
 		}
 
