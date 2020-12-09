@@ -1,0 +1,637 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+10262,Secluded 1750's home on 46 acres,35244,Paula,Providence,Glocester,41.86617,-71.72344,Private room,65,1,37,2017-08-31,0.47,1,87
+15373,Adorable Beach Cottage Scarborough Beach RI,60209,Brian,Washington,Narragansett,41.39375,-71.47447,Entire home/apt,100,4,3,2020-08-28,0.89,1,143
+50817,Sanctuary in the Suburbs,233965,Nancy,Providence,Pawtucket,41.88613,-71.35373,Entire home/apt,71,1,146,2019-11-10,1.19,1,315
+51583,Bedroom In a large Victorian Home,237379,Chip,Providence,Providence,41.81244,-71.42076,Private room,51,1,372,2020-08-03,3.05,9,89
+55464,Waterfront Narrow River Spring Summer Fall kayaks!,262000,Kathy,Washington,South Kingstown,41.47079,-71.4498,Entire home/apt,352,7,88,2019-12-15,0.87,1,182
+84167,Great Apartment in East Providence,148703,Michael,Providence,East Providence,41.82809,-71.37655,Entire home/apt,89,2,369,2020-10-18,3.18,2,287
+106617,Charming Guest House on Sakonnet Point,357017,Catherine,Newport,Little Compton,41.47564,-71.17908,Entire home/apt,279,7,49,2020-10-17,0.43,1,92
+111464,Tiverton 4 Corners Schoolhouse No.1,570818,Kristin,Newport,Tiverton,41.56512,-71.18682,Entire home/apt,215,1,110,2020-10-18,1.06,5,0
+112522,"Newport's ""Sweet Spot"" - single, private room",565135,Pamela,Newport,Newport,41.46939,-71.31634,Private room,85,1,191,2020-09-28,1.69,3,365
+116312,An oasis in the heart of Newport.,587743,Maria,Newport,Newport,41.49228,-71.29904,Private room,176,2,237,2019-09-22,2.08,1,263
+152851,Garden Apt Downtown on Thames st.,735167,Patricia,Newport,Newport,41.49294,-71.31524,Private room,250,2,48,2020-09-07,0.43,3,152
+158239,Rose Suite,735167,Patricia,Newport,Newport,41.49268,-71.3164,Private room,225,2,58,2019-10-27,0.57,3,152
+158240,Blue Suite,735167,Patricia,Newport,Newport,41.49228,-71.31454,Private room,225,2,50,2020-07-20,0.49,3,152
+271436,"Conanicut Is., In-Town 2",1420000,John,Newport,Jamestown,41.49668,-71.37645,Entire home/apt,800,4,53,2019-10-14,0.53,2,273
+290088,across street from private beach,1505626,Steve,Washington,Narragansett,41.49921,-71.44592,Entire home/apt,214,7,1,2013-03-22,0.01,1,365
+300955,Rural Rhode Island Get Away,1550201,Susan,Washington,Richmond,41.46264,-71.69882,Private room,61,2,30,2018-08-12,0.30,1,301
+321168,Victorian House in Newport Walk to Town or Beach,1644425,Nicholas,Newport,Newport,41.50057,-71.30571,Entire home/apt,986,2,39,2020-07-19,0.39,9,360
+345617,Downtown Center Newport Apartment,1644425,Nicholas,Newport,Newport,41.48722,-71.30589,Entire home/apt,124,2,48,2020-10-23,0.76,9,338
+345618,Downtown Mansion Near Beach-Last minute deals,1644425,Nicholas,Newport,Newport,41.48603,-71.30499,Entire home/apt,3007,2,22,2020-10-11,0.24,9,356
+345637,Charming Guest Room off Broadway,1644425,Nicholas,Newport,Newport,41.49967,-71.30564,Private room,124,2,15,2020-09-27,0.62,9,87
+369953,Lux Two bedroom roost,237379,Chip,Providence,Providence,41.812,-71.42035,Entire home/apt,84,2,130,2020-09-30,1.88,9,270
+393859,"Charming, Impeccable 1B Condo",1969219,Jeffrey,Newport,Newport,41.49371,-71.30694,Entire home/apt,166,14,16,2020-09-11,0.24,1,343
+402081,Downtown room near hospital,1644425,Nicholas,Newport,Newport,41.49982,-71.30537,Private room,55,2,11,2020-10-15,0.11,9,84
+402131,Beautiful Room in Historic Inn,1644425,Nicholas,Newport,Newport,41.48633,-71.30524,Private room,368,2,4,2013-08-05,0.04,9,77
+402132,Luxury Room in Historic Mansion,1644425,Nicholas,Newport,Newport,41.48593,-71.30478,Private room,442,1,1,2013-05-02,0.01,9,353
+416234,"""Super Sleep-Over"" in Newport - unlimited.",565135,Pamela,Newport,Newport,41.4689,-71.31447,Private room,97,1,210,2020-10-16,2.10,3,0
+422731,"Private ,comfy,BNB,in Victorian",237379,Chip,Providence,Providence,41.81244,-71.42076,Private room,100,1,351,2020-10-11,3.42,9,267
+425434,Beautiful Victorian in Newport,2115279,Michael,Newport,Newport,41.49403,-71.30875,Private room,96,2,247,2020-10-18,3.88,1,173
+438794,"Narragansett-Middlebridge,Narrow R.",2082880,Laura,Washington,South Kingstown,41.45906,-71.45302,Entire home/apt,145,6,56,2019-08-10,0.56,1,55
+457581,"Bright & Spacious Room, Charming Cape",146281658,Brodie,Providence,Providence,41.80951,-71.45675,Private room,45,1,42,2020-10-11,0.43,2,178
+467205,country home in garden near beaches,2310737,Karen,Washington,South Kingstown,41.42509,-71.52286,Private room,125,2,36,2019-09-01,0.35,1,363
+499456,furnished efficiency,237379,Chip,Providence,Providence,41.81244,-71.42076,Entire home/apt,65,2,22,2020-08-04,0.21,9,359
+502325,Trinity School House,1095932,Robert & Michelle,Newport,Newport,41.48694,-71.30986,Private room,250,2,88,2019-09-15,0.87,1,297
+508240,"Summer Rental in Bonnet Shores,RI",2504818,John,Washington,Narragansett,41.48494,-71.43379,Entire home/apt,276,3,41,2020-08-30,0.62,1,359
+510385,Scenic Historical Bristol.....,2514697,Vicky,Bristol,Bristol,41.6894,-71.28981,Entire home/apt,400,2,10,2019-08-19,0.35,1,163
+543501,"3BR Townhouse,  steps from Narragansett Beach!",2672012,Joan,Washington,Narragansett,41.43296,-71.45842,Entire home/apt,330,30,1,2016-07-15,0.02,9,151
+553419,Newport Wyndham Inn on the Harbor,2719491,Shirley,Newport,Newport,41.4842,-71.31451,Entire home/apt,150,2,4,2017-07-01,0.09,1,7
+569512,Rustic Private Island Cabin on Lake,1613893,Dorothy,Providence,Glocester,41.92587,-71.71221,Entire home/apt,349,1,103,2020-10-25,1.04,1,0
+573164,"Amazing 3 Bedroom Beach House, 1 Mile to the Ocean",2672012,Joan,Washington,Narragansett,41.42602,-71.4666,Entire home/apt,285,3,14,2019-08-10,0.14,9,149
+577322,Farm on the Coast - Near Newport,2839205,Mo,Washington,North Kingstown,41.50429,-71.42515,Entire home/apt,140,2,477,2020-10-21,4.73,4,9
+584884,"3 Bedroom Summer House, Steps from the Ocean",2672012,Joan,Washington,Narragansett,41.39967,-71.47008,Entire home/apt,299,6,14,2019-07-02,0.14,9,144
+648922,"Historic luxury 2 bdrm apartment, downtown Newport",3256292,Katie,Newport,Newport,41.48866,-71.31364,Entire home/apt,250,2,40,2019-12-01,0.75,1,0
+697241,"LargeRoom, Great Area, NearColleges",3571844,Pat,Providence,Providence,41.8472,-71.3977,Private room,61,2,207,2020-03-02,2.11,1,289
+703876,Charming secluded 1800's cottage,3599458,Ren,Newport,Newport,41.49967,-71.30782,Entire home/apt,200,3,28,2019-09-26,0.30,1,173
+710196,Cozy Boho Apt in Historic Waterfront Village,2982802,Paula & Paul,Bristol,Warren,41.7276,-71.28333,Entire home/apt,105,10,180,2020-08-29,1.84,1,120
+715524,Priv Room with Priv Bath Jan-May 2021 30 day min.,3686343,Ray,Newport,Newport,41.49734,-71.31884,Private room,32,30,50,2020-09-01,0.92,4,365
+733149,Minutes from Beach! Beautiful & Cozy Home !,2672012,Joan,Washington,Narragansett,41.42422,-71.48142,Entire home/apt,350,3,10,2020-07-08,0.66,9,0
+753812,"Charming Cape Cod, Bright, 5 Bedrooms, Deck, Yard",146281658,Brodie,Providence,Providence,41.80951,-71.45675,Entire home/apt,350,3,3,2020-07-05,0.20,2,102
+813290,Antique Dealer's Gentleman's Farm,4068490,Tyler,Washington,South Kingstown,41.44953,-71.53643,Entire home/apt,400,7,25,2019-08-31,0.27,1,351
+884639,18 Church Street,4686288,Beth,Bristol,Bristol,41.66751,-71.27554,Entire home/apt,270,2,26,2020-10-12,0.34,1,230
+901270,Center Rd Apartments Block Island,4079479,Arnie,Washington,New Shoreham,41.17181,-71.57924,Entire home/apt,346,2,51,2020-09-07,0.57,3,148
+902272,Block Island Studio Apartment,4079479,Arnie,Washington,New Shoreham,41.17239,-71.57829,Entire home/apt,274,2,73,2020-09-16,0.81,3,152
+926895,"Goat farm on a lake close to Westerly, RI beaches",3096010,Marsha,Washington,Hopkinton,41.46045,-71.75729,Entire home/apt,136,2,133,2019-10-16,1.44,1,332
+931449,"Plum Beach, North Kingstown RI",5015101,Todd & Ann,Washington,North Kingstown,41.52467,-71.41669,Private room,125,1,140,2020-10-24,1.64,1,206
+935163,"Liverpool Villa, Newport's Finest",5045558,Steve,Newport,Newport,41.46674,-71.31514,Entire home/apt,112,2,263,2020-10-18,2.93,1,17
+937586,"Fantastic One Bedroom Apartment,ful",237379,Chip,Providence,Providence,41.81244,-71.42076,Entire home/apt,81,2,249,2020-10-11,2.75,9,154
+953863,Newport 1845 House,5179864,Michael,Newport,Newport,41.48989,-71.3078,Entire home/apt,304,1,50,2020-09-27,0.65,1,363
+1015306,"Amazing 2 Bedroom Beach House, 1 Mi to Ocean!",2672012,Joan,Washington,Narragansett,41.42695,-71.46669,Entire home/apt,300,6,7,2019-08-17,0.11,9,150
+1015915,"Book a room in a Boutique, luxury   B&B",5590351,Sarah,Newport,Newport,41.49044,-71.32091,Private room,1243,2,6,2020-07-19,0.14,3,365
+1085953,Quiet Rural and near Fogland Beach,5969152,Michael,Newport,Tiverton,41.55386,-71.20871,Entire home/apt,266,6,0,,,1,160
+1127578,Newport garden cottage. Walk to Beach.,6186452,Paul & Trisha,Newport,Middletown,41.49238,-71.28395,Entire home/apt,221,3,52,2020-09-20,0.58,5,82
+1134909,Spacious Block Island Beach House,1377280,David,Washington,New Shoreham,41.16338,-71.59998,Entire home/apt,600,2,27,2020-09-20,0.31,1,226
+1158321,"Private room, bath, parking",571950,Karen,Providence,Providence,41.81634,-71.42073,Private room,78,1,768,2020-10-19,8.52,1,335
+1213883,East Side Private Apt walk to Brown,5818227,Heatheran,Providence,Providence,41.82305,-71.3953,Entire home/apt,120,2,193,2020-09-09,2.16,1,264
+1238944,"Scarborough Beach, Narragansett RI",5339632,Kathy,Washington,Narragansett,41.38741,-71.47767,Entire home/apt,344,7,23,2020-10-23,0.29,1,255
+1247998,Studio Space on the Point (30 Day Minimum),3686343,Ray,Newport,Newport,41.49749,-71.32009,Entire home/apt,45,30,38,2020-10-04,0.48,4,122
+1262611,"Lux 3BR+ home w/Views-Bonnet Shores, Narragansett",1271794,Rick & Vicki,Washington,Narragansett,41.47535,-71.42383,Entire home/apt,272,4,30,2020-06-22,0.59,2,143
+1271132,Historic Jamestown Home,4603646,Bertrand,Newport,Jamestown,41.49509,-71.36829,Entire home/apt,263,4,63,2020-10-03,0.72,1,117
+1284822,"Private Bedroom and Bath, Lounge",2333812,Billie,Newport,Newport,41.50062,-71.29901,Private room,143,2,125,2019-10-20,1.40,2,175
+1331208,Moondance Lane-Narragansett Pier-2 bedroom apt.,7220843,Kim,Washington,Narragansett,41.42096,-71.46004,Entire home/apt,125,3,209,2020-10-17,2.36,1,33
+1356929,Cozy 3-bedroom Hse Near 2 Beaches!,7366567,Patty,Newport,Middletown,41.48839,-71.27818,Entire home/apt,495,3,1,2013-07-11,0.01,1,364
+1362681,Central Downtown Newport House,7396890,Karen,Newport,Newport,41.48754,-71.31238,Entire home/apt,409,2,269,2020-10-12,3.06,4,0
+1380376,Historic Firehouse Loft,213491,Miguel,Providence,Providence,41.8391,-71.4154,Entire home/apt,249,2,48,2019-08-04,0.89,1,179
+1412991,Artist Home in Historic Elmwood,7617153,Tracy,Providence,Providence,41.80101,-71.42593,Private room,80,2,95,2019-12-01,1.23,1,0
+1442426,"3 Bedroom Family Beach House, 1 Mile to Ocean!",2672012,Joan,Washington,Narragansett,41.42601,-71.47098,Entire home/apt,320,3,8,2019-08-03,0.13,9,150
+1504656,QueenSize Bedroom with private bath,8039285,Shari,Providence,Providence,41.83907,-71.3907,Private room,99,5,81,2019-09-02,0.93,3,365
+1539229,Island Retreat near Newport,8205689,Pamela,Newport,Jamestown,41.53981,-71.37668,Entire home/apt,109,3,169,2020-10-12,3.21,3,37
+1546899,Small bedroom in private home.,8243763,Mark,Providence,Cranston,41.78582,-71.39183,Private room,86,1,1,2018-05-28,0.03,1,364
+1564447,Walk to beach from 2 bdrm vintage cottage,6186452,Paul & Trisha,Newport,Middletown,41.49046,-71.28138,Entire home/apt,264,3,72,2020-09-24,0.84,5,12
+1572370,Newport Boutique Hotel w/ Parking,8359325,Mark,Newport,Newport,41.48935,-71.30878,Hotel room,158,1,53,2020-10-04,0.93,12,313
+1576859,Fabulous two bedroom pied'de'terre,237379,Chip,Providence,Providence,41.81244,-71.42076,Entire home/apt,107,2,185,2020-09-07,2.13,9,61
+1589218,Amazing ocean views. Walk to beach. 3 bedrooms,6186452,Paul & Trisha,Newport,Middletown,41.49167,-71.28268,Entire home/apt,296,2,70,2020-10-19,0.80,5,34
+1640369,Monthly rental. Walk to Beach. Garden setting.,6186452,Paul & Trisha,Newport,Middletown,41.49085,-71.28221,Entire home/apt,314,28,65,2020-09-07,0.83,5,165
+1703975,"MOONSTONE BY THE SEA.. Country, by the Sea.......",8995563,John,Washington,South Kingstown,41.38326,-71.5678,Entire home/apt,671,3,28,2020-09-20,0.53,1,67
+1741217,College Hill Apt Walk To Brown/Risd Wayland Square,2204049,Mags,Providence,Providence,41.83317,-71.38629,Entire home/apt,70,21,67,2020-06-21,0.78,2,115
+1843154,Private Room with Dedicated Bath,8039285,Shari,Providence,Providence,41.83762,-71.39004,Private room,99,5,74,2019-08-21,0.88,3,365
+1884602,Newport Cottage Newly Updated,2662077,Cary,Newport,Newport,41.47486,-71.31915,Entire home/apt,500,7,8,2015-10-06,0.11,1,210
+2022390,Cheerful Inviting 2nd Floor- Close to Everything!,10393809,Benjamin,Providence,Providence,41.82272,-71.42376,Entire home/apt,120,1,470,2020-10-13,9.82,4,33
+2071002,The Barrington Cottage  - seaside near Providence!,10588783,Donna,Bristol,Barrington,41.75512,-71.3077,Entire home/apt,160,2,3,2019-04-21,0.12,1,301
+2100627,King Apartment w/ Private Entrance,8359325,Mark,Newport,Newport,41.49275,-71.30574,Hotel room,186,1,90,2020-10-11,1.18,12,268
+2101621,Serene Cottage By the Bay Orange Rm,10024634,Michael,Kent,Warwick,41.66511,-71.42162,Private room,129,2,80,2019-09-15,1.03,2,301
+2110977,Sailor's Loft in Historic Firehouse,10762636,Jed,Newport,Newport,41.4861,-71.31308,Private room,264,2,44,2020-09-07,0.53,1,354
+2114947,Magnificent Historic In Town Victorian,10781708,Janice,Newport,Newport,41.48603,-71.30411,Entire home/apt,284,3,109,2020-08-20,1.34,1,2
+2123070,Gardenview B&B,10826785,Mary,Newport,Newport,41.46644,-71.31789,Private room,206,1,39,2020-10-11,0.51,1,361
+2162459,Gorgeous Suite in Designer's Home!,11033746,Carolyn,Newport,Newport,41.49141,-71.30268,Private room,341,2,59,2020-10-04,0.77,2,166
+2182258,"fireplace, sauna, 2 person jacuzzi&steam shower",570818,Kristin,Newport,Little Compton,41.52223,-71.14114,Entire home/apt,251,2,89,2020-10-19,1.08,5,346
+2228248,Serene Cottage By the Bay Green Rm,10024634,Michael,Kent,Warwick,41.66463,-71.42117,Private room,143,2,86,2019-11-03,1.10,2,301
+2381080,Narragansett w/ Community Dock,12164736,Marisa,Washington,Narragansett,41.38476,-71.49585,Entire home/apt,300,4,52,2020-09-07,0.67,2,95
+2446746,Modern  Efficiency Fed Hill Loc!,10524326,Scott,Providence,Providence,41.82088,-71.42795,Entire home/apt,58,60,19,2020-07-20,0.24,5,86
+2480741,"Luxury  Condo Loc, Federal Hill",10524326,Scott,Providence,Providence,41.82101,-71.42538,Entire home/apt,140,45,25,2018-05-28,0.32,5,89
+2502726,"Beautiful Views, Private Location",12811225,Maryann,Washington,New Shoreham,41.17285,-71.58762,Entire home/apt,614,4,2,2020-08-15,0.03,1,358
+2544876,Waterfront Ocean Barrington,13029309,Maria,Bristol,Barrington,41.75042,-71.35054,Entire home/apt,326,2,129,2020-10-28,1.62,2,312
+2583538,Rustic Island Cabin in RI,13220719,David,Newport,Jamestown,41.516,-71.3744,Entire home/apt,190,2,200,2020-10-18,2.56,1,168
+2660199,Pvt Rm in Shared NewportTownhouse,3686343,Ray,Newport,Newport,41.49646,-71.32021,Private room,31,30,49,2020-06-24,0.62,4,245
+2660356,In-Town Sunny Loft w/ en Suite Bath,5061601,Teresa,Newport,Newport,41.47478,-71.31781,Private room,201,2,63,2019-10-13,0.80,2,61
+2692338,Studio Apartment in Newport Center,1644425,Nicholas,Newport,Newport,41.48873,-71.3069,Entire home/apt,167,2,43,2020-10-25,0.66,9,353
+2700400,Ocean Front Manse,13818626,James,Newport,Little Compton,41.48365,-71.14332,Entire home/apt,1500,2,9,2020-09-22,0.30,1,350
+2725948,"Private Entrance & Bathroom/Bright, Cheery Suite",8130447,Erin,Bristol,Bristol,41.70198,-71.28402,Private room,128,2,144,2020-09-25,1.84,1,265
+2875405,Bittersweet Farm Upscale & Private!,14697138,Deborah,Washington,South Kingstown,41.44343,-71.54039,Entire home/apt,757,1,113,2020-10-25,1.74,2,155
+2898991,Spacious Newport Home Near Downtown,2883829,George,Newport,Newport,41.48347,-71.30428,Entire home/apt,1057,2,73,2020-07-05,0.98,2,306
+2907211,Cozy Guest House w/Private Entrance,14852503,Bj,Providence,Providence,41.83647,-71.4235,Private room,75,2,64,2020-02-06,0.81,4,363
+2938508,"Beautiful, Sunny Victorian in BEST neighborhood",15004334,Susan,Providence,Providence,41.82015,-71.42839,Entire home/apt,175,3,151,2020-08-20,1.95,3,151
+2986134,Ross House,14091174,Kenneth,Washington,New Shoreham,41.15525,-71.55036,Entire home/apt,1557,1,69,2020-10-12,0.90,1,365
+3004381,Beautiful Rm  Quiet  Central Longer term avail,15311131,The Birdhouse,Newport,Newport,41.48168,-71.3031,Private room,99,1,280,2020-10-18,3.58,2,0
+3010669,Small Cozy Room Loft Bed up ladder. Longer term,15311131,The Birdhouse,Newport,Newport,41.48147,-71.30227,Private room,35,1,383,2020-10-18,4.95,2,61
+3013355,Jamestown Conanicut Island Retreat,15356832,Paul,Newport,Jamestown,41.50019,-71.37412,Entire home/apt,252,3,26,2019-08-17,0.35,1,300
+3026889,Skylite Loft,14852503,Bj,Providence,Providence,41.83653,-71.42254,Private room,75,2,66,2020-02-16,0.84,4,265
+3064497,“Rosie” - Gracie Mansion  @ 525 Thames St unit 2,15597647,Joseph,Newport,Newport,41.47577,-71.31204,Entire home/apt,170,2,182,2020-10-25,2.43,3,315
+3095231,Reduced! 20% off Room for 6 in Heart of Newport!,15741434,Maria,Newport,Newport,41.48931,-71.32067,Entire home/apt,400,7,2,2017-07-07,0.04,1,301
+3121537,Best Location on College Hill,3485758,Peter,Providence,Providence,41.83252,-71.40801,Private room,70,2,317,2020-10-11,4.05,1,179
+3139776,1 bdrm cottage. Walk to Beach. Garden setting.,6186452,Paul & Trisha,Newport,Middletown,41.49127,-71.28216,Entire home/apt,194,3,73,2020-09-07,0.95,5,52
+3193407,Newport RI Private bedroom and bath,16186185,Nancy H,Newport,Newport,41.46778,-71.31152,Private room,995,1,195,2019-10-13,2.51,1,301
+3200689,Comfy bedroom in cute house,16150975,Karine,Newport,Newport,41.4974,-71.31081,Private room,97,1,358,2020-10-18,4.67,2,364
+3215238,Wayland Square Private Aerie,510916,Barbara,Providence,Providence,41.83078,-71.3913,Private room,95,2,89,2019-12-06,1.16,2,57
+3218554,Heart of Downtown Newport,16298800,Frank,Newport,Newport,41.48068,-71.31501,Entire home/apt,486,3,38,2020-09-07,0.49,1,357
+3256491,Luxury Newport Harbor Condo with Waterfront View,16468856,Kenton,Newport,Newport,41.48285,-71.3147,Entire home/apt,579,2,23,2020-09-08,0.45,2,332
+3344758,Spacious Suite in Newport Victorian,16882560,Larna,Newport,Newport,41.4926,-71.3044,Entire home/apt,246,1,163,2020-10-20,2.12,1,365
+3349428,"Victorian, Room with Garden view",11024167,Sally,Providence,Providence,41.79632,-71.42357,Private room,65,1,179,2020-09-25,2.34,2,365
+3366894,Nice Bedroom in Cute House,16150975,Karine,Newport,Newport,41.50031,-71.31054,Private room,90,2,165,2020-10-21,2.14,2,355
+3378723,"Quiet Coastal Contemporary Gourmet Breakfast",5933015,Rebecca,Newport,Tiverton,41.66043,-71.20142,Private room,86,1,201,2020-10-24,2.61,1,360
+3403222,"Luxury, Newport Harbor Condo with Water View",16468856,Kenton,Newport,Newport,41.48288,-71.31402,Entire home/apt,579,2,20,2020-10-12,0.38,2,276
+3412004,Charming tiny penthouse!,15004334,Susan,Providence,Providence,41.81896,-71.42699,Entire home/apt,144,5,111,2020-08-08,1.48,3,179
+3419956,Willie's House!,17240106,Kelly,Newport,Portsmouth,41.51897,-71.23712,Private room,150,2,73,2020-08-02,0.95,1,363
+3448341,"3-4 bdrm,  sleeps 7 isolation near quiet beach",17378776,Lauren,Newport,Middletown,41.49204,-71.28241,Entire home/apt,232,3,9,2020-08-31,1.96,3,28
+3537552,Designer Island Cottage + walk to beach,17809993,Amie,Newport,Jamestown,41.5381,-71.37964,Entire home/apt,250,2,30,2019-10-27,0.77,1,52
+3541127,Private In-Law Apartment by Beach,17825601,Michael,Washington,South Kingstown,41.38335,-71.54777,Entire home/apt,207,3,108,2020-10-03,1.43,1,355
+3574463,"Close to 70 restaurants, downtown and the Harbor",17999959,The Owner,Newport,Newport,41.49371,-71.31698,Private room,127,1,77,2020-10-07,1.02,6,365
+3574466,2 Bedroom Suite close to town. Parking included.,17999959,The Owner,Newport,Newport,41.49371,-71.31698,Entire home/apt,268,1,31,2020-09-16,0.41,6,365
+3577746,Enjoy Rhode Island-Central to all,13609368,Eric,Providence,Cranston,41.79538,-71.45373,Private room,72,14,35,2019-07-22,0.46,3,332
+3582450,Gorgeous cottage on pristine lake,2320937,Tom,Providence,Glocester,41.87178,-71.7403,Entire home/apt,162,2,201,2020-10-27,2.63,1,298
+3589996,Thrifty B&B in Quiet Harbor Village near Downtown,17999959,The Owner,Newport,Newport,41.49372,-71.31699,Private room,275,1,13,2019-09-01,0.32,6,291
+3591465,2 Bedroom Suite near town with parking included.,17999959,The Owner,Newport,Newport,41.4901,-71.31283,Entire home/apt,657,1,10,2019-09-02,0.13,6,291
+3593100,walk/shuttle 2 Jazz Fest book instantly 3 nite min,17999959,The Owner,Newport,Newport,41.4901,-71.31283,Private room,175,1,225,2020-02-16,2.95,6,290
+3593353,"Harbor View Suite, priv entrance deck, bath & food",18103020,Cindy,Kent,Warwick,41.69519,-71.39169,Private room,76,1,166,2020-10-18,2.17,1,271
+3613567,"A Room, a Garden, and Yoga",18207421,John,Providence,Providence,41.83705,-71.4455,Private room,60,1,114,2020-10-01,1.50,1,365
+3640657,Sunny Cottage in Jamestown Village,441884,Elena,Newport,Jamestown,41.49634,-71.37834,Entire home/apt,311,7,27,2020-09-05,0.36,1,119
+3663833,Ruby Room in Elegant and Historic Newport Mansion,18574332,Corinna,Newport,Middletown,41.5061,-71.2976,Private room,138,2,83,2020-10-25,1.10,8,54
+3664378,Sapphire - Newport Mansion,18574332,Corinna,Newport,Middletown,41.50682,-71.29692,Hotel room,127,2,82,2020-10-28,1.27,8,75
+3664990,"3 Bedrooms, in DT Newport! Off-street parking",18582459,Dominique,Newport,Newport,41.47629,-71.31394,Private room,180,1,74,2020-09-27,1.08,3,15
+3676722,Loft Style Beach Condominium - Newport,18673611,David,Newport,Middletown,41.49128,-71.28416,Entire home/apt,457,3,104,2020-10-11,1.39,2,357
+3684011,Comfortable and Spacious in PVD,13609368,Eric,Providence,Cranston,41.79583,-71.45196,Private room,89,14,20,2020-02-09,0.26,3,56
+3697953,Cozy Cottage in Bonnet Shores,7207665,Chris,Washington,Narragansett,41.47958,-71.43295,Entire home/apt,215,5,15,2020-08-15,0.23,1,54
+3708471,Wonderful 2 bdrm getaway,18916353,Mary,Newport,Middletown,41.52541,-71.28624,Entire home/apt,180,2,76,2019-10-06,1.16,1,0
+3709092,Quiet and Comfortable Stay,18920882,Richard,Providence,Providence,41.84751,-71.4408,Private room,45,2,179,2019-10-27,2.38,1,116
+3742253,Downtown Newport,197130485,Liam,Newport,Newport,41.49227,-71.30919,Private room,173,2,108,2020-09-20,1.42,1,359
+3769190,3 bdrm Newport home near everything,18572096,Jim,Newport,Newport,41.49175,-71.31044,Entire home/apt,350,3,20,2020-10-19,0.27,1,213
+3771370,Walk to downtown NPT.Bedroom & Bathroom Private,8853310,Ann,Newport,Newport,41.47187,-71.31858,Private room,180,2,25,2020-09-07,0.85,1,357
+3775255,College Hill Colonial,17573173,Elias,Providence,Providence,41.83414,-71.38938,Entire home/apt,360,2,60,2020-10-21,0.80,1,239
+3782527,Private Cape on Secluded Laneway. Great location.,18940891,Perky,Newport,Little Compton,41.47966,-71.17679,Private room,450,7,8,2020-08-29,0.12,1,159
+3789391,Charming East Side Home near Brown,510916,Barbara,Providence,Providence,41.83059,-71.39077,Entire home/apt,426,14,13,2019-05-27,0.21,2,196
+3861947,"WAYPOINT 4Beds, 3Baths w/Parking- Downtown NPT!",19891348,Linda,Newport,Newport,41.48036,-71.31407,Entire home/apt,986,2,34,2020-09-07,0.96,1,365
+3886838,Charming Beach House-Ocean View!,19918658,Janice,Newport,Newport,41.48665,-71.29879,Private room,250,2,70,2019-10-14,0.94,1,365
+3902503,winter rental available,20208580,Katherine,Newport,Jamestown,41.4892,-71.37915,Entire home/apt,550,3,21,2020-09-07,0.31,1,320
+3948930,Rooms for rent on golf course,15025105,Elizabeth,Washington,North Kingstown,41.60196,-71.48637,Private room,92,1,7,2018-10-14,0.10,1,181
+3958574,"Fabulous East Side Studio, walk to Brown",20515434,George,Providence,Providence,41.83015,-71.38946,Entire home/apt,150,3,34,2020-08-11,0.51,11,334
+3958719,"Beautifully detailed on East Side, walk to Brown",20515434,George,Providence,Providence,41.83009,-71.38959,Entire home/apt,225,3,19,2020-09-08,0.35,11,295
+3958892,Lovely Tuscan-inspired steps to Brown,20515434,George,Providence,Providence,41.83018,-71.38959,Entire home/apt,170,3,31,2020-08-08,0.42,11,274
+3959109,Fabulous East Side apartment walk to Brown,20515434,George,Providence,Providence,41.83025,-71.3895,Entire home/apt,145,3,8,2019-03-31,0.15,11,151
+3959527,"Southern-inspired perfection, walk to Brown",20515434,George,Providence,Providence,41.83012,-71.38967,Entire home/apt,160,3,25,2020-01-20,0.36,11,151
+3959979,Fabulous 1 bedroom near Brown,20515434,George,Providence,Providence,41.83002,-71.38993,Entire home/apt,150,3,13,2019-07-22,0.20,11,205
+3960147,"Stately 2 bed, 2 bath, East Side steps to Brown",20515434,George,Providence,Providence,41.83014,-71.38989,Entire home/apt,295,3,9,2020-05-24,0.21,11,137
+4030113,Spacious Bedroom in Historical West End Apartment,11202999,Michael,Providence,Providence,41.81715,-71.4285,Private room,45,30,213,2020-03-12,4.67,1,117
+4030210,"Potters Pond Cottage, walk to East Matunuck, MOB",20894013,Christine,Washington,South Kingstown,41.39044,-71.52951,Entire home/apt,214,2,13,2020-09-20,1.02,1,25
+4090731,Picturesque Sunsets on the Cove,21217348,Dave,Bristol,Barrington,41.74843,-71.34912,Entire home/apt,725,3,10,2019-07-14,0.16,1,68
+4091229,"1st Fl  Spacious, Walk to everything",10524326,Scott,Providence,Providence,41.82104,-71.42885,Entire home/apt,95,32,8,2017-01-01,0.11,5,89
+4093648,HISTORIC EAST GREENWICH VILLAGE,21233545,Debra,Kent,East Greenwich,41.66107,-71.44858,Entire home/apt,85,2,94,2020-03-12,1.26,2,301
+4143233,Newport's Dearborn House: The B&B Eastlake Room,21493044,Jeannine,Newport,Newport,41.47957,-71.31248,Private room,130,2,188,2020-09-07,2.83,2,5
+4151661,Spacious Private Suite in Newport,1144359,Shannon,Newport,Newport,41.49128,-71.30949,Private room,193,2,39,2020-09-27,0.59,2,221
+4153734,Comfortable Private Suite in Heart of Newport,1144359,Shannon,Newport,Newport,41.49241,-71.30832,Private room,179,2,67,2020-09-30,0.92,2,315
+4155280,Historic Victorian Mansion Suite 4,21561224,Chuck,Providence,Providence,41.78026,-71.40561,Private room,40,28,7,2020-09-11,0.10,5,365
+4191209,Oceanfront:Private Beach- New Central air/heat.,20418288,Susan,Washington,Narragansett,41.36306,-71.48876,Entire home/apt,256,7,18,2020-09-12,0.24,1,273
+4204794,"1,932 sq. ft. Industrial Chic Condo-Great Location",21815407,Barbara,Newport,Newport,41.49185,-71.31152,Entire home/apt,254,2,50,2020-10-18,0.68,3,220
+4256677,Cozy loft in Providence,237379,Chip,Providence,Providence,41.81447,-71.41748,Entire home/apt,104,2,346,2020-10-12,4.70,9,338
+4284861,"Providence Area, Large Bedroom",22243343,Eli & Yardena,Providence,Pawtucket,41.86382,-71.39198,Private room,49,1,137,2020-01-21,1.88,2,363
+4286413,"Providence area, Near East Side",22243343,Eli & Yardena,Providence,Pawtucket,41.86277,-71.39389,Private room,44,1,282,2020-10-17,3.83,2,363
+4302121,Modern 2 Bed Condo Steps to Historic Attractions,2883829,George,Newport,Newport,41.48456,-71.30644,Entire home/apt,571,2,27,2020-06-30,0.41,2,123
+4417221,"Point Judith house, some ocean view",22918338,Richard,Washington,Narragansett,41.37171,-71.4864,Entire home/apt,207,5,29,2019-10-07,0.44,1,365
+4429818,George Cole House eight day minimum,22996421,Allison,Bristol,Warren,41.72836,-71.2788,Entire home/apt,139,5,288,2020-10-27,4.26,2,362
+4448512,Fashionable roost,237379,Chip,Providence,Providence,41.81191,-71.42037,Entire home/apt,71,2,136,2020-10-13,1.91,9,270
+4479521,Spacious Victorian in the Pier,23243150,Joshua,Washington,Narragansett,41.434,-71.46763,Entire home/apt,650,2,36,2020-09-13,0.52,1,278
+4575601,Quonochontaug Beach House!,3695688,Rhonda,Washington,Charlestown,41.34699,-71.70452,Entire home/apt,525,7,5,2020-06-26,0.08,1,320
+4627901,Clamalot Cottage,23968156,John,Newport,Middletown,41.5166,-71.24729,Entire home/apt,135,2,18,2019-10-06,0.27,2,240
+4642459,Beachy hideaway! Comfy 2 Bedroom Garden Apartment,17974657,Erin,Washington,South Kingstown,41.44048,-71.48511,Entire home/apt,104,2,114,2020-10-11,2.58,1,42
+4688476,"Carey Street Guesthouse, The Sun Room",23486226,JoAnne,Newport,Newport,41.47471,-71.31107,Private room,94,1,434,2020-10-25,6.53,2,356
+4692561,Great apartment in great town!,9532712,Nancy & Bill,Kent,East Greenwich,41.6622,-71.45175,Entire home/apt,250,2,11,2018-09-01,0.17,3,208
+4698524,"Carey Street Guesthouse, The Beach Room",23486226,JoAnne,Newport,Newport,41.47381,-71.31129,Private room,114,1,378,2020-08-11,8.92,2,111
+4776747,Spacious Room ~ B&B on Bellevue Ave,24634885,Lorraine,Newport,Newport,41.47669,-71.30747,Private room,135,2,91,2020-09-27,1.31,6,89
+4795869,Queen Canopy near the mansions!,24634885,Lorraine,Newport,Newport,41.47669,-71.30747,Private room,135,2,115,2020-10-12,1.68,6,22
+4810126,Little Compton sunny home in a private meadow,14542234,Alice And Christophe,Newport,Little Compton,41.49927,-71.15836,Entire home/apt,320,7,3,2020-07-25,0.08,1,365
+4833637,Sunny Open Space Loft,16220775,Ron,Providence,Providence,41.83784,-71.42469,Entire home/apt,70,28,197,2020-10-10,2.97,1,144
+4838268,"Comfy, Cozy City flat",15004334,Susan,Providence,Providence,41.8192,-71.42815,Entire home/apt,176,2,111,2020-08-11,1.56,3,176
+4847092,Waterfront house in Warwick RI,24940362,Luis & Djamilia,Kent,Warwick,41.68643,-71.42305,Entire home/apt,400,2,124,2020-10-18,1.82,1,340
+4936185,Rhode Island Oceanfront Beachhouse,1725664,Geo,Washington,Charlestown,41.35903,-71.63237,Entire home/apt,407,4,2,2019-10-22,0.05,1,192
+4940660,Classic Ranch 3BDRM single floor plan  Home,9765027,David,Providence,East Providence,41.80092,-71.36102,Entire home/apt,169,4,85,2020-09-20,1.22,1,217
+4950554,"Long-term ready, roomy, W/D, 5BR near hospitals",2671274,Bridget,Providence,Providence,41.80182,-71.41666,Entire home/apt,300,28,80,2020-08-09,1.21,2,288
+4954041,Newport Cottage  - The Barn,8128605,Kathy,Newport,Newport,41.4711,-71.32394,Entire home/apt,236,7,73,2020-08-08,1.09,1,132
+4987575,"Large Bedroom, Bathroom and Lounge",2333812,Billie,Newport,Newport,41.50166,-71.29967,Private room,160,2,91,2019-10-20,1.37,2,175
+5027571,The Palm Tree,25947746,Paula,Washington,Narragansett,41.42417,-71.4601,Entire home/apt,110,2,162,2020-03-22,2.49,1,301
+5100815,"Conanicut Is., In-town",1420000,John,Newport,Jamestown,41.49607,-71.37692,Entire home/apt,400,4,34,2020-09-28,0.53,2,184
+5101754,Wyndham Inn on the Harbor Newport 1 Bedroom 3 Nite,24584688,Chris,Newport,Newport,41.48424,-71.31534,Entire home/apt,350,3,1,2018-06-14,0.03,10,3
+5149699,"Private, clean & cozy cottage.",26623133,James,Washington,Narragansett,41.38606,-71.48575,Entire home/apt,219,3,64,2020-08-31,0.96,1,150
+5190983,Historic Victorian Mansion - Suite 8,21561224,Chuck,Providence,Cranston,41.77903,-71.40544,Private room,44,30,3,2020-10-02,0.05,5,304
+5211756,1 BEDROOM SUITE-PRIVATE SPACE,25713516,Xiony,Providence,Providence,41.82422,-71.42809,Hotel room,108,1,77,2020-05-22,1.11,22,31
+5241383,Apt in downtown historic Newport!,27100747,Francine,Newport,Newport,41.48646,-71.31041,Entire home/apt,84,28,18,2020-10-15,0.29,1,155
+5262283,Master suite,1463192,Catherine,Washington,South Kingstown,41.38106,-71.54578,Private room,120,1,71,2020-03-01,1.07,1,181
+5328790,Beach View House steps to Beach-Newport 12 beds,27612979,Chris,Newport,Middletown,41.48821,-71.28026,Entire home/apt,923,1,73,2020-08-28,1.09,5,352
+5346009,Luxury Gated Home near Newport & Beaches. 12 beds,27612979,Chris,Newport,Portsmouth,41.5244,-71.2322,Entire home/apt,1004,1,137,2020-10-12,2.17,5,347
+5368959,IN TOWN Close to Beach & Watch Hill,27832437,Lauren,Washington,Westerly,41.37,-71.81676,Entire home/apt,425,4,25,2020-08-27,0.37,1,108
+5383083,Sakonnet River Cottage: A Reader's Retreat,27902565,Carmen,Newport,Tiverton,41.61236,-71.20733,Entire home/apt,195,14,84,2019-12-29,1.25,1,331
+5432860,3 BR/2 BA RI Summer Get Away!,28181985,Ariel,Washington,South Kingstown,41.39029,-71.61194,Entire home/apt,200,4,15,2019-09-04,0.22,1,129
+5443033,“Alice” - Gracie Mansion @ 525 Thames St unit 3,15597647,Joseph,Newport,Newport,41.47971,-71.31361,Entire home/apt,166,2,112,2020-10-26,1.72,3,338
+5453075,40 ft Houseboat-Downtown Providence - Heated,28280567,Neil,Providence,Providence,41.81704,-71.40038,Entire home/apt,159,1,217,2020-10-17,3.20,1,192
+5489175,"Quaint, Comfortable,Pond front Cottage",28460706,Roger,Washington,South Kingstown,41.50359,-71.60681,Entire home/apt,67,30,0,,,1,364
+5490686,"1 bedroom cottage, sleeps 4, walk to quiet beach",17378776,Lauren,Newport,Middletown,41.49004,-71.28175,Entire home/apt,154,2,5,2020-09-07,1.28,3,0
+5500950,Waterview with Private Beach in private compound,13789523,Elizabeth,Washington,North Kingstown,41.53422,-71.42584,Entire home/apt,383,4,40,2019-09-29,0.60,1,203
+5509804,"""Yachting Village Apartment"" at Dearborn House",21493044,Jeannine,Newport,Newport,41.48002,-71.3136,Entire home/apt,100,30,15,2020-10-02,0.22,2,168
+5537691,Beautiful Room in Historic West Side Home,28716303,Michael,Providence,Providence,41.81766,-71.43132,Private room,80,1,43,2020-08-24,0.80,3,163
+5571651,"Salvation Loft off Broadway, Newport",27268443,Lisel,Newport,Newport,41.49392,-71.3103,Entire home/apt,245,2,116,2020-10-18,1.74,26,98
+5581553,Easton's Point Beach Cottage,28939375,David,Newport,Middletown,41.48812,-71.27832,Entire home/apt,279,3,0,,,1,87
+5670671,Great Corporate Rental/Adjacent Conservation acres,11552717,Bill,Providence,Cumberland,42.00235,-71.41022,Entire home/apt,114,7,10,2019-08-01,0.19,1,236
+5727877,Immaculate 3BR in unique location!,29697617,Danielle,Washington,Narragansett,41.38455,-71.49548,Entire home/apt,295,2,18,2019-05-20,0.27,1,301
+5744697,Sunny Room on Bellevue Ave.,24634885,Lorraine,Newport,Newport,41.47679,-71.30779,Private room,125,2,152,2020-09-07,2.30,6,89
+5761386,Waterfront home,29889529,Ben,Bristol,Bristol,41.6839,-71.2406,Entire home/apt,714,3,0,,,1,349
+5796529,Cute attic apt with roof deck,30073052,Robert,Newport,Newport,41.48938,-71.3126,Entire home/apt,210,2,204,2020-10-24,3.02,1,234
+5834806,Beautiful Apartment in Newport Home,10916269,Brian J,Newport,Newport,41.47521,-71.30704,Entire home/apt,91,1,254,2020-10-12,4.13,1,300
+5838286,Unique 4BD home on private estate,14290370,David,Providence,Providence,41.84756,-71.38787,Entire home/apt,695,3,29,2019-10-06,0.44,1,127
+5904402,Charming 3 br apartment/East side,30666737,Pat,Providence,Providence,41.8398,-71.39762,Entire home/apt,155,2,31,2020-09-02,0.57,1,252
+5928990,Atlantic St. Guesthouse Monthly Discounts Inquire,30783726,Scott,Newport,Newport,41.47346,-71.31668,Entire home/apt,343,1,188,2020-10-20,2.91,1,331
+5942120,Beautiful Home Close To Downtown!,23085255,John,Providence,Providence,41.80722,-71.42455,Private room,93,1,128,2017-09-01,1.93,2,0
+5998758,Jamestown RI Apartment in the Heart of the Village,31141799,Raymond,Newport,Jamestown,41.49575,-71.3673,Entire home/apt,245,2,34,2019-10-13,0.65,3,74
+6018831,Westerly Shore Retreat,31242203,Jon And Kathy,Washington,Westerly,41.34212,-71.77263,Entire home/apt,140,5,20,2019-09-02,0.31,1,111
+6051721,"Little Rosa Cottage, close to Newport",27268443,Lisel,Newport,Middletown,41.51513,-71.30542,Entire home/apt,175,2,77,2020-09-20,1.16,26,23
+6055775,Expanded Ranch in Narragansett,31428340,Robert,Washington,Narragansett,41.43167,-71.47987,Entire home/apt,264,2,67,2020-09-07,1.02,1,125
+6063549,"Shingle Style Home, Pool and Pond",31472782,Carol,Newport,Jamestown,41.55053,-71.36629,Entire home/apt,939,7,1,2016-07-23,0.02,2,363
+6078042,Large Cozy Private Beach House (monthly rentals),23201679,Joanne,Newport,Tiverton,41.56888,-71.14047,Entire home/apt,500,7,1,2015-09-06,0.02,1,359
+6103688,Step back into the 17th Century!,6511150,Richard,Providence,Cranston,41.79227,-71.48805,Entire home/apt,212,3,27,2020-10-11,0.41,1,318
+6113328,"Newport, RI home on a quiet street",31718864,Charles,Newport,Newport,41.49714,-71.31309,Entire home/apt,400,2,113,2020-08-30,1.70,1,352
+6127966,Luxurious Getaway Downtown Newport,7396890,Karen,Newport,Newport,41.48828,-71.31541,Entire home/apt,184,2,288,2020-10-12,4.40,4,353
+6133244,Holidays in Newport? War College ? Summer 2021?,31040793,Tina,Newport,Newport,41.46881,-71.31492,Entire home/apt,357,2,78,2020-09-06,1.18,3,362
+6145696,Pvt Bath-Top floor's yours! Great loc!,31879675,Robin,Bristol,Barrington,41.73201,-71.30209,Entire home/apt,78,1,110,2020-03-13,1.65,1,181
+6169261,Adorable Beach Cottage,32007048,Donna,Washington,Narragansett,41.49983,-71.43541,Entire home/apt,325,3,55,2020-09-20,0.83,1,178
+6169717,Charming Eastside Apt in Providence,294188,Eske And Helen,Providence,Providence,41.83472,-71.3884,Entire home/apt,100,7,10,2020-08-15,0.15,1,318
+6182282,Ocean Views and Private Beach Suite Unit 5,32066932,Sarah,Washington,Westerly,41.32889,-71.75241,Private room,275,2,2,2020-08-22,0.07,4,166
+6205754,"Country setting,  Peaceful place.",32182223,Patty,Newport,Middletown,41.52251,-71.25823,Private room,115,2,96,2020-08-09,1.44,1,236
+6213501,Condo in heart of downtown Newport!  Steps to All!,32081408,David,Newport,Newport,41.48754,-71.31393,Entire home/apt,154,2,118,2020-09-27,1.85,5,124
+6236601,"Modern Beach House, Very Private, BEST REVIEWS!",32363120,Justin,Washington,South Kingstown,41.3886,-71.57625,Entire home/apt,400,3,20,2020-05-11,0.32,1,233
+6285010,Newport Boutique Hotel Queen Bedroom w/Parking,8359325,Mark,Newport,Newport,41.48953,-71.30904,Hotel room,137,1,153,2020-10-19,2.31,12,303
+6285437,Newport Boutique Hotel King Bed w/Fireplace,8359325,Mark,Newport,Newport,41.49111,-71.30712,Hotel room,148,1,151,2020-10-04,2.32,12,296
+6328139,Amazing roof deck-near everything!,32936096,Shannon,Newport,Newport,41.47763,-71.31572,Entire home/apt,439,2,70,2020-10-04,1.10,2,288
+6353275,Private Country Retreat,32819869,Alan,Washington,Richmond,41.48244,-71.62898,Entire home/apt,175,2,18,2019-04-28,0.28,1,179
+6376056,Clean Convenient And Stylish Townhouse,260877,Lori/David,Providence,Providence,41.82296,-71.4137,Entire home/apt,200,2,236,2020-03-14,3.62,1,26
+6376343,Cute Cottage on Aquidneck Island,33232854,Kerri,Newport,Middletown,41.48798,-71.27825,Entire home/apt,278,7,26,2020-08-30,0.40,1,235
+6384148,Newport Boutique Hotel Queen Bed w/Parking,8359325,Mark,Newport,Newport,41.49092,-71.30763,Hotel room,131,1,274,2020-10-13,4.14,12,279
+6389084,"Perfectly located, sunny & quiet",33245744,Adi,Providence,Providence,41.81839,-71.39839,Entire home/apt,62,2,7,2018-07-01,0.11,1,66
+6399864,Sakonnet Point Cape Steps to Lloyd'sBeach,7446600,Jill,Newport,Little Compton,41.46066,-71.19513,Entire home/apt,300,3,9,2020-10-17,0.15,1,305
+6412250,Peacock Alley House,33444277,Bill,Bristol,Bristol,41.66431,-71.27393,Entire home/apt,625,2,15,2019-12-26,0.23,1,323
+6448724,5 min walk to the beach - Jamestown,3334235,Island Girl BnB,Newport,Jamestown,41.49139,-71.37388,Entire home/apt,116,1,460,2020-10-25,7.11,1,301
+6451239,The Butler's Bunk,24634885,Lorraine,Newport,Newport,41.47669,-71.30747,Private room,204,2,103,2020-09-07,1.57,6,89
+6487049,FEMA approved - NAVY Ideal for MILPERS TDY/TAD,18574332,Corinna,Newport,Middletown,41.50643,-71.29752,Private room,115,31,15,2020-09-26,0.23,8,357
+6487164,FEMA approved - Navy - 5 mins Base,18574332,Corinna,Newport,Middletown,41.5054,-71.29854,Private room,89,31,15,2020-09-21,0.23,8,365
+6487223,"Crystal, ideal for long term - quiet very private",18574332,Corinna,Newport,Middletown,41.50739,-71.29818,Private room,99,31,10,2019-08-24,0.15,8,345
+6487336,FEMA  approved - NAVY - 5 MINS BASE - Amber Room,18574332,Corinna,Newport,Middletown,41.50592,-71.29681,Private room,168,2,11,2019-09-16,0.17,8,184
+6527686,"Log Cabin in Newport, RI (Vicinity)",34139954,Christine,Newport,Middletown,41.5075,-71.29436,Entire home/apt,161,1,81,2020-10-18,1.24,1,2
+6608949,Cozy Beautiful Beach Cottage,34579340,Nita,Washington,Narragansett,41.39075,-71.48754,Entire home/apt,324,3,14,2020-07-30,0.22,1,150
+6620478,Perfect for families with kids!,9532712,Nancy & Bill,Kent,East Greenwich,41.66223,-71.45168,Entire home/apt,250,2,11,2018-10-08,0.17,3,208
+6656039,Bonnet Shores Summer Rental,34837543,Erin,Washington,Narragansett,41.48381,-71.43618,Entire home/apt,225,3,17,2019-09-02,0.26,1,364
+6678529,"Close to Downtown! Cal King Bed, PVT Bath, Balcony",23085255,John,Providence,Providence,41.80783,-71.42278,Private room,93,1,118,2020-10-17,1.82,2,187
+6713810,Great New England family getaway- amazing location,9532712,Nancy & Bill,Kent,East Greenwich,41.66231,-71.45325,Entire home/apt,475,2,17,2019-09-29,0.26,3,208
+6722043,Historic Edgewood Manor Inn,4490431,Andrew,Providence,Cranston,41.77924,-71.40052,Hotel room,169,2,18,2020-07-31,0.28,6,179
+6757919,Charming 1906 Farmhouse,35380399,Mackenzie,Washington,South Kingstown,41.43073,-71.53335,Entire home/apt,159,2,109,2020-09-24,1.67,1,213
+6784360,Beautiful corner room in historic home,28716303,Michael,Providence,Providence,41.81964,-71.42924,Private room,80,1,73,2020-09-07,1.35,3,163
+6799635,Ocean Front on Thames Street! Sick!,27475567,Sina,Newport,Newport,41.48225,-71.31585,Entire home/apt,279,2,4,2020-07-25,0.06,1,205
+6863225,Absolute perfect location in town!,988387,Phil,Newport,Newport,41.47549,-71.31109,Private room,340,1,0,,,3,365
+6884928,Beautiful 4BR Steps From Beach,585719,Marco,Washington,Westerly,41.31548,-71.84286,Entire home/apt,1000,3,11,2020-06-15,0.17,1,327
+6893599,Absolute perfect walking location!,988387,Phil,Newport,Newport,41.47551,-71.31231,Private room,340,1,0,,,3,365
+6933026,Narragansett / Point Judith Retreat,36345310,Michael,Washington,Narragansett,41.38862,-71.4881,Entire home/apt,229,5,38,2020-08-01,0.60,1,144
+6933954,The Cottage at Relaxing in Newport Rhode Island W/waterviews,36352656,Kate,Newport,Middletown,41.51489,-71.25038,Entire home/apt,264,2,30,2020-10-25,0.48,2,160
+6963597,Elegant Custom Colonial- sleeps 12,29309315,Allison,Newport,Middletown,41.51382,-71.26414,Entire home/apt,950,3,7,2019-08-27,0.18,1,332
+7046664,Large estate with pond near beaches,36952318,Lynne,Washington,Hopkinton,41.44887,-71.75607,Entire home/apt,475,4,65,2020-09-21,1.02,1,260
+7047776,Long Wharf Resort,36958553,Linda,Newport,Newport,41.49102,-71.32115,Entire home/apt,575,3,5,2020-08-31,1.46,7,59
+7059124,Comfy Cottage Near Pell Bridge,33777493,Laurie A,Newport,Newport,41.49945,-71.31327,Entire home/apt,125,30,37,2019-09-13,0.84,1,177
+7068564,Relax Off the Beaten Track-1 of 3,35961288,Beverly,Washington,Richmond,41.55307,-71.62224,Private room,150,1,81,2020-08-29,1.25,3,364
+7071063,"Solitary, Quiet and Peaceful-3 of 3",35961288,Beverly,Washington,Richmond,41.55307,-71.62224,Private room,135,1,34,2020-03-18,0.53,3,364
+7092488,Charming 3-bedroom home,37174023,Reina,Bristol,Barrington,41.74175,-71.33645,Entire home/apt,181,8,59,2020-10-24,0.94,1,88
+7095496,Traveler's Retreat near beaches,27268443,Lisel,Newport,Middletown,41.49321,-71.27737,Entire home/apt,130,2,132,2020-10-25,2.09,26,251
+7135082,"SHARP Apartment near URI, Wheelchair Accessible",27619406,Candyce,Washington,South Kingstown,41.48262,-71.52792,Entire home/apt,125,3,27,2020-10-05,0.67,1,205
+7149126,Peaceful & Relaxing Room -Room Two of Three,35961288,Beverly,Washington,Richmond,41.55307,-71.62224,Private room,140,1,81,2019-10-27,1.26,3,364
+7198747,Armistead Cottage Bed and Breakfast,35295592,Romana,Newport,Newport,41.4919,-71.30148,Private room,233,1,18,2018-08-15,0.28,2,10
+7222387,Mr.  Salty’s Way with Private Apartment Suite,37809366,Perry,Washington,Westerly,41.33808,-71.77506,Entire home/apt,257,2,61,2020-10-11,0.97,1,164
+7228127,Riverside Bungalow FAMILY READY FOR FALL & WINTER,37798644,Sherry & Wayne,Newport,Portsmouth,41.62318,-71.23284,Entire home/apt,264,3,75,2020-10-11,2.52,1,363
+7236831,"Cozy Beach Cottage, 2 Blocks To The Beach",2941804,Jan,Newport,Middletown,41.49168,-71.28004,Entire home/apt,261,3,53,2020-09-07,0.83,2,365
+7319611,Cottage near Bellevue/ Queen Bed,38345103,Steven,Newport,Newport,41.46666,-71.30946,Entire home/apt,164,2,62,2020-10-12,0.97,6,184
+7319728,Unit 3 - Large 2-Bdrm Apt on 2nd Flr,38345103,Steven,Newport,Newport,41.46666,-71.30946,Entire home/apt,414,2,16,2020-08-31,0.25,6,158
+7330303,Aquastar Inn--Two full size bed,38398829,Vijay,Washington,Westerly,41.35262,-71.79084,Private room,164,2,1,2015-07-21,0.02,2,364
+7348216,Aquastar Inn--King size bed,38398829,Vijay,Washington,Westerly,41.35222,-71.79021,Private room,146,2,1,2015-08-10,0.02,2,364
+7366744,Cozy farm house great get away,38570782,Lou-Ann,Washington,North Kingstown,41.54905,-71.49488,Entire home/apt,125,2,51,2019-10-06,0.79,1,153
+7403323,Private Suite,36164232,Diane,Washington,Narragansett,41.43407,-71.46206,Private room,100,2,263,2020-09-07,4.09,1,78
+7404436,Best Location Historic College Hill,38796658,Rose,Providence,Providence,41.82941,-71.3942,Private room,99,2,430,2020-10-17,6.68,1,338
+7409763,At Home on the Narragansett,161752497,Renee,Newport,Jamestown,41.56197,-71.37568,Entire home/apt,900,3,9,2020-08-20,0.55,1,117
+7416958,Charming Two-Bedroom Condo,32276340,Darcy,Newport,Newport,41.4899,-71.30843,Entire home/apt,150,30,10,2018-08-06,0.18,2,133
+7426433,Efficiency apt.,38613240,Bill,Washington,South Kingstown,41.39096,-71.52763,Entire home/apt,90,3,49,2019-08-24,0.76,2,150
+7433355,Funky Studio on the Eastside,20185748,Eric,Providence,Providence,41.8371,-71.4012,Entire home/apt,70,2,77,2020-09-30,1.43,1,14
+7439481,"Your Perfect Getaway! Near Beach, URI, & Newport!",31760708,Mike,Washington,Narragansett,41.47439,-71.44196,Entire home/apt,250,2,47,2020-07-29,1.28,1,266
+7514715,Cozy Cottage 10 Minutes from Beach!,20911019,Justin,Washington,South Kingstown,41.4536,-71.485,Entire home/apt,180,1,73,2019-10-01,1.16,1,154
+7535154,Hip Saltbox with Breathtaking Views,12352977,Dean,Washington,New Shoreham,41.15444,-71.58439,Entire home/apt,275,3,36,2020-07-31,0.57,2,71
+7539623,"Lafayette Place /Beaches Newport, URI",39503977,Jane,Washington,North Kingstown,41.56742,-71.49141,Entire home/apt,93,1,348,2020-10-26,5.45,2,259
+7559900,"Wickford, NK, Newport, Beaches. Central A/C",39503977,Jane,Washington,North Kingstown,41.56292,-71.4916,Entire home/apt,243,1,94,2020-10-26,1.75,2,265
+7564579,Sparkling Clean & Super Spacious Apartment-WestEnd,39660447,Martha,Providence,Providence,41.81937,-71.43094,Entire home/apt,149,14,236,2020-08-29,3.70,1,242
+7621729,Matunuck Ranch by the Sea (next to Beach Haven II),39978748,Stephanie,Washington,South Kingstown,41.37512,-71.54253,Entire home/apt,259,2,103,2020-09-06,1.64,2,73
+7694195,The Lily Room at Garden Gate B&B,35382051,Garden Gate,Washington,New Shoreham,41.16487,-71.58797,Private room,90,2,98,2020-09-27,1.56,3,30
+7707082,Simonelli Upper Apt.,40486074,Maryann,Washington,New Shoreham,41.17301,-71.56562,Entire home/apt,600,2,42,2020-09-27,0.67,2,364
+7715432,Beautiful Block Island Vacation Rental Home,35382051,Garden Gate,Washington,New Shoreham,41.164,-71.58835,Entire home/apt,410,7,1,2016-05-21,0.02,3,20
+7715445,The Cottage Room at Garden Gate B&B,35382051,Garden Gate,Washington,New Shoreham,41.16304,-71.58701,Private room,101,2,104,2020-10-03,1.66,3,6
+7732955,Historic Hill Inn Two Bedroom Apartment/Suite,40637067,Richard,Newport,Newport,41.48521,-71.31012,Entire home/apt,175,1,19,2020-08-30,0.31,2,25
+7734177,Aug. Jazz Fest 3 night min. Vacation Season!,17999959,The Owner,Newport,Newport,41.49365,-71.31685,Private room,127,1,144,2020-09-24,2.30,6,365
+7746851,Newport Boutique Hotel w/ Pvt. Bath & Parking,8359325,Mark,Newport,Newport,41.49108,-71.30723,Hotel room,135,1,48,2020-10-14,0.85,12,311
+7747771,Select Suite in Boutique Marshall Slocum Inn,8359325,Mark,Newport,Newport,41.49079,-71.30694,Private room,156,1,70,2020-10-12,1.25,12,302
+7747928,Newport Boutique Hotel w/Parking,8359325,Mark,Newport,Newport,41.48877,-71.30817,Hotel room,157,1,94,2020-10-04,1.50,12,294
+7768549,2 Bedroom Apartment,40860008,Paul,Newport,Newport,41.48619,-71.3082,Private room,278,1,14,2020-07-26,0.22,5,242
+7770033,Private  1 bdrm basemt. apt/beach,17288602,Kari,Newport,Newport,41.48141,-71.30284,Entire home/apt,189,1,12,2019-09-21,0.31,1,301
+7772935,Newport Boutique Hotel King Bed w/ parking,8359325,Mark,Newport,Newport,41.49024,-71.30878,Hotel room,137,1,53,2020-10-09,0.96,12,307
+7796804,Captains Quarters - off st parking  / private bath,26440637,Keverne,Newport,Newport,41.49315,-71.31372,Private room,125,2,230,2020-09-13,3.72,2,294
+7806228,Newport Boutique Hotel King Bed w/Parking,8359325,Mark,Newport,Newport,41.49028,-71.30686,Hotel room,153,1,36,2020-10-01,2.07,12,307
+7807329,Small Guest Cabin Near Beach at Rockbriar Farm,19254858,Julia Anne,Washington,Charlestown,41.37218,-71.63193,Entire home/apt,77,2,133,2020-10-15,2.10,1,300
+7824923,Beautiful Beach Home for Reunions,445704,Danielle,Newport,Middletown,41.49851,-71.2756,Entire home/apt,779,2,79,2020-09-06,1.25,1,8
+7854959,"Newport Boutique Hotel Private Cottage, king bed",8359325,Mark,Newport,Newport,41.49074,-71.30868,Hotel room,160,1,51,2020-10-13,0.90,12,219
+7873950,Historic Hill Beach House  Newport Summer Rental,41499441,Peggy,Newport,Newport,41.48372,-71.30995,Entire home/apt,400,30,2,2020-05-01,0.05,1,278
+7884846,Townhouse for Sailing Events,41565868,Paul W.,Newport,Newport,41.47383,-71.31446,Entire home/apt,325,3,9,2019-07-01,0.15,1,34
+7928186,Quiet Country Setting,41725298,Suzanne,Providence,Smithfield,41.92112,-71.54303,Private room,50,2,112,2020-08-01,1.79,1,220
+7952406,Lovely Home on Block Island | Ocean views Big lawn,9098653,MyLife,Washington,New Shoreham,41.16218,-71.5484,Entire home/apt,732,4,27,2020-09-26,0.43,2,273
+7966237,Historic home in Narragansett -BR,42033585,Nancy,Washington,Narragansett,41.41649,-71.46144,Private room,210,3,27,2020-09-07,0.43,4,365
+7992837,Seaside Retreat:private bath - off street parking,26440637,Keverne,Newport,Newport,41.49543,-71.3113,Private room,125,2,225,2020-10-12,3.64,2,274
+7997369,Serenity by the Sea-charming 2BR,42214454,Patrick,Washington,Westerly,41.32775,-71.81046,Entire home/apt,300,7,10,2019-09-15,0.16,1,161
+8050022,Simonelli Lower Apt.,40486074,Maryann,Washington,New Shoreham,41.17375,-71.56553,Entire home/apt,600,2,21,2020-08-30,0.39,2,364
+8053672,Plum Beach Cottage,42533474,Meg,Washington,North Kingstown,41.52616,-71.41709,Entire home/apt,257,28,15,2018-07-17,0.24,1,353
+8111423,Historic home by the sea - YR,42033585,Nancy,Washington,Narragansett,41.41792,-71.46184,Private room,200,1,35,2019-10-13,0.66,4,182
+8124177,Room of a Thousand Hours,11024167,Sally,Providence,Providence,41.79703,-71.42425,Private room,55,1,175,2020-10-11,2.79,2,365
+8194855,Bonnets Treasure :  Narragansett & Newport,39560364,Barbara,Washington,Narragansett,41.47638,-71.42213,Entire home/apt,125,6,46,2020-08-30,0.89,1,137
+8209041,FEMA approved - Ideal for Navy - Blossom room,18574332,Corinna,Newport,Middletown,41.50579,-71.29648,Private room,164,31,5,2020-08-16,0.17,8,358
+8224512,FEMA approved - Ideal for MILPERS TDY/TAD,18574332,Corinna,Newport,Middletown,41.50599,-71.297,Private room,110,31,11,2019-11-01,0.18,8,332
+8227091,"Waterfront in Jamestown, magnificent sunset views!",43126070,Christina,Newport,Jamestown,41.48177,-71.39559,Entire home/apt,1000,7,0,,,1,265
+8247201,Country & Minutes to Newport and Walk to 2nd Beach,43492469,Diane,Newport,Middletown,41.49827,-71.2683,Private room,120,2,46,2020-09-27,0.75,1,179
+8276465,Luxurious Private Beach House,43090388,John,Newport,Middletown,41.48602,-71.27641,Entire home/apt,1500,2,39,2020-06-26,0.73,1,348
+8284342,Barker House Cozy Twin room  (2 twin beds),42903100,Anthony,Newport,Newport,41.49372,-71.31667,Private room,151,1,49,2020-07-25,0.80,4,365
+8285908,Cheerful room with Queen bed plus single bed,42903100,Anthony,Newport,Newport,41.49372,-71.31667,Private room,171,1,37,2020-09-07,0.61,4,214
+8300110,"Wonderful East Side, steps from Brown",20515434,George,Providence,Providence,41.83003,-71.38997,Entire home/apt,215,3,10,2020-06-27,0.17,11,112
+8322190,The Tidewater (with amazing steam shower),5100878,Janet & John,Kent,Warwick,41.71124,-71.37565,Private room,60,2,143,2020-02-27,2.33,1,270
+8347126,Cozy room on 3rd,32911381,Karen,Providence,Providence,41.79478,-71.42307,Private room,53,1,23,2020-04-24,0.52,1,127
+8363716,"Lovely home, TOWN Beach & Gorgeous Narrow River!",44081992,Mary,Washington,Narragansett,41.47554,-71.43781,Entire home/apt,292,3,21,2020-09-14,0.38,1,352
+8487209,"Lakeside Cottage in Hope Valley, RI",23166448,Quinn,Washington,Hopkinton,41.51117,-71.71556,Entire home/apt,161,1,73,2019-12-26,1.19,1,257
+8581633,Lovely East Side Home near Brown,45163630,Jamie,Providence,Providence,41.84206,-71.39775,Entire home/apt,406,3,24,2019-12-01,0.41,1,87
+8596864,"CHARMING, WATERVIEW IN TIVERTON",10899364,Lynne,Newport,Tiverton,41.63298,-71.20967,Private room,85,2,70,2020-09-12,1.18,1,237
+8612369,Spectacular Salt Water Front!,45302002,Camila,Bristol,Barrington,41.75136,-71.32142,Entire home/apt,700,3,6,2019-08-05,0.11,1,300
+8614695,Large 1 BR with Harbor View,45318080,Ted,Newport,Newport,41.47918,-71.31365,Entire home/apt,202,3,438,2020-10-25,7.12,5,35
+8633824,Mi casa su casa,41639043,Cristian Osiris,Providence,Providence,41.85521,-71.42678,Private room,40,1,354,2020-03-15,5.80,1,298
+8665619,Shel House,43506408,Shel,Washington,New Shoreham,41.17185,-71.56611,Entire home/apt,750,2,79,2020-10-10,1.35,1,357
+9027668,Peaceful retreat in the city,36436240,Bonnie,Kent,Warwick,41.72191,-71.41448,Entire home/apt,53,2,130,2020-03-13,2.32,1,242
+9088425,The Happy Place,13179542,Cindy,Kent,Warwick,41.65828,-71.42551,Entire home/apt,70,2,72,2019-10-20,1.76,1,171
+9093072,Pier Area Home!  Great for large groups! Sleeps 11,24086206,Alicia,Washington,South Kingstown,41.43854,-71.47775,Entire home/apt,400,7,20,2020-08-01,0.38,2,89
+9145557,Charming 2 Bedroom Cottage w/Porch  - Jamestown,20105868,Debbie,Newport,Jamestown,41.56382,-71.36489,Entire home/apt,200,3,90,2020-09-10,1.67,1,96
+9155130,Wyndham Inn on the Harbor- 1 bdrm,30787515,Brooke,Newport,Newport,41.48267,-71.31375,Entire home/apt,119,2,3,2020-10-17,0.17,1,62
+9197240,The Library,24634885,Lorraine,Newport,Newport,41.47714,-71.30765,Private room,179,2,25,2020-10-13,0.42,6,89
+9385964,"Ocean, Beach, Cliff View on Newport Beach 4br 3ba!",12240618,Julie,Newport,Middletown,41.48882,-71.28165,Entire home/apt,395,2,17,2020-02-16,0.30,2,245
+9462066,Gansett Rental. 2018 Upgrades!,38403321,Jessica,Washington,Narragansett,41.40097,-71.48091,Entire home/apt,275,7,19,2020-08-01,0.36,1,0
+9624360,Reasonable in the Heart of the City  Monthly,10524326,Scott,Providence,Providence,41.82169,-71.4251,Entire home/apt,66,45,6,2020-03-31,0.10,5,64
+9712577,Family Suite,24634885,Lorraine,Newport,Newport,41.47698,-71.30772,Private room,150,2,44,2020-08-25,0.74,6,27
+9768866,Charming in-town Victorian Cottage!,36230013,Nina,Newport,Newport,41.48822,-71.30786,Entire home/apt,1200,2,19,2020-08-23,0.42,1,363
+9774223,Paradise Farmhouse at Norman Bird Sanctuary,48096644,Paradise,Newport,Middletown,41.49943,-71.25111,Entire home/apt,1429,3,12,2019-12-01,0.23,1,267
+9775842,Cute Cottage Ocean View & big yard,2673340,Pat,Newport,Little Compton,41.48813,-71.1425,Entire home/apt,330,7,3,2017-08-05,0.06,1,28
+9789087,Sunny Studio  on the East Side/ Own Entrance,33729714,France,Providence,Providence,41.82201,-71.39644,Private room,92,2,256,2020-10-19,4.74,1,5
+9918558,Two bedroom apt  with the best view,50993221,Nadia,Newport,Newport,41.47857,-71.31483,Entire home/apt,300,7,2,2016-05-08,0.04,1,362
+9934711,Stately Victorian Near Beaches/Newport. 12 beds,27612979,Chris,Newport,Middletown,41.51152,-71.25752,Entire home/apt,1045,1,104,2020-10-04,1.86,5,337
+10177854,Sweet Retreat by Mt. Hope Bay!,52124730,Tom,Newport,Portsmouth,41.64392,-71.22849,Entire home/apt,78,1,53,2020-10-28,1.26,1,347
+10207037,Beautiful Home North Rhode Island,52441752,F,Providence,Central Falls,41.88888,-71.40598,Entire home/apt,95,2,20,2019-09-15,0.37,1,299
+10208339,Renovated! Walk to Town/Beach/CliffWalk/Mansions,52449297,Robb,Newport,Newport,41.47811,-71.30335,Entire home/apt,250,28,2,2017-08-13,0.05,1,101
+10229848,"Cottage on Historic Hill 2, 90 Prospect Hill St",52570200,Brenda,Newport,Newport,41.4862,-71.31014,Entire home/apt,465,3,22,2020-09-07,0.41,1,363
+10233673,Bonnet Shores  Narragansett R.I. Beach House,52593202,David,Washington,Narragansett,41.48221,-71.42783,Entire home/apt,300,2,39,2020-08-29,0.72,1,100
+10252200,"Light Filled, Beachy 2 Bedroom, outdoor fire pit",3526206,Britt & Maureen,Washington,Narragansett,41.38855,-71.49037,Entire home/apt,165,7,34,2020-09-26,0.65,1,107
+10254296,Perfect location for 2 (or more!),7648664,Eva,Providence,Providence,41.84083,-71.39801,Private room,60,2,36,2020-06-30,0.67,1,228
+10262958,#1 location- Perfect for Weddings & Vacation,52766810,Bill,Newport,Newport,41.48698,-71.31447,Entire home/apt,850,2,48,2020-09-27,0.89,1,359
+10266598,All inclusive 1 Bedroom corporate apartment,52660264,Timothy,Providence,Cumberland,41.95064,-71.43417,Entire home/apt,99,7,18,2019-10-03,0.33,5,362
+10271762,Newport - Stay In A Beautiful 1887 Victorian Home!,52818013,Cindy,Newport,Newport,41.4929,-71.30886,Private room,300,1,28,2019-06-02,0.51,1,2
+10276896,Great Pt. Judith location! Pets welcome!,52851673,William,Washington,Narragansett,41.37268,-71.48626,Entire home/apt,263,2,0,,,1,145
+10283726,Historic farmhouse: Urban Sanctuary #usa1731,41673606,Ronnie,Providence,Providence,41.84207,-71.38851,Entire home/apt,142,6,101,2020-10-23,1.72,1,133
+10313506,Home close to downtown & beaches,5255695,Blake,Newport,Newport,41.50149,-71.31092,Entire home/apt,600,2,24,2020-08-27,0.46,1,95
+10333630,3-Bedroom Cottage in Downtown Newport,53177560,Nick,Newport,Newport,41.48011,-71.31201,Entire home/apt,379,2,29,2020-08-30,0.54,1,130
+10377249,Cozy and Functional Close to Beaches Walk to Town,53417335,Teresa,Washington,Westerly,41.38632,-71.82447,Private room,100,2,12,2020-07-22,0.29,1,301
+10393751,Furnished 3 Month Min Rental Omni Residences Condo,22239190,Brian,Providence,Providence,41.82373,-71.41556,Entire home/apt,200,90,0,,,1,365
+10466362,Walk to Everything in Newport,11898232,Brandon,Newport,Newport,41.47594,-71.31692,Entire home/apt,166,2,301,2020-10-11,5.29,2,336
+10495667,"Cozy, convenient, 3 bedroom Beaches",54105619,Nancy,Washington,Narragansett,41.38676,-71.48688,Entire home/apt,225,5,18,2020-08-30,0.35,1,302
+10499267,Clean cozy bedroom in family home,54128834,Robin,Newport,Middletown,41.51093,-71.29611,Private room,85,5,59,2019-10-26,1.98,2,359
+10516313,Beautiful VictorianApt-Modern touch,3810504,Brian,Providence,Providence,41.81573,-71.43099,Entire home/apt,254,3,15,2020-10-11,0.26,2,209
+10545217,The Whych House,53194900,Travis,Providence,Providence,41.82001,-71.3987,Entire home/apt,90,2,148,2020-05-01,2.64,1,63
+10559310,"East Providence, RI 02915, Cozy Apartment",54463094,Jack & John,Providence,East Providence,41.79125,-71.36624,Entire home/apt,95,2,74,2019-12-01,1.38,1,146
+10606492,Oceanview Private Narragansett  Suite,54729573,Maria,Washington,Narragansett,41.42567,-71.4567,Private room,150,2,64,2020-10-26,1.22,2,32
+10636459,Newport RI Area 2nd Beach 4BR Home,10659323,John,Newport,Middletown,41.4936,-71.26747,Entire home/apt,900,7,3,2019-08-24,0.20,1,48
+10681633,"Spacious home, near beach & NPT",55176865,Denise,Newport,Middletown,41.50887,-71.27009,Entire home/apt,800,2,46,2020-09-06,0.84,1,340
+10760689,Disconnect: simple cozy cottage near beach,2146438,Martine,Washington,Charlestown,41.37727,-71.6252,Entire home/apt,124,7,38,2020-09-21,0.72,1,115
+10769684,Federal Hill/ West End Charmer (A room) :),48099479,Yeri,Providence,Providence,41.82407,-71.43142,Private room,42,7,125,2020-07-06,2.18,6,365
+10771010,ASK:  Off Season Rental!  Utilities  - WiFi,55709210,David R Carolyn D,Washington,Westerly,41.32234,-71.81993,Entire home/apt,150,4,19,2020-08-30,0.37,1,52
+10778269,Newport Ocean Rentals,161778,Andrew,Newport,Newport,41.48245,-71.31472,Entire home/apt,645,3,14,2020-08-23,0.27,6,365
+10783198,Newport Ocean Rentals 1,161778,Andrew,Newport,Newport,41.48224,-71.31568,Entire home/apt,645,3,16,2020-09-07,0.30,6,365
+10802322,"Bright, tasteful 1 BDRM suite with LR Newport",43345260,Brigid,Newport,Newport,41.47392,-71.3116,Entire home/apt,243,2,66,2019-10-14,1.27,1,237
+10805351,424 Thames Street - 3 Beds 3 baths,23610627,Kevin,Newport,Newport,41.48118,-71.31337,Entire home/apt,671,2,25,2020-09-20,0.44,1,150
+10881207,Newport Ocean Resorts 1,161778,Andrew,Newport,Newport,41.48245,-71.31472,Entire home/apt,625,3,6,2020-09-07,0.12,6,365
+10896304,Unit 4 - Large 2-Bdrm Apt on 3rd Flr,38345103,Steven,Newport,Newport,41.46666,-71.30946,Entire home/apt,414,2,11,2020-08-22,0.20,6,155
+10971156,Jeds Place-The Perfect Spot for Your Next Vacation,31968512,Peter,Kent,East Greenwich,41.65969,-71.46627,Entire home/apt,170,6,42,2020-03-31,1.41,1,114
+10985282,Comfy rooms on the East Side near Brown/RISD,44744191,Nathan,Providence,Providence,41.82675,-71.39255,Entire home/apt,79,2,136,2020-10-25,2.38,1,6
+11057028,2 2-Bedroom Apts,38345103,Steven,Newport,Newport,41.46718,-71.31059,Entire home/apt,829,2,10,2020-09-06,0.19,6,152
+11085179,"Jamestown House with pool, close to Town",57541330,Ann,Newport,Jamestown,41.50371,-71.37426,Entire home/apt,900,7,0,,,1,365
+11210755,Travelers Special 1 Bed Prime Loc,10524326,Scott,Providence,Providence,41.82177,-71.42669,Entire home/apt,65,50,0,,,5,64
+11222797,STATION 8 / 2 Bedroom Suite in Historic Firehouse,157447120,Tracey,Newport,Newport,41.48519,-71.31116,Entire home/apt,496,2,14,2020-02-17,0.51,1,0
+11237007,Ocean Front Resort! Wyndham Inn on the Harbor,47475013,Hamilton,Newport,Newport,41.48365,-71.31481,Entire home/apt,183,2,5,2020-07-17,0.09,11,365
+11237434,Ocean Front Resort Wyndham Long Wharf,47475013,Hamilton,Newport,Newport,41.49031,-71.3198,Entire home/apt,249,2,25,2020-10-12,0.67,11,362
+11260944,"Walk/Bike to the beach Private Room, Private Farm!",58778508,Maureen And James,Washington,South Kingstown,41.37964,-71.57714,Private room,100,1,224,2020-10-25,4.29,1,2
+11362156,Amazing Beach House in the Woods,59525349,Perry,Washington,Westerly,41.32715,-71.82234,Entire home/apt,1050,4,31,2020-09-08,0.59,1,361
+11407424,"Spectacular-Both units 3,864ft. Awesome location",21815407,Barbara,Newport,Newport,41.49226,-71.31265,Entire home/apt,1195,2,43,2020-08-30,0.78,3,171
+11479753,Heart of Providence-Mid-Century Classic Comfort,60416125,Elisa,Providence,Providence,41.83789,-71.43979,Private room,81,2,13,2019-10-13,0.24,1,356
+11553456,Spacious Garden Level Apt. Close to URI/Beaches,3005876,Luke And Melissa,Washington,South Kingstown,41.44666,-71.52945,Entire home/apt,140,2,69,2020-10-12,1.23,1,319
+11555610,C’an Azul  Private Guestroom Suite,27268443,Lisel,Newport,Newport,41.49933,-71.30055,Private room,150,2,45,2020-10-26,0.84,26,154
+11607148,"Great Location - Close to Beaches, All Activities!",61431926,Barbara,Newport,Middletown,41.49314,-71.27865,Entire home/apt,184,2,94,2020-10-25,1.68,1,280
+11616498,Sunset Hill Idyllic In-Law Suite 5 min from Beach,22509007,Harlow Hill,Newport,Middletown,41.52759,-71.25789,Entire home/apt,115,1,377,2020-10-24,6.94,2,331
+11621057,"Spacious, private & quaint bedroom!",55687037,Zaudi,Providence,Pawtucket,41.86343,-71.35036,Private room,55,2,57,2020-09-07,1.04,2,179
+11631469,Jack's House in Yachting Village,56875979,Leslie,Newport,Newport,41.4824,-71.3149,Entire home/apt,345,2,20,2020-10-14,0.38,1,323
+11634608,Wonderful East Side Apartment,61382590,Rebecca,Providence,Providence,41.85152,-71.39416,Entire home/apt,120,1,187,2019-07-14,3.48,1,25
+11685430,5 Bed Historic Home 30 day Discounts Oct -April,62078682,Steve,Newport,Jamestown,41.50483,-71.36584,Entire home/apt,364,2,31,2020-10-04,0.77,4,306
+11707123,Yachting Village 3BR/2BA,2423269,Amy,Newport,Newport,41.48022,-71.31337,Entire home/apt,379,3,74,2020-08-31,1.36,3,229
+11719222,"Elegant Condo in Newport, RI",62314968,Timothy,Newport,Newport,41.48939,-71.30685,Shared room,100,30,1,2017-02-26,0.02,1,364
+11740560,Spacious East Side Apartment,5096701,Rachel,Providence,Providence,41.84042,-71.40069,Entire home/apt,175,30,2,2020-08-08,0.07,1,90
+11753591,Downtown 4BR Garden Duplex,2423269,Amy,Newport,Newport,41.48029,-71.31426,Entire home/apt,334,3,85,2020-10-25,1.68,3,199
+11773172,Boutique Retreat - Perfect Location,62145960,Ty & Anabela,Newport,Jamestown,41.49909,-71.37411,Entire home/apt,600,2,0,,,2,277
+11824409,Keys to Newport 3 Bedroom Apartment,62984576,Daniel & Steph,Newport,Newport,41.49595,-71.30373,Entire home/apt,318,1,95,2020-10-18,1.76,1,299
+11836651,"34 Davisville Ln Narragansett, RI",63066578,Vincenzo,Washington,Narragansett,41.39554,-71.4781,Entire home/apt,390,7,3,2020-08-21,0.20,1,157
+11867655,"Beautiful New Home - Walk to Beach, Outdoor Shower",63266431,Susan,Washington,Narragansett,41.38884,-71.48267,Entire home/apt,335,7,7,2020-08-01,0.25,1,63
+11881253,*New Lower FALL Rates! Walk2Beach-Clean/Cozy,63353234,Sharen,Newport,Middletown,41.49337,-71.28205,Entire home/apt,341,2,19,2020-10-26,0.37,1,108
+11887000,"Quiet family friendly, single house",63386362,Gaetano,Washington,Narragansett,41.47847,-71.43919,Entire home/apt,233,5,17,2020-08-31,0.32,1,157
+11903681,Charming Beach Cottage Close to it All!,63497839,Matt & Shannon,Newport,Middletown,41.4892,-71.27921,Entire home/apt,300,2,50,2020-10-03,1.02,1,275
+11918854,Fabulous Family Vacation House!,19311767,Catherine,Washington,Narragansett,41.43215,-71.46213,Entire home/apt,807,2,34,2020-09-14,0.62,1,331
+11961938,Walk to beach! Sleeps 8+. Great location! Dogs ok!,301968,Rebecca,Newport,Middletown,41.49368,-71.28112,Entire home/apt,500,2,3,2018-09-03,0.08,1,196
+11965696,Unit 1A - 1st Floor 1-Bdrm Apt - 4-Fam Victorian,38345103,Steven,Newport,Newport,41.46666,-71.30946,Entire home/apt,214,2,11,2019-06-23,0.22,6,52
+11985220,"The ""Vibe"" Beach House- Booking Summer 2020",64058656,Ryan,Washington,Narragansett,41.41401,-71.49629,Entire home/apt,275,7,17,2020-09-05,0.33,1,91
+11986311,"2 Bed, 1.5 bath with Parking!!!!!",10393465,Gary,Newport,Newport,41.48969,-71.31218,Entire home/apt,300,3,35,2020-08-21,0.64,1,144
+12000290,Whimsical Wickford...Cozy One Bedroom Apartment,63910997,Steve And JoAnn,Washington,North Kingstown,41.56693,-71.45977,Entire home/apt,100,2,256,2020-10-22,4.63,1,23
+12042002,BEACH HAVEN II! Next to Matunuck Ranch by The Sea!,39978748,Stephanie,Washington,South Kingstown,41.37416,-71.54506,Entire home/apt,225,2,60,2020-09-06,1.14,2,74
+12070533,Modern colonial in the suburbs,64675343,Talal,Kent,West Warwick,41.67354,-71.51541,Entire home/apt,150,2,44,2020-03-12,0.79,1,301
+12088555,Gilded Age Retreat—Family Home With Verdant Garden,62145960,Ty & Anabela,Newport,Jamestown,41.49695,-71.37458,Entire home/apt,600,2,17,2020-10-06,0.32,2,277
+12093488,The location on the Harbor w/ prkng,31853384,Jay,Newport,Newport,41.48146,-71.31384,Entire home/apt,144,2,168,2020-10-26,3.16,3,325
+12105014,"Lovely 2 bedroom, steps from Brown",20515434,George,Providence,Providence,41.83028,-71.38946,Entire home/apt,288,3,18,2019-12-26,0.36,11,59
+12166476,Historic Victorian on West Side,28716303,Michael,Providence,Providence,41.81928,-71.4302,Entire home/apt,900,2,20,2019-12-01,0.38,3,343
+12212236,Long-term ready 2BR Stylish Exec Condo W/D in unit,65684215,Tim,Providence,Providence,41.82797,-71.42009,Entire home/apt,182,5,128,2020-05-30,2.32,1,263
+12224661,Home by the Sea,65761485,Norm,Newport,Little Compton,41.48872,-71.14364,Entire home/apt,135,2,190,2020-10-26,3.52,2,240
+12224742,Sunny East-Side Getaway by Brown's Campus,65762047,Julie,Providence,Providence,41.82168,-71.39485,Entire home/apt,100,2,86,2020-09-28,1.64,5,303
+12243133,Sunny WWII Barracks Summer Home,65893827,Leah,Newport,Little Compton,41.47963,-71.18323,Entire home/apt,335,4,6,2019-09-03,0.12,1,54
+12267193,"Ocean View on Beachfront Compound, steps to beach!",12240618,Julie,Newport,Middletown,41.48871,-71.28167,Entire home/apt,714,2,13,2020-09-07,0.27,2,156
+12268946,Freebody Park Suite,66083469,Tony,Newport,Newport,41.48177,-71.30678,Private room,195,2,23,2019-06-23,0.41,6,301
+12283135,Sea Breeze Inn guest house.  Walk to Beach,66188193,Elizabeth,Newport,Middletown,41.49496,-71.2833,Entire home/apt,929,3,8,2020-08-09,0.19,3,90
+12284511,Hotel Guest Room,40860008,Paul,Newport,Newport,41.48674,-71.31009,Private room,136,2,25,2020-09-29,0.46,5,52
+12304293,Victorian room for 2 awaits you (B&B),66342568,Rick,Newport,Newport,41.48805,-71.31445,Private room,172,1,4,2020-08-14,0.15,4,89
+12308216,Secluded Oasis Just Minutes from Beach and Town #4,66371700,Katy,Washington,South Kingstown,41.41236,-71.53264,Private room,98,2,21,2019-09-01,0.50,3,85
+12425070,"Artsy Apt 10 min from Brown University, RISD",13979074,Kevin,Providence,East Providence,41.79977,-71.36388,Entire home/apt,74,2,22,2018-05-28,0.53,1,208
+12430706,Newport In Town Historic Inn w/ parking,8359325,Mark,Newport,Newport,41.4896,-71.30849,Hotel room,707,3,19,2019-12-27,0.40,12,289
+12456443,Charming East Side 2BR,67400771,Valerie,Providence,Providence,41.81971,-71.40092,Entire home/apt,207,1,125,2020-10-12,2.29,1,257
+12627670,"Adorable 3 Bedroom Beach House, 1 Mi to Ocean!",2672012,Joan,Washington,Narragansett,41.42473,-71.46697,Entire home/apt,235,2,2,2019-09-09,0.12,9,143
+12664595,Reed Rose Cottage Apartment  Newport Private Pool,23862203,Charron,Newport,Newport,41.50003,-71.30125,Entire home/apt,326,2,16,2020-09-06,0.59,1,26
+12682520,Beach Condo,66188193,Elizabeth,Newport,Middletown,41.49079,-71.28442,Entire home/apt,330,3,10,2020-07-05,0.19,3,120
+12697339,Newport Onshore Thames St Harborfront Resort-WOW!,68070658,Doug,Newport,Newport,41.48147,-71.31372,Entire home/apt,395,2,10,2020-09-27,0.18,5,31
+12727805,Queen sized pencil post bed 1 of 4 in Field House,5736916,Spencer,Washington,North Kingstown,41.53275,-71.42783,Private room,157,1,11,2019-09-08,0.27,2,184
+12728962,Queen bed w/ vessel sink 1/ 4 rooms in Field House,5736916,Spencer,Washington,North Kingstown,41.52333,-71.41895,Private room,157,1,3,2019-06-09,0.07,2,181
+12802900,"Longhwarf  By Wyndham Newport, RI",68070658,Doug,Newport,Newport,41.49092,-71.31929,Entire home/apt,433,2,60,2020-09-20,1.12,5,24
+12807652,Comfortable home in quiet location,10719309,Magdalen,Washington,New Shoreham,41.16607,-71.59733,Entire home/apt,325,5,5,2020-09-01,0.10,1,29
+12809793,"82 Thames street, unit 2",50673349,Cheryl,Newport,Newport,41.49078,-71.31789,Entire home/apt,81,28,13,2020-09-30,0.25,2,332
+12833852,sunset farm contemporary barn apartment,45447537,Andrea,Newport,Jamestown,41.53847,-71.37867,Entire home/apt,195,2,82,2020-10-25,2.04,1,364
+12850565,Matthew's Ohio room in Providence,57812241,Alexia,Providence,Providence,41.79779,-71.42438,Private room,57,5,18,2020-04-04,0.35,8,244
+12851206,1 Bedroom apartment- in heart of town,1488482,Julie And Evan,Bristol,Barrington,41.73932,-71.3117,Entire home/apt,59,30,12,2019-07-09,0.29,1,255
+12855139,Beautiful home minutes to beaches and Newport,33141463,Hillary,Newport,Middletown,41.51845,-71.27796,Entire home/apt,475,4,1,2019-07-15,0.06,1,178
+12865990,Sweet Summer Escape! Book Now!,70342374,Danielle,Newport,Newport,41.4762,-71.33831,Entire home/apt,421,1,39,2020-06-26,0.73,3,355
+12892533,Paris romance in Providence :),57812241,Alexia,Providence,Providence,41.79877,-71.4229,Private room,75,5,11,2019-08-23,0.21,8,364
+12912766,Wyndham Long Wharf-Fourth of July & Jazz Fest Week,52759804,Paul,Newport,Newport,41.49125,-71.31861,Entire home/apt,399,4,12,2020-08-21,0.22,7,14
+12913121,Private 1 or 2 bedroom & bath in idyllic Jamestown,19233401,Allie,Newport,Jamestown,41.53039,-71.38449,Private room,158,2,41,2019-10-14,0.76,1,301
+12928803,Two Rooms near Downtown Newport,70957816,Janet,Newport,Middletown,41.51304,-71.30528,Private room,150,1,56,2019-10-27,1.04,3,297
+12930963,Private Room near Downtown Newport-Queen Bed,70957816,Janet,Newport,Middletown,41.51263,-71.30582,Private room,85,1,82,2020-03-19,1.52,3,301
+12953387,Scarborough Beach Resort Oasis,27271603,Bobby,Washington,Narragansett,41.39069,-71.47448,Entire home/apt,146,180,14,2019-08-12,0.26,1,363
+12955270,Private Room near Downtown Newport-Twin Beds,70957816,Janet,Newport,Middletown,41.51295,-71.30538,Private room,75,1,106,2019-10-21,1.98,3,297
+12960675,"Private Cottage, dog/kid frdly, sleep 6 ,prvt bath",118729358,Linda,Providence,Providence,41.83333,-71.44894,Entire home/apt,88,3,116,2020-10-26,2.20,1,330
+13003695,Hideaway Apartment Suite and Beach Passes,17767450,Seely,Washington,Narragansett,41.4314,-71.46312,Entire home/apt,215,7,9,2020-09-05,0.22,1,168
+13031187,"The ""Happy"" House in ♡ of NPT",72008990,Steven,Newport,Newport,41.4794,-71.3125,Entire home/apt,729,3,61,2020-08-30,1.15,1,356
+13042235,Great Vacation House,72139343,Barbara,Washington,Narragansett,41.4857,-71.43561,Entire home/apt,260,7,4,2019-07-13,0.07,1,127
+13071231,"Beautiful Home Close to Town, Beaches, & Nightlife",72454559,David,Washington,New Shoreham,41.17037,-71.57155,Entire home/apt,285,2,14,2020-09-20,0.28,1,31
+13078957,Newport  / Portsmouth 3 bed 2 bath Home,72517034,Justin,Newport,Portsmouth,41.58676,-71.27521,Entire home/apt,213,2,80,2020-09-13,1.49,1,152
+13084981,Cayla's Providence Zen,57812241,Alexia,Providence,Providence,41.80033,-71.42492,Private room,55,8,19,2020-01-24,0.35,8,364
+13110227,The Sheffield House  Daffodil Room,13378019,Diane,Washington,New Shoreham,41.1691,-71.5577,Private room,246,2,13,2020-08-30,0.26,6,170
+13111019,"The Sheffield House,Wildflower Room",13378019,Diane,Washington,New Shoreham,41.171,-71.55817,Private room,129,1,56,2019-09-10,1.06,6,210
+13111131,"The Sheffield HouseRose Mallow",13378019,Diane,Washington,New Shoreham,41.16965,-71.55799,Private room,129,1,26,2020-09-10,0.49,6,207
+13111284,"The Sheffield House,Thistle Room",13378019,Diane,Washington,New Shoreham,41.16934,-71.55927,Private room,129,1,60,2020-09-07,1.14,6,208
+13111544,"The Sheffield House,Morning Glory Room",13378019,Diane,Washington,New Shoreham,41.17078,-71.55774,Private room,129,1,67,2020-09-27,1.28,6,208
+13112184,Pottery Barn Beach House-4 beds PLUS guest suite!!,34006948,Joseph,Washington,Narragansett,41.41099,-71.49518,Entire home/apt,636,30,16,2020-08-15,0.31,1,58
+13124454,Mini Mansion you will love!,8360686,Niki,Newport,Newport,41.47269,-71.31495,Private room,199,2,37,2019-07-28,0.71,1,364
+13126781,Rocky's,73072735,Deborah,Providence,East Providence,41.76943,-71.34862,Entire home/apt,100,1,76,2020-10-25,1.41,1,83
+13138808,Quaint Summer Home in Little Compton,2221957,Dominic,Newport,Little Compton,41.51055,-71.15809,Entire home/apt,200,5,39,2020-09-12,0.72,1,147
+13151796,Newport Bay Club Resort Hotel August,68645359,Gary,Newport,Newport,41.48533,-71.31531,Entire home/apt,432,2,1,2016-08-20,0.02,8,269
+13152579,July Rental Waterfront Newport Longwharf Resort,68645359,Gary,Newport,Newport,41.48958,-71.31864,Entire home/apt,438,2,3,2020-07-20,0.19,8,266
+13153015,"August Newport Onshore Resort Week, Waterfront",68645359,Gary,Newport,Newport,41.48184,-71.31436,Entire home/apt,468,2,2,2020-08-17,0.05,8,205
+13165645,August Week Newport Waterfront Onshore Resort,68645359,Gary,Newport,Newport,41.48151,-71.31352,Entire home/apt,468,2,1,2020-08-19,0.42,8,205
+13168377,Single cozy room with our family in Middletown RI.,54128834,Robin,Newport,Middletown,41.50921,-71.29629,Private room,85,5,82,2019-10-13,1.53,2,359
+13171554,"Luxury Rental-walk to beach, golf, polo & vineyard",61519527,Hope,Newport,Portsmouth,41.54913,-71.24603,Entire home/apt,890,7,3,2019-08-14,0.11,1,364
+13172951,Beautiful home - short walk to Scarborough Beach!,73624357,Erin,Washington,Narragansett,41.38564,-71.48441,Entire home/apt,300,6,9,2020-06-27,0.18,1,151
+13191201,Wyndham Inn on the Harbor *HARBOR VIEW SUITE*,52759804,Paul,Newport,Newport,41.48293,-71.31517,Entire home/apt,299,3,8,2020-08-04,0.15,7,21
+13203496,ART ROOM,73970146,Jennifer,Washington,Charlestown,41.38221,-71.62308,Private room,189,2,6,2020-07-05,0.11,4,365
+13203826,Beachcomber,73970146,Jennifer,Washington,Charlestown,41.38225,-71.62413,Private room,169,2,17,2020-08-22,0.32,4,365
+13204037,WEST WING,73970146,Jennifer,Washington,Charlestown,41.38185,-71.6248,Private room,189,2,14,2020-08-24,0.26,4,359
+13218868,"Newport, RI, Wyndam Longwharf 2 night stay",30276300,Susan,Newport,Newport,41.49001,-71.32074,Entire home/apt,338,2,14,2020-09-03,0.47,1,18
+13248433,"Brimstone Hill Farm, Little Compton, RI",74487491,Clark And Galen,Newport,Little Compton,41.52814,-71.19229,Entire home/apt,145,2,54,2020-07-12,1.02,1,202
+13259236,"Heart of NEWPORT, Studio apartment",38973378,Katie,Newport,Newport,41.49169,-71.30613,Entire home/apt,211,2,97,2020-10-12,1.83,1,363
+13329562,Wyndham Inn On Long Wharf Harbor View,22202787,Peter,Newport,Newport,41.49003,-71.32089,Entire home/apt,257,2,15,2020-08-13,0.36,2,60
+13329712,Inn on Longwharf Resort,68070658,Doug,Newport,Newport,41.49029,-71.32005,Entire home/apt,408,2,21,2020-10-18,0.54,5,20
+13330937,Ocean View and Private Beach Unit 1,32066932,Sarah,Washington,Westerly,41.32871,-71.75317,Private room,250,2,6,2020-09-15,0.15,4,197
+13332183,Ocean Views and Private Beach Unit 4,32066932,Sarah,Washington,Westerly,41.33074,-71.75315,Private room,250,2,3,2019-06-30,0.10,4,166
+13340428,Charming Historic Farm House Near Beach & Downtown,75560413,Debra,Newport,Middletown,41.5052,-71.28729,Entire home/apt,346,2,13,2019-08-24,0.45,1,89
+13358340,"Narragansett, RI Bonnet Shores Home",75770091,Laura,Washington,Narragansett,41.47454,-71.43595,Entire home/apt,550,5,23,2019-08-25,0.44,2,97
+13358575,"A Shore Thing at Charlestown Beach",73970146,Jennifer,Washington,Charlestown,41.38208,-71.62447,Entire home/apt,535,2,7,2018-09-23,0.17,4,271
+13386594,Downtown Newport Home - Unit 1,18942428,Mark,Newport,Newport,41.48609,-71.31241,Entire home/apt,125,31,2,2019-08-09,0.08,1,76
+13391434,EAST GREENWICH VILLAGE Efficiency Apartment,21233545,Debra,Kent,East Greenwich,41.66176,-71.44733,Entire home/apt,90,2,68,2020-08-29,1.29,2,180
+13398118,Old Beach Road Condo,17149400,Nicole,Newport,Newport,41.48679,-71.30173,Entire home/apt,416,14,15,2020-08-24,0.31,1,223
+13406281,Hendricks St Carriage House,76326831,James,Washington,South Kingstown,41.44109,-71.49368,Entire home/apt,164,1,100,2020-10-03,1.90,1,86
+13425295,Grand View Suite,66083469,Tony,Newport,Newport,41.48214,-71.30549,Entire home/apt,164,2,7,2019-09-02,0.13,6,295
+13426116,Paris romance in Providence,57812241,Alexia,Providence,Providence,41.79877,-71.42511,Private room,79,4,2,2016-08-12,0.04,8,365
+13426138,Tennis Hall of Fame Suite,66083469,Tony,Newport,Newport,41.48068,-71.30667,Entire home/apt,220,2,26,2019-08-04,0.49,6,301
+13426265,Ebbetts Cottage: Island Oasis,47331443,Tracey,Washington,New Shoreham,41.16664,-71.56247,Entire home/apt,700,3,11,2020-08-18,0.26,1,364
+13427064,Park view suite overlooking Freebody Park,66083469,Tony,Newport,Newport,41.48055,-71.30524,Entire home/apt,275,2,34,2018-09-10,0.64,6,299
+13428027,"Water View 6-Bedroom, Dutch Colonial",76562030,Jim,Newport,Middletown,41.49178,-71.28265,Entire home/apt,857,2,7,2020-09-27,0.39,2,198
+13436423,Barker House First Floor Cozy room with Full Bed,42903100,Anthony,Newport,Newport,41.49163,-71.31628,Private room,229,1,60,2019-09-08,1.13,4,179
+13484931,Large sunny pristine 3 room suite near Brown,12951979,Kelly,Providence,Providence,41.83433,-71.39092,Entire home/apt,92,2,137,2020-09-16,2.66,2,329
+13533019,Cozy Guest House in Newport RI!,21810836,Natalie,Newport,Newport,41.4781,-71.30447,Entire home/apt,243,2,83,2020-10-25,1.57,2,275
+13550041,Enjoy Fall in sanitized New England charm!,7740082,Hamzah,Providence,Providence,41.82515,-71.40552,Entire home/apt,87,1,190,2020-10-23,3.69,2,32
+13561412,"Two Level Condo with all the Essentials, Thames St",78139874,Chris,Newport,Newport,41.48849,-71.31441,Entire home/apt,258,2,7,2020-10-05,0.13,29,353
+13564535,"4BR/2Bath Beach Home in Wakefield, RI!",78182760,Brad,Washington,South Kingstown,41.38967,-71.61186,Entire home/apt,250,7,16,2020-04-12,0.30,2,109
+13586022,5★ Downtown 2 Bdrm Apt★Heart of Newport★Parking,4483032,James,Newport,Newport,41.48946,-71.31487,Entire home/apt,185,3,81,2020-10-18,1.54,5,364
+13601718,Beautiful Home w Deck & Yard! 1 Mile to the Beach,2672012,Joan,Washington,Narragansett,41.42469,-71.469,Entire home/apt,250,4,23,2019-08-17,0.43,9,150
+13670502,3 bd/2bth Colonial in the Heart of Town,4910280,Galit,Newport,Newport,41.49298,-71.31464,Entire home/apt,346,2,50,2020-10-12,0.95,1,210
+13674745,Pier rental one block from beach entrance,79342882,Jennifer,Newport,Middletown,41.53126,-71.29749,Entire home/apt,375,7,0,,,2,49
+13686952,Chaffee Cottage,79706143,Stephen,Newport,Little Compton,41.52434,-71.13088,Entire home/apt,283,7,5,2020-07-04,0.10,1,338
+13700952,Gorgeous Lake house retreat,55848598,Shanequa,Washington,South Kingstown,41.47372,-71.46742,Entire home/apt,373,3,72,2020-10-19,1.40,1,287
+13704399,Entire house in heart of the Pier. Walk everywhere,79342882,Jennifer,Washington,Narragansett,41.43327,-71.46158,Entire home/apt,450,1,2,2020-08-22,0.62,2,361
+13705717,Blue Cottage: Two Bedroom Apartment,79802071,Helen,Providence,Providence,41.81133,-71.43447,Entire home/apt,139,3,6,2020-07-04,0.12,1,114
+13721869,"Walk to beach, close to downtown. 2 BR apartment",80210800,Marion,Newport,Middletown,41.4925,-71.27832,Entire home/apt,174,1,127,2020-10-25,2.43,1,268
+13730732,Great Gardens Near the Beaches!,68142655,Tracy And Sue,Washington,Charlestown,41.38539,-71.64579,Private room,91,1,201,2020-03-15,3.82,1,270
+13768872,Spencer Park Guest House,37999021,Hugh / Ned  (Nickname),Newport,Newport,41.47559,-71.31603,Private room,188,2,39,2020-10-12,0.97,2,4
+13771260,Federal Hill near Downtown.,31740540,Jesus,Providence,Providence,41.81938,-71.43195,Entire home/apt,82,5,229,2020-08-28,4.80,1,55
+13784334,Lake house for group and business gathering,2103713,Lifen And Dan,Kent,Coventry,41.67041,-71.54682,Entire home/apt,526,4,54,2020-10-25,1.03,3,328
+13797001,Downtown Location ✓ Fully Equipped Kitchen ✓,78139874,Chris,Newport,Newport,41.48751,-71.31518,Entire home/apt,258,2,4,2020-10-11,0.31,29,361
+13797170,"2 Bedrooms w/Loft, Deck & Fireplace on Thames St",78139874,Chris,Newport,Newport,41.47741,-71.31462,Entire home/apt,442,2,8,2020-09-22,0.52,29,177
+13798054,"Private Home w/Game Room, Fireplace & Parking",78139874,Chris,Newport,Newport,41.47676,-71.31456,Entire home/apt,500,2,14,2020-09-03,0.44,29,324
+13800509,R2 clean Room Q size bed,77806087,Zhiting,Providence,Cranston,41.76027,-71.44962,Private room,33,1,87,2019-11-30,1.66,2,57
+13861420,"Spacious and Fun 3 BR house, Downtown Newport.",32918127,Luke,Newport,Newport,41.48142,-71.31208,Entire home/apt,295,1,139,2020-10-11,2.67,2,89
+13863182,Belle Cottage,81934379,Carey,Bristol,Barrington,41.74595,-71.35147,Entire home/apt,204,2,47,2019-08-18,0.91,1,149
+13898453,"A quiet place at 7 min from downtown, private bath",82358724,Ivonne,Providence,North Providence,41.86322,-71.41849,Entire home/apt,69,7,88,2020-02-25,1.69,2,164
+13908569,*Narragansett Cottage (with central air)*,31922508,Ash,Washington,Narragansett,41.48767,-71.44608,Entire home/apt,328,3,15,2019-08-27,0.51,1,97
+13908839,Private Room in Newport's Yachting Village,82484389,Richard,Newport,Newport,41.47534,-71.312,Private room,118,2,138,2020-10-04,2.72,1,60
+13928718,Miguel's magical Providence room,57812241,Alexia,Providence,Providence,41.79867,-71.42534,Private room,61,10,13,2020-08-14,0.25,8,364
+13954639,Narragansett Beach Retreat,82908109,Lauren,Washington,Narragansett,41.48321,-71.44616,Entire home/apt,899,2,6,2018-08-25,0.21,1,88
+13957612,Perfect Newport Get-Away!,25997435,Ann,Newport,Newport,41.49529,-71.31915,Entire home/apt,197,7,25,2020-08-01,0.49,1,150
+13975180,Bright & sunny apartment in Victorian cottage,83268653,Rachel,Providence,Providence,41.81275,-71.43286,Entire home/apt,70,28,108,2020-08-16,2.11,8,217
+13994111,Sun swept 4 bed on the edge of downtown,49576716,Alexander,Newport,Newport,41.4914,-71.31627,Entire home/apt,379,2,96,2020-09-14,1.88,1,77
+13994261,Cozy retreat close to everything,83551371,Sam,Newport,Newport,41.49763,-71.30989,Private room,105,2,110,2019-10-14,2.11,1,89
+14005488,Nice private space near the beach!,31217820,Josh,Newport,Portsmouth,41.62551,-71.23447,Private room,94,1,83,2020-09-26,1.59,1,364
+14007077,In-town spacious basement apt. w/ private entrance,19958170,Annette,Newport,Newport,41.48879,-71.31166,Entire home/apt,175,2,83,2020-09-26,1.59,1,140
+14023790,East side private room near Brown U and RISD,1309882,Edith,Providence,Providence,41.84138,-71.39655,Private room,50,1,214,2020-03-14,4.14,1,26
+14043516,"R1 Clean, Private room Center of Everything",77806087,Zhiting,Providence,Cranston,41.76066,-71.44798,Private room,33,1,67,2019-07-30,1.29,2,57
+14067081,Walk across the street to Scarborough Beach North!,48086290,Lauren,Washington,Narragansett,41.39446,-71.47015,Entire home/apt,259,6,31,2020-08-07,0.73,1,27
+14094185,Historic Home in Narragansett RI - LR,42033585,Nancy,Washington,Narragansett,41.4166,-71.4614,Private room,220,3,12,2020-09-14,0.30,4,365
+14137664,"Cozy, cute beach condo in Westerly RI . Best value",84001099,Dan,Washington,Westerly,41.35079,-71.77512,Entire home/apt,122,2,23,2020-09-01,0.45,1,333
+14141723,Downtown Providence city center,75297967,Scott,Providence,Providence,41.82268,-71.41499,Entire home/apt,123,1,237,2020-10-19,4.73,5,58
+14151219,Harbor Island Cottage House,85497431,Kathleen,Washington,Narragansett,41.41395,-71.49753,Entire home/apt,275,3,50,2020-10-22,0.98,1,172
+14166250,Pretty Beach House near Newport/URI,85704109,Lynda,Washington,North Kingstown,41.54966,-71.43733,Entire home/apt,314,2,48,2020-08-22,0.93,1,299
+14176624,Victorian Mansion - Bedroom Suite 5,21561224,Chuck,Providence,Providence,41.78042,-71.40567,Private room,40,21,8,2020-09-30,0.17,5,305
+14179210,""" Lindera""- Relaxed Setting Near URI/Beach/Newport",17525513,Chas & Em,Washington,South Kingstown,41.47614,-71.57194,Private room,47,1,37,2020-10-07,0.72,11,103
+14182982,Newport Guest Room with Private Bath,85934092,John And Helen,Newport,Newport,41.49349,-71.30654,Private room,175,2,38,2019-10-13,0.76,1,332
+14186507,""" Decodon""-Relaxed Setting Near URI/Beach/Newport",17525513,Chas & Em,Washington,South Kingstown,41.47821,-71.57222,Private room,46,1,51,2020-07-13,0.99,11,126
+14203651,""" Viburnum"" Clean & Private Near URI/Beach/Newport",17525513,Chas & Em,Washington,South Kingstown,41.47766,-71.57038,Private room,49,1,106,2020-09-02,2.18,11,254
+14211480,Summer vacation in  downtown Newport Rhode Island,86283447,Michael,Newport,Newport,41.49087,-71.31918,Entire home/apt,300,6,1,2016-08-01,0.02,1,358
+14230497,Ocean Front View! Wyndham Inn on Long Wharf Resort,47475013,Hamilton,Newport,Newport,41.49031,-71.3198,Entire home/apt,183,2,16,2020-08-11,0.45,11,365
+14257725,"""Wren Haven""- Spacious & Clean - URI/beach/Newport",17525513,Chas & Em,Washington,South Kingstown,41.48199,-71.56298,Entire home/apt,450,3,23,2020-09-07,0.55,11,237
+14258081,"Prime Pier Location, 1 Block To Seawall",86836467,Will,Washington,Narragansett,41.42038,-71.45846,Entire home/apt,375,3,7,2020-09-07,1.96,1,58
+14301103,Gorgeous Guest House,86759187,Marisa,Providence,Lincoln,41.90478,-71.45546,Entire home/apt,209,1,71,2020-10-26,1.45,1,299
+14314775,"Historic & cozy horse farm, 75 mi. wooded trails",87518706,Virginia,Providence,Burrillville,41.94584,-71.74027,Private room,200,2,11,2020-08-03,0.22,2,337
+14315179,"Ocean View -Walk to water, walk to village",87523523,Kathleen,Washington,South Kingstown,41.37903,-71.5542,Entire home/apt,300,7,2,2017-08-31,0.04,1,359
+14317039,Newport- 3 Bedroom Bungalow- Near Cliff-Walk,87547714,Todd,Newport,Newport,41.48208,-71.30331,Entire home/apt,314,3,15,2019-08-18,0.31,1,150
+14358053,Beautiful farm with privacy,88023537,Karen,Washington,Hopkinton,41.5299,-71.70281,Private room,115,1,96,2020-10-25,1.88,1,339
+14373603,Charming Waterfront Beach House,86598064,Christine,Washington,South Kingstown,41.3741,-71.54045,Entire home/apt,250,2,11,2020-09-21,0.29,1,193
+14374758,Newport unforgettable,88218654,Juan,Newport,Newport,41.49501,-71.31002,Entire home/apt,175,2,224,2020-10-25,4.39,4,305
+14385810,Private Suite in charming cottage 5 min from beach,19787159,Carol,Washington,South Kingstown,41.48828,-71.44911,Entire home/apt,125,1,78,2020-09-07,2.62,1,116
+14399290,The BEST location and apartment.,75048569,Brett,Newport,Newport,41.48147,-71.31321,Entire home/apt,251,1,161,2020-10-24,4.55,1,292
+14417761,Warren's Point Victorian home-gorgeous ocean views,88651242,Nancy,Newport,Little Compton,41.46562,-71.17241,Entire home/apt,354,2,12,2020-10-12,0.24,1,182
+14421121,2 bed Suite (can accommodate up to 4 people),42033585,Nancy,Washington,Narragansett,41.4177,-71.4628,Private room,280,3,15,2020-09-13,0.29,4,365
+14430112,Secluded House on Private Lake near Beach,1170153,Jason,Washington,South Kingstown,41.40032,-71.55458,Entire home/apt,302,7,8,2020-07-11,0.16,1,145
+14464054,HOT SPA,89123927,Naoufal,Providence,Cranston,41.73585,-71.47276,Entire home/apt,205,1,22,2019-09-01,0.44,1,335
+14480828,"Newport, 2BR/2BA, Heart of Newport",88342179,Annette,Newport,Newport,41.48147,-71.3144,Entire home/apt,500,3,2,2019-08-01,0.05,1,89
+14491680,Guest House Tucked in the Woods,1917717,Jillian,Newport,Little Compton,41.53751,-71.12461,Entire home/apt,225,91,2,2017-04-06,0.04,1,178
+14534914,Barn Sanctuary,27268443,Lisel,Newport,Middletown,41.52874,-71.28905,Private room,155,2,116,2020-10-18,2.27,26,342
+14646118,The Gallery,16814193,Kammie,Newport,Newport,41.48952,-71.31303,Entire home/apt,131,2,101,2020-10-26,2.05,1,98
+14665359,Spacious 1 bedroom apartment.,77424482,Denise,Newport,Newport,41.499,-71.30762,Entire home/apt,136,1,287,2020-10-18,7.19,2,325
+14669119,The Blonde's Beach House,91149735,Connie,Washington,Westerly,41.32646,-71.82017,Entire home/apt,450,3,6,2019-07-06,0.12,1,271
+14672069,"Charming 1 BR, Ideally Located",77424482,Denise,Newport,Newport,41.50014,-71.30652,Entire home/apt,126,1,247,2020-10-17,4.86,2,350
+14715808,Private Beach Retreat close to Newport,91557478,Jane,Newport,Middletown,41.50217,-71.27345,Entire home/apt,150,2,82,2020-10-13,1.64,1,160
+14739728,"★ The Escape: FREE WiFi, Breakfast & Parking ★",91819700,Dee,Providence,North Providence,41.85484,-71.48164,Private room,35,1,8,2019-09-15,0.48,3,147
+14758253,Townhouse Loft Suite w/ Private Bath 30day min.,3686343,Ray,Newport,Newport,41.49661,-71.31873,Private room,40,30,11,2019-02-09,0.22,4,329
+14770923,Beach House,25655149,Jeff,Newport,Middletown,41.48802,-71.2803,Entire home/apt,729,4,74,2020-10-13,1.47,2,296
+14773714,Nifty Newport Retreat,84580969,Heather,Newport,Newport,41.4749,-71.31544,Entire home/apt,350,30,11,2020-06-28,0.22,1,157
+14783816,""" Ilex""- Relaxed Setting near URI/Beaches/Newport",17525513,Chas & Em,Washington,South Kingstown,41.47813,-71.57105,Private room,39,1,29,2020-10-16,0.57,11,64
+14825872,Walk to beach and beach bars,92708570,Jeffrey,Washington,South Kingstown,41.3766,-71.54864,Entire home/apt,300,1,32,2020-10-18,0.64,1,56
+14868991,Crab Apple Cottage - Welcome Home!,93160316,Donna,Newport,Middletown,41.50596,-71.28179,Entire home/apt,450,2,32,2020-08-09,0.81,1,69
+14895825,Peaceful and Private,93481253,Diane,Kent,Warwick,41.70866,-71.46534,Private room,50,1,95,2020-10-24,1.90,1,157
+14932586,MODERN LUXURY IN DOWNTOWN NEWPORT,3069878,Erica,Newport,Newport,41.47779,-71.31252,Entire home/apt,795,3,31,2020-08-31,0.73,1,140
+14943248,Mary Street Guest House # 507,94017380,Liliane,Newport,Newport,41.4883,-71.31354,Entire home/apt,178,2,52,2020-10-11,1.05,16,116
+14946137,Mary Street Guest House by Celio Ap #101,94017380,Liliane,Newport,Newport,41.48763,-71.31571,Entire home/apt,189,2,40,2020-10-12,0.88,16,89
+14946774,Mary Street Guest House by Lili Ap #102,94017380,Liliane,Newport,Newport,41.48919,-71.31449,Entire home/apt,338,2,44,2020-10-19,1.00,16,89
+14991597,Irish American Inn - Cliff Walk - Free Parking,9963334,Sharon,Newport,Newport,41.47411,-71.31407,Entire home/apt,224,1,77,2020-09-07,1.54,3,328
+14994554,Breezy Point Beach House,94521729,Genevieve,Washington,Narragansett,41.39282,-71.47353,Entire home/apt,275,3,69,2020-10-20,1.37,1,358
+15004428,3 bdrm  private in-law suite  w separate entrance,94649597,Linda,Washington,Charlestown,41.35266,-71.70114,Entire home/apt,150,2,29,2020-09-07,0.58,1,263
+15006389,Private entry suite in historic Pawtuxet Village,6108021,Thomas,Kent,Warwick,41.76265,-71.39117,Private room,59,3,102,2020-09-12,2.32,2,306
+15067970,The Newport Cottage.Perfect Style/Comfort/Location,54772400,Cassandra,Newport,Newport,41.48395,-71.31047,Entire home/apt,414,1,77,2020-10-11,1.80,2,360
+15084186,East Matunuck Ocean / Beach Escape,95450154,Greg,Washington,South Kingstown,41.38453,-71.52593,Entire home/apt,200,1,24,2020-09-20,0.62,3,310
+15116214,Cozy 1 bedroom single family home,86795006,Michele,Washington,Narragansett,41.4757,-71.44254,Entire home/apt,200,2,58,2019-10-14,1.17,1,107
+15125872,All Inclusive Cumberland  One bedroom,52660264,Timothy,Providence,Cumberland,41.94842,-71.43534,Entire home/apt,99,7,13,2020-01-02,0.32,5,362
+15171583,Historic Hill Gem! 2016 Reno steps to downtown!,31204414,Jarrod,Newport,Newport,41.48793,-71.31295,Entire home/apt,400,28,3,2018-08-31,0.08,1,286
+15176815,Beautiful 3 Bedroom Home on Easton's Point,96325027,Christine,Newport,Middletown,41.48536,-71.27773,Entire home/apt,100,30,5,2020-07-04,0.12,1,163

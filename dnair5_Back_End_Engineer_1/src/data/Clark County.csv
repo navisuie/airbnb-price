@@ -1,0 +1,801 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+31388,Las Vegas MGM Signature Condo,134746,Kim,,Unincorporated Areas,36.1052,-115.16777,Private room,240,2,6,2020-09-07,0.05,1,359
+41656,#TOP Floor 2BR/3BA Penthouse @MGMSig,181985,Paul,,Unincorporated Areas,36.10592,-115.16506,Entire home/apt,294,3,62,2020-01-10,0.52,6,61
+44495,Bedroom with private bath in Southwest Las Vegas,195560,Lenore,,Unincorporated Areas,36.0116,-115.29714,Private room,35,2,43,2020-04-04,0.37,2,89
+44701,"Las Vegas Strip, 3 beds/sleep 6 cheaper than hotel",189245,Christine,,Unincorporated Areas,36.11697,-115.16397,Entire home/apt,267,7,2,2020-01-12,0.04,1,254
+61643,2BR/2BA Strip View@MGM Signature,181985,Paul,,Unincorporated Areas,36.10641,-115.16691,Entire home/apt,280,3,113,2020-07-14,1.01,6,149
+113019,MGM Signature Studio W/ Strip View!,575684,LasVegasSuites,,Unincorporated Areas,36.10731,-115.16467,Entire home/apt,98,2,148,2020-09-27,1.36,13,124
+114140,MGM Signature 1BR/2BA Suite W/ View,575684,LasVegasSuites,,Unincorporated Areas,36.1087,-115.16571,Entire home/apt,135,2,120,2020-03-07,4.43,13,126
+137104,Vegas Luxury Palms Place Penthouse,670587,Premier,,Unincorporated Areas,36.11363,-115.1997,Entire home/apt,1900,2,51,2020-07-04,0.45,1,363
+143096,Furnished Las Vegas House with Pool,694506,Shari,,Unincorporated Areas,36.0515,-115.22581,Entire home/apt,150,2,214,2020-08-30,1.88,1,353
+161848,1 B/R Condo 2 miles W. Of The Strip,773999,Ken,,Unincorporated Areas,36.09734,-115.21124,Entire home/apt,92,1,110,2019-09-15,1.09,2,80
+173411,COZY CLEAN CUTE - Historic Huntridge District,304786,Mary-Margaret (Anand),,City of Las Vegas,36.14841,-115.13596,Entire home/apt,65,31,10,2020-04-15,0.09,1,353
+200680,"Pool Villa - Pool Table, 15 mins to Strip",981582,Jason & Kevin,,Unincorporated Areas,36.10438,-115.28984,Entire home/apt,370,2,110,2020-09-28,1.03,11,354
+201619,Las Vegas Luxury house with pool,974021,Natalie,,Unincorporated Areas,36.07767,-115.2739,Entire home/apt,346,4,89,2020-10-19,0.80,1,341
+202452,Las Vegas Excitement/Romantic Stay,991487,Duke,,Unincorporated Areas,36.02031,-115.2739,Entire home/apt,130,2,219,2020-10-19,2.04,1,85
+216979,1 Bedroom Condo 2 miles to strip 1 block Orleans,773999,Ken,,Unincorporated Areas,36.09757,-115.21163,Entire home/apt,91,1,19,2020-03-13,0.64,2,82
+243305,las Vegas holiday resort 1 week  (51),65714,John,,Unincorporated Areas,36.10808,-115.16878,Entire home/apt,190,7,0,,,1,178
+258872,Your home away from home awaits!,1360561,Rosa,,City of Las Vegas,36.15303,-115.14884,Entire home/apt,159,2,198,2020-09-26,1.85,1,145
+259375,"Elara by Hilton, Las Vegas, Center Strip",974582,Yiwen,,Unincorporated Areas,36.10857,-115.16933,Private room,199,4,2,2019-01-04,0.02,1,303
+290179,#StripView JR Suite @ MGM Signature,181985,Paul,,Unincorporated Areas,36.10582,-115.1677,Entire home/apt,119,3,27,2020-10-19,0.25,6,221
+294706,Quality Vacation in 3.5 star Resort Suite,1523583,Robert,,Unincorporated Areas,36.06046,-115.17087,Entire home/apt,165,3,3,2019-07-05,0.06,1,258
+336986,Las Vegas Strip Home Away From Home,1713959,Carolyn,,Unincorporated Areas,36.10927,-115.17605,Private room,94,7,3,2012-06-12,0.03,1,7
+353122,"Vegas Villa - Air Hockey, 8 mins to the Strip",981582,Jason & Kevin,,Unincorporated Areas,36.09733,-115.23129,Entire home/apt,240,2,61,2020-08-28,0.58,11,342
+379026,"available for DEC, 01 2020 JAN/FEB month to month",1903260,Elisabeth,,City of Las Vegas,36.15515,-115.28376,Entire home/apt,50,30,14,2018-01-25,0.19,1,329
+426562,Mountain Villa - 15-20 mins to Strip and Red Rocks,981582,Jason & Kevin,,Unincorporated Areas,36.10731,-115.29532,Entire home/apt,209,2,70,2020-07-24,0.97,11,362
+444280,"studio  with private entrance,close to the strip",2207130,Guy & Larissa,,Unincorporated Areas,36.02848,-115.20154,Private room,105,1,26,2020-02-16,0.25,10,365
+448160,Beautiful Villa in VEGAS,2225816,Jack,,Unincorporated Areas,36.05089,-115.13317,Private room,71,3,144,2020-03-15,1.93,1,3
+548524,Beautifully Remodeled Home by Strip,2694714,Alex,,City of Las Vegas,36.15234,-115.13213,Entire home/apt,242,2,200,2020-10-05,2.27,1,285
+576367,2BR/2BA CENTER STRIP No Resort Fees! Free Parking!,1772843,Sheila,,Unincorporated Areas,36.10939,-115.17559,Entire home/apt,221,3,59,2019-03-25,0.59,19,338
+588895,MGM Signature Deluxe Suite!,575684,LasVegasSuites,,Unincorporated Areas,36.10836,-115.16444,Entire home/apt,98,2,135,2020-10-18,1.36,13,127
+595927,Palms Place - Rated 'R' Suite,2945172,Padzu,,Unincorporated Areas,36.11498,-115.19845,Hotel room,102,3,169,2020-10-08,1.69,4,352
+598791,1 BR Center Strip Suite-NoResort Fees/FreeParking!,1772843,Sheila,,Unincorporated Areas,36.11108,-115.17545,Entire home/apt,129,3,110,2020-02-03,1.10,19,351
+601124,1 BR Center Strip Suite-NoResort Fees/FreeParking!,1772843,Sheila,,Unincorporated Areas,36.11018,-115.17519,Entire home/apt,129,3,60,2020-08-09,0.73,19,0
+635548,Quiet Room 15 mins from the Strip 1,2269240,Fransisca,,Unincorporated Areas,36.11275,-115.28265,Private room,40,2,174,2020-01-12,1.77,4,0
+639353,MGM Signature 1BR/2BA Suite!,575684,LasVegasSuites,,Unincorporated Areas,36.10752,-115.16636,Entire home/apt,135,2,103,2020-08-16,1.04,13,128
+640625,MGM Signature Junior Suite!,575684,LasVegasSuites,,Unincorporated Areas,36.10862,-115.16652,Entire home/apt,98,2,156,2020-08-01,1.56,13,124
+642588,MGM Signature 2BR/3BA Suite!!,575684,LasVegasSuites,,Unincorporated Areas,36.10871,-115.16571,Entire home/apt,359,2,101,2020-08-22,1.03,13,127
+652512,Luxurious Villa at Lake Las Vegas,3279603,Da,,City of Henderson,36.11518,-114.93084,Entire home/apt,125,30,0,,,1,359
+653387,2PRIVATE BEDROOMs NEAR  THE STRIP,2207130,Guy & Larissa,,Unincorporated Areas,36.0287,-115.20188,Private room,131,3,8,2019-09-16,0.12,10,365
+658643,Palms Place Balcony Strip View free wifi,3321660,Mike And Penny,,Unincorporated Areas,36.1149,-115.19771,Entire home/apt,110,1,254,2020-10-20,2.66,2,0
+682065,"Close To Strip! Pool, Spa & WIFI!!!",3474397,Only Vacation Rentals,,Unincorporated Areas,36.11974,-115.22078,Entire home/apt,258,3,141,2020-10-09,1.46,14,327
+685405,MGM Signature Penthouse 1BR/2BA Ste,575684,LasVegasSuites,,Unincorporated Areas,36.1075,-115.16477,Entire home/apt,135,1,113,2020-01-20,1.21,13,128
+698126,Ultra Quiet/Mins to Strip/Private Pool &Yoga Space,1976268,Marco,,Unincorporated Areas,36.09005,-115.25709,Entire home/apt,289,4,69,2020-10-18,0.71,1,275
+707573,MGM Signature 2BR/3BA w/ Balcony,575684,LasVegasSuites,,Unincorporated Areas,36.10656,-115.16728,Entire home/apt,359,2,84,2020-09-27,0.86,13,128
+730862,Quiet Room 15 mins from the Strip 2,2269240,Fransisca,,Unincorporated Areas,36.11082,-115.28324,Private room,40,2,160,2020-01-11,1.64,4,0
+736193,"CLOSE TO THE STRIP, PVT. HOT TUB!",3842205,Nicolo,,Unincorporated Areas,36.1242,-115.14908,Entire home/apt,75,31,154,2020-07-01,1.62,2,302
+750907,☀2Br☀ Wyndham Grand Desert Resort HH3-IB,2995822,Kathy D,,Unincorporated Areas,36.10685,-115.16084,Entire home/apt,178,3,99,2020-09-20,1.06,44,13
+801816,Quiet Room 15 mins from the Strip 3,2269240,Fransisca,,Unincorporated Areas,36.11198,-115.28283,Private room,41,2,128,2020-01-10,1.33,4,0
+853398,The Pondarosa,4456147,Yolanda,,City of North Las Vegas,36.26736,-115.15107,Private room,35,2,51,2020-03-15,0.54,2,21
+855576,"Modern Home w/ Private Pool, Spa, Pool Table",3474397,Only Vacation Rentals,,City of Las Vegas,36.16538,-115.26514,Entire home/apt,96,31,23,2020-09-05,0.25,14,353
+883590,Las Vegas Exquisite Condo,4677994,Markus,,Unincorporated Areas,36.11194,-115.18856,Entire home/apt,65,7,42,2020-08-13,0.69,4,84
+889332,rOOM FOR RENT IN 2BDR/2BATH CONDO,4713563,Milena,,Unincorporated Areas,36.08714,-115.3013,Private room,50,31,3,2018-07-24,0.04,1,359
+889457,Vdara at City Center - Studio Suite,575684,LasVegasSuites,,Unincorporated Areas,36.11018,-115.17754,Private room,176,2,19,2018-07-11,0.21,13,0
+890332,Modern Villa - 10 mins to the Strip,981582,Jason & Kevin,,Unincorporated Areas,36.05673,-115.21089,Entire home/apt,199,2,48,2020-07-19,0.51,11,349
+908280,Private Guest House. Pets considered.,4866812,Stephanie,,Unincorporated Areas,36.10632,-115.09046,Entire home/apt,99,1,585,2020-10-07,6.29,1,272
+910025,Polo Towers Suites & Villas Resorts,4880351,Mona,,Unincorporated Areas,36.10723,-115.16985,Private room,250,6,6,2020-01-11,0.18,2,365
+945060,"Charming 5 bedroom home w/ Spa, Game Room",3474397,Only Vacation Rentals,,Unincorporated Areas,35.9757,-115.16347,Entire home/apt,212,3,104,2020-09-28,1.15,14,349
+946044,"Grand Villa - Ping Pong, BBQ Patio",981582,Jason & Kevin,,Unincorporated Areas,36.10345,-115.28801,Entire home/apt,312,28,6,2020-06-17,0.06,11,365
+948041,Sweet+Smart HOME near LAS VEGAS STRIP + Golf View,4661797,Ying,,Unincorporated Areas,36.1391,-115.14576,Entire home/apt,60,31,24,2020-07-31,0.26,1,146
+971133,"2 rooms, self check-in, homeshare, near Red Rock",4169634,Michelle,,City of Las Vegas,36.14061,-115.30446,Private room,100,1,90,2020-03-16,1.00,2,319
+1073155,21st Floor Strip View@MGM Signature,181985,Paul,,Unincorporated Areas,36.10749,-115.16623,Private room,133,3,310,2020-10-12,3.41,6,174
+1074390,MGM Signature 2BR/3BA Balcony Suite!,575684,LasVegasSuites,,Unincorporated Areas,36.1059,-115.16572,Entire home/apt,359,1,73,2020-10-13,0.82,13,127
+1113286,2bd Las Vegas Strip Condo #B,1314138,Paul,,Unincorporated Areas,36.1056,-115.17019,Entire home/apt,499,3,17,2019-09-23,0.21,3,345
+1230380,Nevada-Las Vegas-Tropicana Resort 1 Bdrm Condo #1,602654,Rey,,Unincorporated Areas,36.10041,-115.21343,Entire home/apt,196,3,7,2018-01-12,0.08,10,95
+1230517,Nevada-Las Vegas-Spencer Street 1 Bdrm Condo,602654,Rey,,Unincorporated Areas,36.11382,-115.12908,Entire home/apt,163,3,4,2015-08-07,0.05,10,94
+1251427,Nevada-Las Vegas-Spencer Street 2 Bdrm Condo,602654,Rey,,Unincorporated Areas,36.11232,-115.12869,Entire home/apt,188,3,2,2016-09-16,0.03,10,87
+1251545,Nevada-Las Vegas-Tropicana 2 Bdrm Twin Condo,602654,Rey,,Unincorporated Areas,36.10042,-115.21343,Entire home/apt,226,3,9,2018-01-11,0.11,10,94
+1262499,Suite @ Tahiti Vacation Club,3094379,Uchenna,,Unincorporated Areas,36.09991,-115.21081,Entire home/apt,130,4,0,,,10,365
+1264372,Strip Close-2bd-Sleeps 6-Strip View-No Resort Fee,108270,Kiran,,Unincorporated Areas,36.11346,-115.18674,Entire home/apt,254,4,41,2020-02-24,0.59,2,90
+1275313,Relax !-Pool/Steam room/Gym,6914717,Phil,,Unincorporated Areas,36.01324,-115.12633,Private room,40,2,80,2020-09-07,0.96,3,303
+1279742,Cozy Blue room 2 miles from strip,6963952,Ron,,Unincorporated Areas,36.0939,-115.14237,Private room,26,31,146,2019-11-09,1.63,4,309
+1285201,Palm Villa - Backyard Pool,981582,Jason & Kevin,,Unincorporated Areas,36.0483,-115.22705,Entire home/apt,491,2,81,2020-10-04,0.92,11,360
+1287739,Cozy Yellow room 2 miles from strip,6963952,Ron,,Unincorporated Areas,36.09369,-115.14024,Private room,28,31,169,2020-02-23,1.89,4,0
+1292212,Cozy Green room 2 miles from strip,6963952,Ron,,Unincorporated Areas,36.09376,-115.14154,Private room,26,31,151,2020-04-19,1.70,4,348
+1364502,The Birdbath- Small Private Casita,7404839,Barbara,,City of Las Vegas,36.16234,-115.25434,Entire home/apt,73,5,257,2020-07-17,3.16,2,59
+1484286,Stunning Retreat 15 mins from Strip - Near M Hotel,7941063,Monica,,Unincorporated Areas,35.97358,-115.16755,Entire home/apt,98,4,78,2020-03-15,1.02,1,224
+1502652,MGM Signature ★ LUXURY ★ 1bed 2bath,8028377,Mario,,Unincorporated Areas,36.10492,-115.16745,Entire home/apt,110,30,0,,,2,111
+1503117,Luxurious TownHome in Las Vegas/NV USA,8030765,Renee,,City of Henderson,36.05819,-115.07452,Entire home/apt,109,24,2,2020-08-25,0.13,3,0
+1508532,Vdara deluxe suite (Bellagio fountain view) for 4.,8058178,Paul,,Unincorporated Areas,36.10956,-115.17946,Entire home/apt,186,1,523,2020-10-17,5.99,1,349
+1543417,"Self check-in, west side, near Red Rock",4169634,Michelle,,City of Las Vegas,36.14179,-115.30266,Private room,50,1,68,2020-10-16,0.79,2,315
+1557409,2Br Wyndham Grand Desert Resort c2,2995822,Kathy D,,Unincorporated Areas,36.10761,-115.16165,Entire home/apt,178,2,114,2020-07-26,1.32,44,59
+1670907,Nevada-Las Vegas-Boulevard Studio Condo,602654,Rey,,Unincorporated Areas,36.03359,-115.173,Entire home/apt,158,3,1,2016-01-07,0.02,10,88
+1671055,Nevada-Las Vegas-Boulevard 1 Bdrm Condo,602654,Rey,,Unincorporated Areas,36.03359,-115.173,Entire home/apt,184,3,4,2019-01-10,0.05,10,90
+1671132,Nevada-Las Vegas-Boulevard 2 Bdrm Condo,602654,Rey,,Unincorporated Areas,36.03359,-115.173,Entire home/apt,203,3,12,2020-01-10,0.14,10,89
+1708130,Beautiful 3Level 1700sq Townhouse,9012488,David Lewis,,Unincorporated Areas,36.08433,-115.26924,Entire home/apt,146,3,46,2020-03-15,0.57,2,49
+1750734,Las Vegas Retreat - 1bd/1ba - New!,8409820,Joanne,,City of Las Vegas,36.18475,-115.25851,Entire home/apt,50,30,12,2020-08-02,0.22,1,241
+1755476,MGM Signature Deluxe Suite,575684,LasVegasSuites,,Unincorporated Areas,36.10644,-115.16549,Entire home/apt,98,2,93,2020-10-12,1.09,13,127
+1779137,⭐SANITIZED & SAFE♥️TOP RATED 2BD⭐WALK TO STORES!,9341256,Michael,,Unincorporated Areas,36.11466,-115.18719,Entire home/apt,146,1,331,2020-10-18,3.89,4,96
+1789923,The Birdbath - Purple Room,7404839,Barbara,,City of Las Vegas,36.16286,-115.2473,Private room,54,5,141,2020-06-27,1.70,2,323
+1815600,2Br Lockoff Grand Desert Resort g3,2995822,Kathy D,,Unincorporated Areas,36.10761,-115.16165,Entire home/apt,178,3,101,2020-03-12,1.22,44,59
+1817386,"Tranquil Haven, North Vegas w/ Maid Service",9517585,Paul,,City of North Las Vegas,36.2735,-115.12992,Entire home/apt,95,31,3,2019-07-07,0.07,2,214
+1823142,3 bedroom . Views of Strip . Walk to all actions.,9544240,Abraham,,Unincorporated Areas,36.11547,-115.18993,Entire home/apt,186,3,19,2020-10-11,1.21,3,180
+1971546,Beautiful  Home-Great Location *Sanitized*,9316346,Rae,,Unincorporated Areas,36.01223,-115.15391,Entire home/apt,178,2,44,2020-09-07,0.75,1,122
+2028477,Cozy Jr 1 Bedroom 2 mile from strip,6963952,Ron,,Unincorporated Areas,36.09506,-115.14083,Entire home/apt,40,31,74,2020-08-14,0.89,4,313
+2040846,VEGAS Huge Penthouse HotTub on Balcony Stripviews,5775724,Cassandra And Bryan,,Unincorporated Areas,36.11421,-115.1988,Entire home/apt,842,1,259,2020-10-18,3.41,20,222
+2041301,Private Guest House with RV Parking,622264,Jeffrey,,Unincorporated Areas,36.06274,-115.20769,Entire home/apt,86,14,146,2020-09-26,1.74,1,325
+2067982,☀2Br Lockoff☀ Grand Desert Resort MM3-IB,2995822,Kathy D,,Unincorporated Areas,36.10697,-115.15989,Entire home/apt,199,3,81,2020-09-07,0.98,44,4
+2070161,HUGE 2BR/3BA Suite Sleeps 8 @MGMSig!,181985,Paul,,Unincorporated Areas,36.10799,-115.16684,Entire home/apt,360,3,42,2016-09-20,0.53,6,234
+2084214,Private Room for rent,9598212,Monica,,City of Las Vegas,36.29252,-115.26438,Private room,149,31,0,,,1,365
+2097048,Convenient location 2 LV strip!  m,3475926,Joe,,Unincorporated Areas,36.10987,-115.2636,Entire home/apt,112,1,269,2020-10-15,3.24,3,272
+2102455,Quality retreat apartment. 5 min from the strip,7680826,Angel,,Unincorporated Areas,36.11869,-115.1334,Entire home/apt,127,3,221,2020-10-19,2.66,1,348
+2106275,☀2Br☀ Wyndham Grand Desert Resort JJ3-IB,2995822,Kathy D,,Unincorporated Areas,36.10803,-115.16139,Entire home/apt,178,3,50,2020-03-13,0.61,44,4
+2108968,☀2Br☀ Wyndham Grand Desert Resort FF3-IB,2995822,Kathy D,,Unincorporated Areas,36.10615,-115.16068,Entire home/apt,176,3,90,2020-09-07,1.11,44,12
+2113598,2Br Wyndham Grand Desert Resort e3,2995822,Kathy D,,Unincorporated Areas,36.10722,-115.16113,Entire home/apt,178,3,90,2020-03-13,1.09,44,59
+2113620,☀2Br☀ Wyndham Grand Desert Resort BB2-IB,2995822,Kathy D,,Unincorporated Areas,36.10728,-115.16114,Entire home/apt,178,2,108,2020-10-04,1.38,44,4
+2113637,1Br Wyndham Grand Desert Resort e3,2995822,Kathy D,,Unincorporated Areas,36.10832,-115.16148,Entire home/apt,153,3,13,2020-01-09,0.16,44,59
+2168991,Nice quite house only mins to Strip,11065873,Margo,,Unincorporated Areas,36.14657,-115.31903,Private room,150,30,59,2020-07-27,0.73,1,266
+2234029,TRUMP Tower ★ 1bed 2bath ★ 59th Floor ★ Views,8028377,Mario,,Unincorporated Areas,36.1293,-115.17137,Entire home/apt,110,30,4,2020-08-10,0.05,2,117
+2243737,3 Bedrooms/2 Baths Townhouse,11460571,Andon,,City of Las Vegas,36.17749,-115.22296,Entire home/apt,184,31,69,2019-07-07,0.91,1,365
+2261181,Great spot and location in Vegas,11546353,Will,,Unincorporated Areas,36.09661,-115.13139,Private room,25,2,85,2018-07-14,1.77,1,23
+2262891,"Private Pool, Spa, Game Room, Putting Green, WIFI!",3474397,Only Vacation Rentals,,City of Las Vegas,36.22647,-115.28938,Entire home/apt,410,3,83,2020-09-17,1.13,14,322
+2315691,Artistic & Tranquil Room filled w/ Positive Energy,11825008,Ian,,Unincorporated Areas,36.04906,-115.23142,Private room,89,1,71,2020-10-01,1.14,3,89
+2324559,large fully furnished 3bdrm house,11873073,Richard,,Unincorporated Areas,35.99684,-115.20048,Entire home/apt,94,30,15,2019-04-19,0.19,1,297
+2352088,Million Dollar Corner 2BR on Strip,10859837,Julian,,Unincorporated Areas,36.10768,-115.17421,Entire home/apt,300,100,19,2014-08-25,0.23,1,365
+2370827,Artistic Master Suite Experience 420 Friendly,11825008,Ian,,Unincorporated Areas,36.05097,-115.23123,Private room,83,1,89,2020-10-17,1.52,3,86
+2371637,Quiet & Comfy close to attractions,12115866,Roby,,Unincorporated Areas,36.03442,-115.1449,Entire home/apt,70,180,7,2014-11-03,0.09,1,297
+2453319,Casita in Centennial Hills,12544359,Andy,,City of Las Vegas,36.28485,-115.25654,Entire home/apt,69,30,31,2020-03-19,0.39,1,237
+2457970,Close to The Vegas Strip! 2 BdRm,12568111,Antoinette,,Unincorporated Areas,36.11294,-115.12799,Entire home/apt,299,1,2,2015-01-11,0.03,37,365
+2462269,3 BDRM-Near Strip/CLEAN-SANITIZED/80 meg WIFI/Laun,643197,Theresa,,Unincorporated Areas,36.0985,-115.14897,Entire home/apt,109,30,112,2020-03-14,2.04,5,356
+2489745,2 BDRM-Close to Strip/80 mg WIFI/Laundry/SANITIZED,643197,Theresa,,Unincorporated Areas,36.09691,-115.1468,Entire home/apt,115,30,147,2020-09-08,1.83,5,339
+2489750,Minutes from Strip/Ldry/80 meg WIFI/SANITIZED,643197,Theresa,,City of Las Vegas,36.14839,-115.11705,Entire home/apt,125,4,178,2020-10-06,2.21,5,190
+2510300,Shared Room 15 Minutes From Strip,2269240,Fransisca,,Unincorporated Areas,36.11116,-115.28334,Shared room,32,2,64,2020-01-11,0.80,4,0
+2557252,2Br Lockoff Grand Desert Resort a2,2995822,Kathy D,,Unincorporated Areas,36.10706,-115.16026,Entire home/apt,178,2,114,2020-09-28,1.43,44,59
+2635046,The Grandview Resort-1bedroom,2207130,Guy & Larissa,,Unincorporated Areas,36.009,-115.17572,Entire home/apt,175,3,3,2017-07-30,0.05,10,175
+2709980,Quiet and Tranquil Retreat minutes from Strip,3863047,Desiree,,Unincorporated Areas,36.04653,-115.23183,Entire home/apt,420,2,176,2020-10-05,2.21,1,294
+2723250,3BR CenterStrip Sinatra's Penthouse,1188267,Nat,,Unincorporated Areas,36.11049,-115.17352,Entire home/apt,113,1,394,2020-10-08,4.96,7,68
+2761243,Apt.1 bedroom pet freindly. UVC Germicidal protect,14103372,Linda,,City of Las Vegas,36.17703,-115.13745,Entire home/apt,52,31,28,2020-01-31,0.36,3,248
+2875414,Awesome 1700sqft townhouse,9012488,David Lewis,,Unincorporated Areas,36.10552,-115.28694,Entire home/apt,120,31,29,2017-12-27,0.37,2,65
+2943419,2Br Lockoff Grand Desert Resort b2,2995822,Kathy D,,Unincorporated Areas,36.10704,-115.15999,Entire home/apt,178,2,82,2020-09-27,1.05,44,59
+2978572,"⚕✔SANITIZED✔Luxury 2BD/2BA - NO RESORT FEES!!",10933696,Mika,,Unincorporated Areas,36.11051,-115.18362,Entire home/apt,114,1,261,2020-10-10,3.36,10,56
+3073776,Amazing Lake Las Vegas 1 Bdm apt,15643135,Mike,,City of Henderson,36.10332,-114.92849,Entire home/apt,124,2,13,2019-10-20,0.17,1,274
+3114233,great new and cozy sleep 12. No deposit.,1664772,Jorge Alejandro,,City of North Las Vegas,36.20839,-115.1599,Entire home/apt,154,2,151,2020-10-05,2.10,1,146
+3145192,LAS VEGAS GATED ESTATE,15967605,Ally/Jack,,Unincorporated Areas,36.04409,-115.1625,Entire home/apt,600,4,7,2019-05-21,0.14,8,364
+3154500,Nevada-Las Vegas-Boulevard 3 Bdrm Condo,602654,Rey,,Unincorporated Areas,36.03363,-115.17288,Entire home/apt,231,3,2,2016-02-20,0.03,10,37
+3167087,1BDRM GUESTHOUSE/COTTAGE AFFORDABLE,15967605,Ally/Jack,,Unincorporated Areas,36.04569,-115.15871,Entire home/apt,65,30,2,2020-08-31,0.04,8,326
+3186675,☀2Br☀ Wyndham Grand Desert Resort KK3-IB,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,178,3,73,2020-09-07,1.12,44,17
+3231102,☀2Br☀ Wyndham Grand Desert Resort MM3-IB,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,188,3,43,2020-09-09,0.59,44,5
+3231757,☀2Br Lockoff☀ Grand Desert Resort BB2-IB,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,186,2,59,2020-03-01,0.76,44,0
+3233432,HOME SWEET HOME  Private pool and free parking,16364861,Falco,,Unincorporated Areas,36.12664,-115.30122,Entire home/apt,59,31,24,2020-04-01,0.31,1,50
+3234933,3 Bedroom Best Suburb Clean Comfort Self CheckIn,10218263,Robb And June,,Unincorporated Areas,36.10501,-115.31198,Entire home/apt,101,60,13,2020-09-05,0.18,1,288
+3250570,☀2Br☀ Wyndham Grand Desert Resort LL3-IB,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,188,3,89,2020-03-15,1.18,44,17
+3251721,"⚕✔SANITIZED✔Modern Relaxing 2Bedroom 2Bath⭐⭐⭐⭐⭐",10933696,Mika,,Unincorporated Areas,36.11207,-115.18901,Entire home/apt,101,1,251,2020-10-01,3.25,10,63
+3284387,"Las Vegas Trop. Ave, NV, 1 Bdrm #1",1381289,Tawny,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,138,2,7,2020-09-16,0.10,1,90
+3294782,"Large 4BD home, giant jacuzzi, near the strip!",16647218,Yaniv,,Unincorporated Areas,36.02953,-115.12361,Entire home/apt,252,2,208,2020-10-20,2.72,1,308
+3352765,"Las Vegas 1BR Vacation Suite, Sleeps 4",9858795,Dragon,,Unincorporated Areas,36.10792,-115.16042,Entire home/apt,206,2,6,2015-05-25,0.08,2,365
+3467393,2 bdrm GuestHouse LakeMead-HooverDam area (30+Day),13601548,Elizabeth,,Boulder City,35.99695,-114.82118,Entire home/apt,182,3,77,2020-10-04,1.04,1,365
+3498712,Casa de Sinatra ~ NOT A PARTY HOUSE extended stays,623641,Aaron,,Unincorporated Areas,36.04946,-115.11853,Entire home/apt,849,30,89,2018-08-07,1.16,1,297
+3645200,Two Bedroom Two Full Bathroom Suite,18411587,Gary,,Unincorporated Areas,36.03856,-115.17466,Entire home/apt,101,3,4,2020-01-08,0.05,8,4
+3657912,Polo Towers 2bedroom  on the strip #01,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,308,2,106,2019-12-09,1.40,61,363
+3668425,"Beautiful 4 BR + office-home in Henderson,NV",18612377,Mercier,,Unincorporated Areas,36.08112,-115.01628,Entire home/apt,220,30,16,2020-09-08,0.22,1,24
+3688409,"One Bedroom, One Bath Suite",18411587,Gary,,Unincorporated Areas,36.10558,-115.17138,Entire home/apt,101,4,8,2020-08-18,0.11,8,5
+3734422,Polo Towers studio  on strip #1,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,162,2,46,2020-01-24,0.62,61,363
+3734997,PoloTowers 1bedr  on the strip #4,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,214,2,5,2019-12-08,0.07,61,364
+3736834,Polo Towers 2bedroom  on the strip #06,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,308,2,24,2020-01-08,0.33,61,360
+3736885,Polo Towers 2bedroom  on the strip #02,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,308,2,61,2020-03-08,0.81,61,363
+3767563,Gorgeous Summerlin Home,17842017,A.,,City of Las Vegas,36.1801,-115.33176,Entire home/apt,175,31,11,2020-10-06,0.15,9,127
+3780997,Serene Summerlin Condo,14022764,Naomi,,City of Las Vegas,36.18731,-115.31928,Entire home/apt,229,1,13,2020-01-23,0.30,1,288
+3783248,Las Vegas Cancun Resort (REDUCED!),8292952,Nubia,,Unincorporated Areas,36.03865,-115.17416,Entire home/apt,125,2,3,2020-09-27,0.05,3,178
+3801532,Las Vegas Tropical Pool & Luxury Private Bedrooms,17128038,Franco,,Unincorporated Areas,36.24621,-115.27271,Private room,229,31,0,,,3,363
+3818113,Marriott Grand Chateau On The Strip 1BD,19056065,Tony,,Unincorporated Areas,36.10634,-115.16892,Private room,273,1,16,2020-03-13,0.28,4,269
+3905729,Paradise -free solar pool- 15 minutes to the strip,20228130,Paradise,,City of Las Vegas,36.21942,-115.29908,Entire home/apt,238,4,98,2020-09-22,1.32,1,278
+3923542,Relaxing Condo  (Long Term Rental 31+ Days),20324893,Andrew,,Unincorporated Areas,36.11103,-115.22323,Entire home/apt,76,30,10,2020-04-24,0.14,1,285
+3925611,"888 # 1, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.10892,-115.16768,Private room,103,1,65,2020-08-30,0.87,255,65
+3925782,"888 # 2, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.10764,-115.16516,Hotel room,103,1,53,2019-03-03,0.71,255,65
+4014326,Stay Together on The Strip - 1 Bedroom Suite,220599292,Lucas,,Unincorporated Areas,36.1105,-115.17347,Entire home/apt,133,1,173,2020-09-25,2.33,13,94
+4024858,4 bdrm and hot tub minutes from the strip,20866230,Shaun,,Unincorporated Areas,36.03262,-115.20799,Entire home/apt,278,1,366,2020-10-18,4.93,1,303
+4040759,Downtown and Bound!,20895841,Stephanie,,City of Las Vegas,36.16206,-115.17512,Entire home/apt,578,3,82,2020-09-27,1.12,1,173
+4041244,"Beautiful, upscale 5bed/3 full bath",20954117,Therron,,City of North Las Vegas,36.26227,-115.16587,Entire home/apt,175,3,188,2020-10-11,2.54,1,225
+4066692,Private Guest House,21090523,Maria,,Unincorporated Areas,36.12719,-115.09599,Entire home/apt,81,4,159,2020-03-15,2.14,1,282
+4120872,Marriott on Strip 1bdrm/Condo/4,20482140,Brett,,Unincorporated Areas,36.10783,-115.16975,Entire home/apt,180,2,8,2016-04-17,0.12,1,296
+4145427,Rest and Relax,5822272,Heather,,City of Henderson,35.98791,-114.92469,Private room,75,7,25,2017-10-30,0.35,1,89
+4164759,Stay In A Million Dollar Home For $249 a night!,21603394,Kevin,,City of Las Vegas,36.21323,-115.26942,Entire home/apt,278,30,34,2018-10-19,0.46,1,353
+4171500,EXPERIENCE LAS VEGAS,85132,Sanford,,Unincorporated Areas,36.03483,-115.17408,Entire home/apt,286,2,2,2019-01-09,0.03,1,365
+4171517,Lake View Condo @ Lake Las Vegas - Long Term ONLY,12589804,Suzana,,City of Henderson,36.10382,-114.93067,Entire home/apt,104,30,18,2020-09-23,0.27,1,178
+4235499,Stay Together on The Strip - 1 Bdrm Apt w/View,220599292,Lucas,,Unincorporated Areas,36.10968,-115.17394,Entire home/apt,137,2,177,2020-08-03,2.42,13,93
+4239736,MGM Signature 1 BR/ 2 BA/ Balcony/ Full Kitchen@,22000951,Donna,,Unincorporated Areas,36.10618,-115.16717,Entire home/apt,180,2,0,,,3,152
+4277821,Las Vegas  2 Bedroom Charming Condo,22208827,Luisa,,Unincorporated Areas,36.09417,-115.10577,Entire home/apt,79,21,24,2020-06-19,0.36,3,252
+4317823,Marriott Vegas Strip   1 bedroom,22416014,John,,Unincorporated Areas,36.10628,-115.16984,Entire home/apt,336,1,7,2018-01-11,0.10,2,358
+4349688,Luxurious Penthouse Condo in Vegas NO RESORT FEE,22554257,Mark,,Unincorporated Areas,36.10624,-115.16563,Entire home/apt,114,1,501,2020-10-17,6.90,1,328
+4360050,2BR Center Strip Condo Connected to Cosmopolitan,1188267,Nat,,Unincorporated Areas,36.11017,-115.17511,Entire home/apt,79,1,403,2020-10-02,5.52,7,69
+4383599,Marriott Grand Chateau Studio,22416014,John,,Unincorporated Areas,36.10777,-115.17035,Entire home/apt,239,1,8,2019-01-10,0.14,2,362
+4401993,Summerlin Retreat& Private Entrance,22850460,Joshua,,City of Las Vegas,36.16509,-115.31693,Private room,89,30,76,2018-04-10,1.14,1,365
+4404218,Minutes from the strip - secluded and quiet,21212749,Rebecca,,Unincorporated Areas,36.04308,-115.12783,Entire home/apt,200,1,187,2020-09-27,2.74,1,339
+4404609,Vdara SKYVILLA One Bedroom Panoramic View (RARE),22864734,Valentin,,Unincorporated Areas,36.11004,-115.17879,Entire home/apt,308,1,256,2020-10-10,3.54,1,153
+4416855,BEAUTIFUL CORPORATE CONDO CLOSE TO,22925481,Ron,,Unincorporated Areas,36.0603,-115.26416,Entire home/apt,75,31,2,2020-09-20,0.18,1,289
+4418052,Jazuzzi 2 Bedroom King Suite with Projection TV,11518533,Theron,,Unincorporated Areas,36.11018,-115.17073,Entire home/apt,491,2,8,2020-10-18,0.20,13,357
+4421626,Vacation Retreat with Pool,22923744,Debbie,,City of North Las Vegas,36.2331,-115.18688,Entire home/apt,200,3,18,2020-10-03,0.47,1,299
+4428647,Luxury condo all to yourself!!  90day Minimum,22650758,Tanya,,Unincorporated Areas,36.0931,-115.20923,Entire home/apt,32,90,6,2020-09-06,0.09,1,208
+4455529,AWESOME 2BR-2BATH RESORT,23035963,Luke,,Unincorporated Areas,36.03427,-115.17398,Entire home/apt,250,4,3,2017-06-18,0.04,1,0
+4462917,"Gorgeous 1BR Slp4-ON STRIP, pools",23154360,Richard,,Unincorporated Areas,36.01007,-115.17643,Entire home/apt,90,7,12,2020-03-15,0.17,1,365
+4527410,MGM Sig St. Balcony; Free Parking; No Resort Fees,23471743,Vimal,,Unincorporated Areas,36.10647,-115.16719,Entire home/apt,88,2,90,2020-10-22,1.46,1,77
+4607557,2bdrm LUXURY Condo near the STRIP and Arena! CES!,23853826,Janee,,Unincorporated Areas,36.10791,-115.16142,Entire home/apt,206,3,16,2019-11-10,0.25,6,268
+4619421,Polo Towers 2bedroom  on the strip #03,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,308,2,18,2019-11-10,0.26,61,363
+4619431,Polo Towers 2bedroom  on the strip #04,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,308,2,59,2020-08-30,0.88,61,363
+4619447,Polo Towers 2bedroom  on the strip #05,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,308,2,18,2019-12-08,0.26,61,363
+4673781,Polo Towers studio  on strip #2,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,162,2,65,2020-08-14,0.93,61,363
+4686031,☀2Br☀ Wyndham Grand Desert Resort GG3-IB,2995822,Kathy D,,Unincorporated Areas,36.10735,-115.16075,Entire home/apt,178,3,61,2020-09-20,0.87,44,9
+4688717,LEGAL:  Sand Volleyball and Orange Turf!,18778381,Douglas,,City of Las Vegas,36.18323,-115.19222,Entire home/apt,304,5,133,2020-10-19,1.89,2,148
+4692216,2Br Wyndham Grand Desert Resort g3,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,178,3,40,2020-02-23,0.57,44,59
+4693765,2Bdrm 5min to Strip/Airport/Convention Center/Mall,22222783,Thelma/Patrick,,Unincorporated Areas,36.10342,-115.13529,Entire home/apt,85,2,177,2020-09-27,2.50,1,259
+4726787,Las Vegas Condo by UNLV,16331318,Ryan,,Unincorporated Areas,36.12101,-115.13461,Entire home/apt,89,2,82,2020-10-11,1.23,1,343
+4729899,"Relaxing, 1.5 Blocks from Strip",22267033,Jennifer,,Unincorporated Areas,36.09691,-115.16687,Entire home/apt,220,2,10,2020-01-09,0.14,11,365
+4747286,2 units of 2BR suites behind the MGM Grand,24502182,Hao,,Unincorporated Areas,36.1081,-115.16146,Private room,420,3,10,2020-02-23,0.20,3,6
+4778093,Stay and Play,24641295,Jim,,City of North Las Vegas,36.22986,-115.17839,Private room,111,1,5,2018-05-21,0.07,4,179
+4785082,Two Rooms  Shared Full Bath in Ranch Style Home,24668656,Ellen,,Unincorporated Areas,36.03835,-115.16201,Private room,80,2,360,2020-10-18,5.08,1,344
+4787846,Strip Close w/ View -sleeps 8 condo! No Resort Fee,108270,Kiran,,Unincorporated Areas,36.11334,-115.18833,Entire home/apt,224,4,63,2020-02-16,1.03,2,90
+4802618,"LAVENDER Bedroom, CAL KING size Bed",21148015,Bell,,Unincorporated Areas,36.03238,-115.16997,Private room,39,2,51,2020-03-09,0.75,6,260
+4874834,"Las Vegas Resort, Nevada,  USA",23233272,Naseem,,Unincorporated Areas,36.06074,-115.17256,Entire home/apt,109,3,5,2017-01-08,0.07,1,73
+4875043,2Br Wyndham Grand Desert Resort b2,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,178,2,34,2020-02-17,0.51,44,59
+4890396,2BR Bluegreen Club 36 near Strip!,9030279,Dave,,Unincorporated Areas,36.10191,-115.15728,Entire home/apt,127,5,1,2017-03-05,0.02,6,332
+4890827,1BR Jockey Club on The Strip!,9030279,Dave,,Unincorporated Areas,36.10974,-115.17601,Entire home/apt,139,5,0,,,6,312
+4928155,"Relaxing, 1.5 blocks from strip (3)",22267033,Jennifer,,Unincorporated Areas,36.09683,-115.16861,Entire home/apt,233,2,5,2019-01-01,0.07,11,90
+4932551,Las Vegas Tropicana Ave!!,12568111,Antoinette,,Unincorporated Areas,36.10027,-115.21428,Entire home/apt,350,1,6,2018-11-03,0.09,37,365
+4932852,"Relaxing, 1.5 Blocks from Strip (4)",22267033,Jennifer,,Unincorporated Areas,36.09894,-115.16629,Entire home/apt,228,2,43,2020-03-13,0.61,11,365
+4932908,The World Famous Las Vegas Bl!,12568111,Antoinette,,Unincorporated Areas,36.03427,-115.17194,Entire home/apt,369,1,4,2017-01-09,0.06,37,365
+4933224,"Relaxing, 1.5 blocks from Strip (5)",22267033,Jennifer,,Unincorporated Areas,36.09818,-115.16684,Entire home/apt,220,2,2,2018-01-12,0.03,11,365
+4943522,"Modern Home, Minutes to the Strip!",24717107,Ly,,Unincorporated Areas,36.08722,-115.22539,Entire home/apt,206,3,100,2020-10-19,1.44,1,327
+4947292,"Relaxing, 1.5 blocks from strip (6)",22267033,Jennifer,,Unincorporated Areas,36.09855,-115.16768,Entire home/apt,213,2,7,2018-01-12,0.10,11,365
+4947441,"Relaxing, 1.5 blocks from strip (7)",22267033,Jennifer,,Unincorporated Areas,36.09864,-115.16859,Entire home/apt,198,2,6,2020-01-02,0.09,11,365
+4949651,2Br Wyndham Grand Desert Resort d2,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,178,2,87,2020-07-26,1.24,44,59
+4950200,"Relaxing, 1.5 blocks from strip (8)",22267033,Jennifer,,Unincorporated Areas,36.09689,-115.16862,Entire home/apt,220,2,7,2019-11-08,0.10,11,365
+4952199,Tropical Las Vegas Vacation Home,17128038,Franco,,Unincorporated Areas,36.24652,-115.27297,Entire home/apt,232,31,4,2017-06-18,0.07,3,363
+4952359,Private Room in Tropical Las Vegas Vacation Home.,17128038,Franco,,Unincorporated Areas,36.24519,-115.27387,Entire home/apt,132,31,1,2018-05-19,0.03,3,363
+4955150,"3BD PH, On the Strip, Panoramic VIEW, Sleeps 16+",25541572,Marsha,,Unincorporated Areas,36.10961,-115.17452,Entire home/apt,400,2,168,2020-10-18,2.86,4,127
+4959563,Las Vegas 2BR LUXE Sleeps 6,9858795,Dragon,,City of Las Vegas,36.24655,-115.21438,Entire home/apt,160,3,3,2015-04-03,0.04,2,365
+4967690,Plush room for rent,19326854,Aaron,,Unincorporated Areas,35.99452,-115.18177,Private room,58,31,16,2018-04-08,0.23,1,359
+4972017,☀2Br Lockoff☀ Grand Desert Resort AA2-IB,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,188,2,48,2020-03-08,0.70,44,6
+4978218,"Relaxing, 1.5 blocks from strip (9)",22267033,Jennifer,,Unincorporated Areas,36.0972,-115.16683,Entire home/apt,220,2,4,2018-11-02,0.07,11,365
+4996014,abobe,25759714,Robert,,Unincorporated Areas,36.23438,-115.06561,Private room,86,1,35,2020-01-10,0.54,1,357
+4997188,"888 # 3, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.10837,-115.16534,Hotel room,103,1,37,2020-07-05,0.53,255,65
+4997934,"888 # 4, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.10908,-115.16714,Hotel room,103,1,20,2017-08-21,0.28,255,65
+5037402,Quaint 1 BD Desert Oasis SoutwestLV,26001637,Allie,,Unincorporated Areas,36.01639,-115.29613,Private room,40,1,13,2019-01-01,0.19,1,238
+5041738,Room 1 (Summerlin/Red Rock) 2 rooms available,26030134,Nique,,City of Las Vegas,36.21276,-115.26391,Private room,45,30,204,2020-01-01,2.91,2,206
+5050670,MGM Signature 2BR/2BA Balcony Suite,575684,LasVegasSuites,,Unincorporated Areas,36.10775,-115.16683,Entire home/apt,359,2,17,2018-09-24,0.25,13,127
+5069871,Home for 8+ near Airport/The Strip,26179823,Nancy,,Unincorporated Areas,36.06837,-115.10062,Entire home/apt,300,2,29,2019-11-10,0.43,4,178
+5071791,1 BR CENTER STRIP - No Resort Fees! Free Parking!,1772843,Sheila,,Unincorporated Areas,36.11018,-115.17519,Entire home/apt,129,3,44,2020-09-29,0.63,19,352
+5115194,Las Vegas 4BR Gorgeous Home,22208827,Luisa,,Unincorporated Areas,36.03094,-115.13654,Entire home/apt,140,21,11,2020-10-21,0.16,3,317
+5121789,Vegas Cosy Get-away. Great Value Monthly rental.,26470924,Ann,,City of Las Vegas,36.18825,-115.21417,Entire home/apt,70,31,30,2019-01-21,0.43,1,269
+5123700,Private Casita in the Sun (Monthly guests only),26481683,Tricia,,City of Las Vegas,36.23886,-115.25653,Entire home/apt,175,28,83,2020-03-17,1.24,1,324
+5136776,*SANITIZED *  Modern luxury 4miles.From LV. Blvd.,20029932,Arthur,,Unincorporated Areas,36.12357,-115.22831,Entire home/apt,295,2,223,2020-10-09,3.22,7,246
+5140529,2Br Lockoff Grand Desert Resort c2,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,178,2,55,2020-01-24,0.79,44,59
+5153507,Fully equipped Pet & family friendly home !!!,26648393,Ruth,,City of North Las Vegas,36.27858,-115.12749,Entire home/apt,225,3,32,2020-03-16,0.55,1,49
+5164450,Three bedrooms and two bathrooms,24700260,Wayne,,Unincorporated Areas,36.03872,-115.23728,Entire home/apt,125,30,12,2017-03-19,0.17,1,338
+5190347,Great Las Vegas Summerlin Home,13222760,Mark,,City of Las Vegas,36.17162,-115.27239,Entire home/apt,354,3,118,2020-10-06,1.71,2,326
+5194780,Studio Next to Strip,2459201,Daniel,,Unincorporated Areas,36.10713,-115.14662,Entire home/apt,100,31,39,2017-01-10,0.57,3,179
+5230150,"Plush Bedroom, Wifi & Free parking",27065922,Kate,,Unincorporated Areas,36.04253,-115.14452,Private room,49,1,377,2020-10-15,5.43,2,25
+5241228,Beautiful Home on Golf Course,3784261,William,,Unincorporated Areas,36.13083,-115.3452,Entire home/apt,255,28,6,2020-03-25,0.11,1,238
+5297421,1BR Bluegreen Club 36 near Strip!,9030279,Dave,,Unincorporated Areas,36.10339,-115.15567,Entire home/apt,122,5,4,2020-01-12,0.07,6,358
+5297580,1BR Bluegreen Club 36 near Strip!,9030279,Dave,,Unincorporated Areas,36.10333,-115.15668,Entire home/apt,131,5,1,2016-01-11,0.02,6,7
+5329187,GLAMOUR  LAS VEGAS PRIME LOCATION PRIVATE ESTATE,26436251,Nili,,City of Las Vegas,36.15154,-115.16676,Entire home/apt,766,30,1,2019-02-24,0.05,1,237
+5364344,☀2Br Lockoff☀ Grand Desert Resort EE3-IB,2995822,Kathy D,,Unincorporated Areas,36.10803,-115.16186,Entire home/apt,188,3,44,2020-07-05,0.68,44,0
+5371949,Desert Oasis | Las Vegas,3111913,Mike + Doris,,Unincorporated Areas,36.10873,-115.22679,Entire home/apt,89,5,88,2020-09-25,1.29,7,161
+5376013,Signature Suite 5 min 2 Strip Views disinfected,24841789,Ori,,Unincorporated Areas,36.10626,-115.16728,Entire home/apt,98,1,163,2020-10-04,2.38,8,67
+5415493,"Plush Bed, Free Wifi and Easy parking",27065922,Kate,,Unincorporated Areas,36.04355,-115.14479,Private room,49,1,246,2020-10-08,3.61,2,25
+5423604,"2 BD, 2 BA ON THE STRIP!!",19142820,Leron,,Unincorporated Areas,36.10964,-115.17441,Entire home/apt,449,3,9,2019-01-11,0.13,2,4
+5444344,Pool/Spa Acreage Near Strip!!!,16750396,Eddie And Marv,,Unincorporated Areas,36.13364,-115.22683,Entire home/apt,300,30,107,2020-03-17,1.62,1,260
+5458948,Hotel/Strip View/8 bed/5 bath,6914717,Phil,,Unincorporated Areas,36.13576,-115.22054,Entire home/apt,693,3,45,2020-09-24,0.68,3,355
+5509768,1BR Desert Club Resort near strip!,9030279,Dave,,Unincorporated Areas,36.11685,-115.1632,Entire home/apt,129,7,3,2016-06-23,0.05,6,358
+5510065,1BR Carriage House 1 block to Strip,9030279,Dave,,Unincorporated Areas,36.1082,-115.16856,Entire home/apt,199,5,0,,,6,358
+5519434,A cozy room in  brand new home.,2120412,Jan,,City of Las Vegas,36.30386,-115.32405,Private room,132,2,3,2017-07-30,0.05,2,365
+5556970,Resort ♡♡Style♡♡ Living♡♡ Close to Las Vegas Strip,28786281,Relocation,,Unincorporated Areas,36.11679,-115.16035,Entire home/apt,105,30,11,2019-05-15,0.17,19,121
+5557482,Quiet Vegas Villa with private pool,14747173,Roy,,Unincorporated Areas,36.07725,-115.31349,Entire home/apt,211,4,123,2020-10-18,1.85,1,126
+5606114,Las Vegas Dream Location,27624998,Sue,,Unincorporated Areas,36.05969,-115.17152,Private room,171,3,1,2020-03-14,0.13,1,359
+5607598,Luxury Condo Near Las Vegas Strip,28786281,Relocation,,Unincorporated Areas,36.11645,-115.16207,Entire home/apt,86,30,13,2020-08-28,0.22,19,350
+5608038,Furnished 3bd 2ba house w/ sun room,29074894,Aaron,,Unincorporated Areas,36.06301,-115.12785,Entire home/apt,114,2,218,2020-10-08,3.23,1,2
+5614698,Stay Together on The Strip - 2 Bedroom Apartment,220599292,Lucas,,Unincorporated Areas,36.11085,-115.17378,Entire home/apt,271,2,202,2020-10-18,2.98,13,91
+5639962,5 BR Home w/ Heated Salt Water Pool & Spa!!,7020957,Zee,,Unincorporated Areas,36.04361,-115.23318,Entire home/apt,202,28,21,2018-11-28,0.32,5,359
+5655195,Beautiful 2 bedroom Timeshare,28039419,Veniece,,Unincorporated Areas,36.11372,-115.21776,Entire home/apt,130,6,1,2019-11-08,0.09,1,358
+5685048,Elegant & Modern 2 bedroom home NONSMOKING,9074176,Paulina,,Unincorporated Areas,36.07495,-115.30714,Entire home/apt,125,3,32,2020-10-12,0.58,1,137
+5697567,MGM Signature Balcony Suite 12051 NO RESORT FEES,29541293,Tanner,,Unincorporated Areas,36.10601,-115.16678,Entire home/apt,136,2,269,2020-10-14,6.01,11,36
+5757965,"Spacious Home, Minutes to Strip!",29869410,Marlene,,Unincorporated Areas,36.05125,-115.1493,Entire home/apt,399,31,25,2018-01-28,0.37,1,223
+5815304,Spare Bedroom with bed and closet,24043163,Kody,,Unincorporated Areas,36.13082,-115.20854,Private room,800,1,0,,,1,365
+5821860,The Clifts at Peace Canyon,2207130,Guy & Larissa,,Unincorporated Areas,36.10691,-115.30581,Entire home/apt,175,3,0,,,10,352
+5848042,Play and Stay,24641295,Jim,,City of North Las Vegas,36.22976,-115.17673,Private room,595,1,5,2018-01-12,0.12,4,179
+5859880,Great Location! 3 Bedrooms with LV Strip View!,5421592,James,,Unincorporated Areas,36.11346,-115.18674,Entire home/apt,168,3,78,2020-09-08,1.17,4,86
+5895078,"888 # 6, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.1089,-115.16683,Hotel room,103,1,16,2018-09-30,0.25,255,65
+5914452,2BR/2BA - Just Off The Strip!,26521212,Laura,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,166,2,44,2020-07-29,0.68,11,13
+5917553,"MGM Sig. Condo w/ Kitchen by Strip, NO RESORT FEE!",30730635,Danielle,,Unincorporated Areas,36.10706,-115.16656,Entire home/apt,102,2,345,2020-10-18,5.14,6,4
+5918270,1BR/2BA Luxury Condo,26521212,Laura,,Unincorporated Areas,36.1295,-115.17067,Entire home/apt,499,3,1,2015-05-05,0.01,11,365
+5932899,Luxury Desert Resort,22216953,Lisa,,Unincorporated Areas,36.17126,-115.04133,Entire home/apt,440,4,87,2020-09-28,1.30,1,312
+5943360,1 Bedroom East Downtown Las Vegas MOVED!,30853779,Brad,,City of Las Vegas,36.16422,-115.11922,Private room,9999,1,51,2019-01-12,0.78,4,89
+5956030,Entire 900 sq ft condo! Fully sanitized b/t stays.,30917354,Tony,,Unincorporated Areas,36.09678,-115.24096,Entire home/apt,106,4,155,2020-10-13,2.32,2,27
+5956149,"Grandview Resort -2 bedrooms,8 people",2207130,Guy & Larissa,,Unincorporated Areas,36.009,-115.17572,Entire home/apt,308,3,3,2018-05-21,0.08,10,267
+6017314,Strip Bound Getaway. Strip 4Mile--5Convention,30742333,Simon,,Unincorporated Areas,36.11491,-115.26709,Entire home/apt,75,23,108,2020-09-15,1.62,1,351
+6028411,"MGM Sig. Deluxe 1bdrm, 2bath, Balc, NO RESORT FEE!",30730635,Danielle,,Unincorporated Areas,36.10601,-115.16678,Entire home/apt,123,2,351,2020-10-06,5.23,6,14
+6031134,Cozy 3BR 2.5BA Home West of Strip (for 31+ nights),14482816,Julie,,Unincorporated Areas,36.05589,-115.28707,Entire home/apt,152,31,51,2020-10-02,0.76,1,343
+6031807,GRANDVIEW AT LAS VEGAS,2207130,Guy & Larissa,,Unincorporated Areas,36.009,-115.17572,Entire home/apt,182,3,2,2018-05-21,0.04,10,365
+6055217,Studio-2 BR @ Hilton Grand Vacation Club Paradise,3094379,Uchenna,,Unincorporated Areas,36.13995,-115.15228,Entire home/apt,200,4,0,,,10,363
+6079503,MODERN 3 MONTH+ RENTAL,31557608,J,,Unincorporated Areas,36.0459,-115.24958,Entire home/apt,329,90,3,2015-11-05,0.04,1,365
+6102552,Casa Mia,31664375,Antonia,,Unincorporated Areas,36.03477,-115.24301,Entire home/apt,354,4,73,2020-10-19,1.09,1,317
+6109731,Vegas Rio Condo,23466743,Blanca,,Unincorporated Areas,36.11298,-115.18773,Entire home/apt,145,2,101,2020-09-27,1.53,1,360
+6117299,#2 Cozy Clean Rooms,31730116,Chengcheng,,City of Las Vegas,36.13951,-115.18192,Private room,20,31,169,2020-08-31,2.53,18,354
+6122302,#1 Master room with private bathroom,31730116,Chengcheng,,City of Las Vegas,36.13978,-115.18354,Private room,21,30,195,2020-09-30,2.91,18,358
+6130777,"2 Upscale Bedrooms-2 beds, 3 ppl. 8 min. to Strip",19910423,Kelly,,Unincorporated Areas,36.10866,-115.11346,Private room,111,2,117,2020-02-10,1.77,1,171
+6130990,#5 Master room with private bathroom,31730116,Chengcheng,,City of Las Vegas,36.1396,-115.18345,Private room,21,30,249,2020-09-30,3.81,18,299
+6143642,Grandview Las Vegas Resort,23821333,Les,,Unincorporated Areas,36.009,-115.17572,Entire home/apt,164,5,2,2015-10-10,0.03,2,73
+6154315,"1 bed with private bathroom, avoid resort fees",9774221,Daniel,,Unincorporated Areas,36.10516,-115.21437,Private room,180,3,10,2019-06-21,0.15,1,179
+6165685,Your own private TownHome 10 minutes from STRIP,31986428,Tony,,Unincorporated Areas,36.09834,-115.11456,Entire home/apt,66,25,123,2020-01-31,1.93,1,299
+6186267,Clean comfortable and affordable!,30657214,Martin,,Unincorporated Areas,36.01187,-115.1474,Entire home/apt,321,2,5,2019-11-04,0.16,1,83
+6201415,*SANITIZED* Jungle backyard 5 miles from strip.,20029932,Arthur,,Unincorporated Areas,36.12219,-115.09772,Entire home/apt,237,2,212,2020-10-06,3.18,7,337
+6211232,Las Vegas Getaway,3577743,New Spirit Family,,Unincorporated Areas,36.11546,-115.16507,Private room,400,2,0,,,1,354
+6213514,VEGAS Luxury STRIPVIEW PalmsPlace Kitchen Pool A,5775724,Cassandra And Bryan,,Unincorporated Areas,36.11421,-115.1988,Entire home/apt,101,1,421,2020-10-20,6.45,20,221
+6214983,"Room: King bed & sofa bed, kitchen",30785453,Karlene,,Unincorporated Areas,36.10666,-115.16858,Entire home/apt,120,3,0,,,1,363
+6227100,Cozy Private Room and Bath,24156980,Laura,,City of Las Vegas,36.31331,-115.28886,Private room,35,31,65,2020-10-12,1.00,1,357
+6228346,"888 # 8, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.10751,-115.16701,Hotel room,103,1,20,2020-10-04,0.30,255,64
+6262663,King Bedroom near Airport/The Strip,26179823,Nancy,,Unincorporated Areas,36.07029,-115.10135,Private room,59,1,15,2020-02-24,0.23,4,179
+6262970,King Bedroom near Airport/The Strip,26179823,Nancy,,Unincorporated Areas,36.06995,-115.10086,Private room,59,1,3,2016-10-16,0.06,4,179
+6263382,King Bedroom near Airport/Strip,26179823,Nancy,,Unincorporated Areas,36.07014,-115.09995,Private room,59,1,5,2019-09-14,0.09,4,179
+6278201,"⚕✔SANITISED Resort2BD/2BA-NO RESORT FEES🌟🌟🌟🌟🌟",10933696,Mika,,Unincorporated Areas,36.11677,-115.18331,Entire home/apt,120,1,202,2020-10-08,3.04,10,49
+6321301,Las Vegas - Tropicana Ave 1 Bdrm Condo Resort,9296727,Jesse,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,164,2,5,2020-01-10,0.08,17,95
+6321557,Las Vegas - Tropicana Ave 2 Bdrm Condo Resort,9296727,Jesse,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,183,2,6,2019-01-10,0.10,17,77
+6321753,Las Vegas - Tropicana Ave 2 Bdrm Twin Condo Resort,9296727,Jesse,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,183,2,5,2018-01-11,0.08,17,94
+6321837,Las Vegas - Tropicana Ave 2 Bdrm Dlx Condo Resort,9296727,Jesse,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,219,2,2,2019-01-09,0.03,17,72
+6328171,2Br Wyndham Grand Desert Resort a2,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,178,2,75,2020-09-30,1.16,44,57
+6328454,Single bed inside 8 Bed Mixed Dormitory,16548183,Jason,,City of Las Vegas,36.15665,-115.14929,Hotel room,26,2,279,2020-10-22,9.33,3,166
+6381607,Monthly Stay Tiny House on a City Horse Farm,27734425,Kris,,City of Las Vegas,36.28507,-115.22466,Entire home/apt,60,5,24,2020-01-03,0.37,2,0
+6390296,MQ8 1 Bedroom |  Mtn/Strip View | Kitchen | Pool,18273973,Alex,,Unincorporated Areas,36.11497,-115.1983,Entire home/apt,160,2,221,2020-10-15,3.33,86,97
+6391822,2bdm Resort Las Vegas-WM-Tropicana,19139775,Lorie,,Unincorporated Areas,36.10146,-115.05715,Entire home/apt,386,1,3,2019-01-09,0.07,14,365
+6402285,PH11 Premium  Studio | Open Balcony | Pool | View,18273973,Alex,,Unincorporated Areas,36.11495,-115.19861,Entire home/apt,103,2,267,2020-10-20,4.07,86,108
+6403163,Pool side Condo!!!!,33392186,Helen,,Unincorporated Areas,36.11456,-115.10605,Entire home/apt,68,30,7,2020-03-15,0.12,10,249
+6403566,Furnished Luxury Meridian 2b/2b!!,33392186,Helen,,Unincorporated Areas,36.11678,-115.16287,Entire home/apt,68,30,18,2020-08-24,0.28,10,184
+6411283,Lux Private Cal King 1 Bed & Bath SW off of Strip,33117387,Helen,,Unincorporated Areas,35.99267,-115.22386,Private room,100,31,1,2016-01-09,0.02,2,363
+6413013,Room 2 (Summerlin/Red Rock) 2 rooms available,26030134,Nique,,City of Las Vegas,36.21146,-115.2604,Private room,45,30,101,2020-06-07,1.52,2,317
+6424473,WD11 Elite Studio | Strip View | Pool | Balcony,18273973,Alex,,Unincorporated Areas,36.11434,-115.19618,Entire home/apt,98,2,194,2020-09-26,2.97,86,147
+6448817,Laguna Palms furnished 3 bedrooms!,33392186,Helen,,Unincorporated Areas,36.11322,-115.10632,Entire home/apt,74,30,15,2020-09-30,0.24,10,141
+6467825,"Condo, 1 bedroom, 1 bathroom, 2nd Floor",33786727,Hong 虹,,City of Las Vegas,36.1502,-115.22566,Entire home/apt,109,30,10,2020-08-30,0.17,1,335
+6475500,♡♡  EDC Mini Castle Private Pool Huge Clean ♡♡,33829826,Dov,,City of North Las Vegas,36.26361,-115.10898,Entire home/apt,313,2,168,2020-10-18,2.55,9,267
+6481411,2BR/2BA - Just Off The Strip!!,26521212,Laura,,Unincorporated Areas,36.10706,-115.16319,Entire home/apt,213,3,51,2020-07-19,0.78,11,0
+6539763,"Stylish Pool Home, Perfect Location",34201646,Carol,,City of Las Vegas,36.15629,-115.17812,Entire home/apt,102,30,4,2020-04-13,0.08,1,301
+6544454,Elara Hilton Grand Vacation Junior Las Vegas-CES!!,28309106,Worldwide Vacation,,Unincorporated Areas,36.1096,-115.16843,Entire home/apt,229,3,2,2019-01-12,0.04,8,7
+6544541,Elara Hilton Grand Vacations Club One BR Las Vegas,28309106,Worldwide Vacation,,Unincorporated Areas,36.10798,-115.17022,Entire home/apt,329,3,1,2016-01-10,0.02,8,7
+6608668,Luxury New Hot Tub Home - DPX,33829826,Dov,,City of North Las Vegas,36.26135,-115.10872,Entire home/apt,664,2,32,2020-09-18,0.51,9,357
+6624443,"Beautiful Pool Home Close to Strip, Speedway",34671486,Thomas And Rasheedah,,City of North Las Vegas,36.26938,-115.12735,Private room,135,1,11,2019-05-26,0.17,1,179
+6639181,Great Price! Great Location! Peaceful and Charming,3474397,Only Vacation Rentals,,Unincorporated Areas,36.07885,-115.26419,Entire home/apt,219,3,82,2020-09-28,1.27,14,352
+6670620,One Bedroom Luxury Condo in Vegas,34912327,Harmony,,Unincorporated Areas,36.11525,-115.1981,Entire home/apt,179,14,31,2017-08-20,0.48,1,265
+6676430,Vdara Suite | Best Condo-Hotel | 100% smoke free,10366526,Dario,,Unincorporated Areas,36.11052,-115.17819,Entire home/apt,159,1,292,2020-10-13,4.55,1,33
+6677642,☀2Br Lockoff☀ Grand Desert Resort FF3-IB,2995822,Kathy D,,Unincorporated Areas,36.10798,-115.16202,Entire home/apt,188,3,44,2020-09-09,0.68,44,0
+6679142,Las Vegas strip 15 min away. 日本語でも伺います,15435551,Michelle,,City of Henderson,36.05125,-115.10844,Private room,45,1,18,2018-01-01,0.36,1,297
+6693588,Grandview Weekend Special !,26360729,Anthony,,Unincorporated Areas,36.00835,-115.1747,Entire home/apt,375,3,0,,,2,89
+6732314,4 Bedrooms Very Short Drive to LV Strip,25667495,Allison,,Unincorporated Areas,36.12452,-115.21229,Entire home/apt,112,31,212,2020-08-24,3.42,2,42
+6732592,"Spring Vacation for 2 in Vegas! Free WiFi, Parking",35261543,Ricky,,City of North Las Vegas,36.28491,-115.19321,Entire home/apt,81,3,102,2020-10-19,1.57,4,337
+6751337,Beautiful place in summerlin.,35350613,Snybyr,,City of Las Vegas,36.14325,-115.31119,Private room,60,1,0,,,1,365
+6754937,Wyndham Grand Desert Amazing 2 Bedroom Near Strip,31870579,Kathy,,Unincorporated Areas,36.10732,-115.16051,Entire home/apt,169,2,95,2020-10-11,1.46,11,184
+6758907,☀2Br☀ Wyndham Grand Desert Resort PQQ3-IB,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,170,3,16,2019-11-08,0.25,44,2
+6777374,☀2Br Lockoff☀ Grand Desert Resort GG3-IB,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,199,3,35,2019-12-28,0.55,44,0
+6781548,"Amazing 3 Bed, 2.5 Bath Home",10625277,Koo,,City of Las Vegas,36.17859,-115.3364,Entire home/apt,395,30,7,2016-09-26,0.11,2,364
+6783072,"Bluegreen Club 36, Las Vegas!",28252451,Jessica,,Unincorporated Areas,36.10189,-115.1558,Entire home/apt,175,2,18,2019-05-19,0.31,2,364
+6800435,Entire RESIDENCE! Private Pool & Patio from $565,35599813,Property,,City of Henderson,36.11228,-114.93048,Entire home/apt,565,30,2,2019-11-15,0.11,1,365
+6886428,5 STAR VEGAS PLACE,36082525,David,,Unincorporated Areas,36.09159,-115.117,Entire home/apt,85,4,30,2020-10-06,1.73,2,66
+6914999,Green Valley Home clean & comfy,1395958,Beth,,City of Henderson,36.03827,-115.08029,Private room,55,30,8,2016-05-30,0.13,1,89
+6923653,"888 # 1, MGM Signature One Bedroom Balcony Suite.",12018637,888,,Unincorporated Areas,36.10839,-115.16707,Hotel room,135,1,41,2020-10-11,0.64,255,63
+6970974,Las Vegas 6 bedrooms 5 baths  Pool Close to Strip,36551054,Joseph,,Unincorporated Areas,35.99265,-115.21631,Entire home/apt,532,3,35,2020-09-07,0.56,1,351
+6983579,One Bedroom Cancun Resort Las Vegas,18411587,Gary,,Unincorporated Areas,36.03943,-115.17444,Entire home/apt,79,3,7,2020-10-19,0.26,8,3
+6987603,King Solomons Court One Bedroom Apt,36635127,Celeste,,Unincorporated Areas,36.12645,-115.24738,Entire home/apt,48,30,72,2020-10-01,1.13,1,211
+7010776,A peaceful condo in Spring Valley.,20909715,Grzegorz,,Unincorporated Areas,36.10575,-115.31045,Entire home/apt,75,30,8,2019-10-31,0.18,1,170
+7025564,"Extra Clean, Large House, With Ton's Of Stuff 2 Do",22569090,Scott,,City of North Las Vegas,36.26377,-115.11172,Entire home/apt,268,2,89,2020-10-18,1.39,2,303
+7034983,Marriott's Grand Château in middle of LV strip,36882311,Byung,,Unincorporated Areas,36.10839,-115.16906,Entire home/apt,325,3,2,2020-09-07,0.14,1,0
+7072998,Las Vegas Home with a Large Pool,35028777,Laura,,Unincorporated Areas,36.10813,-115.0741,Entire home/apt,170,31,221,2020-09-14,3.44,1,29
+7095974,EXCELLENT LOCATION! 5MINS TO LV STRIP! POOL 3STORY,32002538,LV-Concierge,,Unincorporated Areas,36.06083,-115.22745,Entire home/apt,344,30,94,2020-07-31,1.50,6,255
+7181030,Las Vegas Getaway,12878866,Brian,,City of Las Vegas,36.20207,-115.26627,Private room,63,31,151,2020-04-01,2.42,1,345
+7194385,Cancun Resort Las Vegas- 1 bedroom sleeps 4,31214940,Scott,,Unincorporated Areas,36.03832,-115.17386,Entire home/apt,126,2,9,2020-03-13,0.14,28,351
+7226382,2BRm 2Bath Apt  Gated Close to Strip & Airport,10699047,Andrew,,Unincorporated Areas,36.0169,-115.12119,Entire home/apt,88,14,69,2020-08-30,1.13,1,230
+7238839,Biggest Vdara Penthouse! 2+BR Stunner Strip Views!,37897087,Ford,,Unincorporated Areas,36.10925,-115.17832,Entire home/apt,549,1,175,2020-10-18,2.77,9,344
+7239282,Polo Towers Suites- Studio,31214940,Scott,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,106,2,18,2020-03-10,0.28,28,34
+7239890,Single Story house by great shopping,17842017,A.,,Unincorporated Areas,36.14635,-115.32064,Entire home/apt,191,31,14,2020-05-25,0.23,9,212
+7267758,PALMS PLC 12 FLR STRIP VIEW&BALCONY,38054477,Gabor,,Unincorporated Areas,36.11365,-115.19702,Entire home/apt,105,1,236,2020-10-05,3.92,3,320
+7292930,Big 2 BR Vdara Penthouse!★Bellagio Fountain Views!,37897087,Ford,,Unincorporated Areas,36.10925,-115.17841,Entire home/apt,351,1,118,2020-10-20,1.86,9,344
+7323491,Wyndham Grand Desert Resort * 2BR,23366133,Rob & Julia,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,273,2,7,2019-08-12,0.12,7,365
+7348832,Private studio on private property gated secluded,38501641,Regina,,Unincorporated Areas,36.107,-115.09355,Entire home/apt,69,1,353,2020-10-22,8.26,1,332
+7388075,Townhouse off Strip - Private Room,5991979,Shaun,,Unincorporated Areas,36.00814,-115.11895,Private room,40,31,8,2019-11-06,0.13,2,365
+7419681,❤️Private Pool/Spa & More Home-15min from Strip❤️,2011702,Jacqueline,,City of Las Vegas,36.18236,-115.27348,Entire home/apt,945,3,66,2020-09-21,1.11,2,0
+7440975,Strip view High rise condo,38982527,Vick,,Unincorporated Areas,36.11184,-115.1983,Entire home/apt,124,2,152,2020-08-31,2.38,3,146
+7502882,Las Vegas Gilmore Villa,4677994,Markus,,Unincorporated Areas,36.11336,-115.18875,Entire home/apt,60,30,48,2020-03-17,0.76,4,51
+7511084,4Br Pres! Grand Desert Resort a2,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,319,2,11,2020-09-24,0.18,44,1
+7583055,Las Vegas Trade Winds,4677994,Markus,,Unincorporated Areas,36.11225,-115.1874,Entire home/apt,60,30,35,2020-06-25,0.93,4,120
+7583986,PALMS PLC 15 FLR STRIP VIEW&BALCONY,38054477,Gabor,,Unincorporated Areas,36.11333,-115.20011,Entire home/apt,105,1,204,2020-09-28,3.22,3,309
+7602041,Tropical Get-a-Way in  Las Vegas,8070767,Sigrid,,City of Las Vegas,36.31853,-115.28911,Entire home/apt,165,3,23,2020-09-14,0.43,1,298
+7616328,☀2Br Lockoff☀ Grand Desert Resort LL3-IB,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,199,3,64,2019-08-25,1.01,44,0
+7621524,Carmel's Casita,26396625,Carmel Phyliss,,City of North Las Vegas,36.26305,-115.10949,Private room,41,3,36,2020-02-17,0.62,1,118
+7634751,Wyndham Grand Desert Resort ** 1BR,23366133,Rob & Julia,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,207,2,2,2019-09-12,0.08,7,365
+7636638,"2Bdrm Condo-Near Strip, Arena, Convention Center!",23853826,Janee,,Unincorporated Areas,36.10669,-115.16152,Entire home/apt,254,3,7,2019-04-12,0.14,6,365
+7637202,ULTIMATE VEGAS HOUSE!!! SPA+POOL TABLE,30814608,Mac,,Unincorporated Areas,36.06345,-115.1324,Entire home/apt,409,3,106,2020-04-30,1.66,5,350
+7665950,Grandview At Las Vegas,2374070,Kristen,,Unincorporated Areas,36.00784,-115.17597,Entire home/apt,91,5,9,2020-03-01,0.15,1,56
+7681834,2BD/2BA Center Strip/Great Views/Sleeps 10,25541572,Marsha,,Unincorporated Areas,36.10901,-115.17565,Entire home/apt,226,2,123,2020-09-17,2.09,4,119
+7691218,Central Location! The Globe Trotter's Hideaway,40393501,Kai,,Unincorporated Areas,36.12092,-115.14761,Entire home/apt,88,3,65,2020-10-11,1.21,1,62
+7692945,2 KING 2 BDR SUITE @ Hilton Elara,18955550,Sheng,,Unincorporated Areas,36.10917,-115.16973,Entire home/apt,400,3,6,2018-03-18,0.10,1,364
+7700198,1H11 Penthouse Floor Best Bellagio Fountain View,25541572,Marsha,,Unincorporated Areas,36.10983,-115.17401,Entire home/apt,180,2,265,2020-10-13,4.48,4,122
+7700333,1H7 Bellagio Fountain View Condo with 3 Beds POOL,25541572,Marsha,,Unincorporated Areas,36.10905,-115.17598,Entire home/apt,119,2,164,2020-09-03,2.84,4,109
+7700638,"House with pool/ Hot Tub in LV, Queen or twin RM.",40451432,Dee,,Unincorporated Areas,35.98055,-115.16495,Private room,49,2,128,2020-03-15,2.01,4,21
+7715133,English Manor House Queen Bed,40451432,Dee,,Unincorporated Areas,35.97996,-115.16398,Private room,49,2,170,2020-03-14,2.68,4,5
+7716669,Signature@MGM Suite • 17th Floor • NO Resort Fees!,34968706,Alex,,Unincorporated Areas,36.10744,-115.16663,Entire home/apt,99,1,196,2020-09-28,3.13,6,62
+7734983,**SANITIZED**ULTRA MODERN VILLA. 5 miles from LVBL,20029932,Arthur,,Unincorporated Areas,36.10279,-115.25585,Entire home/apt,396,31,148,2020-06-18,2.37,7,179
+7749566,Perfect Hipster Style Getaway-15 Minutes to Strip,35585912,Omar,,City of North Las Vegas,36.20331,-115.10605,Entire home/apt,104,1,291,2020-10-18,4.58,10,173
+7749828,"Art-Deco Home 3 Bed,2 Bath-15 Min to Strip",35585912,Omar,,City of North Las Vegas,36.20507,-115.10605,Entire home/apt,91,1,295,2020-10-16,4.65,10,171
+7802992,3 BR Near Airport and Strip,27175975,Lillian,,Unincorporated Areas,36.05441,-115.24155,Entire home/apt,126,2,222,2020-10-03,3.55,1,87
+7811889,Luxury Vegas Retreat STR20-00107,41126517,Richard,,City of Henderson,36.05781,-115.09964,Entire home/apt,260,30,31,2020-09-06,0.50,3,363
+7821584,COZY CASITA+15 MIN TO STRIP+ FREE WIFI & PARKING,35585912,Omar,,City of North Las Vegas,36.20385,-115.10579,Entire home/apt,104,1,285,2020-10-18,4.58,10,189
+7824056,Tropicana Oasis 2BR/2BA Near Strip,41194328,Dana,,Unincorporated Areas,36.09908,-115.21025,Entire home/apt,125,31,47,2020-04-13,0.74,6,336
+7824608,Gone In Paradise 2BR/2BA Near Strip,41194328,Dana,,Unincorporated Areas,36.09767,-115.21907,Entire home/apt,120,31,37,2020-06-23,0.59,6,304
+7824804,Serenity Oasis 1BR/1BA Near Strip,41194328,Dana,,Unincorporated Areas,36.09778,-115.2186,Entire home/apt,95,31,17,2020-05-07,0.27,6,232
+7825176,*** WELCOME TO DESERT BEACH ***,41200577,Shaunie,,Unincorporated Areas,35.98602,-115.19905,Private room,185,2,0,,,1,88
+7841884,MGM SIG 37TH PH LUXURY SUITE - NO RESORT FEE,41303087,Petra,,Unincorporated Areas,36.10824,-115.16619,Entire home/apt,129,1,212,2020-10-12,3.43,3,73
+7896628,"888 # 9, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.10833,-115.16505,Hotel room,103,1,9,2016-03-23,0.14,255,65
+7941509,Cozy Private Home with Pool and Free Heated Spa!,41882613,Corporate Rentals,,Unincorporated Areas,36.09116,-115.2638,Entire home/apt,209,1,392,2020-10-16,6.44,3,278
+7974620,"Henderson, NV with view of Strip",25910170,Steve,,City of Henderson,36.0388,-114.95113,Entire home/apt,80,30,60,2020-04-06,0.97,1,227
+7985916,"3 mi to Strip w/ heated Pool, Playground",42150085,Amanda,,Unincorporated Areas,36.11936,-115.12505,Entire home/apt,94,1,318,2019-01-12,5.14,1,4
+7989405,"888 # 7, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.10687,-115.16492,Hotel room,103,1,14,2018-05-06,0.22,255,65
+7989595,"888 # 5, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.1088,-115.16481,Hotel room,103,1,23,2020-08-11,0.37,255,65
+7990323,Las Vegas in Comfort of Home!,41341473,Nancy,,Unincorporated Areas,36.08862,-115.31671,Private room,36,1,22,2020-03-02,0.36,1,293
+8009935,Relaxing peaceful Resort-Oasis Pool Golf Spa Games,11584475,Elaine,,Unincorporated Areas,36.13537,-115.22225,Entire home/apt,913,2,143,2020-10-18,2.40,2,355
+8012505,Entire Vegas home near Strip!,15626190,Abby,,City of Las Vegas,36.16173,-115.17831,Entire home/apt,297,30,63,2017-08-02,1.03,1,365
+8016324,Delightful Condo Right Off the Strip,42325634,Cynthia,,Unincorporated Areas,36.10737,-115.16026,Entire home/apt,329,2,53,2020-02-16,0.85,5,303
+8067535,"Perfect Family Vacation-Home, Kids/Pets Friendly!",10625277,Koo,,City of Las Vegas,36.17935,-115.33597,Entire home/apt,445,30,2,2017-01-19,0.04,2,359
+8115149,2BD/2BA ** Vegas Resort **Kitchen+Hot Tub+ Shuttle,3843799,Ronald,,Unincorporated Areas,36.10673,-115.16191,Entire home/apt,145,2,50,2020-08-12,0.80,12,0
+8115505,HIDDEN GEM 15 min to strip+FREE WIFI & PARKING,35585912,Omar,,City of North Las Vegas,36.20141,-115.10522,Entire home/apt,129,1,223,2020-10-24,3.57,10,177
+8162251,Luxury 2 Bedroom Resort 10 Minute walk to LV Strip,31870579,Kathy,,Unincorporated Areas,36.10666,-115.15995,Entire home/apt,169,2,36,2020-10-04,0.58,11,191
+8206595,"Vdara at City Center, Deluxe Suite",37064139,Luxury Hotels,,Unincorporated Areas,36.11021,-115.17943,Private room,182,2,3,2016-07-04,0.06,10,0
+8226600,Amazing High Rise 3 min/Strip -NO RESORT FEE!,303941328,Valerie,,Unincorporated Areas,36.11552,-115.1937,Private room,105,1,189,2020-10-23,3.03,12,91
+8304970,3BR/2BA - Just Off The Strip!,26521212,Laura,,Unincorporated Areas,36.10785,-115.16358,Entire home/apt,266,2,24,2020-10-10,0.39,11,28
+8326442,* Vegas Strip * Pool + Kitchen+Free Shuttle,3843799,Ronald,,Unincorporated Areas,36.10695,-115.16144,Entire home/apt,134,2,24,2020-09-21,0.39,12,0
+8327390,Amazing Luxury Condo in Las Vegas! Very Safe area!,43898365,Eric,,Unincorporated Areas,36.05699,-115.23867,Entire home/apt,92,3,42,2020-02-24,0.70,1,353
+8353269,☀2BD/2BA☀Vegas Strip Resort: Top Golf+Free Shuttle,3843799,Ronald,,Unincorporated Areas,36.10721,-115.16137,Entire home/apt,148,2,24,2020-09-01,0.39,12,0
+8354017,"LV Strip, Premium 2 Bedroom, Golf, Events, Pools+",31870579,Kathy,,Unincorporated Areas,36.10755,-115.1628,Entire home/apt,170,2,83,2020-10-11,1.34,11,354
+8356128,TheGrandview Resort-2 bed.,23531509,Larissa,,Unincorporated Areas,36.0082,-115.17597,Entire home/apt,336,3,2,2017-06-19,0.03,12,358
+8410449,Las Vegas Condo 1 Block from Strip 1BR 745 sq ft,32867463,Scott,,Unincorporated Areas,36.11803,-115.16316,Entire home/apt,175,4,48,2020-03-13,0.84,10,299
+8430089,Summerlin  Nice condo. walk to lake,44393488,Maria,,City of Las Vegas,36.19976,-115.26308,Entire home/apt,79,10,47,2020-10-19,0.77,2,56
+8451874,Flamingo Bay 1 Bedroom #1,9464858,Barbara,,Unincorporated Areas,36.11377,-115.21856,Entire home/apt,151,2,28,2020-09-20,0.94,61,140
+8469195,"888 # 10, MGM Signature Deluxe Suite.",12018637,888,,Unincorporated Areas,36.10746,-115.16557,Hotel room,103,1,6,2016-08-07,0.10,255,65
+8469902,Tahiti Village Resort,23531509,Larissa,,Unincorporated Areas,36.05998,-115.17207,Entire home/apt,182,5,1,2019-07-06,0.06,12,169
+8484536,Spacious 2Bed/2Bath 10 Minutes to the Strip,38128046,Joseph,,Unincorporated Areas,36.11195,-115.20703,Entire home/apt,89,1,526,2020-10-16,8.69,3,292
+8505497,"Micro Apt Separate Entrance, 30 Day or Longer Stay",14725561,Marion,,City of Henderson,36.02472,-115.02846,Entire home/apt,44,30,184,2020-03-14,2.98,2,335
+8561043,Flamingo Bay 1 Bedroom #2,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,153,2,46,2020-08-09,0.79,61,154
+8561395,Flamingo Bay 1 Bedroom #3,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,153,2,63,2020-06-29,1.08,61,154
+8561672,Flamingo Bay 1 Bedroom Deluxe #1,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,162,2,14,2020-08-23,0.25,61,154
+8561964,Flamingo Bay 1 Bedroom Deluxe #2,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,162,2,14,2020-01-26,0.24,61,156
+8562137,Flamingo Bay 1 Bedroom Deluxe #3,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,162,2,17,2020-08-09,0.30,61,156
+8562958,Flamingo Bay 2 Bedroom #1,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,226,2,19,2020-06-15,0.33,61,154
+8563214,Flamingo Bay 2 Bedroom #2,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,226,2,10,2019-12-08,0.31,61,154
+8563378,Flamingo Bay 2 Bedroom #3,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,226,2,16,2020-09-28,0.27,61,147
+8563612,Flamingo Bay 2 Bedroom Deluxe #1,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,238,2,85,2020-09-27,1.51,61,146
+8564043,Flamingo Bay 2 Bedroom Deluxe #2,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,238,2,58,2020-10-04,1.03,61,145
+8564312,Flamingo Bay 2 Bedroom Deluxe #3,9464858,Barbara,,Unincorporated Areas,36.11399,-115.21856,Entire home/apt,238,2,56,2020-09-27,0.96,61,152
+8581394,Vintage-Hip-Comfort fireplace-pool-10min to Strip,24112230,Brian,,City of Las Vegas,36.1517,-115.16913,Entire home/apt,292,2,277,2020-10-22,4.51,1,273
+8608151,Desert Club Resort by Holiday Inn Club,23531509,Larissa,,Unincorporated Areas,36.11742,-115.16207,Entire home/apt,175,3,2,2019-01-11,0.04,12,361
+8616989,Beautiful Resort in Las Vegas Blvd,45330210,Allie,,Unincorporated Areas,36.00861,-115.17573,Entire home/apt,185,7,2,2018-12-02,0.03,1,83
+8648914,ZEN Bedroom - KING size bed,21148015,Bell,,Unincorporated Areas,36.03272,-115.16978,Private room,39,2,37,2020-03-09,0.61,6,209
+8664294,Arabian Oasis 2BR/2BA Near Strip,41194328,Dana,,Unincorporated Areas,36.0992,-115.2015,Entire home/apt,120,31,39,2020-09-22,0.69,6,335
+8699353,Fantastic High Rise Suite on the Strip!-A,45236372,Vlad,,Unincorporated Areas,36.13914,-115.16161,Entire home/apt,137,3,33,2020-03-15,0.54,2,269
+8714472,Gorgeous Designer Home with Pool,33117387,Helen,,Unincorporated Areas,35.99163,-115.22384,Entire home/apt,214,31,14,2018-07-08,0.27,2,363
+8842681,room with full bath,46307787,Charles,,Unincorporated Areas,36.16032,-115.0585,Private room,200,7,0,,,1,365
+8884085,ROOM 2,46486517,Liz,,Unincorporated Areas,36.11847,-115.28859,Private room,50,30,88,2020-03-13,1.44,3,335
+8889575,Relaxing 2/2 Minutes From The Strip/Airport/Expo,38128046,Joseph,,Unincorporated Areas,36.11321,-115.20499,Entire home/apt,92,1,532,2020-10-21,8.72,3,286
+8902154,4BD/2.5BR 2miles Strip/Convention/Airport 5 bed.,41251150,Sisi,,Unincorporated Areas,36.13246,-115.19928,Entire home/apt,109,2,60,2020-09-16,3.90,2,299
+8925098,2Br Wyndham Grand Desert Resort f3,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,178,3,42,2020-01-23,0.72,44,59
+8926775,Palms Place Luxury High rise - 18F,6084958,Marina,,Unincorporated Areas,36.11568,-115.19754,Entire home/apt,102,2,170,2020-10-05,2.81,2,29
+8965113,Room 3,46486517,Liz,,Unincorporated Areas,36.119,-115.28807,Private room,50,30,37,2020-09-03,0.71,3,176
+9026491,Signature MGM Grand 2BR/3BA,37064139,Luxury Hotels,,Unincorporated Areas,36.10635,-115.16754,Entire home/apt,359,2,5,2020-01-17,0.16,10,126
+9026496,Deluxe Suite at Signature MGM Grand!,37064139,Luxury Hotels,,Unincorporated Areas,36.10508,-115.16575,Entire home/apt,98,2,66,2020-08-22,1.25,10,127
+9026515,MGM Signature Deluxe Suite,37064139,Luxury Hotels,,Unincorporated Areas,36.10743,-115.16691,Entire home/apt,98,2,66,2020-10-19,1.10,10,97
+9028890,MGM Signature 2BR/3BA Balcony Suite,37064139,Luxury Hotels,,Unincorporated Areas,36.1073,-115.16665,Entire home/apt,359,2,57,2020-03-01,0.97,10,127
+9043728,Luxury One Bedroom Condo near Strip,7834425,Johnny,,Unincorporated Areas,36.11598,-115.16203,Entire home/apt,121,30,20,2020-01-04,0.33,1,114
+9111007,Wyndham Grand Desert Resort,47475013,Hamilton,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,356,2,4,2020-02-25,0.10,2,364
+9132839,Luxurious Private Studio,47568376,Ronnie,,Unincorporated Areas,36.08907,-115.11434,Entire home/apt,81,3,180,2020-10-19,2.98,2,44
+9148395,Wyndham Grand Desert-1 bdrm shuttle to the strip,30787515,Brooke,,Unincorporated Areas,36.10695,-115.1603,Entire home/apt,169,2,13,2020-03-13,0.22,119,49
+9149258,Modern 1 bedroom Apartment!,38509931,Adrianna,,Unincorporated Areas,36.11317,-115.13514,Entire home/apt,72,1,426,2020-10-05,7.05,1,157
+9164822,"Cozy 2 Bdrm 2 bath Parking include",47702604,Israel,,Unincorporated Areas,36.11388,-115.21678,Entire home/apt,99,180,3,2016-05-22,0.05,1,365
+9188611,Las Vegas Country Club( Monthly Minimum),47803468,Tom,,Unincorporated Areas,36.13774,-115.14865,Entire home/apt,55,30,2,2019-10-10,0.11,4,319
+9188621,VEGAS COUNTRY CLUB&VEGAS STRIP MonthlyMinimum Stay,47803468,Tom,,Unincorporated Areas,36.13674,-115.14854,Entire home/apt,55,30,8,2020-03-31,0.16,4,151
+9195951,Vegas strip view condo in exciting downtown  zone!,47836961,Michael,,City of Las Vegas,36.16993,-115.13964,Entire home/apt,99,32,69,2019-03-11,1.18,1,306
+9195988,--2BR/2BA-off STRIP-Just For You--TERRACE-POOL+TUB,47837101,Vladimir,,Unincorporated Areas,36.11326,-115.18835,Entire home/apt,128,1,141,2020-10-04,2.33,4,173
+9201536,20 MINUTES FROM THE STRIP THREE BEDROOM HOUSE Wifi,47859599,Rubén,,Unincorporated Areas,36.09845,-115.02957,Entire home/apt,629,2,27,2020-08-24,0.45,5,365
+9214272,"Close to Las Vegas Strip, 2 Bedroom Condo",32525786,Ted,,Unincorporated Areas,36.11217,-115.18924,Entire home/apt,164,2,33,2020-01-20,0.57,1,360
+9220546,Plush&Clean.14flPentho.VegasStripView.LockedPkgGAR,47945833,Melissa,,Unincorporated Areas,36.1309,-115.14167,Entire home/apt,69,31,162,2020-09-03,2.68,1,333
+9221502,Private 2 Bedroom studio 5 MIN  FROM STRIP,47949877,Fernando,,Unincorporated Areas,36.13553,-115.2187,Entire home/apt,60,31,0,,,7,171
+9254402,*Close to the Strip. Private bathroom.,48080639,Edward,,Unincorporated Areas,36.0869,-115.21938,Private room,46,1,176,2020-07-16,2.93,9,0
+9274170,Get Spoiled,48164695,Aviel,,City of Las Vegas,36.21694,-115.22114,Entire home/apt,123,31,52,2019-05-03,0.86,1,133
+9310567,Trump Tower High Floor Strip View,25604559,David,,Unincorporated Areas,36.12901,-115.17339,Entire home/apt,133,1,312,2020-10-19,5.18,1,305
+9359795,Great 2BR High Rise on Strip+Kitchen!-A,45236372,Vlad,,Unincorporated Areas,36.13966,-115.16196,Entire home/apt,291,3,10,2020-01-25,0.17,2,266
+9373669,Amazing view from modern condo,20244977,Rami,,Unincorporated Areas,36.11462,-115.1958,Entire home/apt,169,2,241,2020-10-06,4.00,5,40
+9375809,Polo Towers studio  on strip #4,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,162,2,20,2020-01-25,0.40,61,363
+9376449,Polo Towers studio  on strip #3,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,162,2,41,2020-01-08,0.78,61,364
+9376542,Polo Towers studio  on strip #5,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,162,2,34,2020-01-23,0.57,61,363
+9376780,PoloTowers 1bedr  on the strip #2,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,214,2,3,2019-01-09,0.12,61,363
+9376936,PoloTowers 1bedr  on the strip #3,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,214,2,12,2019-11-08,0.24,61,363
+9377006,PoloTowers 1bedr  on the strip #1,9464858,Barbara,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,214,2,13,2019-11-06,0.25,61,363
+9389073,Vdara's Biggest Penthouse!! 2+BR ★Jaw Drop Views!★,37897087,Ford,,Unincorporated Areas,36.10937,-115.17784,Entire home/apt,549,1,134,2020-10-01,2.28,9,355
+9407949,Quiet and Cozy condo. Near strip,48782812,Clare,,Unincorporated Areas,36.09588,-115.10104,Private room,30,1,204,2020-07-11,3.42,1,297
+9427996,Welcome to beautiful resort home!,33392186,Helen,,City of Henderson,36.03367,-115.07815,Entire home/apt,125,30,16,2020-07-12,0.27,10,297
+9447218,"1 bdr condo 4 ppl @ CancunResort LV, NO RESORT FEE",48956251,Sanny,,Unincorporated Areas,36.03902,-115.17237,Entire home/apt,153,2,12,2019-10-13,0.20,4,93
+9451664,Cleaning  & Sanitizing House Few min from strip,48977085,Victor,,Unincorporated Areas,36.13449,-115.10709,Entire home/apt,421,3,134,2020-09-28,2.80,1,351
+9493810,Desert Club Resort,49206251,Isai,,Unincorporated Areas,36.11886,-115.16294,Entire home/apt,200,4,1,2020-01-25,0.11,1,88
+9493892,Near Strip LUX 2 bd/2Ba Balcony Pool NO RESORT FEE,49206925,Rob,,Unincorporated Areas,36.11348,-115.19058,Entire home/apt,108,3,117,2020-03-12,2.00,1,90
+9530427,The Stay Place,49368806,John,,Unincorporated Areas,36.06012,-115.12678,Entire home/apt,104,2,114,2020-10-18,1.95,1,253
+9564096,BEST HIDDEN SUITE!,179604076,Ryan,,Unincorporated Areas,36.12435,-115.15436,Entire home/apt,57,31,24,2019-12-21,0.44,4,359
+9565862,THE ORCHID SUITE!,179604076,Ryan,,Unincorporated Areas,36.1247,-115.15537,Entire home/apt,59,31,60,2020-05-15,1.01,4,364
+9601079,Beautiful high rise/strip view,28119253,Stephanie,,Unincorporated Areas,36.04019,-115.17657,Private room,80,1,0,,,1,365
+9612021,"Room w.private bath, 10min to Strip for  2 guests",49279323,Asya,,Unincorporated Areas,36.09041,-115.23674,Private room,55,2,63,2020-09-08,1.08,1,364
+9634075,House close to Strip in a safe area,48641630,Haibing,,Unincorporated Areas,36.02365,-115.22221,Entire home/apt,105,3,114,2020-08-02,1.91,1,170
+9649826,1 bdr apartmen private community,46492149,Yuna,,Unincorporated Areas,36.09477,-115.21118,Entire home/apt,65,2,40,2019-09-26,0.67,1,235
+9664608,1bdm-Sleeps4 Polo Towers Suites,19139775,Lorie,,Unincorporated Areas,36.10696,-115.17118,Entire home/apt,286,2,1,2016-01-08,0.02,14,365
+9681684,"MGM Sig. PENTHOUSE w/ Balc. Tower 1, NO RESORT FEE",30730635,Danielle,,Unincorporated Areas,36.10627,-115.16676,Entire home/apt,118,2,330,2020-10-09,5.55,6,22
+9681741,Luxury home minutes to strip!,1148770,Gordon,,Unincorporated Areas,36.08894,-115.22508,Entire home/apt,325,2,12,2019-11-09,0.23,2,175
+9693384,"Clean PENTHOUSE/Pool,Free Parking,no resort fee",47852810,Ellen,,Unincorporated Areas,36.10683,-115.16684,Entire home/apt,121,1,44,2020-10-01,2.58,4,203
+9700093,30th Floor Luxury High Rise Studio,50091428,Kynesha,,Unincorporated Areas,36.11359,-115.19775,Entire home/apt,99,1,299,2020-10-09,5.10,1,0
+9712275,Elara Hilton PH- 2 BR Suite,35235451,Tania,,Unincorporated Areas,36.11734,-115.17636,Entire home/apt,450,4,3,2020-01-12,0.05,1,117
+9738787,Awesome pad for Awesome and Fun people.,37365692,Brad,,Unincorporated Areas,36.10821,-115.23806,Private room,154,3,75,2020-06-01,1.42,1,82
+9755691,"MGM Signature Luxury Suite Strip$89, No Resort Fee",48171296,LuckyStar,,Unincorporated Areas,36.10722,-115.16757,Entire home/apt,113,1,287,2020-09-28,4.89,4,352
+9757830,❤️ Beautiful High Rise Condo - 307 no resort fees,303941328,Valerie,,Unincorporated Areas,36.11422,-115.19478,Private room,98,1,242,2020-10-19,4.13,12,156
+9770646,MGMSignature BalconyPenthouse Strip$76 NoResortFee,48171296,LuckyStar,,Unincorporated Areas,36.1085,-115.16746,Entire home/apt,113,1,260,2020-10-01,4.37,4,322
+9789485,BD2/10MintstoStrip,10197306,Maria,,Unincorporated Areas,36.11111,-115.11627,Private room,43,2,68,2020-03-09,1.16,1,21
+9807602,Wyndham Grand Desert - 1 bdrm,30787515,Brooke,,Unincorporated Areas,36.10736,-115.16034,Entire home/apt,164,2,11,2020-02-23,0.19,119,23
+9842462,Knoten Hill!,29763945,Qiana,,City of Las Vegas,36.17621,-115.23605,Entire home/apt,98,31,139,2020-08-01,2.42,2,140
+9862496,Signature at MGM - Amazing Strip Views!,50760426,Mark,,Unincorporated Areas,36.10744,-115.16663,Entire home/apt,86,1,47,2020-10-23,0.80,3,0
+9923946,Super Private Vegas Oasis! Close to the Strip!0:),45917790,Ray,,City of Las Vegas,36.15092,-115.24816,Entire home/apt,485,3,168,2020-09-14,2.88,3,53
+9944915,** Stunning High Rise Condo -305  **,303941328,Valerie,,Unincorporated Areas,36.11797,-115.19455,Private room,101,1,213,2020-10-12,3.62,12,168
+9980951,Cozy Vegas Retreat next to STRIP,32283613,Brody,,Unincorporated Areas,36.11379,-115.16409,Private room,75,30,86,2020-02-17,1.47,1,0
+9990943,LUXURY Palms Place VEGAS STRIPVIEW Condo Kitchen B,5775724,Cassandra And Bryan,,Unincorporated Areas,36.11436,-115.19657,Entire home/apt,105,1,363,2020-10-18,6.18,20,232
+10018966,♡♡♡3BDR/2BA.♡off STRIP♡a mile to BELLAGIO♡POOL+TUB,47837101,Vladimir,,Unincorporated Areas,36.11367,-115.18816,Entire home/apt,143,1,202,2020-09-27,3.46,4,344
+10047352,Deluxe Studio Bachelor Pad + Corvette!!!,51570447,Daniel,,City of Las Vegas,36.14358,-115.20097,Entire home/apt,160,30,0,,,1,365
+10052068,QI9 Studio | Balcony | Pool | View,18273973,Alex,,Unincorporated Areas,36.11436,-115.19657,Entire home/apt,96,2,251,2020-10-20,4.27,86,130
+10076633,Private Master + FREE SHOW TIX,51705008,Greg,,Unincorporated Areas,36.0193,-115.27405,Private room,57,1,0,,,1,365
+10085282,"2+2 by Venetian, Lux  Strip,  fireplace spa",24557248,Robb,,Unincorporated Areas,36.11803,-115.16316,Entire home/apt,399,3,10,2020-01-09,0.17,16,4
+10096705,2Bdm Comfort & Style Next to Strip. No Resort Fee!,51813034,Sandra,,Unincorporated Areas,36.11062,-115.18805,Entire home/apt,121,3,126,2020-10-13,2.15,3,89
+10103078,"Resort, LV Blvd, spa, gym, 5 star+ Grandview",24557248,Robb,,Unincorporated Areas,36.009,-115.17572,Entire home/apt,132,5,5,2019-05-20,0.09,16,21
+10115603,New Years On The Strip! - Available Dec 27 - Jan 3,6014863,Alberto,,Unincorporated Areas,36.10935,-115.16979,Entire home/apt,220,5,3,2019-01-02,0.06,1,208
+10122627,Secluded Oasis Just off the Strip,5850105,Kolapo,,Unincorporated Areas,36.09761,-115.16709,Entire home/apt,166,2,9,2020-03-15,0.15,2,90
+10124333,"Las Vegas 2BR (6) condo, walk to strip",51948995,Rudolf,,Unincorporated Areas,36.11832,-115.16278,Entire home/apt,275,4,10,2020-01-09,0.17,2,263
+10124780,Center Strip...1 br Condo 1 block to Linq,51948995,Rudolf,,Unincorporated Areas,36.11712,-115.1644,Entire home/apt,174,4,11,2020-01-02,0.19,2,263
+10134667,"Free Parking, No Resort Fees! Wyndham Grand Desert",21697380,Jaclyn,,Unincorporated Areas,36.10921,-115.16255,Entire home/apt,143,3,10,2020-01-10,0.26,1,0
+10137144,Private Cozy Room with own entrance and pool .,52023718,Maria And Eddy,,Unincorporated Areas,36.09643,-115.08996,Private room,48,2,355,2020-10-18,6.02,1,342
+10142443,Stunning 2 BR 2 BTH Condo 3 Min Drive to Strip,45012110,Peter,,Unincorporated Areas,36.11228,-115.18603,Entire home/apt,100,3,131,2020-10-19,2.26,1,89
+10142779,1Br Wyndham Grand Desert Resort f3,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,156,3,9,2020-01-01,0.15,44,59
+10157862,Executive Summerlin Residence,52138454,Barbara,,City of Las Vegas,36.19187,-115.3267,Entire home/apt,100,26,3,2020-09-01,0.23,1,172
+10182906,1Br Wyndham Grand Desert Resort b2,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,153,2,11,2020-09-06,0.19,44,59
+10195082,☀2Br☀ Wyndham Grand Desert Resort DD2-IB,2995822,Kathy D,,Unincorporated Areas,36.10673,-115.16078,Private room,176,2,14,2020-09-07,0.24,44,0
+10195166,1Br Wyndham Grand Desert Resort a2,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,153,2,17,2020-02-16,0.29,44,59
+10195267,☀2Br☀ Wyndham Grand Desert Resort AA2-IB,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,178,2,44,2020-10-04,0.95,44,4
+10196501,Spectacular View  Lake Las Vegas,25603907,Elton,,City of Henderson,36.10517,-114.93196,Entire home/apt,82,2,223,2020-10-08,3.81,2,307
+10207119,Las Vegas Bl ~ Off the Strip,12568111,Antoinette,,Unincorporated Areas,36.03297,-115.17386,Entire home/apt,407,1,4,2019-01-12,0.07,37,365
+10208181,Close to LV Strip!,12568111,Antoinette,,Unincorporated Areas,36.11153,-115.12911,Entire home/apt,306,1,3,2020-01-09,0.25,37,365
+10213063,Club De Soleil Resort,23821333,Les,,Unincorporated Areas,36.10017,-115.21824,Entire home/apt,132,5,1,2018-01-12,0.03,2,73
+10228355,"House with Pool/ Hot Tub,  1 Queen or 2 Twin beds.",40451432,Dee,,Unincorporated Areas,35.9822,-115.16466,Private room,49,1,97,2020-05-05,1.66,4,3
+10231706,"MGM True 1 BR, 27th Floor STRIP VIEW 950 sqft",20294,Lee,,Unincorporated Areas,36.10782,-115.16684,Entire home/apt,78,1,224,2020-08-26,3.84,4,184
+10237778,"888 # 2, MGM Signature One Bedroom Balcony Suite.",12018637,888,,Unincorporated Areas,36.10818,-115.16666,Hotel room,135,1,7,2016-06-21,0.12,255,66
+10246077,☀2Br☀ Wyndham Grand Desert Resort CC2-IB,2995822,Kathy D,,Unincorporated Areas,36.1079,-115.16135,Entire home/apt,178,2,24,2020-10-05,0.41,44,0
+10248229,HUGE 3 BR DLX** NEAR STRIP **FANTASTIC LOCATION+,31870579,Kathy,,Unincorporated Areas,36.10854,-115.15993,Entire home/apt,278,2,26,2019-02-17,0.46,11,340
+10251462,Sin City 1 Bedroom Condo with Pools & Hot Tubs,43782388,ResortShare2,,Unincorporated Areas,36.10756,-115.16133,Entire home/apt,99,2,21,2019-01-28,0.38,32,353
+10251864,2 Bedroom near Golfing | Restaurants | Shopping,43782388,ResortShare2,,Unincorporated Areas,36.10751,-115.16135,Entire home/apt,232,2,135,2020-09-01,2.32,32,339
+10251998,3 Bedroom near Golfing | Restaurants | Shopping,43782388,ResortShare2,,Unincorporated Areas,36.10748,-115.16142,Entire home/apt,317,2,80,2020-02-24,1.43,32,324
+10255309,1 bedroom at Grandview Resort,23531509,Larissa,,Unincorporated Areas,36.00798,-115.1769,Entire home/apt,172,4,1,2017-06-18,0.02,12,177
+10268042,1 Bedroom Unit Right on The Strip,2459201,Daniel,,Unincorporated Areas,36.10558,-115.17071,Entire home/apt,357,2,2,2018-01-10,0.03,3,364
+10271403,Secluded Oasis Near Strip 2 Bedroom,5850105,Kolapo,,Unincorporated Areas,36.09711,-115.16724,Private room,229,2,5,2020-01-10,0.13,2,90
+10279672,DPX Castle Rental Home. Gated NEW.,33829826,Dov,,City of North Las Vegas,36.26276,-115.10852,Entire home/apt,828,2,18,2019-07-28,0.34,9,355
+10280001,2bd Las Vegas Strip Condo #A,1314138,Paul,,Unincorporated Areas,36.10578,-115.16984,Entire home/apt,499,3,6,2019-05-19,0.13,3,345
+10318359,"Relaxing 2br, 1.5 blocks to Strip",22267033,Jennifer,,Unincorporated Areas,36.09855,-115.16712,Entire home/apt,342,2,13,2020-01-09,0.22,11,365
+10318576,"Relaxing, 1.5 Blocks from Strip *10",22267033,Jennifer,,Unincorporated Areas,36.09761,-115.16713,Entire home/apt,220,2,2,2020-03-13,0.04,11,365
+10320479,8N Studio close to UNLV and Hard Rock,326906810,Maria,,Unincorporated Areas,36.10622,-115.14903,Entire home/apt,62,3,87,2020-03-31,1.50,8,86
+10356272,E Silverado Ranch,48248206,Hayley,,Unincorporated Areas,36.01181,-115.15172,Entire home/apt,102,31,4,2017-08-31,0.08,40,52
+10364131,Relaxing 1.5 blocks to strip (11),22267033,Jennifer,,Unincorporated Areas,36.09771,-115.16725,Entire home/apt,228,2,7,2020-01-01,0.14,11,365
+10366162,MUST SEE! Perfect Condo In Las Vegas,53353126,Mike,,Unincorporated Areas,36.10762,-115.30909,Entire home/apt,99,30,25,2018-05-15,0.43,1,359
+10369522,WYNDHAM Tropicana Ave 1,12568111,Antoinette,,Unincorporated Areas,36.10061,-115.2138,Entire home/apt,307,1,3,2018-05-22,0.05,37,365
+10369752,Tropicana Ave 2,12568111,Antoinette,,Unincorporated Areas,36.10021,-115.21408,Entire home/apt,354,1,1,2018-01-14,0.03,37,365
+10383185,Nevada-Las Vegas-Tropicana Resort 1 Bdrm Condo #2,602654,Rey,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,196,3,7,2019-01-11,0.12,10,96
+10384356,Cozy Casita for Two!,53355078,Ron,,Unincorporated Areas,35.97392,-115.18724,Entire home/apt,100,2,109,2020-07-05,1.89,1,363
+10394048,Tahiti Village Vegas Resort,53516068,Labdhi,,Unincorporated Areas,36.06101,-115.17166,Entire home/apt,132,4,3,2018-01-02,0.05,1,363
+10424341,Wyndham Grand Desert- 3 bdrm condo,30787515,Brooke,,Unincorporated Areas,36.10956,-115.1714,Entire home/apt,270,2,15,2020-01-12,0.26,119,22
+10426936,"888 # 3, MGM, 2 Bedroom 3 Bath Balcony Suite.",12018637,888,,Unincorporated Areas,36.10851,-115.16518,Hotel room,493,1,9,2017-11-25,0.16,255,66
+10432070,420/Dog friendly (Rm2),41387945,Tony,,City of Las Vegas,36.18793,-115.2529,Private room,35,2,68,2020-09-29,1.28,1,72
+10435453,1 Bedroom ★ Pools | Hot Tubs | Free Shuttle,43782388,ResortShare2,,Unincorporated Areas,36.10766,-115.16151,Entire home/apt,87,2,55,2020-01-23,0.97,32,346
+10451991,"LasVegas2,beautiful 2bdrm resort condo",3275373,Leanne,,Unincorporated Areas,36.03779,-115.17271,Entire home/apt,350,1,1,2019-11-10,0.09,9,365
+10454842,TallCeilings-SunnyWindows Upgraded Home w/Spa,53821687,Oscar,,Unincorporated Areas,36.04523,-115.14455,Entire home/apt,247,1,82,2020-09-28,1.53,4,331
+10455222,Sunny Vegas Nook,14654782,George,,Unincorporated Areas,36.08932,-115.11573,Entire home/apt,137,1,93,2020-10-05,3.32,2,339
+10549482,Two Bdrm Lazy River Rendezvous,5634859,Sally,,Unincorporated Areas,36.03446,-115.17432,Entire home/apt,293,1,0,,,2,217
+10585762,A003 - NO RSRT FEE | 5 HOT TUBS | POOL | FREE WIFI,11256923,One Homes,,Unincorporated Areas,36.11872,-115.16223,Entire home/apt,245,2,45,2020-07-19,0.79,30,357
+10586653,Las Vegas| Convention Center- FOR 6,11256923,One Homes,,Unincorporated Areas,36.14076,-115.15306,Entire home/apt,199,2,0,,,30,348
+10599151,Vegas Sizzle and Family-Friendly,7558719,Cynthia,,Unincorporated Areas,36.10733,-115.16049,Entire home/apt,166,2,44,2020-02-10,0.79,2,325
+10637653,Quiet place to rest after having fun in Vegas,54921947,Renato,,City of Las Vegas,36.23028,-115.24244,Private room,33,1,8,2020-09-29,0.69,4,359
+10660070,"Comfort done with style,  $1799 per month",50588226,Alicia,,Unincorporated Areas,36.12341,-115.07002,Entire home/apt,59,30,11,2020-07-06,0.32,1,91
+10676244,3bd/2.5ba Vegas Oasis,55147574,Steve,,City of Las Vegas,36.20934,-115.23418,Entire home/apt,99,31,12,2019-06-23,0.22,1,210
+10725151,Wyndham Grand Desert Resort * 1BR,23366133,Rob & Julia,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,207,2,3,2018-05-22,0.06,7,365
+10732657,Downtown 2 Bdrm. Apt. Walk & Bike Everywhere,2350302,Kristiana,,City of Las Vegas,36.16182,-115.13303,Entire home/apt,55,31,14,2020-09-12,0.27,4,271
+10752838,Tropical Estate&Guest Apt Hockey tickets available,55598068,Jack,,Unincorporated Areas,36.08022,-115.22195,Entire home/apt,649,3,63,2020-10-12,1.13,1,237
+10852792,Red Rock Retreat | Las Vegas,3111913,Mike + Doris,,Unincorporated Areas,36.10263,-115.22616,Entire home/apt,95,5,73,2020-10-11,1.28,7,157
+10864059,NO RESORT FEE★ Strip View Suite ★FREE VALET,18881478,Joe,,Unincorporated Areas,36.10711,-115.16629,Entire home/apt,107,1,258,2020-10-21,4.55,13,333
+10881175,3BR/2BA - Just Off The Strip!!,26521212,Laura,,Unincorporated Areas,36.10716,-115.16268,Entire home/apt,263,3,4,2020-10-12,0.07,11,39
+10882979,3 BR home w/ pool 10 Min from Strip,835423,Trevor,,Unincorporated Areas,36.04463,-115.1372,Entire home/apt,181,2,138,2020-09-28,2.46,1,208
+10889960,Palmarosa's Private Master Suite w/Private Entry,56432853,John,,Unincorporated Areas,36.15232,-115.21887,Private room,84,1,49,2020-10-12,1.06,1,89
+10902488,2 Bedroom near Golfing | Shopping | Restaurants,43782388,ResortShare2,,Unincorporated Areas,36.10757,-115.16105,Private room,185,2,5,2019-05-20,0.09,32,347
+10922617,North Vegas Estates,56616562,Ira,,City of North Las Vegas,36.27381,-115.07979,Entire home/apt,230,7,52,2020-07-05,0.98,1,335
+10926283,Palms ROOM 3 miles to The Strip,40342322,Andy,,Unincorporated Areas,36.12526,-115.20745,Private room,30,29,219,2020-06-03,3.83,3,89
+10927074,VIP 🤩 House + Pool Table 🎱 + Sparkling Clean!,56644563,Tina,,Unincorporated Areas,36.08978,-115.22376,Entire home/apt,326,4,164,2020-10-09,2.87,3,102
+10949512,Beautiful 4 bedroom Home By Summerlin with Pool,5421592,James,,City of Las Vegas,36.16603,-115.28069,Entire home/apt,612,2,92,2020-09-27,1.63,4,365
+10958816,Downtown 1 Bdrm Apt. Just For You!,2350302,Kristiana,,City of Las Vegas,36.16178,-115.13285,Entire home/apt,44,31,10,2019-08-11,0.19,4,266
+10962958,Luxurious studio in Palms Place-22F,55750757,Carol,,Unincorporated Areas,36.11468,-115.19703,Entire home/apt,95,2,174,2020-09-23,3.05,2,69
+10969460,Lisa&Nadia's Sunny Getaway Paradise,15127636,Elisa,,Unincorporated Areas,36.15145,-115.06093,Entire home/apt,106,1,124,2020-10-23,2.23,1,215
+10995742,Villa Vegas,57053286,Carla,,Unincorporated Areas,36.07852,-115.27774,Entire home/apt,225,30,7,2017-03-19,0.13,1,299
+10995773,3Br Wyndham Grand Desert Resort b2,2995822,Kathy D,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,262,2,8,2020-09-19,0.15,44,0
+11012622,LUXURY RESORT ✦ 1 Bedroom Suite ✦ Multiple Pools,43782388,ResortShare2,,Unincorporated Areas,36.10757,-115.16105,Private room,87,2,53,2020-10-05,0.94,32,337
+11013290,Las Vegas 1 Bedroom ★ Free Shuttle to Strip,43782388,ResortShare2,,Unincorporated Areas,36.10757,-115.16105,Private room,99,2,14,2019-05-20,0.25,32,353
+11013600,Condo close to LV Strip | Free Shuttle,43782388,ResortShare2,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,245,2,112,2020-08-30,2.00,32,345
+11015101,Near Golfing | Hoover Dam | Shuttle to LV Strip,43782388,ResortShare2,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,185,2,8,2019-04-12,0.17,32,349
+11015591,3 Bedroom ★ Pools | Hot Tubs | Free Shuttle,43782388,ResortShare2,,Unincorporated Areas,36.10757,-115.16105,Entire home/apt,312,2,109,2020-08-23,2.00,32,319
+11038798,Artistic and Cannabis Friendly Room (420 in 3D),11825008,Ian,,Unincorporated Areas,36.05021,-115.22998,Private room,89,1,99,2020-10-18,1.85,3,89
+11057448,A Long Term New Beautiful Furnished House !/懂中文,15936792,Natty,,Unincorporated Areas,36.02675,-115.16336,Entire home/apt,264,60,26,2018-07-20,0.45,1,365
+11077692,"2 bedrooms, Near Summerlin, 15 min to LV Strip",5421592,James,,City of Las Vegas,36.16624,-115.27558,Entire home/apt,104,21,21,2020-07-31,0.39,4,248
+11105479,"NO RESORT FEE, 5-Star, Free Parking, Walk to Strip",9517585,Paul,,Unincorporated Areas,36.12956,-115.17262,Entire home/apt,169,2,119,2020-03-17,2.08,2,360
+11118944,"Las Vegas, NV, Blvd, Studio #1",10981379,Jan,,Unincorporated Areas,36.03362,-115.17305,Entire home/apt,141,2,1,2018-01-11,0.03,71,76
+11119106,"Las Vegas, NV, Blvd, Studio SN #1",10981379,Jan,,Unincorporated Areas,36.03362,-115.17305,Entire home/apt,141,2,0,,,71,63
+11119241,"Las Vegas, NV, Blvd, 1 Bedroom #1",10981379,Jan,,Unincorporated Areas,36.03362,-115.17305,Entire home/apt,165,2,1,2017-01-06,0.02,71,83
+11119349,"Las Vegas, NV, Blvd, 1 Bedroom #2",10981379,Jan,,Unincorporated Areas,36.03362,-115.17305,Entire home/apt,165,2,0,,,71,83
+11124639,"Las Vegas, NV, Blvd, 2 Bedroom Queen #1",10981379,Jan,,Unincorporated Areas,36.03362,-115.17305,Entire home/apt,200,2,8,2019-11-08,0.16,71,74
+11124703,"Las Vegas, NV, Blvd, 2 Bedroom Q #2",10981379,Jan,,Unincorporated Areas,36.03362,-115.17305,Entire home/apt,200,2,1,2018-05-21,0.03,71,68
+11124766,"Las Vegas, NV, Blvd, 3 Bedroom #1",10981379,Jan,,Unincorporated Areas,36.03362,-115.17305,Entire home/apt,249,2,3,2020-08-04,0.09,71,46
+11124813,"Las Vegas, NV, Blvd, 3 Bedroom SN #1",10981379,Jan,,Unincorporated Areas,36.03362,-115.17305,Entire home/apt,249,2,2,2020-07-26,0.08,71,28
+11124875,"Las Vegas, NV, Tropicana, 1 Bedroom #1",10981379,Jan,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,186,2,0,,,71,86
+11124942,"Las Vegas, NV, Tropicana, 1 Bedroom SN #1",10981379,Jan,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,186,2,1,2018-01-10,0.03,71,83
+11124994,"Las Vegas, NV, Tropicana, 2 Bedroom Queen #1",10981379,Jan,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,220,2,0,,,71,72
+11125096,"Las Vegas, NV, Tropicana, 2 Bedroom SN #1",10981379,Jan,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,220,2,1,2018-05-21,0.03,71,63
+11146612,STRIP VIEW • SIGNATURE @MGM BALCONY Suite • ADA,34968706,Alex,,Unincorporated Areas,36.10601,-115.16678,Entire home/apt,100,1,167,2020-10-04,2.99,6,66
+11152190,"Modern Loft near Strip, upgrades!!!",3751238,Jason,,Unincorporated Areas,36.10298,-115.13282,Entire home/apt,72,3,117,2020-10-13,2.14,1,17
+11188822,Vintage Dream House - brand new resort size pool,76408,Wendy,,Unincorporated Areas,36.12782,-115.12592,Entire home/apt,350,31,1,2017-05-06,0.02,1,365
+11238970,Grandview at Las Vegas Condo Resort Sleeps 4!,47475013,Hamilton,,Unincorporated Areas,36.009,-115.17572,Entire home/apt,149,7,0,,,2,365
+11242739,*Close to the Strip! 3 miles to LV Blvd on Russell,48080639,Edward,,Unincorporated Areas,36.08643,-115.22013,Private room,38,1,334,2020-09-05,6.05,9,0
+11258184,all bills paid,58754395,Latashia,,Unincorporated Areas,36.19789,-115.04549,Private room,150,1,0,,,1,365
+11261415,CLOSE TO LV STRIP! 5BEDROOMS [2MASTER SUITES] POOL,32002538,LV-Concierge,,Unincorporated Areas,36.03102,-115.24034,Entire home/apt,550,30,52,2020-09-09,0.92,6,269
+11274571,"Beautiful, Cozy Home, Game Room, Pool/Spa",3474397,Only Vacation Rentals,,City of Las Vegas,36.21781,-115.294,Entire home/apt,256,3,71,2020-10-01,1.28,14,322
+11279642,Vegas Condo- 1 Block from the strip,58910551,Lauren,,Unincorporated Areas,36.10628,-115.1691,Entire home/apt,400,3,7,2019-09-29,0.14,1,365
+11316069,Modern ELARA BY HILTON  1 bdrm KING grand suite,37472754,Sandy,,Unincorporated Areas,36.10878,-115.17072,Entire home/apt,233,3,6,2020-03-13,0.11,1,294
+11325898,Large Vacation home close to the Las Vegas Strip!,59242129,Brandon,,Unincorporated Areas,36.03645,-115.20495,Entire home/apt,279,2,150,2020-10-19,2.66,1,145
+11326793,Perfect get away 4Br/ 2 Bth,59264228,Carmen,,City of North Las Vegas,36.22605,-115.20548,Entire home/apt,150,3,85,2020-09-28,1.57,1,342
+11332947,Modern and cozy house,50708692,Boriana,,Unincorporated Areas,35.99687,-115.19944,Entire home/apt,129,30,3,2020-05-10,0.05,2,178
+11342652,LUXURY Panoramic 4 Beds/2 baths w/STRIP Views!,27076409,Tom,,Unincorporated Areas,36.12886,-115.1414,Entire home/apt,71,1,166,2020-10-05,2.97,1,232
+11344831,3 minutes to LV Strip 2 miles to Convention Center,5421592,James,,City of Las Vegas,36.14728,-115.17143,Entire home/apt,495,3,85,2020-01-01,1.52,4,89
+11345613,best condo complex in town!,59405209,Peggy,,Unincorporated Areas,35.12901,-114.6287,Entire home/apt,93,30,42,2020-09-07,0.74,1,365
+11379037,☀3Br☀ Wyndham Grand Desert Resort AA2-IB,2995822,Kathy D,,Unincorporated Areas,36.10712,-115.16109,Entire home/apt,255,2,15,2020-09-13,0.28,44,1
+11379627,LV Boulevard - 2BR,58385754,Kivaan,,Unincorporated Areas,36.03362,-115.17305,Entire home/apt,178,2,3,2019-10-04,0.09,5,365
+11379796,Las Vegas Spencer Street,58385754,Kivaan,,Unincorporated Areas,36.11259,-115.12883,Entire home/apt,157,2,2,2019-01-25,0.05,5,365
+11379867,Las Vegas Tropicana Avenue,58385754,Kivaan,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,187,2,2,2020-01-09,0.11,5,365
+11434300,Holiday Inn close to Sand Expo,23531509,Larissa,,Unincorporated Areas,36.11897,-115.16294,Entire home/apt,172,4,2,2019-01-11,0.06,12,361
+11448216,Friendly host,60186407,Rafael,,Unincorporated Areas,36.09648,-115.0736,Private room,49,1,17,2019-10-20,0.43,2,365
+11453579,Holiday Inn Club at Desert Resort,2207130,Guy & Larissa,,Unincorporated Areas,36.11717,-115.16411,Entire home/apt,175,3,2,2019-01-11,0.06,10,358
+11457043,"888 # 1, MGM, 2 Bedroom 3 Bath Balcony Suite.",12018637,888,,Unincorporated Areas,36.10852,-115.16561,Hotel room,493,1,12,2018-09-17,0.21,255,66
+11499985,PC32 Strip View | Spa | Open Balcony | Kitchen,18273973,Alex,,Unincorporated Areas,36.1154,-115.1967,Entire home/apt,99,2,197,2020-10-21,3.49,86,93
+11528565,Las Vegas Condo 3 near Strip. Minimum 30 nights.,60795328,Tj,,Unincorporated Areas,36.11168,-115.22013,Entire home/apt,70,30,19,2020-08-04,0.35,4,345
+11535165,Studio unit on the Las Vegas Strip!,60852347,C,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,236,2,39,2020-01-10,0.71,11,365
+11535438,1 bedroom on the Vegas Strip!,60852347,C,,Unincorporated Areas,36.10659,-115.17095,Hotel room,354,2,45,2019-11-08,0.80,11,365
+11535664,19N Rebel Studio near Hard Rock Casino,326906810,Maria,,Unincorporated Areas,36.10658,-115.14729,Entire home/apt,62,3,63,2020-10-10,1.17,8,78
+11552478,"Unique 2bd. Rental, Near Everything",3842205,Nicolo,,Unincorporated Areas,36.12526,-115.14978,Entire home/apt,75,31,20,2019-08-27,0.38,2,177
+11652931,20  MINUTES FROM  STRIP LAS VEGAS,47859599,Rubén,,Unincorporated Areas,36.10071,-115.02944,Private room,83,80,0,,,5,365
+11652969,"20 MINUTES FROM THE STRIP - E-SUITE &, Wifi  TV",47859599,Rubén,,Unincorporated Areas,36.0994,-115.02881,Private room,91,1,125,2020-02-17,2.25,5,365
+11653761,MGM Signature 2BR 2BA Penthouse Right On the Strip,56419800,Cindy,,Unincorporated Areas,36.10685,-115.17168,Entire home/apt,384,3,98,2020-10-04,1.79,9,342
+11679606,* Stunning Strip View 24th floor *,62038359,Gil,,Unincorporated Areas,36.11382,-115.1977,Entire home/apt,105,1,197,2020-10-21,3.52,1,261
+11723130,"Home with pool, 6 miles from Strip2",62345545,Natasha,,Unincorporated Areas,36.14463,-115.06196,Private room,33,31,11,2018-07-22,0.21,1,217
+11723870,"Relaxing oasis, just minutes from the Strip",26444483,Tomiko And Peter,,Unincorporated Areas,36.01641,-115.14359,Private room,40,1,231,2020-03-14,4.38,6,171
+11723918,Private room & bath close to Stadium and Strip,26444483,Tomiko And Peter,,Unincorporated Areas,36.01815,-115.14401,Private room,44,1,299,2020-03-12,5.60,6,168
+11772550,Two Bedroom Apt. Near the Strip # 2,62670203,Jose,,Unincorporated Areas,36.11696,-115.1522,Entire home/apt,84,2,130,2020-05-29,2.32,3,48
+11874765,2 bedroom lock-off on the Las Vegas Strip,60852347,C,,Unincorporated Areas,36.10659,-115.17095,Hotel room,418,2,79,2020-03-15,1.44,11,365
+11884613,Amazing Summerlin Condo,20244977,Rami,,City of Las Vegas,36.187,-115.26857,Entire home/apt,72,2,233,2020-10-04,4.23,5,101
+11924834,"Spencer Street, Las Vegas NV, 2 Bedroom #1",10981379,Jan,,Unincorporated Areas,36.11259,-115.12883,Entire home/apt,210,2,4,2018-07-11,0.09,71,83
+11925190,"Spencer Street, Las Vegas NV, 2 Bedroom #2",10981379,Jan,,Unincorporated Areas,36.11259,-115.12883,Entire home/apt,210,2,1,2018-05-18,0.03,71,83
+11941717,Tiny House near Las Vegas / Hummingbird,39186001,Rob,,Unincorporated Areas,35.78829,-115.61988,Entire home/apt,100,1,393,2020-10-17,7.04,2,331
+11967076,The Creative Oasis  @6th&FRANKLIN,29421486,Janelle / Joey,,City of Las Vegas,36.15396,-115.14619,Entire home/apt,585,2,74,2020-10-05,1.35,1,360
+11967374,Flamingo Chateau - 215W & Flamingo,63925791,Mia,,Unincorporated Areas,36.10744,-115.31048,Entire home/apt,54,90,3,2018-04-21,0.06,1,327
+11981837,"888 # 2, MGM, 2 Bedroom 3 Bath Balcony Suite.",12018637,888,,Unincorporated Areas,36.10758,-115.16689,Hotel room,493,1,11,2018-03-19,0.20,255,66
+11988043,Laguna Palms!Fully Furnished 2b/2b!,33392186,Helen,,Unincorporated Areas,36.11372,-115.10652,Entire home/apt,67,30,10,2019-09-30,0.18,10,319
+12001600,Nevada mesquite vacation rentals,64176612,Tim,,City of Mesquite,36.80227,-114.09107,Entire home/apt,117,3,15,2020-06-28,0.32,2,349
+12013769,1bdrm 10 minute drive from the Vegas Strip,60852347,C,,Unincorporated Areas,36.03797,-115.17348,Hotel room,257,2,16,2019-04-21,0.32,11,365
+12016830,Private room in Charming 2-story House,9020768,Elaine,,Unincorporated Areas,35.99035,-115.21887,Private room,62,1,29,2020-03-01,0.54,1,365
+12024870,"luxury high rise,Strip view",20029932,Arthur,,Unincorporated Areas,36.11498,-115.1992,Entire home/apt,130,2,189,2020-10-09,3.41,7,343
+12041399,Clean and Quiet - Downtown with Private Yard,13125233,Molly & David,,City of Las Vegas,36.15076,-115.14797,Entire home/apt,208,2,99,2020-10-16,1.93,1,158
+12049597,HOME SUITES HOME,15967605,Ally/Jack,,Unincorporated Areas,36.04764,-115.15905,Entire home/apt,217,30,4,2019-03-31,0.09,8,358
+12054897,Large private room & bath w/comfy  king size bed,64560475,"Jesse, Nena And JB.",,City of North Las Vegas,36.25482,-115.19819,Private room,96,30,10,2020-03-27,0.22,8,84
+12057901,TWO BEDROOM APT NEAR THE STRIP # 4,62670203,Jose,,Unincorporated Areas,36.11701,-115.15111,Entire home/apt,86,2,131,2020-06-05,2.49,3,48
+12067984,Clean and not expensive place,64657375,Elena,,City of Henderson,36.05152,-115.08417,Private room,65,1,0,,,1,88
+12093830,Rent a ShiftPod2- Festival Friendly,38873551,Erin,,City of Las Vegas,36.17708,-115.19337,Entire home/apt,100,3,26,2017-03-27,0.47,1,365
+12095117,private room in summerlin,31938398,David,,City of Las Vegas,36.19104,-115.28026,Private room,150,4,0,,,1,365
+12110399,MGM Signature 2BR 3BA Penthouse Right On the Strip,56419800,Cindy,,Unincorporated Areas,36.10668,-115.17035,Entire home/apt,394,3,89,2020-10-09,1.68,9,315
+12115593,"5 Bed! Priv Pool/Spa,Sauna,WIFI",64835460,Austin,,City of Las Vegas,36.23346,-115.26045,Entire home/apt,286,31,14,2020-07-22,0.26,2,75
+12136681,"20 MINUTES FROM THE STRIP - W-SUITE &, Wifi, TV",47859599,Rubén,,Unincorporated Areas,36.10004,-115.03038,Private room,99,1,115,2020-02-16,2.09,5,365
+12147761,Palms Place - Good Vibes Suite - by Padzu,2945172,Padzu,,Unincorporated Areas,36.11382,-115.19758,Hotel room,113,2,95,2020-10-05,1.77,4,353
+12190829,"Wyndham Grand Desert, 1 BR Condo",65413047,Jay,,Unincorporated Areas,36.10621,-115.16069,Entire home/apt,180,7,0,,,1,363
+12191027,"Sex, Drugs & Rock N' Roll Suite",2945172,Padzu,,Unincorporated Areas,36.11538,-115.19775,Hotel room,115,2,109,2020-09-01,2.01,4,357
+12191103,MGM Signature - Excellent Strip Views!,50760426,Mark,,Unincorporated Areas,36.10744,-115.16661,Entire home/apt,86,1,61,2020-09-27,1.19,3,96
+12203249,1220 SF w/Strip View. Free Parking-No Resort Fee,32918882,Dee Dee,,Unincorporated Areas,36.11513,-115.19548,Entire home/apt,180,2,132,2020-10-18,2.49,1,150
+12235112,Plush condominium near Red Rock.,59334552,Joseph,,City of Las Vegas,36.18551,-115.26907,Entire home/apt,75,13,65,2019-09-30,1.18,3,273
+12271499,Lovely Apartment,21148015,Bell,,Unincorporated Areas,36.03212,-115.16942,Entire home/apt,88,3,64,2020-06-16,2.14,6,26
+12276583,20 MINUTES FROM THE  STRIP - EXECUTIVE SUITE& WiFi,47859599,Rubén,,Unincorporated Areas,36.09814,-115.02743,Private room,120,1,41,2020-01-09,0.74,5,365
+12293827,COZY HOUSE  with HEATED pool.,38982527,Vick,,Unincorporated Areas,36.11543,-115.07629,Entire home/apt,206,2,162,2020-10-15,2.99,3,151
+12342187,Bluegreen Club 36,23531509,Larissa,,Unincorporated Areas,36.10363,-115.15743,Entire home/apt,185,3,0,,,12,358
+12342998,2bdrm 10 minute drive from the Vegas Strip!,60852347,C,,Unincorporated Areas,36.03797,-115.17348,Entire home/apt,329,2,74,2020-08-13,1.37,11,269
+12343442,*1Bdrm On The Vegas Strip!,60852347,C,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,361,2,37,2020-01-10,0.70,11,365
+12400074,"Las Vegas, NV, Tropicana, 2 Bedroom Deluxe Twin #1",10981379,Jan,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,242,2,0,,,71,86
+12400298,"Las Vegas, NV, Tropicana, 2 Bedroom Dlx Queen #1",10981379,Jan,,Unincorporated Areas,36.0999,-115.21345,Entire home/apt,242,2,1,2018-05-22,0.03,71,71
+12428489,Melba's Manor-W/balcony-POOL-Breakfast incl,67227078,Mary,,Unincorporated Areas,36.1101,-115.23992,Private room,48,1,190,2020-06-21,3.80,2,112
+12449779,Wyndham Grand Desert Resort,62937395,Tara,,Unincorporated Areas,36.10809,-115.16015,Private room,179,3,1,2017-05-22,0.02,4,364
+12468051,Comfy Green Valley Home,67469859,Zina,,City of Henderson,36.01479,-115.0938,Private room,125,30,6,2018-03-18,0.11,1,89
+12469448,☀2Br☀ Wyndham Grand Desert Resort EE3-IB,2995822,Kathy D,,Unincorporated Areas,36.10648,-115.16062,Entire home/apt,176,3,26,2020-02-16,0.49,44,15
+12492637,In gated quiet neighborhood,45516465,Naomi,,City of Henderson,35.99414,-115.08899,Entire home/apt,199,30,10,2020-10-01,0.18,1,63
+12493784,LV Boulevard - 1BR,58385754,Kivaan,,Unincorporated Areas,36.03361,-115.17317,Entire home/apt,146,2,1,2018-01-10,0.03,5,365
+12493853,LV Boulevard - 3BR,58385754,Kivaan,,Unincorporated Areas,36.03361,-115.17317,Entire home/apt,190,2,0,,,5,365
+12496089,"Private Bathroom, Sanitized, Safe, Free Parking",38033746,Kelly,,Unincorporated Areas,36.11584,-115.30517,Private room,46,1,81,2020-09-17,1.79,1,0
+12497772,Mid-Century Modern in Chinatown,8618278,Caitlin And Ploi,,Unincorporated Areas,36.12506,-115.19865,Entire home/apt,124,2,103,2020-10-08,1.95,1,60
+12513023,A Very Stylish 1950's Bungalow,67080467,Kevin,,City of Las Vegas,36.1573,-115.16811,Private room,56,1,315,2020-10-15,5.84,1,296
+12516757,"Spacious 2,300 SF Home Easy Drive to Strip",67788359,Rick,,City of North Las Vegas,36.27537,-115.10643,Entire home/apt,178,2,88,2020-10-12,1.89,1,311
+12523172,Palms Place Luxury Studio STRIP VIEW,33594236,Han,,Unincorporated Areas,36.11421,-115.1988,Entire home/apt,114,2,178,2020-10-14,4.01,1,126
+12537590,"Spencer Street, Las Vegas NV, 1 Bedroom #1",10981379,Jan,,Unincorporated Areas,36.11259,-115.12883,Entire home/apt,170,2,3,2020-07-05,0.06,71,86
+12537763,"Spencer Street, Las Vegas NV, 1 Bedroom SN #1",10981379,Jan,,Unincorporated Areas,36.11259,-115.12883,Entire home/apt,170,2,0,,,71,68
+12585430,A001 - NO RSRT FEE | 5 HOT TUBS | POOL | FREE WIFI,11256923,One Homes,,Unincorporated Areas,36.1177,-115.16417,Entire home/apt,245,2,52,2020-08-03,1.00,30,358
+12589793,Wyndham Grand Desert- 1 bdrm * Resort,30787515,Brooke,,Unincorporated Areas,36.10627,-115.16077,Entire home/apt,198,2,12,2018-10-02,0.22,119,0
+12593883,"Private Entrance, Big Studio, Sanitized, Close In",68319431,Leslie,,Unincorporated Areas,36.20949,-115.22289,Entire home/apt,65,1,414,2020-10-18,7.64,2,72
+12630880,"Charming Vegas Escape! Pool, BBQ, Great Location!",2375037,Tina,,City of Las Vegas,36.17071,-115.17052,Entire home/apt,211,2,272,2020-10-01,5.18,1,59
+12681608,3BR Cozy and nice home close to Strip & Airport,6831024,Romida,,Unincorporated Areas,36.05674,-115.11631,Entire home/apt,150,31,46,2019-11-06,0.89,2,363
+12682659,Luxury 3BR Penthouse - Vegas Strip,64226294,Christopher,,Unincorporated Areas,36.12308,-115.17243,Entire home/apt,1321,2,2,2017-04-02,0.05,9,365
+12696410,NO RESORT FEE★ High Floor Strip View Suite ★FREE VALET,18881478,Joe,,Unincorporated Areas,36.10675,-115.16569,Entire home/apt,109,1,161,2020-10-11,2.96,13,321
+12729582,Houston Manor Guest room,34879698,Erwin,,City of Las Vegas,36.15613,-115.11975,Private room,45,30,4,2019-06-07,0.09,1,365
+12759244,SANITIZED 4 Bed Room Home w/Pool & Games for ALL!!,8630011,Rachel Ashley,,City of Las Vegas,36.18263,-115.19316,Entire home/apt,252,1,267,2020-10-16,6.31,1,240
+12759660,Super Nice Home by Strip....4 BEDS + Futon,69411264,Daniel,,City of Las Vegas,36.16744,-115.22327,Entire home/apt,149,1,290,2020-10-15,5.33,1,287
+12763212,"Newly updated! Huge house, pool & spa, licensed!",69435864,Terry,,City of Las Vegas,36.15513,-115.17577,Entire home/apt,502,2,82,2020-10-18,1.51,5,348
+12779313,Strip Modern Condo With Full Resort No Balcony,15082394,Manorshare,,Unincorporated Areas,36.10505,-115.16729,Entire home/apt,71,2,223,2020-09-17,4.12,3,351
+12782606,MGM Signature One Bedroom/Two Bath with Balcony!!,37064139,Luxury Hotels,,Unincorporated Areas,36.1066,-115.1658,Entire home/apt,135,2,85,2020-10-19,1.58,10,127
+12783456,1.9 Miles to the Las Vegas Strip!!,3475926,Joe,,City of Las Vegas,36.14315,-115.18575,Entire home/apt,205,1,262,2020-10-11,4.88,3,279
+12783896,"Great master room with private entry, cover parkin",60187230,Jose,,Unincorporated Areas,36.09622,-115.1452,Private room,80,2,2,2020-02-17,0.21,1,365
+12795528,3BR/3BA Presidential - Just Off Strip!,26521212,Laura,,Unincorporated Areas,36.12149,-115.18382,Entire home/apt,309,3,11,2020-01-10,0.22,11,18
+12814013,Amazing Mid-century Modern 3br with beautiful pool,16744867,Aaron,,Unincorporated Areas,36.12649,-115.13305,Entire home/apt,167,1,175,2020-10-14,3.29,1,26
+12854502,❤️ No resort fees condo - 3507  ❤️,303941328,Valerie,,Unincorporated Areas,36.11544,-115.19454,Private room,107,1,224,2020-10-12,4.15,12,152
+12855669,❤️ Palms Place NO RESORT FEE+ BALCONY  -3405,303941328,Valerie,,Unincorporated Areas,36.11936,-115.19624,Private room,122,1,167,2020-07-16,3.10,12,3
+12856008,❤️ High Rise Condo Hotel - 3319 ❤️,303941328,Valerie,,Unincorporated Areas,36.11567,-115.19683,Private room,97,1,165,2020-08-24,3.06,12,207
+12866904,⭐️ Stunning 1 Bedroom 33rd floor,303941328,Valerie,,Unincorporated Areas,36.11482,-115.19465,Private room,178,1,131,2020-10-23,2.44,12,194
+12867592,Gorgeous 2 Bedrooms 33rd floor,50321640,Ron,,Unincorporated Areas,36.11521,-115.19687,Private room,462,1,38,2020-10-11,0.71,6,167
+12874558,Cozy home in the SW part of Vegas,70426541,Suzanne,,Unincorporated Areas,36.05618,-115.29417,Private room,85,2,46,2020-07-30,0.86,1,150
+12889884,The Cliffs at the Peace Canyon,65153027,Marlene,,Unincorporated Areas,36.10724,-115.30682,Entire home/apt,130,7,1,2018-03-11,0.03,1,365
+12892272,Desert Waterfall Oasis Near the Vegas Strip for 6!,22511123,Mac,,Unincorporated Areas,36.09517,-115.20821,Entire home/apt,213,1,0,,,3,111
+12911975,Amazing Las Vegas Home,20244977,Rami,,City of Las Vegas,36.16452,-115.22131,Entire home/apt,278,2,193,2020-10-04,3.62,5,142
+12918687,2br Casita in Las Vegas,1606040,Vanessa,,City of Las Vegas,36.19064,-115.17463,Entire home/apt,200,31,7,2020-06-15,0.21,1,321
+12935872,Pool 🤩 SPA ☀️ BBQ 🔥 Amenities + Sparkling Clean!,56644563,Tina,,Unincorporated Areas,36.08868,-115.25822,Entire home/apt,400,4,123,2020-10-21,2.32,3,76
+12939392,FREE LIMO! Master Studio Suite | Plams Place,71073866,Tony & Beth,,Unincorporated Areas,36.11515,-115.19869,Entire home/apt,129,1,159,2020-09-28,2.96,7,160
+12976213,3 bedroom house 6 month lease,64656991,John And Don,,Unincorporated Areas,36.0187,-115.27864,Entire home/apt,89,30,4,2020-10-05,0.08,9,321
+12977497,Red Rock Home,64656991,John And Don,,Unincorporated Areas,36.01857,-115.27993,Entire home/apt,75,30,1,2020-05-01,0.17,9,268
+12980573,* Delightful 2 Bedroom Right off the Vegas Strip!,7558719,Cynthia,,Unincorporated Areas,36.10678,-115.16048,Entire home/apt,177,2,30,2020-10-19,0.61,2,330
+12987089,Huge New Home 5 min to the Strip /15 BEDS,63091667,Richard,,Unincorporated Areas,36.04851,-115.20779,Entire home/apt,926,3,13,2020-10-18,0.28,2,351
+12987701,The Jamaica Estate Only About 4 Miles To Strip,63091667,Richard,,City of Las Vegas,36.14796,-115.24965,Entire home/apt,889,3,20,2020-10-12,0.49,2,337
+12997035,2 BR 2 BA TownHome KITCHEN LAUNDRY PARKING PETS OK,28081475,Nina,,City of Henderson,36.05729,-115.08505,Entire home/apt,100,20,4,2016-11-27,0.07,1,365
+12999114,Renovated  courtyard side apt!!,56197597,Steven,,City of Las Vegas,36.16059,-115.12355,Entire home/apt,49,30,133,2020-09-30,2.46,2,334
+12999252,LV Waterfalls n Waterslides for 6 !,22511123,Mac,,Unincorporated Areas,36.03848,-115.17262,Entire home/apt,228,1,1,2016-05-23,0.02,3,111
+13023821,Wyndham Grand Desert  ツ 1 Bedroom,60085031,Vacation Generation,,Unincorporated Areas,36.10653,-115.16147,Entire home/apt,84,3,23,2020-03-14,0.43,7,55
+13041913,Scandinavian Style Downtown 1Bdrm,2350302,Kristiana,,City of Las Vegas,36.16213,-115.13312,Entire home/apt,49,31,17,2020-08-18,0.33,4,235
+13043687,PARADISE GOLF VILLA!,24382179,Sean,,Unincorporated Areas,36.12602,-115.12083,Entire home/apt,349,5,81,2020-10-20,1.53,2,82
+13060414,Gated Luxury Condo,48248206,Hayley,,Unincorporated Areas,36.10693,-115.31248,Entire home/apt,112,60,0,,,40,89
+13095042,High Floor-Open Balcony-Strip Views-No resort fee,72712289,Olive,,Unincorporated Areas,36.11436,-115.19657,Entire home/apt,108,1,299,2020-10-19,5.56,11,346
+13095219,WE35  Elite Studio | View | Balcony | Spa | Gym,18273973,Alex,,Unincorporated Areas,36.11427,-115.19684,Entire home/apt,98,2,217,2020-09-08,4.05,86,150
+13101123,Luxury Camping Tent Rental - Glamping Package - NV,72792664,Meyling,,City of Las Vegas,36.29286,-115.2804,Entire home/apt,100,2,1,2016-10-16,0.02,1,344
+13110859,A Bunkbed in The Kitchen.,48080639,Edward,,Unincorporated Areas,36.08666,-115.21937,Shared room,20,1,195,2020-06-07,3.63,9,0
+13115547,Bungalow house pet freindly. Corporate housing,14103372,Linda,,City of Las Vegas,36.17672,-115.13716,Entire home/apt,58,31,24,2020-05-01,0.48,3,54
+13125655,"888 # 5, MGM, 2 Bedroom 3 Bath Balcony Suite.",12018637,888,,Unincorporated Areas,36.10753,-115.16631,Hotel room,493,1,1,2016-05-30,0.02,255,66
+13128599,SUITE with beautiful lake view!,38033849,Cristian,,City of Henderson,36.10361,-114.93006,Entire home/apt,101,2,68,2020-10-21,1.27,9,333
+13141127,"Close to the Strip! Pool, Putting Green, Spa",3474397,Only Vacation Rentals,,City of Las Vegas,36.15199,-115.1888,Entire home/apt,387,3,153,2020-10-04,2.91,14,335
+13170181,Jr. Suite on top floor with lake views!!!,38033849,Cristian,,City of Henderson,36.10548,-114.93192,Entire home/apt,91,2,64,2020-10-11,1.97,9,354
+13173894,Palms Place Luxury High rise - 29F,6084958,Marina,,Unincorporated Areas,36.1134,-115.19763,Entire home/apt,98,2,154,2020-08-30,2.89,2,35
+13174694,Fully Turn Key! Gated 1 bedroom!,33392186,Helen,,City of Las Vegas,36.28795,-115.2904,Entire home/apt,55,30,19,2020-09-11,0.36,10,243
+13188148,Stone Haven next to Las Vegas Strip,73651978,Franca,,Unincorporated Areas,36.05464,-115.16663,Private room,85,1,50,2020-02-16,1.00,2,89
+13194175,MJ34 Corner Suite | Strip View | Kitchen | Balcony,18273973,Alex,,Unincorporated Areas,36.11477,-115.19666,Entire home/apt,553,2,251,2020-03-16,4.68,86,151
+13219292,Palms Place High Rise on 29th Floor - Strip Views,74152846,Steven,,Unincorporated Areas,36.11412,-115.19748,Entire home/apt,99,2,153,2020-09-24,2.87,1,17
+13220662,Las Vegas Gem - 2 bedroom Condo - Fully Furnished,48248206,Hayley,,Unincorporated Areas,36.06015,-115.22961,Entire home/apt,95,90,0,,,40,89
+13224803,NO RESORT FEE★ Strip View Suite ★FREE VALET,18881478,Joe,,Unincorporated Areas,36.10571,-115.16794,Entire home/apt,104,1,185,2020-10-18,3.47,13,334
+13238606,"Amazing, modern private bedroom and bathroom",1148770,Gordon,,Unincorporated Areas,36.08935,-115.22476,Private room,76,1,1,2018-09-23,0.04,2,84
+13262360,"LasVegasLuxuryStudio,1,2or3bdrm LazyRiverFireplace",3275373,Leanne,,Unincorporated Areas,36.03431,-115.17345,Entire home/apt,265,1,9,2020-09-20,0.17,9,364
+13266131,The Signature at MGM Grand high floor amazing view,34960194,Jake,,Unincorporated Areas,36.10681,-115.16805,Entire home/apt,103,1,276,2020-10-17,5.17,3,89
+13266177,4 Bedroom house with private pool and spa,74718941,Randy,,Unincorporated Areas,36.00894,-115.14969,Entire home/apt,214,5,74,2020-10-18,1.42,2,142
+13297775,Luxurious Accommodation 5 Minutes From The Strip!,42938395,Chaz,,Unincorporated Areas,36.09807,-115.21045,Entire home/apt,137,2,249,2020-10-13,4.76,1,321
+13298205,2 Bedroom ★ Pools | Hot Tubs | Free Shuttle,43782388,ResortShare2,,Unincorporated Areas,36.10712,-115.16109,Entire home/apt,185,2,5,2019-05-20,0.11,32,349
+13298471,Resort Style 2 Bedroom Condo ★ Pools & Hot Tubs,43782388,ResortShare2,,Unincorporated Areas,36.10712,-115.16109,Entire home/apt,185,2,8,2020-09-13,0.15,32,346
+13301609,*NO DAILY Resort Fees-MGM Condo Balcony/Strip/pool,23970632,Mia,,Unincorporated Areas,36.10678,-115.16773,Entire home/apt,115,1,92,2020-10-12,1.74,5,70
+13333370,2Br Wyndham Grand Desert ResortHP1,2995822,Kathy D,,Unincorporated Areas,36.10712,-115.16109,Entire home/apt,454,2,8,2019-09-02,0.17,44,365
+13336817,"MGM Signature studio with  balcony, NO RESORT FEE",368740,Haim,,Unincorporated Areas,36.10575,-115.16628,Private room,101,2,182,2020-10-19,3.47,2,65
+13344104,3 Bedroom Presidential ★ Pools & Hot Tubs,43782388,ResortShare2,,Unincorporated Areas,36.10712,-115.16109,Private room,777,3,24,2020-01-10,0.47,32,303
+13357340,Grandview at Las Vegas: 1-BR Sleeps 4 Full Kitchen,27042710,Igor,,Unincorporated Areas,36.009,-115.17572,Entire home/apt,150,5,7,2020-01-10,0.14,29,365
+13361120,"18N Hideout II by UNLV, Arena & Hard Rock Casino",326906810,Maria,,Unincorporated Areas,36.10627,-115.14738,Entire home/apt,47,3,88,2020-03-20,1.69,8,1
+13361479,Grand Desert Resort 2 Bedroom apartment - VEGAS,20874398,Andre,,Unincorporated Areas,36.10806,-115.16182,Entire home/apt,206,5,0,,,1,358
+13378567,*Close to Strip! 2 miles from Allegiant Stadium,48080639,Edward,,Unincorporated Areas,36.08566,-115.22043,Private room,38,1,258,2020-09-26,4.87,9,0
+13380271,Re-Opened! PalmsPlace Strip View Room w/ Balcony,31737585,Sharon,,Unincorporated Areas,36.1154,-115.19796,Private room,100,1,280,2020-10-08,5.31,1,77
+13398692,Private Modern Casita with Pool Sleeps 4,21152610,Nick,,Unincorporated Areas,36.25413,-115.26005,Entire home/apt,139,2,203,2020-10-18,3.85,1,49
+13406367,A002 - NO RSRT FEE | 5 HOT TUBE | POOL | FREE WIFI,11256923,One Homes,,Unincorporated Areas,36.11686,-115.16241,Entire home/apt,245,2,68,2019-10-19,1.33,30,190
+13410300,Club de Soleil Resort: 2bd 2ba - for 6,76365332,Larry,,Unincorporated Areas,36.09929,-115.21872,Entire home/apt,169,3,6,2020-01-01,0.11,1,297
+13447535,Beautiful Suite 33rd Floor with Balcony,76780275,Emanuel,,Unincorporated Areas,36.11412,-115.19696,Entire home/apt,102,1,208,2020-10-12,3.94,1,260
+13461182,RESORT STYLE LIVING CONDO,75630009,Suzan,,Unincorporated Areas,36.05519,-115.28912,Entire home/apt,85,30,8,2019-10-30,0.19,1,147
+13463380,Polo Towers- Studio,31214940,Scott,,Unincorporated Areas,36.10659,-115.17095,Entire home/apt,106,2,21,2020-03-11,0.46,28,53
+13466033,Upscale Casita! Perfect location!!,76997746,Carrie,,Unincorporated Areas,36.05695,-115.12765,Entire home/apt,95,3,56,2020-07-14,1.12,1,297
+13471333,1Br Wyndham Grand Desert Resort c2,2995822,Kathy D,,Unincorporated Areas,36.10712,-115.16109,Entire home/apt,156,2,17,2020-01-11,0.32,44,59
+13475926,⚡️MGM Free resort access-High Floor STRIP view☄️⛱✨,35213696,Noelle,,Unincorporated Areas,36.10758,-115.166,Entire home/apt,109,1,168,2020-10-18,4.14,4,70
+13478086,630 SQ FT Vdara Studio Parlor Suite,9507254,Jonathan,,Unincorporated Areas,36.10848,-115.17942,Entire home/apt,120,1,284,2020-10-19,5.44,5,360
+13489376,1 Sweet room with private bathroom 温馨主卧独立卫生间,31730116,Chengcheng,,City of Las Vegas,36.14084,-115.18354,Private room,23,31,67,2018-05-22,1.27,18,302
+13493039,NASCAR/EDC Privt/Quiet/Magnificent/Sparkling clean,64560475,"Jesse, Nena And JB.",,City of North Las Vegas,36.26018,-115.17047,Private room,95,30,11,2020-09-13,0.21,8,70
+13511089,Nice/Spacious/Private  room w/ Italian furniture.,64560475,"Jesse, Nena And JB.",,City of North Las Vegas,36.2562,-115.19683,Private room,89,30,12,2020-07-25,0.26,8,28
+13511421,⛱ Beach Oasis Pool/Spa w/ 2 Bedrooms and Bathrooms,50948688,Monique,,City of North Las Vegas,36.27768,-115.12482,Entire home/apt,126,1,195,2020-10-09,3.70,2,347
+13513603,Magnificent 3-Story Mansion Strip View (sanitized),28246220,Al,,Unincorporated Areas,36.05734,-115.22841,Entire home/apt,384,2,117,2020-09-27,2.21,2,52
+13516266,Private corner apartment 7 minutes from Strip,20029214,Dee,,Unincorporated Areas,36.13095,-115.19432,Entire home/apt,96,1,281,2020-10-10,5.36,1,27
+13531734,Private Room with King Bed close to the Strip,77791397,Alejandro,,Unincorporated Areas,36.11232,-115.23536,Private room,48,1,89,2020-10-11,2.38,2,146
+13533553,Only 8 miles from the strip! The house is only seven years old!,68393150,Chris,,Unincorporated Areas,35.98459,-115.19612,Private room,50,1,54,2020-06-27,1.02,1,296
+13537282,Luxury 3 bedroom house close to Strip & outlet,36594414,Julia,,Unincorporated Areas,36.05572,-115.23297,Entire home/apt,117,28,84,2020-08-20,1.59,1,83
+13537898,Corner Castle ♡ Private Pool ♡ New Home ♡,33829826,Dov,,City of North Las Vegas,36.27173,-115.10783,Entire home/apt,386,2,72,2020-10-19,1.40,9,324
+13563852,THE ROSE GARDEN SUITE!,179604076,Ryan,,Unincorporated Areas,36.12235,-115.15346,Entire home/apt,54,31,13,2020-09-02,0.25,4,328
