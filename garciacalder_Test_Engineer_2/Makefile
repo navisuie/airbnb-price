@@ -4,12 +4,12 @@ run: compile
 
 compile:
 	@echo "FIXME: *compile* should compile your code"
-	javac frontend/Main.java
+	javac src/frontend/Main.java
 
 test: compile
 	@echo "FIXME: *test* should run all your group's testing engineer's JUnit tests for the application"
-	javac -cp .:dependencies/junit/junit5.jar test/BackendTest.java
-	java -jar dependencies/junit/junit5.jar --class-path . --scan-classpath --details tree
+	javac -cp .:src/test/junit5.jar src/test/BackEndTest.java
+	java -jar src/test/junit5.jar --class-path . --scan-classpath --details tree
 
 clean:
 	$(RM) backend/*.class
