@@ -1,0 +1,440 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+10291,Spacious Cottage in Mid-City!,31004,Jill,,Navarre,29.98666,-90.10928,Entire home/apt,200,2,125,2020-08-18,1.07,1,112
+19091,Fully Furnished Cozy Apartment,72880,John,,Leonidas,29.96257,-90.11877,Entire home/apt,60,1,467,2020-01-04,3.66,1,177
+26834,Maison Mandeville in the Marigny,114452,Rachel,,Marigny,29.96557,-90.05531,Entire home/apt,106,3,256,2020-03-19,2.05,1,70
+71624,Ravenwood Manor (Historic Bywater),367223,Susan,,St. Claude,29.96612,-90.03668,Entire home/apt,130,3,226,2020-03-09,1.92,1,361
+74498,Maison Marais 1: Large Local Living,391462,Georgia,,St. Roch,29.97053,-90.05332,Entire home/apt,92,3,496,2020-03-09,4.25,2,341
+76674,Luxury & history in the Big Easy #1,409545,Matt McShee,,Bywater,29.9619,-90.03589,Private room,99,3,191,2020-03-16,2.04,2,0
+79536,FeelAtHomeInNO PrivateApt,428362,Miriam,,Seventh Ward,29.97872,-90.07405,Entire home/apt,99,2,505,2020-04-12,4.37,1,0
+79542,Beautiful Room Uptown Home - License 17STR-10083,428397,James,,Marlyville - Fontainbleau,29.94481,-90.11201,Private room,89,3,36,2020-03-15,0.34,2,365
+79609,Moon Over Mazant - Bywater's First and Finest!,428909,Stephen,,St. Claude,29.96448,-90.03667,Entire home/apt,92,3,360,2020-10-18,3.14,1,0
+80869,"Frenchmen House ""Red Room""",437783,Joanne,,Marigny,29.96811,-90.05905,Private room,75,1,689,2020-03-18,5.92,3,92
+84725,Historic UPTOWN NEW ORLEANS Resort,85132,Sanford,,Central City,29.93514,-90.08134,Private room,347,2,5,2016-01-01,0.05,8,365
+89173,Marginy BnoB by Frenchman!,486093,Virginia,,Marigny,29.96364,-90.0591,Entire home/apt,75,3,394,2020-03-12,3.46,2,204
+90806,Live Like a Local in Mid-City,485705,Tom,,Mid-City,29.97287,-90.10188,Entire home/apt,110,30,141,2020-01-04,1.28,1,0
+162525,True NaWlins Flavor,776684,Leslie,,St. Claude,29.96549,-90.04323,Entire home/apt,72,2,354,2020-10-17,3.17,3,201
+183207,"Frenchmen House ""Rose Room""",437783,Joanne,,Marigny,29.96811,-90.05905,Private room,75,1,690,2020-10-03,6.27,3,6
+184478,Northside Bayou Quarters,884946,DJoseph,,Fillmore,30.01436,-90.0819,Private room,199,2,2,2020-02-26,0.26,1,364
+204998,"2 Bed, 2.5 Bath Comfort near French Quarter",1006034,Gwendolyn,,Treme - Lafitte,29.96559,-90.06836,Entire home/apt,200,3,192,2020-03-15,1.75,3,180
+205008,Muse Suite- Near French Quarter,1006034,Gwendolyn,,Treme - Lafitte,29.96519,-90.07015,Entire home/apt,210,3,276,2020-03-16,2.51,3,0
+215840,The Pearl at Riverbend,1114187,Dan And Jo Anne,,Black Pearl,29.94009,-90.13306,Private room,125,2,76,2019-10-20,0.69,1,357
+215991,Quintessentially New Orleans,1093198,Toni,,City Park,29.9808,-90.09517,Entire home/apt,227,2,200,2020-10-04,1.83,1,344
+228560,La Boheme de Marigny - Historic Creole Cottage,1192986,Dayna,,Marigny,29.96524,-90.05901,Entire home/apt,450,2,71,2020-03-08,1.11,2,90
+240258,Maison Marais 2,391462,Georgia,,St. Roch,29.97052,-90.05381,Entire home/apt,92,3,476,2020-09-06,4.36,2,340
+252828,NOLA JAZZ FEST GETAWAY,1017442,Christy,,Fairgrounds,29.98248,-90.07914,Private room,74,2,142,2020-02-27,1.31,2,1
+252881,Bywater Bungalow - Bikes & 4 Beds!,1275132,Jamie,,Bywater,29.96378,-90.0468,Entire home/apt,129,3,258,2020-03-15,2.42,1,335
+259868,Authentic New Orleans Home,1363780,Deborah,,Treme - Lafitte,29.97291,-90.07669,Entire home/apt,150,2,105,2020-03-17,0.99,3,0
+268566,Juke Joint Guest House -- Walk to French Quarter,1407735,Louis,,Marigny,29.96585,-90.05573,Entire home/apt,195,3,182,2020-03-21,1.71,1,356
+277071,Historic Irish Channel Corner Grocery - Charming!,155042241,Todd,,Irish Channel,29.92202,-90.0852,Private room,55,3,168,2020-10-08,1.57,4,0
+295537,"Wander Magnolia-Lined Streets from a Serene, Creative Space",1526381,Tiffany,,East Riverside,29.92009,-90.09817,Entire home/apt,278,2,176,2020-09-16,1.81,1,253
+301089,Jazz Fest/ Bayou St John/ MardiGras,1550862,Gray,,Bayou St. John,29.97693,-90.08907,Entire home/apt,53,30,38,2020-03-31,0.37,1,225
+307767,Magazine St contemporary townhome (18STR-14210),1583439,Tm,,Irish Channel,29.92352,-90.08433,Entire home/apt,297,4,25,2020-02-22,0.31,1,0
+314233,Historic pied-à-terre on Esplanade,1182408,Lauren,,Marigny,29.96601,-90.06081,Entire home/apt,175,30,80,2020-03-18,0.76,1,361
+317793,"Algiers Point, New Orleans LA - Funky NOLA Digs",1631225,Seran,,Whitney,29.9498,-90.04541,Entire home/apt,70,30,10,2019-04-03,0.10,1,340
+328691,The Burgundy Cottage - Marigny Triangle,2305154,Din,,Marigny,29.96313,-90.0577,Entire home/apt,164,30,167,2019-05-18,1.59,1,0
+345394,Stylish Home Walking Distance to French Quarter Free Bikes,1751871,Betsey,,Bywater,29.96376,-90.04536,Entire home/apt,140,2,424,2020-10-04,4.07,2,71
+369715,Charming Shotgun Cottage Uptown,1863715,Lillian,,East Riverside,29.91972,-90.08744,Entire home/apt,70,30,125,2020-08-31,1.20,1,363
+373034,Little Gem,1695097,Connie,,Marigny,29.96519,-90.06108,Entire home/apt,136,3,339,2020-07-09,3.25,1,355
+393492,New Orleans Jazz Fest Getaway 2,1017442,Christy,,Fairgrounds,29.9852,-90.07642,Private room,65,2,42,2020-03-15,0.42,2,255
+405209,Tremé Creole Cottage 3 bed/3 bath,2019341,Historic Getaways,,Seventh Ward,29.96686,-90.06474,Entire home/apt,175,1,97,2020-09-12,1.42,21,177
+406652,Near bustling Magazine St w/BIKES!,2026099,Conor,,St. Thomas Dev,29.9246,-90.07291,Entire home/apt,120,30,169,2020-02-10,1.66,1,261
+425878,Bayou St. John Cottage!!,1919429,Kristin,,Bayou St. John,29.97688,-90.08783,Entire home/apt,125,30,35,2020-02-24,0.43,1,325
+427928,3 Blocks to Jazz Fest! Big Beautiful Best!Sleep 16,2103275,NOLA Festivals,,Seventh Ward,29.97967,-90.07395,Entire home/apt,707,2,146,2020-02-24,1.55,1,365
+441125,Uptown home w/room to spread out!,2191889,Chris,,Audubon,29.9318,-90.11481,Entire home/apt,541,1,35,2020-03-16,0.35,2,207
+443856,Private oasis in the Marigny,2204975,Kerrie,,Bywater,29.96474,-90.05117,Entire home/apt,74,2,434,2020-09-21,4.47,2,42
+446318,Artistic Mansion,2216366,Angelo,,Central City,29.94184,-90.07346,Private room,69,1,332,2020-09-06,4.23,1,157
+446478,"30 day minimum, long term rental only",2216025,Gregory,,Treme - Lafitte,29.96303,-90.0679,Entire home/apt,150,30,226,2017-06-11,2.30,1,364
+458029,Oak Street Hangout...,2277128,Bonny And Paul,,Leonidas,29.94795,-90.13028,Entire home/apt,99,30,89,2018-04-26,0.90,1,1
+474197,"Spacious, Historic Treme Home with Vintage Charm",99380986,Al,,Treme - Lafitte,29.96759,-90.07017,Entire home/apt,249,1,35,2020-03-15,0.34,6,1
+537726,1 Block to FQ and Frenchmen St -- Diamond Location,2641920,Jonathan,,Marigny,29.96393,-90.0583,Entire home/apt,300,3,55,2020-09-21,0.57,1,96
+542247,The Cristo,2156820,J,,Broadmoor,29.94622,-90.09952,Entire home/apt,156,28,122,2020-03-15,1.24,8,0
+561833,Half of The Okra Inn: On Canal Streetcar Line,2707644,Lindsay,,Mid-City,29.9742,-90.09809,Private room,288,7,26,2020-01-04,0.27,8,250
+561878,Bywater Victorian Double,2762811,Carin,,St. Claude,29.96754,-90.04415,Entire home/apt,89,2,356,2020-03-09,3.54,1,321
+586434,"Lovely Landmark, Great Monthly Rates!",2852373,Shannon,,Central City,29.93219,-90.08506,Entire home/apt,120,30,106,2020-09-22,1.09,4,189
+596410,"Luxury Home, Excellent Location",2948651,Brita,,Lower Garden District,29.93413,-90.07459,Entire home/apt,225,30,78,2019-11-24,0.83,1,0
+596455,Bohemian Bywater Cottage,518748,Rachel,,St. Claude,29.96502,-90.04235,Entire home/apt,129,30,42,2020-01-04,0.43,1,0
+619368,Elegantly Decayed  Creole Mansion,3068956,Will And Mao,,Treme - Lafitte,29.96841,-90.07565,Entire home/apt,350,3,134,2020-09-07,1.40,1,80
+629282,Avenue Style II; Great Monthly rates!,2852373,Shannon,,Leonidas,29.95832,-90.11946,Entire home/apt,140,30,73,2020-03-15,0.76,4,0
+634192,Avenue Style - Great Monthly rates!,2852373,Shannon,,Leonidas,29.95713,-90.11992,Entire home/apt,120,30,54,2020-03-20,0.55,4,225
+648129,Beautiful Efficiency Apartment,2383859,Brian,,City Park,29.98205,-90.09334,Entire home/apt,89,3,117,2020-02-24,1.20,1,95
+665259,Quiet Stroll to the Quarter #1,1451330,Leron And Dennis,,St. Roch,29.9774,-90.0531,Private room,69,2,189,2020-03-15,1.93,2,180
+665334,Quiet Stroll to the Quarter #2,1451330,Leron And Dennis,,St. Roch,29.97547,-90.05168,Private room,69,2,244,2020-07-05,2.47,2,270
+684584,Ride the Streetcar to the French Quarter!,2176992,Erin,,Mid-City,29.96718,-90.09613,Private room,79,1,625,2020-09-27,6.35,1,326
+699012,Private room and balcony in house with pool,3583944,Barry,,Fairgrounds,29.98003,-90.07949,Private room,68,2,148,2019-11-01,1.52,1,131
+701364,Sky Loft Bywater-Marigny - GREAT LOCATION!!,2671376,Ruby Dee,,Bywater,29.96847,-90.0487,Entire home/apt,75,30,227,2020-02-23,2.34,6,60
+705776,The Okra Inn Master: On Canal Streetcar Line,2707644,Lindsay,,Mid-City,29.97393,-90.0996,Private room,62,1,218,2020-03-09,2.24,8,4
+705854,The Okra Inn's Balcony Room: On Canal Streetcar,2707644,Lindsay,,Mid-City,29.97598,-90.09843,Private room,50,1,232,2020-03-22,2.37,8,19
+718256,"Rumahku De New Orleanslic#17STR-11489 ex6/6/20",1340014,Susanna,,Fillmore,30.00799,-90.08108,Entire home/apt,75,3,289,2020-03-16,3.12,1,305
+719226,Efficiency near City Park!,3710725,Michel,,Fairgrounds,29.97984,-90.08218,Entire home/apt,53,30,35,2017-04-06,0.36,1,0
+737235,Huckabuck Village in Historic Treme,3849334,Liberty,,Treme - Lafitte,29.96942,-90.07425,Private room,126,2,191,2020-03-11,2.02,1,364
+742617,Large open clean w/ wraparound balcony,3888377,Zalia,,Marigny,29.9662,-90.05728,Entire home/apt,235,3,180,2020-03-16,1.93,1,150
+755827,Stay by the river in the safe & historic Bywater,3978674,Carmen,,Bywater,29.96259,-90.03407,Entire home/apt,89,3,460,2020-09-27,4.76,1,55
+760661,The Cristo,2156820,J,,Broadmoor,29.94676,-90.09944,Entire home/apt,184,28,156,2020-03-15,1.67,8,88
+780112,Large Apt Bayou St John/City Park 3 miles to Dome,3233663,Julie,,Bayou St. John,29.97519,-90.08348,Entire home/apt,250,30,96,2020-07-06,1.04,1,0
+786938,Majestic 5 bedroom mansion close to the FQ,978875,Gianna,,Seventh Ward,29.97478,-90.07634,Entire home/apt,471,3,93,2020-10-17,0.99,1,296
+790082,GUEST WING BY THE RIVER ~2 Q Bedrooms,4163388,N & L,,Holy Cross,29.95852,-90.02569,Entire home/apt,112,5,99,2020-02-28,1.06,2,89
+810413,City Cove:   Great Monthly Rates!,2852373,Shannon,,Central City,29.93272,-90.08481,Entire home/apt,100,30,42,2020-05-14,0.66,4,203
+812536,"Garden District, DT Views, Comfort",4271460,Christian,,Central City,29.93335,-90.08363,Entire home/apt,195,3,35,2020-02-26,0.38,5,10
+812675,Mardi Gras Balcony Views in Historic Garden District,4271460,Christian,,Central City,29.93505,-90.08166,Entire home/apt,260,3,59,2020-03-10,0.62,5,6
+812814,"Walk to St Charles, private deck",4271460,Christian,,Central City,29.9346,-90.08072,Entire home/apt,135,3,32,2020-03-15,0.34,5,0
+841185,Midcity-Steps to Canal streetcar,4393001,Tessa,,Dixon,29.97399,-90.11217,Entire home/apt,300,30,4,2014-04-28,0.05,3,365
+845309,Fab Frenchmen Maison on the Park,4413148,Deborah,,Marigny,29.96556,-90.05917,Entire home/apt,475,4,170,2020-03-29,1.81,1,0
+851999,Fab Apt with Perfect Park Porch,4448274,Carolee,,Leonidas,29.95563,-90.12238,Entire home/apt,125,31,100,2020-02-26,1.07,1,78
+870836,Privacy and Luxury,776684,Leslie,,Irish Channel,29.92252,-90.08411,Entire home/apt,570,4,55,2020-08-09,0.76,3,252
+872905,"City Park, Mid City, Safe area near Streetcar Stop",4606010,Monica,,City Park,29.98015,-90.09633,Entire home/apt,60,30,56,2019-05-22,0.60,1,0
+873413,Mansion in the Garden District,4271460,Christian,,Central City,29.93505,-90.08166,Entire home/apt,950,4,64,2019-12-23,0.68,5,336
+880981,New Orleans Spacious Apt. Sleeps 6 On Canal Street,4660356,Maria Poole,,Mid-City,29.9712,-90.09507,Entire home/apt,152,2,207,2020-08-21,2.21,1,344
+882473,Historic Apt in Magical Marigny,4669579,Mary,,Marigny,29.96847,-90.05071,Entire home/apt,195,3,131,2020-03-17,1.40,1,349
+885010,private getaway near french quarter,4688828,Cleotis,,St. Claude,29.97087,-90.04915,Entire home/apt,75,30,115,2017-07-02,1.23,1,0
+885246,HUGE Historic Warehouse District Condo,4690952,Ashley,,Central Business District,29.94374,-90.07241,Entire home/apt,393,3,10,2018-10-11,0.14,1,179
+886306,Mandolin / 40%Off Fall  5BR/2.5BA/ Sleeps 12 !,4605202,Wayne,,Fillmore,30.00213,-90.08008,Entire home/apt,325,2,101,2020-02-25,1.07,4,282
+887361,Mid-City- Newly Renovated Efficiency!,4705434,Andi & Joe,,City Park,29.98086,-90.09198,Entire home/apt,75,30,90,2019-04-01,0.96,1,131
+887696,The Blue Heart,4707637,Andreas,,Leonidas,29.95043,-90.12784,Entire home/apt,100,32,68,2018-11-25,0.78,3,0
+891764,Retro Cottage near Bayou/ Jazz Fest,897324,Renee,,Fairgrounds,29.98212,-90.08403,Entire home/apt,42,30,67,2020-09-17,0.72,1,7
+893735,Creole Guest Suite Garden Oasis,849760,Meg,,Touro,29.92557,-90.09092,Entire home/apt,95,2,31,2020-03-15,0.61,1,0
+894371,"Marigny Oak House, French Quarter 3 Blocks Away",4761426,Joseph,,Seventh Ward,29.96948,-90.06159,Entire home/apt,68,2,378,2020-10-06,4.22,4,79
+895626,"Walk to Tulane, The Purple Room of the Treehouse",4772370,Laurie,,Audubon,29.93823,-90.11176,Private room,70,1,203,2020-06-07,2.17,3,309
+896188,"Artist, LGBTQ, pet friendly, NOLA!",660021,Holis,,Mid-City,29.97287,-90.10973,Entire home/apt,82,2,137,2020-02-27,1.47,1,128
+896343,Covid Ready: Beautiful Audubon Two Bedroom Suite.,4778949,Rob,,West Riverside,29.92267,-90.12309,Entire home/apt,289,2,21,2020-08-11,0.25,3,310
+896501,Covid Ready: Amazing 2 Bedroom UPTOWN AUDUBON PARK,4778949,Rob,,Audubon,29.92378,-90.12324,Entire home/apt,249,24,23,2020-07-31,0.27,3,323
+896709,Modern Home Near French Quarter,4782391,Marc,,Treme - Lafitte,29.97426,-90.07729,Entire home/apt,278,30,50,2020-02-23,0.53,1,364
+898208,Lower Garden District Apartment,4792572,Lucas & Audrey,,St. Thomas Dev,29.92709,-90.0742,Entire home/apt,102,3,138,2020-03-01,1.48,1,37
+898409,"Safe, Quiet Garden Studio in a Historic Home",24667626,Casey,,Seventh Ward,29.96751,-90.06476,Entire home/apt,70,2,232,2020-03-13,2.73,2,8
+898632,Tulane/Loyola U -1 bdrm or if 2 add $65 PrivatBath,4370699,Deborah,,Audubon,29.94574,-90.11839,Private room,87,1,56,2020-02-29,0.60,1,131
+898679,Cozy and Eclectic in the Bywater,4796519,Marie & Raphael,,St. Claude,29.96788,-90.03747,Entire home/apt,135,2,109,2020-03-18,1.18,2,88
+898685,3 blocks from the St. Charles streetcar!,4796527,Jackson,,Central City,29.93473,-90.082,Entire home/apt,63,2,340,2020-07-01,3.66,3,0
+899985,"Airy, Spacious, Close to the Action",4805053,Anita And Amasa,,Seventh Ward,29.97118,-90.05928,Entire home/apt,105,3,183,2020-02-29,1.96,1,0
+900084,Rent whole Townhouse in Uptown,4805726,Adam,,Uptown,29.93187,-90.10308,Entire home/apt,1000,30,0,,,1,0
+900130,Uptown nola-close to parades & universities,4806326,Joey,,Uptown,29.93122,-90.10889,Entire home/apt,171,3,84,2020-08-13,1.14,6,362
+900210,val blu,4806326,Joey,,Freret,29.9363,-90.1097,Entire home/apt,121,30,13,2016-05-15,0.19,6,364
+900337,2 Bedroom Suite in Uptown New Orleans,20783523,Joshua,,Uptown,29.92051,-90.10712,Entire home/apt,282,2,16,2020-02-02,0.17,6,173
+900608,French Quarter Beauty,4810197,Jazz,,French Quarter,29.95907,-90.06351,Entire home/apt,199,30,17,2018-01-29,0.23,1,0
+901827,Traditional Lower Garden District 2 bdrm apt,11372242,Thiamanti,,Central City,29.93668,-90.07614,Entire home/apt,94,2,272,2020-08-18,2.91,39,0
+901876,Walk to Tulane -Bright Sunny Room of the Treehouse,4772370,Laurie,,Audubon,29.93823,-90.11151,Private room,70,1,203,2020-03-17,2.18,3,364
+904440,Garden District Darling-close to Magazine/Downtown,4837716,Minh & Diane,,Central City,29.93663,-90.08295,Entire home/apt,361,2,51,2020-08-21,0.63,1,89
+904990,"Gem Condo, Soul of Arts District",4841202,Matilde,,Central Business District,29.94469,-90.06964,Entire home/apt,50,120,8,2019-12-22,0.09,6,344
+905897,"Private Upper Suite, Walk to Bourbon FQ Armstrong",4847397,Jeb And Scott,,Treme - Lafitte,29.96642,-90.06939,Entire home/apt,140,3,269,2020-07-31,2.89,2,162
+905957,Enchanting Guest Suite on Magazine Street,4848052,Jordan And Justin,,Lower Garden District,29.92808,-90.07791,Private room,84,2,51,2020-03-03,1.15,1,0
+906027,"CONVENTION  CENTER, HISTORICAL 1831",4848693,Art,,Lower Garden District,29.93366,-90.06679,Entire home/apt,150,30,139,2020-02-27,1.49,2,365
+906101,Loft Bywtr-Marigny $49 GR8T LOCATION,2671376,Ruby Dee,,St. Claude,29.97008,-90.04925,Entire home/apt,58,3,219,2020-03-10,2.34,6,70
+907168,Charming Uptown NOLA Apartment,4795909,Pat,,Uptown,29.92991,-90.10608,Entire home/apt,150,30,42,2018-08-22,0.45,1,280
+908231,Spacious Broadmoor Townhome- Central to Everything,4866349,Dawn And Gino,,Broadmoor,29.95383,-90.10561,Entire home/apt,200,3,47,2020-08-18,0.81,1,350
+910912,Bayou St John Historic Home,4887507,Roxanne And Tim,,Bayou St. John,29.97924,-90.08387,Entire home/apt,329,2,67,2020-03-08,0.92,2,343
+912681,Sunny & Airy Marigny / Bywater gem w/balcony!,4896043,Bekah And Brian,,Bywater,29.9686,-90.04871,Entire home/apt,109,3,336,2020-03-15,3.62,1,22
+914407,Parks-Bowman Mansion: The Red Room,4795675,Adrienne,,Garden District,29.92912,-90.08347,Private room,102,1,440,2020-03-18,4.76,3,362
+914581,Parks-Bowman Mansion: The Haunted Bedroom,4795675,Adrienne,,Garden District,29.92963,-90.08424,Private room,104,1,382,2020-08-24,4.13,3,349
+914617,Parks-Bowman Mansion: The Library,4795675,Adrienne,,Garden District,29.92737,-90.08222,Private room,126,1,537,2020-09-17,5.74,3,1
+917965,Home away from home with gated parking,4900663,Karen,,Lower Garden District,29.93304,-90.07491,Entire home/apt,195,3,118,2020-09-07,1.26,3,303
+918547,The Butterfly Farm - an urban homestead,4707637,Andreas,,Leonidas,29.9522,-90.12756,Entire home/apt,150,2,12,2019-05-05,0.15,3,343
+921154,Marigny  Music Courtyard & Pool! #20STR-02763,4951914,Robert,,Marigny,29.96688,-90.05105,Entire home/apt,239,2,151,2020-10-04,3.04,3,353
+936112,9a Fleur De Lis Mansion Spa/Pool 205241,4981655,Jim,,Lower Garden District,29.9386,-90.06863,Entire home/apt,1198,3,46,2020-09-30,0.52,16,227
+937424,CONVENTION  CENTER/ GREEK REVIVAL,4848693,Art,,Lower Garden District,29.93171,-90.06568,Entire home/apt,130,30,124,2020-02-26,1.34,2,365
+938165,Amazing Elegant Estate 40% Off 5BR/4BA Sleeps 14,4605202,Wayne,,Fairgrounds,29.97822,-90.08017,Entire home/apt,248,3,157,2020-08-16,1.73,4,326
+938262,"Elegant Uptown New Orleans, near Universities",5067495,Sarah Hansel,,Audubon,29.93473,-90.11704,Private room,114,30,6,2018-07-22,0.20,1,0
+944351,"1Red Room,Free Breakfast/Wine/ Pool/Pet/Hot Tub",4981655,Jim,,Lower Garden District,29.93846,-90.06831,Hotel room,92,2,132,2020-09-13,1.46,16,71
+945787,"2 White Room, completely private",4981655,Jim,,Lower Garden District,29.93846,-90.06831,Private room,93,2,156,2020-10-20,1.68,16,53
+945961,"4   Hollywood, FreeBreakfast/Wine/Pool/Pet/Hot Tub",4981655,Jim,,Lower Garden District,29.93846,-90.06831,Hotel room,85,2,111,2020-08-24,1.20,16,0
+945986,"7  Jazz Room, Free Breakfast/Wine/Hot Tub/Pool/Pet",4981655,Jim,,Lower Garden District,29.93846,-90.06831,Hotel room,81,2,123,2020-09-08,1.89,16,66
+947400,Cozy One Bedroom NOLA Apartment,5134411,Jessica,,Lower Garden District,29.93171,-90.06866,Entire home/apt,108,1,447,2020-09-11,4.83,1,0
+956635,"New Orleans Rental, Esplanade Ridge",5199957,Fred And Renee,,Fairgrounds,29.98128,-90.08497,Entire home/apt,100,2,92,2020-03-17,1.11,1,345
+959230,Blue spot,2156820,J,,Broadmoor,29.94641,-90.0999,Private room,51,30,244,2020-03-18,2.72,8,90
+959286,Yellow Spot,2156820,J,,Broadmoor,29.94617,-90.10069,Private room,51,30,199,2020-05-04,2.24,8,90
+959307,Green Spot,2156820,J,,Broadmoor,29.94814,-90.10123,Private room,51,30,206,2020-03-08,2.32,8,90
+967567,Treme Creole Cottage,5278748,Lolis,,Treme - Lafitte,29.96553,-90.06815,Entire home/apt,150,2,313,2020-03-15,3.40,1,0
+969714,The New Orleans Sweeeet Retreat,5154893,Leila,,Holy Cross,29.9566,-90.00729,Entire home/apt,299,3,1,2020-02-26,0.13,3,0
+973734,"Sweeeet Retreat's ""Not 2 Shabby"" Rm",5154893,Leila,,Holy Cross,29.95706,-90.00717,Private room,209,3,1,2013-03-25,0.01,3,90
+984827,"6  Fleur De Lis Suite, Completely private Pool/Pet",4981655,Jim,,Lower Garden District,29.93761,-90.06711,Hotel room,95,2,126,2020-10-21,1.48,16,31
+984836,3 Champagne Rm Free Breakfast/Wine/Pool/Pet/HotTub,4981655,Jim,,Lower Garden District,29.93837,-90.06861,Hotel room,84,2,56,2020-09-06,0.78,16,0
+995213,Legal Rental : Elegant Lower Garden District Home,5465617,Dawn-Marie,,Lower Garden District,29.93822,-90.07197,Entire home/apt,450,2,101,2020-03-15,1.11,1,0
+997365,Big Easy Condo(close to the action),5480237,Big Easy Management,,Treme - Lafitte,29.96508,-90.06585,Entire home/apt,200,1,242,2020-03-09,2.65,4,180
+1011019,Mid City Apartment with Pool Access,2355432,Danielle,,Mid-City,29.96893,-90.10017,Entire home/apt,150,30,64,2018-07-09,0.71,1,0
+1016337,Fun Studio steps to French Quarter!,929283,Warren,,Marigny,29.96672,-90.06156,Entire home/apt,100,4,270,2020-09-20,2.97,1,0
+1018723,Vibrant TREMÈ Jazz Shotgun/5 min FQ/Streetcar Walk,5607947,Jenna,,Treme - Lafitte,29.96619,-90.06769,Entire home/apt,106,2,204,2020-03-09,2.25,1,0
+1021784,Charming House with Movie Room,5555764,Chris,,Fillmore,30.01087,-90.07237,Entire home/apt,364,2,66,2020-03-15,0.79,3,349
+1022169,Festive Creole Cottage-Fete' NOLA- Happy Holidays!,5627272,Lori,,Fairgrounds,29.97978,-90.08132,Private room,69,2,118,2019-11-19,1.30,1,90
+1026108,4 Bedroom/3 Bath House in Treme. Pool and Parking,5649317,Scott,,Seventh Ward,29.96987,-90.06413,Entire home/apt,325,3,187,2020-09-20,2.06,2,305
+1042528,Quiet Clean Bayou St. John Studio,5739566,Brooke And Eliot,,Bayou St. John,29.97655,-90.08702,Entire home/apt,100,2,277,2020-03-08,3.05,1,6
+1044854,"Cozy, Comfy & Convenient Uptown/Carrollton",5751780,Debi,,Leonidas,29.95801,-90.1195,Entire home/apt,105,2,86,2020-02-16,0.98,1,335
+1048233,Musical & cultural extravaganza!,5770796,Sylvia,,Marigny,29.96407,-90.05789,Entire home/apt,200,2,194,2020-03-15,2.15,2,175
+1056897,$95 per Night in January 2018! - New Year Special!,5821538,Georgia,,Lower Garden District,29.93623,-90.07184,Private room,109,30,205,2020-03-08,2.40,2,363
+1065034,Hotel Storyville -A New Orleans Inn,5860857,Barbara,,Seventh Ward,29.96751,-90.0655,Entire home/apt,99,2,67,2020-02-16,1.57,9,90
+1073455,Native New Orleans. Bywater near Crescent park.,5904943,Roger And Rico,,Bywater,29.95913,-90.04546,Entire home/apt,66,30,70,2020-09-11,0.77,1,299
+1076021,Huge 2 Bdrm - Conveniently Located,5920100,Stacy,,Marlyville - Fontainbleau,29.95652,-90.1164,Entire home/apt,104,3,173,2020-03-08,1.99,1,351
+1082298,Cozy Clean Safe 3Bdr/2Bth,5951318,Dr. Therese,,St.  Anthony,30.0226,-90.06739,Entire home/apt,200,30,60,2020-04-05,0.97,2,365
+1092214,$95 a Night in January 2018! - New Year’s Special!,5821538,Georgia,,Lower Garden District,29.93446,-90.07189,Private room,125,30,154,2020-02-26,1.70,2,365
+1094521,Pet Friendly Maison du Madison,6013357,Elisa,,Bywater,29.96594,-90.04983,Entire home/apt,114,2,178,2020-09-14,3.88,1,153
+1100195,The Harlequin House,6043636,Jordan,,Treme - Lafitte,29.97392,-90.07711,Private room,50,30,199,2018-04-13,2.20,1,0
+1103936,~Mid City Oasis~,6062935,Deanie,,City Park,29.98056,-90.09901,Entire home/apt,300,2,73,2020-09-28,1.34,1,357
+1116726,"Private Jacuzzi Suite, walk to Bourbon, FQ, Park",4847397,Jeb And Scott,,Treme - Lafitte,29.96642,-90.06939,Entire home/apt,154,3,244,2020-10-06,2.70,2,147
+1163022,Stylish Retreat steps to French Quarter 1 BR,6370270,Susan,,Marigny,29.96374,-90.05662,Entire home/apt,98,3,206,2020-03-13,2.29,1,0
+1174901,Home Sweet Home By The River,4163388,N & L,,Holy Cross,29.95871,-90.02536,Entire home/apt,84,5,6,2019-01-01,0.07,2,0
+1186700,FQ/Marigny Creole Cottage Beauty - Great Location!,4710746,Sara,,Marigny,29.96641,-90.05989,Entire home/apt,1029,2,137,2020-01-12,2.04,5,364
+1187616,Private Room in Mid-City,6494296,Daniel,,Mid-City,29.97298,-90.09967,Private room,65,100,8,2019-04-18,0.29,1,0
+1201040,Steps to St Charles Ave parade route beauty galore,262235,Liz,,Garden District,29.92773,-90.08437,Entire home/apt,375,1,40,2019-12-08,0.55,1,1
+1223458,Studio in shared courtyard,2269325,Heather,,Fairgrounds,29.98183,-90.08309,Entire home/apt,70,30,12,2020-03-01,0.15,2,196
+1247718,Courtyard Cottage. A city's refuge,4841202,Matilde,,Lower Garden District,29.93492,-90.07473,Entire home/apt,90,3,56,2020-03-16,0.66,6,164
+1272487,Lakeview Executive Home,6090773,Rebecca,,Lakeview,30.00485,-90.1085,Entire home/apt,175,30,118,2020-05-15,1.37,1,171
+1283353,Beautiful Bywater Shotgun w/ Bikes!,5316723,Gabrielle,,St. Claude,29.96628,-90.03589,Entire home/apt,93,2,382,2020-10-05,4.32,1,265
+1288928,NOLA Uptown Gem by Streetcar & Universities,124089787,Mark,,East Carrollton,29.94331,-90.12969,Private room,250,3,8,2020-03-18,0.10,1,0
+1316954,"New Orleans 1br Suite, Avenue Plaza",7054805,Eric,,Central City,29.93433,-90.08077,Entire home/apt,208,30,15,2019-04-15,0.19,1,358
+1317697,FANTASTIC FRENCH QUARTER SUITE !,2677753,Regina,,French Quarter,29.95261,-90.06593,Entire home/apt,328,7,1,2015-01-02,0.01,1,0
+1331004,Tremé Creole Cottage 3 bed/2 bath,2019341,Historic Getaways,,Treme - Lafitte,29.96586,-90.06397,Entire home/apt,491,1,99,2020-03-16,1.22,21,152
+1352100,Lemon Tree Manor in Bywater,7338169,Susan,,Bywater,29.96355,-90.04208,Entire home/apt,166,3,209,2020-03-15,2.44,1,356
+1419885,"Casa Pelican B&B and Cooking School, Balcony Room",7645369,Karen,,Algiers Point,29.95412,-90.04747,Private room,95,1,308,2020-10-04,3.83,2,345
+1427307,"History, color, & art in Faubourg St. John shotgun",7676497,Mac,,Bayou St. John,29.97567,-90.08303,Entire home/apt,125,30,144,2020-03-31,1.83,1,365
+1437652,Private Uptown Room on the Mississippi River,7722683,Madison,,Black Pearl,29.94036,-90.13463,Private room,66,2,91,2020-09-12,1.07,1,0
+1450713,Historic Carriage House,7785342,Mamie,,Central City,29.93826,-90.07998,Entire home/apt,290,30,77,2019-11-07,0.90,1,362
+1452644,Charming casita  by Mississipi River,7793229,Rashida,,Holy Cross,29.95741,-90.02336,Entire home/apt,61,1,225,2020-10-04,4.15,1,0
+1466244,Charming uptown victorian!,7835894,Mary,,Uptown,29.92898,-90.10796,Private room,100,2,89,2020-01-20,1.04,1,351
+1470392,Maison Thombeau - Magazine St. Riverfront Beauty,7872860,Danetta,,East Riverside,29.91826,-90.09312,Entire home/apt,375,90,20,2020-02-26,0.50,1,0
+1574802,Creole Attic - walk to French Quarter,8370420,Bernie,,St. Claude,29.96637,-90.04129,Private room,75,3,274,2020-03-20,3.17,1,150
+1602821,Amazing Atmosphere Hostel - Private Room for Four,8540704,Robert,,Central City,29.93912,-90.07819,Private room,132,1,9,2014-04-08,0.11,1,199
+1605798,Close to everything and cute too!,4796527,Jackson,,Central City,29.93528,-90.07995,Entire home/apt,85,3,280,2020-03-18,3.25,3,6
+1609935,PIERRONOLA,4381393,Pierro,,Seventh Ward,29.97367,-90.06092,Entire home/apt,78,3,152,2020-03-14,2.29,1,1
+1614892,The Laurel Bed and Breakfast,8596036,Laura,,City Park,29.97951,-90.09102,Private room,125,2,22,2020-03-15,0.27,2,287
+1618641,doll house cottage...shotgun style!,8611628,Connie,,Whitney,29.94996,-90.04481,Entire home/apt,120,30,46,2020-01-06,0.54,1,147
+1621961,Cottage in Gentilly Terrace,8626766,Jeanne,,Gentilly Terrace,30.0067,-90.05324,Entire home/apt,90,30,0,,,1,365
+1661090,HISTORIC BYWATER VACATION HOME,228432,Nathalie,,Bywater,29.96403,-90.0399,Entire home/apt,99,3,155,2020-03-16,1.81,1,364
+1665262,Irish Channel Loft Style apartment!,4844670,Mia,,St. Thomas Dev,29.92364,-90.07242,Entire home/apt,278,2,72,2020-03-20,0.86,2,0
+1718222,Airy & Beautiful apt near Magazine!,4844670,Mia,,St. Thomas Dev,29.92496,-90.07438,Entire home/apt,249,30,21,2019-01-03,0.25,2,180
+1735810,Penthouse in The Historic Swoop-Duggins House,9141977,Gregory And Rachel,,Central Business District,29.94493,-90.07202,Entire home/apt,210,3,109,2020-03-14,1.28,1,341
+1735922,Huge Space in the Heart of Midcity,4580360,Jarrod,,Mid-City,29.96764,-90.08737,Entire home/apt,89,3,83,2020-07-05,1.01,3,0
+1738168,Upscale Home - Uptown NOLA,9019370,Timothy,,West Riverside,29.91981,-90.10484,Entire home/apt,599,31,171,2020-08-31,2.04,2,338
+1740021,LARGE I BEDROOM 1BATH IN DUPLEX,9161662,Jack,,Garden District,29.92951,-90.08227,Entire home/apt,122,30,11,2020-03-03,0.16,1,292
+1807565,Quaint Caribbean Bywater Cottage,4796519,Marie & Raphael,,St. Claude,29.96584,-90.0424,Entire home/apt,85,60,42,2019-04-30,0.54,2,0
+1838738,French Quarter/Treme Creole Cottage,9614177,Wayne,,Treme - Lafitte,29.96545,-90.06478,Entire home/apt,232,2,148,2020-08-09,1.75,1,346
+1877735,"Frenchmen House ""Green Room""",437783,Joanne,,Marigny,29.96763,-90.0593,Private room,75,1,510,2020-03-16,6.04,3,0
+1896200,Luxury & history in the Big Easy #2,409545,Matt McShee,,Bywater,29.9606,-90.03439,Private room,129,3,161,2020-03-16,1.95,2,251
+1911960,Walk to the Quarter - Private Room & Bath,2045126,Louise,,Treme - Lafitte,29.97065,-90.07077,Private room,72,30,88,2019-12-01,1.07,3,365
+1918213,Casa Verde Rosa. $350 for 8ppl! Great LOCATION!!!,2671376,Ruby Dee,,Bywater,29.9676,-90.04831,Entire home/apt,454,3,181,2020-03-08,2.17,6,0
+1936935,Bayou St. John Creole Shotgun,7607004,Lee,,Bayou St. John,29.9763,-90.08616,Entire home/apt,100,3,38,2020-03-12,0.45,1,308
+1943488,Sweet Creole Cottage in the Marigny,10052765,Joi,,Marigny,29.96694,-90.05343,Entire home/apt,81,2,219,2020-07-30,3.60,1,64
+1953034,Marigny Creole Cottage - Awesome Neighborhood -,2146138,Kathleen,,Marigny,29.9647,-90.0521,Entire home/apt,82,3,164,2020-08-30,1.98,1,143
+1959784,Lower Garden District Beauty: 2nd Floor Walk-Up,10127307,Lindsey,,Central City,29.93954,-90.07105,Entire home/apt,99,2,483,2020-10-07,6.00,2,65
+1960306,"14               Studio2 MAGAZINE ST. Hot Tub,Pets",4981655,Jim,,St. Thomas Dev,29.93187,-90.07294,Entire home/apt,74,2,243,2020-10-04,2.91,16,66
+1982655,2 Rm Historic House off Magazine UP,564637,Marc,,Irish Channel,29.92452,-90.07979,Entire home/apt,81,30,141,2019-10-16,1.71,1,89
+2032979,Balcony Room on Royal Street #1,1405952,Zakary,,Marigny,29.96503,-90.05193,Private room,83,2,11,2019-04-14,0.13,12,340
+2041350,Historic Bywater Home for Rent,2339252,Allison,,Bywater,29.96104,-90.03756,Entire home/apt,250,3,71,2020-03-17,0.86,1,0
+2055430,Bywater Beauty Guesthouse,5421186,Bettina,,Bywater,29.96698,-90.04733,Entire home/apt,59,1,316,2020-10-01,3.91,1,27
+2055943,"Casual, Cozy Retreat steps from St. Charles Avenue",861540,Haiyan,,Central City,29.93285,-90.08962,Private room,55,2,102,2020-02-28,1.26,1,1
+2065521,GUITARHOUSEOFNEWORLEANS,936476,Andrew,,Algiers Point,29.95228,-90.05094,Entire home/apt,83,30,51,2019-02-25,0.62,1,0
+2065921,Cozy Room on Royal Street #2,1405952,Zakary,,Marigny,29.96503,-90.05193,Private room,62,2,0,,,12,337
+2078828,Steps to the Quarter,10621726,Lorenzo & Shinda,,Seventh Ward,29.96713,-90.06333,Entire home/apt,126,3,43,2020-03-15,0.52,13,0
+2078954,1BR Apt in New Marigny/steps to FQ,10621726,Lorenzo & Shinda,,Seventh Ward,29.96736,-90.06313,Entire home/apt,175,3,30,2019-10-06,0.36,13,0
+2082916,Super Clean! 5-Minute Ferry to French Quarter!,3018143,Angela,,Algiers Point,29.95115,-90.05126,Entire home/apt,93,3,42,2020-09-08,0.51,1,275
+2097905,Great Location! Jazz Fest! LARGE GROUPS!,10700570,Collin,,Mid-City,29.97072,-90.10199,Private room,45,30,30,2020-09-02,0.52,1,89
+2107122,"Cozy room, bicycles for use!  NOLA!",10742587,Terry,,Fillmore,30.0055,-90.08258,Private room,79,1,37,2020-02-26,0.45,1,360
+2107965,The Boswell House (Historic Home on Jazz Registry),7707187,Jason,,Touro,29.9228,-90.09338,Entire home/apt,504,2,59,2020-01-14,0.72,1,346
+2122794,Laid Back Charm 1  Bywater Marigny,4841202,Matilde,,Bywater,29.96394,-90.04356,Entire home/apt,39,360,58,2018-05-09,0.74,6,133
+2159266,BigEasyCondo 2(close to the action),5480237,Big Easy Management,,French Quarter,29.96316,-90.06584,Entire home/apt,150,1,246,2020-03-15,3.06,4,361
+2160265,Uptown apt near parade route,11023101,John-Michael,,Milan,29.93026,-90.096,Entire home/apt,209,30,10,2019-02-20,0.15,1,282
+2166380,"Historical Charmer, Great Location",11054506,Paul,,Seventh Ward,29.96794,-90.06329,Entire home/apt,175,30,180,2020-03-14,2.20,1,350
+2170610,The Mazant: Renovated 1880s Bywater Mansion w/Pool,1410898,Jeff,,St. Claude,29.9635,-90.03526,Entire home/apt,1271,3,104,2020-10-04,2.32,1,260
+2177238,Balcony Room Overlooking Royal Street #3,1405952,Zakary,,Marigny,29.96503,-90.05193,Private room,83,2,11,2018-12-24,0.15,12,0
+2177885,Restful Room on Royal Street #4,1405952,Zakary,,Marigny,29.96503,-90.05193,Private room,67,2,13,2019-05-07,0.18,12,342
+2177946,Queen Suite on Royal Street #5,1405952,Zakary,,Marigny,29.96503,-90.05193,Private room,77,2,11,2017-05-23,0.15,12,335
+2177994,Royal Street Kitchenette Balcony Suite 6,1405952,Zakary,,Marigny,29.96503,-90.05193,Private room,51,1,2,2015-03-19,0.03,12,348
+2180692,Walk to French Quarter / Jazz Fest 1,3725969,April,,Treme - Lafitte,29.97046,-90.07201,Entire home/apt,80,2,388,2020-09-05,4.77,3,142
+2185863,Marigny Jewel - Home Away from Home (#137023),4778357,Ronald,,Marigny,29.96773,-90.05194,Entire home/apt,410,3,35,2020-02-10,0.44,2,180
+2189294,Funky One Bedroom Loft Home,10948438,Cathy,,Irish Channel,29.92277,-90.08622,Entire home/apt,78,30,26,2020-08-09,0.33,2,0
+2189313,Magazine St. Shopping 1 block 35% Corona discount,10948438,Cathy,,Irish Channel,29.92276,-90.08622,Entire home/apt,140,30,29,2020-07-31,0.37,2,228
+2189630,Old World Charm Uptown New Orleans,11167126,Lisa,,Uptown,29.92303,-90.1021,Private room,175,2,11,2018-10-29,0.14,1,0
+2226543,Unit2 Charming Authentic MidCity! U1 Sleeps 8 more,11362234,Isaac,,Tulane - Gravier,29.96406,-90.08027,Entire home/apt,303,2,168,2020-08-08,2.09,14,118
+2250080,Minutes to Anywhere in New Orleans,11491946,Meg,,Marlyville - Fontainbleau,29.9532,-90.10959,Entire home/apt,85,30,76,2020-02-26,0.94,1,365
+2255065,Unit1 Charming Authentic MidCity! U2 Sleeps 8 more,11362234,Isaac,,Tulane - Gravier,29.96289,-90.08211,Entire home/apt,272,2,183,2020-03-15,2.27,14,0
+2255182,Treme Central - Huge Balcony,6753577,Jo,,Treme - Lafitte,29.96555,-90.06477,Entire home/apt,150,30,210,2020-03-16,2.63,2,0
+2255244,Uptown Cottage (Best reviews in New Orleans!),11516680,Garett,,Freret,29.93469,-90.10996,Entire home/apt,79,30,184,2019-09-02,2.27,1,89
+2272725,1903 Queen Anne Beauty-ask about summer specials!,11573383,Nancy,,St. Claude,29.96402,-90.03665,Entire home/apt,154,3,165,2020-03-08,2.04,1,327
+2297440,The Purple House by Tulane,11734377,Ryan,,Audubon,29.94982,-90.11606,Entire home/apt,77,1,354,2020-09-24,6.80,3,336
+2315660,Charm!  Quality ! Comfort ! Unique! Affordable !,11800706,Marcelin,,Broadmoor,29.94176,-90.10381,Entire home/apt,205,2,133,2020-08-16,1.70,1,257
+2337303,Luxury 2 bedroom Condo - 1870's Shotgun House,11936757,Lauren,,Lower Garden District,29.93574,-90.07348,Entire home/apt,225,5,7,2020-03-11,0.09,1,333
+2346104,Treme Birds Nest Hideaway Above the Fray,4792693,Prisca,,Seventh Ward,29.96688,-90.06334,Entire home/apt,97,3,1,2020-03-16,0.14,2,6
+2351969,Private Audubon Park Garden Studio near Tulane,12010926,Gisele,,Audubon,29.93508,-90.12901,Entire home/apt,85,2,90,2020-09-22,1.11,1,74
+2381246,"Stylish, Modern Mid City Cottage Walk to Jazz Fest",10358478,Yanti,,Seventh Ward,29.97861,-90.07207,Entire home/apt,300,2,9,2019-02-17,0.14,1,0
+2386900,Studio near French Quarter and Casino Sleep 4,6489256,Wayne,,Central Business District,29.94979,-90.06854,Entire home/apt,299,3,14,2019-04-29,0.17,9,0
+2387100,Like the French Quarter - but better!,12193877,M,,Lower Garden District,29.93109,-90.07736,Entire home/apt,275,3,17,2019-03-31,0.21,2,89
+2387122,Sleep 6 next to the French Quarter!,6489256,Wayne,,Central Business District,29.95018,-90.06871,Entire home/apt,278,3,32,2019-01-02,0.40,9,0
+2392147,Airy Loft in Creole Cottage in Historic Uptown,12219447,Phoebe,,Black Pearl,29.93757,-90.13328,Entire home/apt,131,30,159,2020-03-08,1.99,1,313
+2392262,Lower Garden District Charmer,12220132,Jacob,,St. Thomas Dev,29.92585,-90.07373,Entire home/apt,550,30,17,2017-07-17,0.27,1,363
+2396488,Affordable 3BR Apartment; 4 Blocks from Street Car,185244265,One Stop Property Shop,,Mid-City,29.96708,-90.09717,Entire home/apt,509,1,179,2020-03-14,2.23,31,0
+2412909,3BR Steps to the Quarter,10621726,Lorenzo & Shinda,,Seventh Ward,29.96811,-90.06488,Entire home/apt,836,3,26,2019-11-02,0.33,13,1
+2413933,"Spacious, beautiful 2BR home on Magazine Street",12338963,John,,Lower Garden District,29.92905,-90.07731,Entire home/apt,170,3,82,2020-08-14,1.03,1,137
+2419449,Charles Suite - 2 bed 2.5 bath near French Quarter,1006034,Gwendolyn,,Treme - Lafitte,29.96702,-90.06703,Entire home/apt,225,30,68,2020-02-17,1.38,3,179
+2426273,Private rm in the St. Roch/Marigny,11918292,Colette,,St. Roch,29.971,-90.05109,Private room,75,30,101,2019-03-27,1.64,1,0
+2436526,Chateau St. Roch,4110682,Amanda,,St. Roch,29.9719,-90.05167,Entire home/apt,250,30,31,2017-11-20,0.47,1,0
+2454801,Historic Bywater in the Big Easy - Entire House,11551717,Jessica,,St. Claude,29.97129,-90.04362,Entire home/apt,81,2,341,2020-10-06,4.22,1,144
+2460216,Single Room with 2 beds and couch,1201547,Steph,,Mid-City,29.97229,-90.10017,Private room,150,1,31,2020-02-26,0.39,1,365
+2520175,Walk to Tulane -Library Room  2 Twins or King Size,4772370,Laurie,,Audubon,29.93823,-90.11151,Private room,72,1,103,2020-03-20,1.43,3,304
+2520676,"Large House Walk to French Qrtr, Faubourg Marigny",7319703,Donald,,Marigny,29.96668,-90.06197,Entire home/apt,82,1,295,2020-09-13,3.69,5,319
+2522166,FAMILY REUNIONS WELCOME! 5BR/5BA,10621726,Lorenzo & Shinda,,Seventh Ward,29.967,-90.06323,Entire home/apt,2000,3,15,2019-03-28,0.19,13,364
+2539803,Cozy apartment in the Marigny,13004929,Cheryl,,Marigny,29.96459,-90.05195,Entire home/apt,125,2,222,2020-10-17,2.77,1,340
+2539993,The Lemon Tree Shotgun L: 17STR09697 P: 20OSTR0358,2577149,(We Are) Heather & J,,Milan,29.92928,-90.09361,Entire home/apt,105,2,195,2020-03-15,2.47,1,278
+2550805,Colorful Shotgun in the Marigny,13059899,Asia,,Marigny,29.96295,-90.05669,Entire home/apt,121,2,260,2020-03-15,3.57,6,157
+2578286,"Boutique Apartment in Treme, NOLA",13203909,Brandon,,Seventh Ward,29.97133,-90.06531,Entire home/apt,99,2,347,2020-09-07,4.35,4,364
+2628876,Best Location- Quarter Condo w pool,13466004,Michael,,French Quarter,29.96289,-90.06203,Entire home/apt,250,32,69,2017-04-23,0.89,2,180
+2637023,Musician-owned charmer near Jazzfest.,10478109,Jeanne,,Bayou St. John,29.97592,-90.088,Entire home/apt,675,30,3,2020-02-23,0.09,1,7
+2664790,Fairgrounds Triangle 1 bed/1 bath Private Entrance,13638657,Jonathan And Maria,,Fairgrounds,29.98493,-90.07623,Entire home/apt,80,1,323,2020-03-17,4.07,1,0
+2669031,JAZZ FEST Cozy Cottage Getaway!,5668341,Claudia,,Fairgrounds,29.97927,-90.0787,Entire home/apt,265,30,53,2019-04-29,0.98,4,0
+2670634,Esplanade Guest Quarters,13670905,Chris & Brick,,French Quarter,29.96431,-90.06219,Entire home/apt,179,30,169,2019-12-11,2.13,1,192
+2676200,Legal Airbnb: Newly Renovated NOLA Classic,13701548,Khalil,,Mid-City,29.97722,-90.10463,Entire home/apt,1500,2,124,2020-03-15,1.58,2,0
+2678258,Quiet Holycross Neighborhood,5679963,Melissa,,Holy Cross,29.95901,-90.0195,Entire home/apt,150,30,10,2019-05-05,0.13,1,281
+2686887,Peaceful Neighborhood Retreat,5868377,Odile,,Seventh Ward,29.97367,-90.07219,Entire home/apt,74,3,188,2020-03-19,2.39,2,0
+2695902,"""Delille"" Studio - Steps to French Qtr",13582442,Steve & Melissa,,Seventh Ward,29.96673,-90.06419,Entire home/apt,102,30,183,2020-01-31,2.50,1,0
+2703723,PURPLE Room-walk to City Park -1.5mi to FrenchQtr!,3610952,Jo,,Fairgrounds,29.97969,-90.08287,Private room,91,2,75,2020-02-24,1.29,4,88
+2707647,"Garden dist 1 BR sleep4, street car",6489256,Wayne,,Central City,29.93599,-90.081,Entire home/apt,299,3,4,2017-02-28,0.06,9,0
+2708004,On Esplanade Avenue-French Quarter,9240904,Steve,,French Quarter,29.96402,-90.06111,Entire home/apt,144,3,279,2020-09-25,3.52,1,277
+2714742,Walk to Jazz Fest,13892166,Patty,,City Park,29.98066,-90.09441,Private room,65,1,107,2020-01-01,1.36,1,243
+2716497,JAZZFEST Shotgun,4680678,Joseph,,Bayou St. John,29.97371,-90.08283,Entire home/apt,99,2,101,2020-09-21,1.28,1,0
+2726180,Magazine Street Style,12193877,M,,Lower Garden District,29.93205,-90.07865,Entire home/apt,250,30,2,2016-11-01,0.03,2,365
+2739912,Charming Mid City Home,4387775,Katrina,,Mid-City,29.96882,-90.09623,Entire home/apt,100,2,102,2020-03-15,1.30,1,36
+2748663,A place with Character,401501,Yera,,Lower Garden District,29.9326,-90.07669,Private room,87,30,97,2020-01-15,1.23,1,87
+2761805,Sleep 4 next to the French Quarter2,6489256,Wayne,,Central Business District,29.95201,-90.06901,Entire home/apt,249,3,21,2019-05-06,0.27,9,0
+2800602,Only 31+ days—2bd Apt Uptown/Garden District!,14323705,Elena,,East Riverside,29.92036,-90.09298,Entire home/apt,140,31,20,2019-04-19,0.27,1,0
+2811767,The Okra Inn Master II: On Canal Streetcar Line,2707644,Lindsay,,Mid-City,29.9759,-90.09999,Private room,48,1,125,2020-03-12,2.13,8,3
+2811768,The Okra Inn: On Canal Streetcar Line,2707644,Lindsay,,Mid-City,29.97478,-90.09932,Entire home/apt,529,1,110,2020-03-02,1.45,8,159
+2830029,Bywater Courtyard Compound,8140782,Topher,,St. Claude,29.96432,-90.03564,Entire home/apt,115,5,94,2020-03-06,1.30,1,7
+2847390,Fabulous Location! PrivateBath/Priv LivRmSafepark,14518129,Michael,,Marigny,29.96528,-90.05915,Private room,48,4,391,2020-08-24,4.98,1,40
+2888828,Hideaway between Frenchman st. and the Quarter,486093,Virginia,,Marigny,29.96362,-90.05888,Entire home/apt,160,31,148,2020-02-09,1.90,2,1
+2896586,Cozy Cottage-Near French Quarter,14803413,Deidra,,Algiers Point,29.95016,-90.05085,Entire home/apt,80,4,28,2020-10-07,0.68,2,70
+2903808,⚜️Street Car or Walk to Mardi Gras +Fr. Quarter!⚜️,5975421,Kurt,,Mid-City,29.96961,-90.0984,Entire home/apt,70,3,38,2020-03-01,0.63,1,0
+2904492,Apartment at walking distance FQ,14839613,María &,,St. Roch,29.97311,-90.05605,Entire home/apt,69,1,392,2020-08-13,5.09,2,120
+2907553,Storyville Madam's Music Parlor with Innovative Cleaning,4139221,Nicelle,,Fairgrounds,29.98017,-90.08325,Entire home/apt,95,2,80,2020-09-28,1.13,2,261
+2926290,"Steps to the Quarter, brand new rehab—upper floor",10621726,Lorenzo & Shinda,,Seventh Ward,29.96925,-90.06323,Entire home/apt,850,3,15,2019-12-10,0.20,13,364
+2926851,Cozy Private Room Near City Park,6522124,Leonardo,,Lakeview,30.0034,-90.10201,Private room,64,2,80,2020-02-29,1.10,1,21
+2939429,Blue + Green Rooms Entire Space,14972186,Amelia,,Central City,29.93075,-90.08766,Entire home/apt,91,30,85,2019-11-25,1.09,1,179
+2976398,The Vivien House - Beautiful Historic Home,15181286,Chita,,Marigny,29.96704,-90.0553,Entire home/apt,365,30,38,2018-12-17,0.50,1,280
+3003879,Separate entrance & private porch in Bywater,10508107,Missy,,Bywater,29.9627,-90.0383,Private room,37,1,428,2020-10-06,5.52,1,0
+3013456,Uptown/ Carrollton - 15 mins dr to Fr Qtr,15357546,Tom And Susan,,Leonidas,29.95119,-90.13055,Entire home/apt,175,30,70,2019-07-06,1.02,5,22
+3030123,B&B on world famous Frenchmen St.,15433610,Emily,,Marigny,29.96415,-90.05848,Private room,178,2,0,,,3,0
+3038967,"Uptown Gem, Amazing Location!",15474674,Anne,,Audubon,29.92244,-90.12363,Entire home/apt,900,30,0,,,1,365
+3057022,Best Block in the Bywater,4575123,Dan,,Bywater,29.96234,-90.04269,Entire home/apt,142,1,296,2020-09-29,3.84,4,225
+3057920,Best Block in the Bywater,4575123,Dan,,Bywater,29.96205,-90.04273,Entire home/apt,138,1,135,2020-09-25,1.88,4,264
+3065775,"Historic 5 BR home in Lower Garden, close to DT",4871580,Matthew,,Central City,29.93975,-90.07297,Entire home/apt,500,2,42,2020-01-20,0.58,5,0
+3074691,RARE FIND BEAUTIFUL UPTOWN TOWNHOME,15535657,Liz,,West Riverside,29.91901,-90.12214,Entire home/apt,350,3,27,2019-11-30,0.38,2,0
+3078371,GORGEOUS UPTOWN AUDUBON PK TOWNHOME,15535657,Liz,,West Riverside,29.91897,-90.1217,Entire home/apt,295,3,21,2020-02-17,0.31,2,143
+3167890,Guest House Near Audubon Park,12212206,Natalie,,Black Pearl,29.93352,-90.13253,Entire home/apt,99,2,109,2020-10-19,1.42,1,83
+3173801,"Arts District Gem - Les Carillons: 1, 2, 3 BR Also",10660778,Lee Ann,,Central Business District,29.94495,-90.07036,Entire home/apt,1238,2,11,2020-03-15,0.15,3,348
+3181963,"Camelback Guesthouse Apt 3, 2 bedroom",16133905,Corinna,,Central City,29.93271,-90.0874,Entire home/apt,195,2,39,2020-03-08,0.51,3,136
+3184534,"Camelback Guesthouse Apt 2, 1 bedroom",16133905,Corinna,,Central City,29.93108,-90.08825,Entire home/apt,58,30,26,2020-08-07,0.35,3,1
+3189828,Walk to French Quarter / Jazz Fest 2,3725969,April,,Treme - Lafitte,29.9707,-90.07072,Entire home/apt,88,2,387,2020-09-21,5.14,3,122
+3246944,Comfy 2 bdrm duplex in Upper Ninth,16022093,Verna,,St. Claude,29.97626,-90.03537,Entire home/apt,50,30,54,2020-08-08,0.70,1,244
+3254756,Ms. Arlington's Room,776684,Leslie,,St. Claude,29.96541,-90.04273,Entire home/apt,60,2,202,2020-10-01,2.63,3,318
+3257647,Guesthouse W/ Beautiful Courtyard!,16474497,Kristen,,Central City,29.93268,-90.0856,Entire home/apt,87,3,228,2020-03-18,3.10,1,347
+3265513,"Cozy 2 br, 1.5 bath Uptown Freret (17STR-10236)",4613282,Elaine,,Freret,29.93571,-90.10994,Entire home/apt,127,2,77,2020-03-10,1.05,1,0
+3268071,1850s cottage close to French Q.& Jazz Fest,13303469,Rian,,Marigny,29.96595,-90.06116,Entire home/apt,170,30,32,2019-07-07,0.62,1,0
+3268248,Waterfront Bayou St. John Jazz Fest neighborhood!,16526411,Mary Liz,,Bayou St. John,29.98006,-90.08589,Entire home/apt,475,2,21,2020-03-15,0.44,1,102
+3278865,New Orleans Special 1 bdrm sleeps 4,1381289,Tawny,,Central City,29.93492,-90.0802,Entire home/apt,141,2,2,2019-03-16,0.03,2,90
+3279098,New Orleans center of town sleeps 2,1381289,Tawny,,Central City,29.93492,-90.0802,Entire home/apt,116,2,1,2019-03-04,0.05,2,0
+3364097,Social Distancing and Mental Health Oasis,16972947,Gary,,Irish Channel,29.92362,-90.08624,Entire home/apt,150,3,241,2020-09-28,4.30,1,38
+3373206,RENT ONE FLOOR OR BOTH,10621726,Lorenzo & Shinda,,Seventh Ward,29.96862,-90.06554,Entire home/apt,2000,30,6,2018-05-21,0.08,13,364
+3379263,Tropical Balcony on Streetcar Line,17047603,"Patrick,",,Mid-City,29.97273,-90.09801,Entire home/apt,192,30,66,2020-03-11,0.91,1,341
+3386674,"Comfy Home Walk 2 French Quarter, Faubourg Marigny",7319703,Donald,,Seventh Ward,29.96832,-90.06153,Entire home/apt,93,1,259,2020-09-20,3.42,5,315
+3458408,Local Flavor,17429954,Dane And Jennifer,,Uptown,29.92539,-90.10804,Entire home/apt,500,1,95,2020-07-05,1.24,1,288
+3513184,4th floor spacious private loft,17689150,Kate,,Bywater,29.96417,-90.05119,Entire home/apt,172,3,61,2020-03-08,0.99,2,179
+3513226,Courtyard Guesthouse in the Marigny,17689150,Kate,,Bywater,29.96412,-90.05025,Entire home/apt,186,3,171,2020-03-08,2.27,2,179
+3528642,The Victorian Plum 18str-04594 permit number,17763825,Victor,,Leonidas,29.94841,-90.12984,Entire home/apt,517,30,29,2020-02-09,0.40,1,131
+3542387,Magazine Street Muse!,17831994,Charlie,,Touro,29.92246,-90.09264,Entire home/apt,170,3,90,2020-01-22,1.31,1,3
+3554724,Massive Loft 1BR/2BASteps to Marigny/FQ,10621726,Lorenzo & Shinda,,Seventh Ward,29.96775,-90.06309,Entire home/apt,275,3,27,2019-12-10,0.52,13,0
+3567830,"Jetsetter Luxury, Magazine Street",4271460,Christian,,St. Thomas Dev,29.92854,-90.07541,Entire home/apt,400,31,44,2020-01-28,0.63,5,0
+3571728,Balcony!! Steps to FQ Ask about additional guests,10621726,Lorenzo & Shinda,,Seventh Ward,29.96699,-90.06332,Entire home/apt,450,3,32,2020-03-08,0.43,13,0
+3576484,The Okra Inn's Twin Bedroom: On Canal Streetcar,2707644,Lindsay,,Mid-City,29.97589,-90.09825,Private room,68,1,118,2020-03-12,1.61,8,3
+3625834,BEST Marigny Triangle Pied-d-Terre,9632192,Lynn,,Marigny,29.96386,-90.05963,Entire home/apt,156,1,77,2020-03-16,1.03,7,180
+3679748,Charming Gentilly Home,18703504,Emma,,Gentilly Terrace,30.00548,-90.04831,Private room,95,2,48,2020-03-14,0.66,1,365
+3686820,Luxury and Charm Rt Off Audubon Park,18760642,Anne,,Audubon,29.92302,-90.1242,Entire home/apt,182,3,6,2020-09-01,0.25,1,231
+3688447,Heart of the City With Bikes,13521885,Kendall & Andrietta,,Central City,29.93996,-90.07885,Private room,60,3,91,2020-03-03,1.24,1,0
+3714419,Cozy Ensuite in NOLA's 1st Eco-Round Cottage!,1401975,Merle,,St. Bernard Area,29.99712,-90.07402,Private room,68,30,53,2020-02-17,0.74,1,0
+3751749,Townhouse Overlooking the Bayou St. John and City Park,2885988,John,,Fairgrounds,29.98789,-90.08743,Entire home/apt,250,2,19,2020-09-04,0.37,1,0
+3757755,Irish Channel Suite,19189715,Ariana,,Irish Channel,29.91985,-90.08494,Entire home/apt,100,2,294,2020-03-18,3.95,1,0
+3761118,The Caribbean Room,99380986,Al,,Seventh Ward,29.97136,-90.07099,Private room,119,2,22,2020-02-17,0.30,6,365
+3774603,"NEW ORLEANS, LA - THE BIG EASY !",85132,Sanford,,Central City,29.93551,-90.08062,Private room,347,2,1,2020-02-24,0.13,8,365
+3791117,Bayou Oaks Plantation,19461396,Kimberly,,Leonidas,29.9474,-90.13091,Entire home/apt,1331,3,14,2020-02-03,0.26,1,319
+3797209,19STR-23833 Very Large Bedroom; parking included,19500812,Nalu,,Broadmoor,29.94284,-90.10775,Private room,185,1,28,2020-03-16,0.58,3,180
+3842714,The Moroccan Room,99380986,Al,,Seventh Ward,29.97119,-90.06971,Private room,119,2,16,2020-03-13,0.22,6,269
+3851250,MANSION Steps to French Quarter!  HUGE COURTYARD!,19859194,Jay,,Treme - Lafitte,29.96392,-90.06866,Entire home/apt,321,2,69,2020-03-17,0.93,6,0
+3858460,Frenchmen GEM! Courtyard! Walk to French Quarter!,19859194,Jay,,Marigny,29.96802,-90.0587,Entire home/apt,400,2,73,2020-03-01,1.00,6,266
+3883015,HISTORIC ART LOFT near French Quarter & FRENCHMEN!,20076772,AnnMarie,,Marigny,29.96754,-90.05606,Entire home/apt,104,3,116,2020-10-04,1.58,2,81
+3971392,Updated 2BD in the heart of uptown,20582466,Paul,,East Carrollton,29.94627,-90.12837,Entire home/apt,179,2,20,2020-02-04,0.27,1,218
+3979913,Little Green House in the LGD - 30 Night Minimum,20628188,Hilary,,Lower Garden District,29.93727,-90.07172,Entire home/apt,125,30,66,2020-09-30,1.09,1,0
+3987573,Charming 2 Bedroom walking distance to Quarter,20670158,Lawrence Henry,,Seventh Ward,29.97476,-90.05805,Entire home/apt,163,2,27,2020-03-09,0.96,2,178
+4005022,Cozy Gentilly Home,19107533,Rhett & Sheila,,Milneburg,30.01895,-90.05269,Entire home/apt,150,2,45,2020-02-26,0.82,1,363
+4008104,Uptown near Streetcar(Trolley) with 2 Indoor Cats,20782842,Lisa,,Leonidas,29.95247,-90.13044,Entire home/apt,54,3,43,2020-03-19,0.59,1,16
+4021739,The Gingerbread House—Hidden Historic Marigny Gem,20849210,Bryan,,Marigny,29.96576,-90.05333,Entire home/apt,245,2,172,2020-02-17,2.38,2,0
+4031913,Diamond III,11769982,Samuel,,French Quarter,29.95681,-90.07031,Entire home/apt,1000,30,56,2020-01-20,0.78,4,365
+4033229,New Orleans Vacation Rental,20910802,Charley,,Seventh Ward,29.96876,-90.05751,Entire home/apt,233,3,117,2020-03-15,1.58,2,334
+4083795,central locale-uptown universities,4806326,Joey,,Audubon,29.93092,-90.11245,Entire home/apt,96,30,26,2020-09-10,0.36,6,275
+4090606,Gorgeous Apartment in Treme,13203909,Brandon,,Treme - Lafitte,29.96847,-90.07036,Entire home/apt,126,1,347,2020-09-10,4.73,4,356
+4102478,Charming NOLA shotgun-  fantastic neighborhood,4863786,Mark,,Fairgrounds,29.98033,-90.08183,Entire home/apt,108,2,47,2020-03-14,0.65,1,355
+4118413,Great location. Furnished & All utilities included,20180006,Gloria,,Leonidas,29.95102,-90.13416,Entire home/apt,75,30,8,2020-07-01,0.12,2,0
+4120391,Beautiful 3br home! Great Location,21375144,Derrick,,Fairgrounds,29.99066,-90.07887,Entire home/apt,199,1,61,2020-09-19,0.84,1,301
+4139121,Caprice Creole Cottage.,21473662,Paul,,Marigny,29.96568,-90.05967,Entire home/apt,110,1,46,2020-06-13,1.22,1,1
+4141904,Uptown Cottage  Great location Pet Friendly,20180006,Gloria,,Leonidas,29.95044,-90.13511,Entire home/apt,63,30,21,2019-04-09,0.29,2,172
+4155107,1930's Cottage Uptown,2743672,Katharine,,Audubon,29.94918,-90.11681,Entire home/apt,95,2,238,2020-07-27,3.45,1,111
+4163583,GARDEN GEM!-LEGAL PMT 2 BLKS FROM BEST OF MAGAZINE,21608852,Dan,,East Riverside,29.92019,-90.0876,Entire home/apt,550,1,74,2020-03-15,1.05,2,265
+4170928,Experience the Charmed Marigny Life,15469819,Corbett,,Marigny,29.96753,-90.06086,Entire home/apt,124,3,171,2020-07-31,2.33,1,48
+4187189,"Secluded studio, whirlpool bath!",21723220,Will,,East Riverside,29.9196,-90.09823,Entire home/apt,81,2,282,2020-03-16,4.11,2,0
+4191305,Summer Sale 30% off,21694312,Felicia,,Hollygrove,29.96411,-90.12379,Entire home/apt,438,2,58,2020-03-18,0.94,3,356
+4222053,Vincent’s Hideaway,21911401,Tamarin & Steve,,Milan,29.93166,-90.09894,Entire home/apt,140,2,220,2020-10-05,3.00,1,351
+4223700,Private Room 1 - Walk to the French Quarter,2045126,Louise,,Treme - Lafitte,29.96871,-90.07047,Private room,72,2,86,2020-03-08,1.18,3,0
+4227036,Two story gem near park & streetcar,2073994,Anne,,City Park,29.98081,-90.09362,Entire home/apt,153,3,105,2020-02-25,1.57,1,88
+4286404,Stunning! Vacation Rentals in New Orleans,16702162,James,,Bywater,29.96331,-90.04037,Entire home/apt,564,29,23,2019-05-06,0.32,3,348
+4325824,"Creole Guest Cottage, Just Steps to Magazine St!",22462853,Shawna,,East Riverside,29.91949,-90.0976,Entire home/apt,119,2,19,2020-02-20,0.27,1,316
+4388162,"8   Bourbon Rm,Free Breakfast/Wine/Pool/Pet/HotTub",4981655,Jim,,Lower Garden District,29.93846,-90.06834,Hotel room,66,2,43,2020-06-28,0.63,16,72
+4388334,13               BungalowMAGAZINE ST./Hot Tub/Pets,4981655,Jim,,St. Thomas Dev,29.93187,-90.07294,Entire home/apt,78,2,224,2020-10-07,3.10,16,63
+4391521,"Comfy Bayou St. John Beauty, close to the French Quarter",3596603,Ninh,,Bayou St. John,29.97655,-90.08876,Entire home/apt,254,4,113,2019-12-01,1.56,1,0
+4394146,Ma Maison Marigny—Boho Paradise near the French Quarter,12151150,James,,Bywater,29.96785,-90.05006,Entire home/apt,82,2,207,2020-09-28,2.90,1,225
+4423078,Private Room 2 - Walk to the French Quarter,2045126,Louise,,Treme - Lafitte,29.96873,-90.07216,Private room,72,2,83,2020-03-15,1.16,3,363
+4431637,Spacious Uptown Apt near Tulane,23006845,Meg,,Audubon,29.94876,-90.11538,Entire home/apt,110,2,92,2020-03-19,1.33,1,318
+4435548,NEW ORLEANS - Uptown Neighborhood Resort,85132,Sanford,,Central City,29.93604,-90.07903,Private room,347,2,0,,,8,0
+4435784,New Orleans - PARTY CAPITAL of the SOUTH !!,85132,Sanford,,Central City,29.93513,-90.0809,Private room,347,2,1,2020-02-25,0.13,8,365
+4453696,Uptown Cottage ON Magazine Street. Stay a while!,19788337,Callalily,,East Riverside,29.9215,-90.0911,Entire home/apt,89,30,25,2016-06-05,0.35,1,177
+4455851,Treme Getaway,6753577,Jo,,Treme - Lafitte,29.96658,-90.06635,Entire home/apt,150,30,176,2020-02-28,2.44,2,180
+4456002,Cozy Bungalow on Esplanade,222917,Rebecca,,Treme - Lafitte,29.96661,-90.06622,Entire home/apt,120,30,159,2020-02-29,2.43,2,89
+4471038,Newly Renovated Urban Oasis.,23196811,Zachary,,St. Claude,29.96822,-90.03304,Entire home/apt,99,3,117,2020-03-17,1.63,1,357
+4530844,Great location with privacy / charm,23489610,Mariellen,,Seventh Ward,29.97712,-90.06718,Private room,75,2,269,2020-03-07,3.73,1,39
+4546056,Bright Warehouse/Arts District Loft,23570848,John,,Central Business District,29.94591,-90.06705,Entire home/apt,345,3,63,2020-03-15,1.42,1,155
+4556399,Parrot Palace / Garden / Easy Walk Around New Orleans,23619270,Steven,,Central City,29.94092,-90.07602,Entire home/apt,75,2,259,2020-09-13,3.73,5,16
+4557069,Contemporary Luxury Garden Home (Downstairs Unit),23623763,Juanita,,Irish Channel,29.92227,-90.08182,Entire home/apt,600,2,104,2020-03-01,1.65,2,174
+4557591,New Orleans CBD/Warehouse District,23626819,Reggie,,Central Business District,29.94466,-90.06996,Entire home/apt,105,2,120,2020-03-14,2.13,1,357
+4568215,High End Marigny 5 Bedroom,20627474,Kurt,,Marigny,29.96663,-90.05864,Entire home/apt,914,3,79,2020-02-25,1.12,7,351
+4634936,Marigny Garden Charmer with Bikes!,287733,David,,Bywater,29.96512,-90.0506,Entire home/apt,124,4,309,2020-03-15,4.41,2,241
+4638049,"Le Beaudelaire Sleeps 4 ~ tres chic",15812093,Julia,,Bayou St. John,29.9777,-90.08149,Entire home/apt,160,1,35,2020-02-25,0.49,6,0
+4648751,Bask in this Bywater Retreat,24066377,Shannon,,St. Claude,29.96569,-90.04328,Entire home/apt,115,2,154,2020-03-16,2.19,1,0
+4652784,Garden District Magazine Street 3BR Foodie Heaven!,22256570,Sam,,Lower Garden District,29.93287,-90.07288,Entire home/apt,240,1,146,2020-03-10,2.06,2,0
+4658307,1 BD w/ 2bikes 1 mile from quarter,9353536,Jordan,,Seventh Ward,29.97419,-90.06831,Entire home/apt,65,4,196,2020-09-07,2.74,1,83
+4659255,Courtyard Apt in 1832 Federal/Greek Revival Home,24109383,John,,Central Business District,29.94548,-90.07075,Entire home/apt,298,2,143,2020-03-15,2.31,1,81
+4671577,NEW ORLEANS - Uptown Resort,85132,Sanford,,Central City,29.93415,-90.08088,Private room,353,2,1,2016-01-02,0.02,8,365
+4680807,Garden District Studio on Mardi Gras Parade Route!,6489256,Wayne,,Central City,29.93463,-90.08119,Entire home/apt,279,3,9,2019-05-06,0.13,9,0
+4683512,Charming Uptown Cottage a Block from St. Charles Ave,24181665,Trey & Beth,,Uptown,29.92705,-90.10639,Entire home/apt,169,3,134,2020-03-15,1.91,1,2
+4685932,New Orleans with a Caribbean touch!,18007958,Francoise,,West Riverside,29.91889,-90.10716,Private room,76,2,158,2020-07-06,2.25,1,32
+4706221,Uptown home in fantastic location,14684582,Joseph,,Uptown,29.92085,-90.1057,Entire home/apt,252,1,102,2020-02-02,1.45,2,42
+4777423,Nola Creole Cottage  By the Street Car line,3696990,Mac,,East Carrollton,29.94528,-90.12907,Entire home/apt,77,1,319,2020-10-01,5.92,2,0
+4795371,Walkable from Mardi Gras route/quick ride downtown,16784291,Andrew,,Lower Garden District,29.93568,-90.07019,Entire home/apt,275,30,3,2018-01-01,0.07,1,179
+4800731,Charming Irish Channel,23975705,Shannon,,Irish Channel,29.92567,-90.0814,Entire home/apt,90,2,218,2020-10-04,3.13,1,123
+4806146,"Easy, private, and well equipped",24757640,Ben,,Mid-City,29.9767,-90.10574,Entire home/apt,109,1,89,2020-06-21,1.26,1,0
+4821308,St. Charles Ave Home-Streetcar line,3489816,Margaret,,Central City,29.93673,-90.07656,Entire home/apt,1064,3,120,2020-03-08,1.71,1,343
+4836642,Uptown Pet Friendly Suite 3 Blocks to Streetcar,24894819,Beth,,Uptown,29.93105,-90.10471,Entire home/apt,97,1,114,2020-09-21,3.43,1,0
+4837870,Patio Cottage near Audubon Park,4310838,Sally,,Black Pearl,29.93836,-90.1324,Entire home/apt,95,30,90,2020-03-09,1.31,1,140
+4839897,French Quarter Apt w/Great Balcony,24907991,Mary,,French Quarter,29.95458,-90.06451,Entire home/apt,361,30,48,2019-11-10,0.70,3,365
+4848552,"Amazing 2BR French Quarter, Balcony!",9632192,Lynn,,Marigny,29.96397,-90.05966,Entire home/apt,209,3,64,2020-03-02,0.91,7,172
+4859499,1 BR in a Clean Safe Neighborhood.,24894933,Pierre,,West End,30.00904,-90.11864,Private room,150,1,0,,,3,364
+4859561,Spacious Home Great Location!,24894933,Pierre,,West End,30.01076,-90.11877,Entire home/apt,250,2,6,2019-01-01,0.13,3,364
+4873592,Hip Marigny Guesthouse,5880301,Rita,,Bywater,29.96477,-90.0489,Entire home/apt,71,3,244,2020-10-20,3.51,2,123
+4875454,"Lagniappe Bungalow(hot tub,4 bikes)10 min ride FQ!",25082081,Theresa,,St. Claude,29.9717,-90.03412,Entire home/apt,96,3,277,2020-09-21,4.01,1,140
+4879130,Between Magazine & St. Charles Ave.,2545116,Mike,,Touro,29.92477,-90.09644,Entire home/apt,99,30,45,2020-01-01,0.83,1,132
+4891367,1930s Spacious Fountainbleu Shared,25166988,Eilan,,Marlyville - Fontainbleau,29.95368,-90.11001,Private room,90,30,12,2019-07-30,0.19,1,0
+4923927,The Stanley 1 block from Frenchmen,13059899,Asia,,Marigny,29.96272,-90.05669,Private room,95,2,120,2020-03-10,1.76,6,82
+4924985,Uptown Chic,16862132,Trey And Megan,,Uptown,29.92242,-90.10378,Entire home/apt,92,1,245,2020-10-04,3.46,1,100
+4925935,Stunning 200 year old Marigny Cottage with balcony,24462269,Michael,,Bywater,29.96323,-90.04946,Entire home/apt,490,1,175,2020-03-15,2.49,1,105
+4935006,Historical Shotgun Home,25425866,Maya,,Irish Channel,29.92647,-90.07922,Entire home/apt,60,1,311,2020-09-20,4.49,1,100
+4941635,5 Star Historic Treme-1 mi to FQ-Heated Salt Pool,2775826,Lore,,Treme - Lafitte,29.97138,-90.07447,Entire home/apt,569,3,116,2020-08-17,1.90,2,76
+4947433,"Mecca for music lovers, Frenchmen!",5770796,Sylvia,,Marigny,29.96333,-90.05895,Entire home/apt,183,2,122,2020-03-16,1.78,2,154
+4948323,New Orleans - Jazz Central !,85132,Sanford,,Central City,29.936,-90.0813,Private room,347,2,0,,,8,365
+4949155,"Next to Audubon Park, Uptown",8502650,Jeff,,Audubon,29.9297,-90.1299,Private room,100,3,54,2019-12-16,0.79,1,0
+4963959,Garden District Studio on Mardi Gras Parade Route!,6489256,Wayne,,Central City,29.93581,-90.08108,Entire home/apt,149,3,2,2019-01-02,0.07,9,0
+4966135,Uptown Trendy Neighborhd Apt  permit# 17STR-06483,25600476,Jerry And Patti,,Uptown,29.92346,-90.10643,Entire home/apt,175,2,123,2020-03-15,1.76,1,314
+4983521,"""Where rest comes easy"" Queen/Full",25549321,The  Treme,,Treme - Lafitte,29.96775,-90.07252,Private room,73,1,58,2020-03-15,0.84,6,363
+4983951,"""Where rest comes easy"" King Bed",25549321,The  Treme,,Treme - Lafitte,29.96919,-90.07378,Private room,85,1,23,2020-02-09,0.33,6,365
+4984621,"""Where rest comes easy"" Double Full",25549321,The  Treme,,Treme - Lafitte,29.96981,-90.07351,Private room,93,2,51,2020-03-08,0.73,6,364
+5006940,Charming Studio on Streetcar Line,4393001,Tessa,,Mid-City,29.97361,-90.09784,Entire home/apt,125,30,30,2020-02-29,0.47,3,257
+5016856,Luxury Penthouse on Bourbon Street,8118306,Eric,,Marigny,29.96444,-90.0611,Entire home/apt,179,2,81,2020-08-19,2.01,24,325
+5019923,"Sunny Marigny Triangle, the best location!",9632192,Lynn,,Marigny,29.96386,-90.05963,Entire home/apt,156,1,87,2020-09-19,1.26,7,177
