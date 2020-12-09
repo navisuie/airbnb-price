@@ -6,7 +6,7 @@
 // Lecturer: Florian Heimerl
 // Notes to Grader: Assisted by Jacob Lorenz
 
-package backend.business;
+package pappybuck_test_engineer_1.src.backend.business;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -14,17 +14,17 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
 
-import CS400HashTable.HashTableMap;
+import pappybuck_test_engineer_1.src.CS400HashTable.*;
 
 public class Backend {
 
 	private static final Backend backend = new Backend();
-	private static HashTableMap<Airbnb, Airbnb> airbnbDatabase;
+	private static HashTableMap<String, Airbnb> airbnbDatabase;
 	private static HashTableMap<String, ArrayList<Airbnb>> cityDatabase;
-	private static ArrayList<String> cityList;
+	public static ArrayList<String> cityList;
 
 	private Backend() { 
-		airbnbDatabase = new HashTableMap<Airbnb, Airbnb>();
+		airbnbDatabase = new HashTableMap<String, Airbnb>();
 		cityDatabase = new HashTableMap<String, ArrayList<Airbnb>>();
 		cityList = new ArrayList<String>();
 		loadCities();
@@ -79,22 +79,31 @@ public class Backend {
 		public String getName() {
 			return this.name;
 		}
+
+		@Override
+		public String toString(){
+		 return this.getName() + ", " + this.getType() + ", " + this.getLocation() + ", "
+			+ this.getPrice() + ", " + this.getMinNights() + ", "
+			+ this.getReviews() + ".";
+		}
 	}
 
 	/*
 	 * Loads data from CSV files
 	 */
 	public static void loadCities() {
+
+		String test = System.getProperty("user.dir");
 		
 		//String home = System.getProperty("catalina.home");
 		//String url = home + "/webapps/AirBnB/WEB-INF/classes/data/Cities/Cities.csv";
 
 		try { // helped along by Jake L
 			BufferedReader csvReader =
-				new BufferedReader(new FileReader("data/Cities/Cities.csv"));
+				new BufferedReader(new FileReader("bin/pappybuck_test_engineer_1/src/data/Cities/Cities.csv"));
 
-			BufferedReader csvReader =
-					new BufferedReader(new FileReader(url));
+	//		BufferedReader csvReader =
+	//				new BufferedReader(new FileReader(url));
 
 			
 			String currentLine = "";
@@ -102,7 +111,7 @@ public class Backend {
 			while ((currentLine = csvReader.readLine()) != null) {
 				String[] data = currentLine.split(",");
 
-				backend.cityList.add(data[1]); // add city to city list
+				cityList.add(data[1]); // add city to city list
 			}
 			csvReader.close();
 
@@ -110,10 +119,10 @@ public class Backend {
 			d.printStackTrace();
 		}
 
-		for (int i = 0; i < backend.cityList.size(); i++) {
-			ArrayList<Airbnb> curListings = loadCity(backend.cityList.get(i));
-			String cityName = backend.cityList.get(i);
-			backend.cityDatabase.put(cityName, curListings);
+		for (int i = 0; i < cityList.size(); i++) {
+			ArrayList<Airbnb> curListings = loadCity(cityList.get(i));
+			String cityName = cityList.get(i);
+			cityDatabase.put(cityName, curListings);
 		} // fill hashtable with arraylist of airbnbs for each city
 
 	}
@@ -137,10 +146,10 @@ public class Backend {
 		//	String home = System.getProperty("catalina.home");
 		//	String url = home + "/webapps/AirBnB/WEB-INF/classes/data/" + city + ".csv";
 		BufferedReader csvReader =
-				new BufferedReader(new FileReader("data/" + city + ".csv"));
+				new BufferedReader(new FileReader("bin/pappybuck_test_engineer_1/src/data/" + city + ".csv"));
 
-			BufferedReader csvReader =
-					new BufferedReader(new FileReader(url));
+	//		BufferedReader csvReader =
+	//				new BufferedReader(new FileReader(url));
 
 			
 			String currentLine = "";
@@ -201,7 +210,7 @@ public class Backend {
 				String unquotedName = name.replaceAll("\"", "");
 				Airbnb airbnb = new Airbnb(unquotedName, location, type, price, minNights, reviews);
 				listOfAirbnbs.add(airbnb);
-				backend.airbnbDatabase.put(airbnb, airbnb); // for hashtable, airbnb object is key & value
+				airbnbDatabase.put(airbnb.toString(), airbnb); // for hashtable, airbnb object is key & value
 			}
 			csvReader.close();
 
@@ -215,25 +224,23 @@ public class Backend {
 	/*
 	 * Returns the string representation of an Airbnb
 	 */
-	public String get(Airbnb airbnb) {
-		if (airbnb == null || !airbnbDatabase.containsKey(airbnb)) {
+	public Airbnb get(String key) {
+		if (key == null || !airbnbDatabase.containsKey(key)) {
 			return null; // airbnb not in database
 		}
 
-		return airbnb.getName() + ", " + airbnb.getType() + ", " + airbnb.getLocation() + ", "
-		+ airbnb.getPrice() + ", " + airbnb.getMinNights() + ", "
-		+ airbnb.getReviews() + ".";
+		return airbnbDatabase.get(key);
 	}
 
 	/*
 	 * Returns an Airbnb array of all airbnbs in a city
 	 */
 	public static ArrayList<Airbnb> find(String city) {
-		if (city == null || !backend.cityList.contains(city)) {
+		if (city == null || !cityList.contains(city)) {
 			return null; // city not in city list
 		}
 		ArrayList<Airbnb> returnList = new ArrayList<Airbnb>();
-		returnList.addAll(backend.cityDatabase.get(city));
+		returnList.addAll(cityDatabase.get(city));
 		return returnList; // returns an array of Airbnbs in this city
 	}
 
@@ -255,9 +262,9 @@ public class Backend {
 	 */
 	public static String randomCity() {
 		Random rand = new Random();
-		int randInt = rand.nextInt(backend.cityList.size()) + 1; // generates a random number
+		int randInt = rand.nextInt(cityList.size()) + 1; // generates a random number
 
-		return backend.cityList.get(randInt);
+		return cityList.get(randInt);
 	}
 
 	/*
