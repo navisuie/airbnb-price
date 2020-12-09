@@ -1,0 +1,840 @@
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.107
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 18 2020 12:18:55 UTC
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.107.0
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.15.7
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.8+10
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            AdoptOpenJDK
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Library/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Library/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Library/Tomcat/apache-tomcat-7.0.107/conf/logging.properties
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Library/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Library/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Library/Tomcat/apache-tomcat-7.0.107/temp
+Dec 08, 2020 6:19:15 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jake/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+Dec 08, 2020 6:19:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 6:19:15 PM org.apache.coyote.AbstractProtocol init
+SEVERE: Failed to initialize end point associated with ProtocolHandler ["http-bio-8080"]
+java.net.BindException: Address already in use (Bind failed) <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:414)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:750)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:467)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:1030)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:826)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:663)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:686)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:244)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:436)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:395)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:257)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:201)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:401)
+	... 17 more
+
+Dec 08, 2020 6:19:15 PM org.apache.catalina.core.StandardService initInternal
+SEVERE: Failed to initialize connector [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:1032)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:826)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:663)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:686)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:244)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use (Bind failed) <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:414)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:750)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:467)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:1030)
+	... 13 more
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:436)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:395)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:257)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:201)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:401)
+	... 17 more
+
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 476 ms
+Dec 08, 2020 6:19:15 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Dec 08, 2020 6:19:15 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.107
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive [/Library/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war]
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive [/Library/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war] has finished in [263] ms
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/docs]
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/docs] has finished in [33] ms
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/manager]
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/manager] has finished in [41] ms
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/examples]
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/examples] has finished in [136] ms
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/ROOT]
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/ROOT] has finished in [25] ms
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/host-manager]
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/host-manager] has finished in [32] ms
+Dec 08, 2020 6:19:15 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 588 ms
+Dec 08, 2020 6:19:15 PM org.apache.catalina.core.StandardServer await
+SEVERE: StandardServer.await: create[localhost:8005]: 
+java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:436)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:395)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:257)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:428)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:800)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:746)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:284)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:415)
+
+Dec 08, 2020 6:19:15 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 6:19:15 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Dec 08, 2020 6:19:15 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 6:19:15 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.107
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 18 2020 12:18:55 UTC
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.107.0
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.15.7
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.8+10
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            AdoptOpenJDK
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Library/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Library/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Library/Tomcat/apache-tomcat-7.0.107/conf/logging.properties
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Library/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Library/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Library/Tomcat/apache-tomcat-7.0.107/temp
+Dec 08, 2020 6:27:19 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jake/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+Dec 08, 2020 6:27:19 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 449 ms
+Dec 08, 2020 6:27:19 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Dec 08, 2020 6:27:19 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.107
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive [/Library/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war]
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive [/Library/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war] has finished in [253] ms
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/docs]
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/docs] has finished in [39] ms
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/manager]
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/manager] has finished in [43] ms
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/examples]
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/examples] has finished in [133] ms
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/ROOT]
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/ROOT] has finished in [27] ms
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/host-manager]
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Library/Tomcat/apache-tomcat-7.0.107/webapps/host-manager] has finished in [30] ms
+Dec 08, 2020 6:27:19 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 6:27:19 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 590 ms
+Dec 08, 2020 7:14:24 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Dec 08, 2020 7:14:24 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 7:14:24 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Dec 08, 2020 7:14:24 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 7:14:24 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.107
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 18 2020 12:18:55 UTC
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.107.0
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.15.7
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.8+10
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            AdoptOpenJDK
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/conf/logging.properties
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/temp
+Dec 08, 2020 9:27:13 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jake/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+Dec 08, 2020 9:27:13 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 581 ms
+Dec 08, 2020 9:27:13 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Dec 08, 2020 9:27:13 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.107
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war]
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war] has finished in [455] ms
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs]
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs] has finished in [30] ms
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager]
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager] has finished in [44] ms
+Dec 08, 2020 9:27:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples]
+Dec 08, 2020 9:27:14 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples] has finished in [137] ms
+Dec 08, 2020 9:27:14 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT]
+Dec 08, 2020 9:27:14 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT] has finished in [23] ms
+Dec 08, 2020 9:27:14 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager]
+Dec 08, 2020 9:27:14 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager] has finished in [27] ms
+Dec 08, 2020 9:27:14 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:27:14 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 786 ms
+Dec 08, 2020 9:30:12 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Dec 08, 2020 9:30:12 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:30:12 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Dec 08, 2020 9:30:12 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:30:12 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.107
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 18 2020 12:18:55 UTC
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.107.0
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.15.7
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.8+10
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            AdoptOpenJDK
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/conf/logging.properties
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/temp
+Dec 08, 2020 9:30:21 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jake/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+Dec 08, 2020 9:30:21 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 514 ms
+Dec 08, 2020 9:30:21 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Dec 08, 2020 9:30:21 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.107
+Dec 08, 2020 9:30:21 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war]
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war] has finished in [256] ms
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs]
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs] has finished in [36] ms
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager]
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager] has finished in [42] ms
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples]
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples] has finished in [149] ms
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT]
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT] has finished in [29] ms
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager]
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager] has finished in [26] ms
+Dec 08, 2020 9:30:22 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:30:22 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 605 ms
+Dec 08, 2020 9:30:50 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Dec 08, 2020 9:30:50 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:30:50 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Dec 08, 2020 9:30:50 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:30:50 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.107
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 18 2020 12:18:55 UTC
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.107.0
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.15.7
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.8+10
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            AdoptOpenJDK
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/conf/logging.properties
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/temp
+Dec 08, 2020 9:32:15 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jake/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+Dec 08, 2020 9:32:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 448 ms
+Dec 08, 2020 9:32:15 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Dec 08, 2020 9:32:15 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.107
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB]
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB] has finished in [271] ms
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs]
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs] has finished in [34] ms
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager]
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager] has finished in [40] ms
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples]
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples] has finished in [132] ms
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT]
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT] has finished in [24] ms
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager]
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager] has finished in [28] ms
+Dec 08, 2020 9:32:15 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:32:15 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 582 ms
+Dec 08, 2020 9:32:36 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/AirBnB]
+Dec 08, 2020 9:32:37 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Dec 08, 2020 9:32:37 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:32:37 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Dec 08, 2020 9:32:37 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:32:37 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:32:41 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.107
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 18 2020 12:18:55 UTC
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.107.0
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.15.7
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.8+10
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            AdoptOpenJDK
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/conf/logging.properties
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/temp
+Dec 08, 2020 9:32:42 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jake/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+Dec 08, 2020 9:32:42 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 493 ms
+Dec 08, 2020 9:32:42 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Dec 08, 2020 9:32:42 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.107
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war]
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war] has finished in [400] ms
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs]
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs] has finished in [34] ms
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager]
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager] has finished in [44] ms
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples]
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples] has finished in [127] ms
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT]
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT] has finished in [23] ms
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager]
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager] has finished in [25] ms
+Dec 08, 2020 9:32:42 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:32:42 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 722 ms
+Dec 08, 2020 9:35:10 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Dec 08, 2020 9:35:10 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:35:10 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Dec 08, 2020 9:35:10 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:35:10 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.107
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 18 2020 12:18:55 UTC
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.107.0
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.15.7
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.8+10
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            AdoptOpenJDK
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/conf/logging.properties
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/temp
+Dec 08, 2020 9:36:36 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jake/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+Dec 08, 2020 9:36:36 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 445 ms
+Dec 08, 2020 9:36:36 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Dec 08, 2020 9:36:36 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.107
+Dec 08, 2020 9:36:36 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war]
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war] has finished in [445] ms
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs]
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs] has finished in [35] ms
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager]
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager] has finished in [48] ms
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples]
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples] has finished in [143] ms
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT]
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT] has finished in [22] ms
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager]
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager] has finished in [26] ms
+Dec 08, 2020 9:36:37 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:36:37 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 784 ms
+Dec 08, 2020 9:36:43 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Dec 08, 2020 9:36:43 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:36:43 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Dec 08, 2020 9:36:43 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:36:43 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.107
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 18 2020 12:18:55 UTC
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.107.0
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.15.7
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.8+10
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            AdoptOpenJDK
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/conf/logging.properties
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/temp
+Dec 08, 2020 9:42:18 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jake/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+Dec 08, 2020 9:42:18 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 474 ms
+Dec 08, 2020 9:42:18 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Dec 08, 2020 9:42:18 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.107
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war]
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/AirBnB.war] has finished in [414] ms
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs]
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/docs] has finished in [30] ms
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager]
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/manager] has finished in [41] ms
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples]
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/examples] has finished in [124] ms
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT]
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/ROOT] has finished in [22] ms
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager]
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/Users/jake/Desktop/project-four-bc/jlorenz_Front_End_Developer_2/Tomcat/apache-tomcat-7.0.107/webapps/host-manager] has finished in [25] ms
+Dec 08, 2020 9:42:18 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:42:18 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 725 ms
+Dec 08, 2020 9:42:23 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Dec 08, 2020 9:42:23 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:42:23 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Dec 08, 2020 9:42:23 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Dec 08, 2020 9:42:23 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
