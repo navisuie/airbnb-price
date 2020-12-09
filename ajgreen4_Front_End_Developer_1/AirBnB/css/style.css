@@ -1,0 +1,56 @@
+/* --== CS400 File Header Information ==--
+ * Name: Alex Green
+ * Email: ajgreen4@wisc.edu
+ * Team: BC
+ * Role: Front End Developer 1
+ * TA: Bri Cochran
+ * Lecturer: Florian Heimerl
+ */
+ 
+h1{
+    font-family: Copperplate, Papyrus, fantasy;
+    text-align: center;
+    color: white;
+}
+h3{
+    font-family: Copperplate, Papyrus, fantasy;
+    text-align: center;
+    color: white;
+}
+body{
+    background: rgb(36,0,0);
+    background: linear-gradient(180deg, rgba(36,0,0,1) 0%, rgba(121,9,77,1) 35%, rgba(64,0,255,1) 100%);
+}
+form{
+    color: white;
+}
+img{
+    position: fixed;
+    bottom: 0;
+    left: -20px;
+    height: 500px;
+    width: 1465px;
+}
+p{
+    color: white;
+}
+th{
+    height: 40px;
+    border: 2px solid white;
+}
+td{
+    text-align: center;
+    border: 1px solid white;
+}
+table {
+    color: white;
+    border: 2px solid white;
+    width: 100%;
+    border-collapse: collapse;
+}
+div{
+    height: auto;
+}
+.image{
+    height: 520px;
+}
