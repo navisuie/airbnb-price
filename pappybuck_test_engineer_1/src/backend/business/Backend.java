@@ -21,7 +21,7 @@ public class Backend {
 	private static final Backend backend = new Backend();
 	private static HashTableMap<String, Airbnb> airbnbDatabase;
 	private static HashTableMap<String, ArrayList<Airbnb>> cityDatabase;
-	public static ArrayList<String> cityList;
+	private static ArrayList<String> cityList;
 
 	private Backend() { 
 		airbnbDatabase = new HashTableMap<String, Airbnb>();
