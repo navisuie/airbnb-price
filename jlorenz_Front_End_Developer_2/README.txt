@@ -108,3 +108,5 @@ Please note the tests are not working. The Test Engineer wrote tests that he got
 Please run this application on one of the Linux-Based CS Lab Machines.
 Please invoke all make commands from within the /AirBnB subdirectory. This directory is structured according to the expectations of a .war file to be packaged correctly.
 Please assess all source code files found in the /src directory. This directory is structure to easily lay out the various application components such as frontend, backend, etc.
+
+NOTE: My last commit is after the deadline because a member of my team pushed files (.DSStore files) to my repo that would break my submission. I needed to delete them and had to do so after the 11:59 deadline. I had my Final Submission submitted before the deadline. If you have concerns or questions about this, I would be HAPPY to debate the timeliness of my submission and how the late changes are not my fault.
