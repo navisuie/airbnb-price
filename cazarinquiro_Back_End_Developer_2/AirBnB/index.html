@@ -1,0 +1,132 @@
+<!-- --== CS400 File Header Information ==-- -->
+<!--  Name: Jacob Lorenz -->
+<!--  Email: jlorenz2@wisc.edu -->
+<!--  Team: BC -->
+<!-- Role: Front End Developer 2 -->
+<!--  TA: Bri Cochran -->
+<!--  Lecturer: Gary Dahl -->
+<!--  Notes to Grader: <optional extra notes> -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='UTF-8'/>
+        <title>CS400 AirBnB Home</title>
+        <!-- Bootstrap Core CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
+        <!-- JQuery UI CSS -->
+        <link rel="stylesheet" href="css/jquery-ui.min.css"/>
+        <!-- Custom CSS -->
+        <link rel='stylesheet' href='css/style.css'>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row" id="Welcome_Header_Container">
+                <div class="col-lg-12">
+                    <h1 id="welcome_header">Welcome to CS400-AirBnB</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3" id="Search_Filter_Options_Container">
+                    <div class="row" id="filter_options_header">
+                        <div class="col-lg-12">
+                            <h4>Filtering Options</h4>
+                        </div>
+                    </div>
+                    <div class="row" id="filter_options_content">
+                        <div class="col-lg-12">
+                            Select 1 or more of the following filters:
+                            <form name="filteringForm" method="post" action="filteringServlet">
+                                City:
+                                <select id="City_Options_Select">
+                                    <option value="none_selected">Choose...</option>
+                                </select>
+                                <br />
+                                Price / Night:
+                                <select id="Price_Options_Select">
+                                    <option value="none_selected">Choose...</option>
+                                    <option value="1-100">$1 - $100</option>
+                                    <option value="101-200">$101 - $200</option>
+                                    <option value="201-300">$201 - $300</option>
+                                    <option value="301-400">$301 - $400</option>
+                                    <option value="401-500">$400 - $500</option>
+                                    <option value="501-+">&gt; $500</option>
+                                </select>
+                                <br />
+                                Number Reviews:
+                                <select id="Reviews_Options_Select">
+                                    <option value="none_selected">Choose...</option>
+                                    <option value="0-20">0 - 20</option>
+                                    <option value="21-50">21 - 50</option>
+                                    <option value="51-100">51 - 100</option>
+                                    <option value="101-200">101 - 200</option>
+                                    <option value="201-+">&gt; 200</option>
+                                </select>
+                                <br />
+                                Number Results:
+                                <select id="Number_Results_Select">
+                                    <option selected value="10">10</option>
+                                    <option value="25">25</option>
+                                    <option value="50">50</option>
+                                    <option value="100">100</option>
+                                    <option value="250">250</option>
+                                    <option value="500">500</option>
+                                    <option value="1000">1000</option>
+                                </select>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="row" id="filter_options_submit_button_row">
+                        <div class="col-lg-12" id="filter_options_submit_button_column">
+                            <input id="FilterSubmitButton" type="button" value="Filter Results">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-9" id="Listing_Summaries_List">
+                    <div class="row" id="filter_options_header">
+                        <div class="col-lg-12">
+                            <h4>Listings</h4>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div id="table" class="table-editable">
+                                <table class="table" id="listings_table">
+                                    <tbody>
+                                        <tr>
+                                            <th title="The owner's description of the property".>Name</th>
+                                            <th title="The type of property.">Type</th>
+                                            <th title="The city the property is located in.">City</th>
+                                            <!-- <th title="The state the property is located in.">State</th> -->
+                                            <th title="The price per night of the property.">Price</th>
+                                            <th title="The minimum number of nights you are required to stay in the property.">Min. Nights</th>
+                                            <th title="The number of reviews the property has.">Reviews</th>
+                                        </tr>
+                                        <!-- This is our clonable table line -->
+                                        <tr class="hide">
+                                            <td>Name</td>
+                                            <td>Room Type</td>
+                                            <td>City</td>
+                                            <!-- <td>State</td> -->
+                                            <td>Price / Night</td>
+                                            <td>Min Nights</td>
+                                            <td>Reviews</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- Bootstrap and Core Javascript
+        =============================================== -->
+        <!-- At the end of the document so the page loads faster -->
+        <script type="text/javascript" src="lib/jquery-3.3.1.min.js"></script>
+        <script type="text/javascript" src="lib/bootstrap.min.js"></script>
+        <script type="text/javascript" src="lib/jquery-ui.min.js"></script>
+        <script src='js/script.js'></script>
+    </body>
+</html>
